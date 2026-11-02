@@ -87,6 +87,69 @@
  ],
  "stories": [
   {
+   "id": "sandridge-broken-bow-research-lead",
+   "side": "N",
+   "gen": 3,
+   "ev": "probable",
+   "profile": false,
+   "title": "The Sandridge family of Broken Bow",
+   "hook": "Oklahoma records follow the Sandridges from a farm near Broken Bow to service aboard a Navy helicopter carrier.",
+   "people": [
+    "MAT_LARRY_SANDRIDGE",
+    "MAT_LEMUEL_SANDRIDGE",
+    "MAT_CLINTON_SANDRIDGE"
+   ],
+   "subject": {
+    "name": "Larry Lamar Sandridge",
+    "rel": "Maternal family",
+    "years": "1938–2019"
+   },
+   "body": [
+    "Larry Lamar Sandridge grew up in Broken Bow, Oklahoma, where he graduated from high school in 1956. His obituary says he served in the Army and Navy as an aviation electrician, including service aboard the helicopter carrier USS Thetis Bay. It names his parents as Lemuel Lamar Sandridge and Audrey Inez Nelson.",
+    "A 1961 McCurtain Gazette notice identifies Lemuel Sandridge of Broken Bow as a son of Clinton Lamar Sandridge. The notice says Clinton was born in Arkansas and moved to McCurtain County in 1919, where he farmed. These records offer a path into an earlier generation of a Sandridge family in the region.",
+    "A funeral-home obituary index names a daughter whose identity was confirmed by the family. The 1930 census names Clinton and Maggie in Lemuel’s household; Clinton’s recorded age there differs from the birth year reported in his obituary, and Maggie’s maiden name needs more research."
+   ],
+   "quotes": [],
+   "src": [
+    "Larry Lamar Sandridge obituary, United States Obituary Records, FamilySearch: https://www.familysearch.org/ark:/61903/1:1:XMR9-K659",
+    "McCurtain Gazette, 20 December 1961, p. 4, C. L. Sandridge obituary, Gateway to Oklahoma History: https://gateway.okhistory.org/ark:/67531/metadc2405029/m1/4/",
+    "1930 United States census, Eagle Township, McCurtain County: https://www.familysearch.org/ark:/61903/1:1:XCWW-KCX",
+    "Ancestry, funeral-home obituary index: https://www.ancestry.com/search/collections/2190/records/137405823"
+   ],
+   "imgs": [],
+   "note": "The 1930 census and 1961 obituary differ on Clinton Sandridge’s birth year; Maggie’s maiden name is not yet established."
+  },
+  {
+   "id": "livesay-east-texas-research-lead",
+   "side": "N",
+   "gen": 4,
+   "ev": "probable",
+   "profile": false,
+   "title": "Railroad and ranch: the Livesays in East Texas",
+   "hook": "Lester Livesay worked on the Southern Pacific Railroad and ran cattle ranches in Pearland and Carthage.",
+   "people": [
+    "MAT_LESTER_JR"
+   ],
+   "subject": {
+    "name": "Lester Woodrow Livesay Jr.",
+    "rel": "Maternal family",
+    "years": "1916–2001"
+   },
+   "body": [
+    "Lester Woodrow Livesay Jr. was born in Houston in 1916, the son of Lester W. Livesay Sr. and Sadah McCormick. He grew up in Pearland and became a Southern Pacific Railroad engineer. He also operated a cattle ranch there, then began another ranch after moving to Carthage in 1961.",
+    "His 2001 obituary names his wife, Barbara Phillips Livesay, and identifies members of several generations. It gives a useful starting point for tracing an East Texas Livesay family into Oklahoma.",
+    "A Texas birth index names Lester and Barbara as the parents of Wayne Woodrow Livesay. The next generation is supported by a Texas birth index and family confirmation; living relatives appear on this site only by their family roles."
+   ],
+   "quotes": [],
+   "src": [
+    "The Panola Watchman, 22 July 2001, Lester Woodrow Livesay Jr. obituary, transcribed by Panola County TXGenWeb: https://www.txgenwebcounties.com/panola/obit/2001obit2.htm",
+    "Texas birth index, Wayne Woodrow Livesay: https://www.familysearch.org/ark:/61903/1:1:V69G-NSC",
+    "Texas birth index, next generation: https://www.ancestry.com/search/collections/8781/records/10013942"
+   ],
+   "imgs": [],
+   "note": "Family relationship identified with family confirmation and indexed birth records."
+  },
+  {
    "id": "frank-maxwell-andrews",
    "side": "J",
    "gen": 3,
@@ -695,7 +758,8 @@
     "His part in the committee's account of the deputy sheriff's missing Act is told in \"The Act nobody could find,\" and his name on the Regulators' letter, address and indictment of September 1768 in \"September 1768: a letter, an address and an indictment.\" A Cox family history of 1955 adds two earlier court-record items: a deed proved by \"Wm. Moffitt\" in May 1765 and his witnessing of William Cox's will, proved at Hillsborough in February 1767.",
     "The Moffitt Genealogy of 1928, compiled by Frank Moffitt for the descendants of Silas Moffitt of Hamilton County, Indiana, gives that family's own tradition of William's origins: sons of \"Robert and Margaret Moffat\" who \"migrated to Donegal County, Ireland,\" and whose children included James, Charles, William, Adam, Margaret, Catharine, Robert, Mary, Hugh, Patrick and John. It says that \"William married Mary Davis and Hugh married Hannah Davis, both being daughters of Charles Davis,\" and that Mary Moffitt Wilkinson, \"our own foremother,\" was \"said to have been their fifth child,\" married to William Wilkinson, \"an Englishman, on the 26th day of the 3rd month, 1795.\" This agrees with the \"Mary Wilkinson\" of William's will, and the two witnesses to that will, Hugh and Charles Moffitt, match two of the brothers in the book's list. The parents differ from the Book of Remembrance's Robert and Martha Steward Moffitt, so the Donegal family is tradition, not record.",
     "The book also repeats a story about \"the Davis millions.\" Hamilton County heirs, it says, raised money to send an agent to the old country to look into an inheritance, but \"this supposed wealth, like the fortune at the foot of the rainbow, was always just out of reach.\"",
-    "WikiTree quotes the Bible Record of Abijah Moffitt for William's parents: Robert Moffitt, born in Scotland and later of County Donegal, and Margaret Stuart, with eleven children, six of whom came to America. It adds that William and his brother Hugh both married Davis daughters in North Carolina, which matches William's 1763 marriage to Mary Davies. The Alamance Battleground Book gives the mother as Martha Steward. Both accounts are family-based, not contemporary records."
+    "WikiTree quotes the Bible Record of Abijah Moffitt for William's parents: Robert Moffitt, born in Scotland and later of County Donegal, and Margaret Stuart, with eleven children, six of whom came to America. It adds that William and his brother Hugh both married Davis daughters in North Carolina, which matches William's 1763 marriage to Mary Davies. The Alamance Battleground Book gives the mother as Martha Steward. Both accounts are family-based, not contemporary records.",
+    "In an 1853 letter, Hugh's son Joseph Moffitt named his father's brothers, including William, and said their parents were Robert Moffitt and Margaret Stewart. Joseph also named his mother Hannah Davis and said her sister Mary married a Moffitt. This fits the William and Mary Davies of Randolph County, though the letter does not explicitly name Mary's husband as William. The surviving account is a 1924 printed transcription, not the original manuscript. Hugh's 1799 Chatham County will independently names his wife Hannah and son Joseph, strengthening the identification of the letter's family."
    ],
    "quotes": [
     {
@@ -708,7 +772,7 @@
     }
    ],
    "src": [
-    "Colonial and State Records of North Carolina, vol. 7, pp. 251, 731–37, 758–59, 850–51; vol. 8, pp. 67–68; will of William Moffitt, Randolph Co., NC (1796), Will Book 2, pp. 30–31; Cane Creek MM marriage record (1763); Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Centre MM); NC Gazetteer, 'Moffitt'; James Otis, The Boy Spies with the Regulators (1901); WikiTree Moffitt-65; Alamance Battleground Book of Remembrance; Frank Moffitt, Moffitt Genealogy: A Genealogical Record of Silas Moffitt and Hannah Wilkinson Moffitt (1928), p. 3; Descendants of Solomon Cox of Cole Creek, Va. (1955), pp. 18-20; Colonial Records of North Carolina, vol. 7, pp. 759-767, 811-813, 844-845; WikiTree Moffitt-289 (Bible Record of Abijah Moffitt); Moffitt-65; From Whence We Came: Cane Creek Meeting Sesquibicentennial Reunion (Snow Camp, N.C., c. 2000), archive.org/details/fromwhencewecame00cane"
+    "Colonial and State Records of North Carolina, vol. 7, pp. 251, 731–37, 758–59, 850–51; vol. 8, pp. 67–68; will of William Moffitt, Randolph Co., NC (1796), Will Book 2, pp. 30–31; Cane Creek MM marriage record (1763); Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Centre MM); NC Gazetteer, 'Moffitt'; James Otis, The Boy Spies with the Regulators (1901); WikiTree Moffitt-65; Alamance Battleground Book of Remembrance; Frank Moffitt, Moffitt Genealogy: A Genealogical Record of Silas Moffitt and Hannah Wilkinson Moffitt (1928), p. 3; Descendants of Solomon Cox of Cole Creek, Va. (1955), pp. 18-20; Colonial Records of North Carolina, vol. 7, pp. 759-767, 811-813, 844-845; WikiTree Moffitt-289 (Bible Record of Abijah Moffitt); Moffitt-65; From Whence We Came: Cane Creek Meeting Sesquibicentennial Reunion (Snow Camp, N.C., c. 2000), archive.org/details/fromwhencewecame00cane; Joseph Moffitt family letter, 4 August 1853, printed in The Nebraska and Midwest Genealogical Record, July 1924, p. 130: https://negenweb.net/NEHolt/The_Nebraska_and_Midwest_Genealogical_Re.pdf#page=139; Hugh Moffit will, 1799, Chatham County Will Book A, p. 189b, transcribed at https://www.ncgenweb.us/chatham/court/wills_lmn.html"
    ],
    "imgs": [
     {
@@ -5561,20 +5625,24 @@
    "title": "Six brothers from Donegal and the extra T",
    "hook": "A descendant's Bible record says Robert Moffitt of Donegal had eleven children, and that six sons came to America and agreed to end the name in 'itt'.",
    "profile": false,
-   "people": [],
+   "people": [
+    "I352788854634"
+   ],
    "subject": {
     "name": "Robert & Margaret (Stuart) Moffitt",
     "rel": "Paternal family history",
-    "years": "c.1705–1783"
+    "years": "18th century"
    },
    "body": [
     "The Bible Record of Abijah Moffitt, quoted on WikiTree, says Robert Moffitt was born in Scotland, went to Ireland when young, and there married Margaret Stuart. It names eleven children: James, Charles, William, Adam, Margaret, Mary, Catheren, Robert, Hugh, John and Patrick.",
-    "According to the record, John crossed first and went back to Ireland; liking the country, he returned with five brothers to Philadelphia. From there they went to North Carolina, to what became Chatham and Randolph counties. William, Adam and Charles died in North Carolina. Hugh went to Ohio in 1798 or 1799 and died near Chillicothe about 1800. Robert started back for Ireland and was never heard of again, and was supposed lost at sea. Patrick never left Ireland. The record adds that 'William and Hugh married Davis daughters of North Carolina,' which matches William Moffitt's marriage to Mary Davies at Cane Creek in 1763.",
+    "An earlier account comes from a member of the next generation. On 4 August 1853, Joseph Moffitt wrote from Randolph County, Indiana, naming his parents Hugh Moffitt and Hannah Davis, Hugh's brothers including William, and Hugh's parents Robert Moffitt and Margaret Stewart. Joseph said Hannah's sister Mary married a Moffitt, but did not name her husband. The letter as printed in 1924 fits the William Moffitt who married Mary Davies at Cane Creek; identifying him as Hugh's brother remains an inference rather than an explicit statement in this letter.",
+    "A separate 1799 Chatham County will helps anchor Joseph's account: Hugh Moffit named his wife Hannah, his son Joseph and other sons. Joseph's letter names brothers Robert, John, Joshua, Charles, Jeremiah and Nathan, all also named in the will. The letter adds three sisters and says the children were raised in Chatham County. This is first-hand family testimony about Joseph's parents and siblings, though his statements about earlier generations and places still need corroborating records.",
+    "According to the record, John crossed first and went back to Ireland; liking the country, he returned with five brothers to Philadelphia. From there they went to North Carolina, to what became Chatham and Randolph counties. William, Adam and Charles died in North Carolina. It says Hugh went to Ohio in 1798 or 1799 and died near Chillicothe about 1800. A will made by Hugh Moffit of Chatham County on 1 October 1799 says he had disposed of his affairs in preparation to move his family to the Northwest Territory; this fits a late-1799 move but makes the earlier departure uncertain. Robert started back for Ireland and was never heard of again, and was supposed lost at sea. Patrick never left Ireland. The record adds that 'William and Hugh married Davis daughters of North Carolina,' which matches William Moffitt's marriage to Mary Davies at Cane Creek in 1763.",
     "Family tradition explains the spelling: the brothers agreed to end the name in 'itt' so that kin could recognize each other wherever it turned up. That part is tradition, not record. North Carolina papers of the 1760s write the name Maffet, Moffit and Moffitt.",
     "The Carolina end is on record. At Cane Creek Meeting in 1763 William married Mary Davies and, in the family's account, his brother Hugh married her sister Hannah, which shows the brothers had joined the Quaker neighborhood of Charles Davies rather than a Presbyterian one. The counties give a sense of how little the family needed to move. The North Carolina Historical Commission's county-formation volume says Orange was formed in 1752 from Johnston, Bladen and Granville; Chatham in 1770 from Orange; Guilford in 1770 from Rowan and Orange; and Randolph in 1779 from Guilford. A household on one stretch of the upper Deep River could have been written into the Orange court records in 1765, the Chatham records in the 1770s and the Randolph records in 1796, the year William made his will, without anyone leaving home, if the family stayed put.",
     "The Alamance Battleground Book of Remembrance gives William's parents as Robert and Martha Steward Moffitt, without citations. The two accounts agree on Robert and Donegal and differ on whether his wife was Margaret or Martha. Neither names Robert's own parents; the Moffat ancestors that appear on WikiTree for Robert have no sources.",
     "The 1928 Moffitt Genealogy, compiled by Frank Moffitt for the descendants of Silas Moffitt of Hamilton County, Indiana, tells the crossing differently from the Bible Record: \"William came first, alone, and went back,\" and then \"he and five other brothers afterward came to Philadelphia and remained there for some time.\" It says Robert and Margaret migrated to Donegal after the marriage, and that all of their children but Catharine and Patrick crossed to America. Hanna's The Scotch-Irish (1902), which does not mention this family, says eastern Donegal was settled from Ayrshire and Galloway by the Cunninghams and Stewarts, which fits the bride's surname but names no parish.",
-    "The claim that Robert was 'Robert Bruce Moffitt,' born in 1716 at Moffat Wells in Dumfriesshire, does not hold up. The only printed family history, the 1928 Moffitt Genealogy, says Robert Moffat married Margaret Stuart 'at Moffat Wells, Scotland,' which it describes as 'a mineral spring' near the town of Moffat, so the 'Wells' is a spa, not a birthplace, and it gives the date of the wedding as 'supposed to be about 1750,' an impossible date since William, listed third among their children, was born about 1740. The 1928 account places the wedding in Scotland; the Bible account places it in Ireland. The book gives no birth year for Robert and no middle name. WikiTree's profile for Robert (Moffitt-289) gives about 1705, not 1716, and has no 'Bruce.' No record seen carries either detail.",
+    "The claim that Robert was 'Robert Bruce Moffitt,' born in 1716 at Moffat Wells in Dumfriesshire, does not hold up. The 1928 Moffitt Genealogy says Robert Moffat married Margaret Stuart 'at Moffat Wells, Scotland,' which it describes as 'a mineral spring' near the town of Moffat, so the 'Wells' is a spa, not a birthplace, and it gives the date of the wedding as 'supposed to be about 1750,' an impossible date since William, listed third among their children, was born about 1740. The 1928 account places the wedding in Scotland; the Bible account places it in Ireland. The book gives no birth year for Robert and no middle name. WikiTree's profile for Robert (Moffitt-289) gives about 1705, not 1716, and has no 'Bruce.' No record seen carries either detail.",
     "WikiTree's Robert Moffitt page also quotes a summary of Donegal Moffitt researchers: Robert and Adam Moffitt held the lease of the townland of Doagh Crabbin in Clondavaddog parish in 1743, when Gustavus Hamilton's estate was sold to Nathaniel Clements, and Robert married a Margaret Stewart. The leases were not seen, and nothing ties that Robert to William of Randolph County except the family story. The profile gives Robert's father as an Alexander Moffat born in 1670, from an unsourced online tree, and no record supports that."
    ],
    "quotes": [
@@ -5588,20 +5656,25 @@
     }
    ],
    "src": [
-    "Bible Record of Abijah Moffitt, quoted on WikiTree Moffitt-289 and Moffitt-65; Frank Moffitt, Moffitt Genealogy: Silas Moffitt and Hannah Wilkinson Moffitt (1928), pp. 1–3: https://archive.org/details/moffittgenealogy00moff; J. A. Hanna, The Scotch-Irish (1902): https://archive.org/details/scotchirishorsco01hann_0; D. L. Corbitt, The Formation of the North Carolina Counties 1663–1943: https://archive.org/details/formationofnorth00corb."
+    "Joseph Moffitt family letter, 4 August 1853, printed in The Nebraska and Midwest Genealogical Record, July 1924, p. 130: https://negenweb.net/NEHolt/The_Nebraska_and_Midwest_Genealogical_Re.pdf#page=139; Hugh Moffit will, 1799, Chatham County Will Book A, p. 189b, transcribed at https://www.ncgenweb.us/chatham/court/wills_lmn.html; Bible Record of Abijah Moffitt, quoted on WikiTree Moffitt-289 and Moffitt-65; Frank Moffitt, Moffitt Genealogy: Silas Moffitt and Hannah Wilkinson Moffitt (1928), pp. 1–3: https://archive.org/details/moffittgenealogy00moff; J. A. Hanna, The Scotch-Irish (1902): https://archive.org/details/scotchirishorsco01hann_0; D. L. Corbitt, The Formation of the North Carolina Counties 1663–1943: https://archive.org/details/formationofnorth00corb."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/joseph-moffitt-1853-letter-1924.png",
+     "cap": "Joseph Moffitt's 1853 family letter, printed in The Nebraska and Midwest Genealogical Record, July 1924, p. 130."
+    }
+   ],
    "tags": [
     "quaker"
    ],
    "kv": [
     [
      "Born",
-     "c.1705, Moffat/Dumfries, Scotland (family record)"
+     "Dates and precise places unverified"
     ],
     [
      "Died",
-     "1783, Co. Donegal, Ireland"
+     "Date and place unverified"
     ],
     [
      "Children",
@@ -5612,7 +5685,7 @@
      "Bible Record of Abijah Moffitt, quoted on WikiTree"
     ]
    ],
-   "note": "A descendant's record, not a contemporary one. WikiTree gives Margaret's death as 1770 in Lancaster Co., Pa., which does not fit a family that stayed in Donegal; treat as unreliable. The claim that she was 'a near relative of King James II' is tradition only. Conflicts between the accounts: the Bible Record says John crossed first and names the wife Margaret Stuart; the 1928 Moffitt Genealogy says William crossed first; the Alamance Battleground book names the wife Martha Steward. 'Robert Bruce Moffitt, b. 1716' appears in no record or printed family history seen and has no support. Marked lead for those reasons. The two family accounts disagree on who crossed first (John in the Bible Record, William in the 1928 book) and on whether Robert's wife was Margaret or, in the Alamance Battleground book, Martha. No Donegal parish record has been seen.",
+   "note": "Joseph's 1853 family letter survives here as a 1924 transcription; Hugh's will names Hannah and Joseph. The letter supports Robert and Margaret as Hugh's parents and names his brother William, but does not explicitly identify that William as Mary's husband. The link to the Randolph County couple remains a reasoned lead. Robert and Margaret's precise dates and places, the crossing account and earlier parentage remain unverified. The Bible record and 1928 book disagree on who crossed first; the Alamance Battleground book names the wife Martha Steward. No Donegal parish record has been seen.",
    "place": "Robert Moffitt, said to have been born in Scotland, moved young to County Donegal, Ireland, where he and Margaret Stuart raised eleven children. Six sons are said to have crossed to America, among them our William, who settled at Cane Creek, North Carolina.",
    "rank": 86
   },
@@ -11278,32 +11351,32 @@
    "side": "J",
    "gen": 8,
    "ev": "lead",
-   "title": "Hugh Moffitt goes to the Scioto, 1798",
-   "hook": "William's brother Hugh went to Ohio in 1798 or 1799 and was dead near Chillicothe by about 1800, five years before the Carolina Quaker wave reached the same country.",
+   "title": "Hugh Moffitt plans a move west",
+   "hook": "In 1799 Hugh prepared to leave North Carolina with his family; a later family account says he died near Chillicothe, Ohio.",
    "profile": false,
    "people": [],
    "subject": {
     "name": "Hugh Moffitt",
     "rel": "Paternal family history",
-    "years": "d. c.1800"
+    "years": "18th century"
    },
    "body": [
-    "Hugh is the brother who married into the Davies family. The Bible Record of Abijah Moffitt says \"William and Hugh married Davis daughters of North Carolina,\" and the 1928 Moffitt Genealogy names the two wives as Mary and Hannah, daughters of Charles Davis. On Hugh's own end the Bible Record is short: he \"went to Ohio in 1798 or 1799 and died near Chillicothe about 1800.\"",
-    "The date matters because it is early. Weeks's 1896 study of Southern Quakers says the first certificates from Cane Creek Monthly Meeting to Ohio were granted in 1804, when five went to Miami; seven followed in 1806 and sixteen in 1807. Before that the only westward door was Tennessee. But in 1798, the same year Hugh is said to have left, Weeks reports that Westfield Monthly Meeting in Guilford County \"requests advice on the removal of some of its members to the Scioto River 'or thereaway,'\" and that the committee it asked \"wisely left Friends to do as they thought best.\" The Scioto is the river Chillicothe stands on. Hugh's removal looks like part of that first, unorganized probe rather than of the Quaker wave that followed.",
-    "The same town turns up in a later Moffitt-kin story. When Micajah Nordyke, a son of our Abraham Nordyke, settled near what is now New Vienna, Ohio, in the winter of 1805, the family history says he \"had to go to Chillicothe, forty miles distant, to get flour and sugar.\" Hugh, if the family record is right, had died in that country five years earlier.",
-    "Nothing else is known of Hugh in Ohio: no land entry, will or burial has been seen, and the Bible Record does not say whether his wife and children went with him. The year, the place and the death near Chillicothe rest on that one family record."
+    "The Bible Record of Abijah Moffitt says \"William and Hugh married Davis daughters of North Carolina,\" and the 1928 Moffitt Genealogy names the wives as Mary and Hannah. In an 1853 letter, Joseph Moffitt named his father Hugh, mother Hannah Davis, and Hugh's brother William. Joseph also said Hannah's sister Mary married a Moffitt; identifying that man as the William in our Randolph County line remains an inference.",
+    "A transcribed will dated 1 October 1799 identifies Hugh Moffit of Chatham County, names his wife Hannah and son Joseph, and says he had disposed of his affairs in order to move with his family to the Northwest Territory. It also names six of the brothers Joseph later listed in his letter. These overlapping details strongly support identifying the will and letter with the same Hugh, although the original will and the original letter have not been examined.",
+    "The later Bible record says Hugh went to Ohio in 1798 or 1799 and died near Chillicothe about 1800. The 1799 will supports an intended move and is consistent with a departure later that year, but makes a definite 1798 departure doubtful. Neither the will nor Joseph's letter establishes that Hugh completed the journey or died in Ohio; those details remain a family lead.",
+    "Weeks's 1896 study of Southern Quakers reports that in 1798 Westfield Monthly Meeting in Guilford County sought advice on members moving to the Scioto River. He also says Cane Creek certificates to Ohio began in 1804. These records provide context for movement west, but do not name Hugh or establish his route."
    ],
    "quotes": [],
    "src": [
-    "Bible Record of Abijah Moffitt (WikiTree Moffitt-65); Moffitt Genealogy (1928), p. 3; S. B. Weeks, Southern Quakers and Slavery (1896), pp. 256 and 265, archive.org/details/southernquakerss00week; C. Clayton Terrell, Terrell-Nordyke Genealogy (1960), p. 14, archive.org/details/terrellnordykege00terr"
+    "Hugh Moffit will, 1 October 1799, Chatham County Will Book A, p. 189b, transcription: https://www.ncgenweb.us/chatham/court/wills_lmn.html; Joseph Moffitt letter, 4 August 1853, printed in The Nebraska and Midwest Genealogical Record, July 1924, p. 130: https://negenweb.net/NEHolt/The_Nebraska_and_Midwest_Genealogical_Re.pdf#page=139; Bible Record of Abijah Moffitt (WikiTree Moffitt-65); Moffitt Genealogy (1928), p. 3; S. B. Weeks, Southern Quakers and Slavery (1896), pp. 256 and 265, archive.org/details/southernquakerss00week"
    ],
    "imgs": [],
    "tags": [
     "quaker"
    ],
    "kv": [],
-   "note": "Single family record. Hugh's wife is given as Hannah Davies by the 1928 book; whether she and their children went to Ohio is not stated.",
-   "place": "Cane Creek, North Carolina to the Scioto River near Chillicothe, Ohio",
+   "note": "The 1799 will records a planned move, not a completed journey. The 1853 letter and the will identify the same immediate family, but the original documents and an Ohio death or burial record have not been seen. The connection to William Moffitt and Mary Davies is supported by family testimony and later genealogy, but remains a lead.",
+   "place": "Chatham County, North Carolina; possible move to Ohio",
    "rank": 200
   },
   {
@@ -18020,12 +18093,6 @@
   },
   {
    "y": "1798",
-   "t": "Westfield Monthly Meeting asks advice on members removing to the Scioto River; the Moffitt family record puts Hugh Moffitt in Ohio this year or the next.",
-   "side": "J",
-   "story": "mig-hugh-moffitt-scioto"
-  },
-  {
-   "y": "1798",
    "t": "The Nordyke family moves to Lost Creek Meeting, a few miles north of Knoxville, Tennessee.",
    "side": "J",
    "story": "mig-nordyke-1761-1805"
@@ -19403,6 +19470,24 @@
    "t": "A Choctaw council forms to develop a new constitution and restore representative government.",
    "side": "J",
    "story": "atoka-agreement-allotment"
+  },
+  {
+   "y": "1916",
+   "t": "Lester Woodrow Livesay Jr. is born in Houston; he will become a Southern Pacific engineer and cattle rancher.",
+   "side": "N",
+   "story": "livesay-east-texas-research-lead"
+  },
+  {
+   "y": "1938",
+   "t": "Larry Lamar Sandridge is born in Broken Bow, Oklahoma.",
+   "side": "N",
+   "story": "sandridge-broken-bow-research-lead"
+  },
+  {
+   "y": "1798",
+   "t": "Westfield Monthly Meeting asks advice on members moving to the Scioto River; a family account places Hugh Moffitt's Ohio journey around this time, though his 1799 will describes a move still being planned.",
+   "side": "J",
+   "story": "mig-hugh-moffitt-scioto"
   }
  ],
  "fixes": [],
