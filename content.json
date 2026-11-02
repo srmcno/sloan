@@ -18042,21 +18042,65 @@
     "Julia’s family appears under several surnames in the records of McCurtain County and neighboring Arkansas. A county marriage record names Julia Myers, forty, and William A. Nelson, forty-six, marrying at Idabel on 1 July 1916. The original page has been examined. Their names, place and ages make this a probable match for the parents in Audrey Nelson’s later household; the marriage does not establish that Myers was Julia’s birth surname.",
     "In 1920, William and Julia Nelson were living in McCurtain County with two-year-old Audrey. William was recorded as forty-nine, born in Arkansas, and Julia as forty-seven, born in Texas. The household also included Homer, Willie and Edith Nelson, and Hattie Myres, indexed as William’s stepdaughter. Those entries suggest a family formed through more than one parental relationship. They do not identify Hattie’s father or prove who Julia’s own parents were.",
     "Ten years later, the Broken Bow census places twelve-year-old Audry Nelson with a divorced, Texas-born parent indexed as Julian A. Stevens, fifty-four. The daughter’s name, age and birthplace make this a strong probable continuation of Audrey and Julia’s family. A 1929 newspaper notice transcribed on Hattie Kilgore’s memorial names her mother as Mrs. Stevens and her sister as Miss Audrey Nelson, providing another connection between the names.",
-    "An Arkansas marriage index records Julia Ann Stevens, seventy-six, marrying Charles M. Ratcliff on 19 August 1950. A 1956 newspaper notice reproduced on a Ratcliff memorial names Mrs. Lemuel Sandridge and Homer E. Nelson among Mrs. C. M. Ratcliff’s children. Together these records strongly support Julia’s later identity. The notice reports a Bowie County, Texas, birth on 17 November 1873 and death on 26 September 1956, but its stated age of seventy-two conflicts with that birth date. Its claim of arrival in 1921 also conflicts with the family’s 1920 census residence.",
+    "An original Arkansas marriage record names Julia Ann Stevens, seventy-six, marrying Charles M. Ratcliff on 19 August 1950. A 1956 newspaper notice reproduced on a Ratcliff memorial names Mrs. Lemuel Sandridge and Homer E. Nelson among Mrs. C. M. Ratcliff’s children. Together these records strongly support Julia’s later identity. The notice reports a Bowie County, Texas, birth on 17 November 1873 and death on 26 September 1956, but its stated age of seventy-two conflicts with that birth date. The notice places her move to Broken Bow in 1921, after the 1920 census recorded the family elsewhere in McCurtain County.",
     "Julia’s exact birth date and the circumstances of each surname change still need checking. The 1916, 1920 and 1930 ages imply different birth years. Robbins is the maiden name supplied by Audrey’s reproduced obituary, rather than a name established by these marriage records. Her parents remain unassigned while the conflicting records are investigated."
    ],
    "quotes": [],
    "src": [
     "Oklahoma county marriages, William A. Nelson and Julia Myers, 1 July 1916, Idabel; original page examined: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C916-C9XP-D ; index: https://www.familysearch.org/ark:/61903/1:1:Q2Z5-578Q",
-    "1920 U.S. census, William Nelson household, McCurtain County, ED 141, sheet 8B, household 65; indexed Audrey: https://www.familysearch.org/ark:/61903/1:1:MNBT-RFQ ; indexed Hattie Myres: https://www.familysearch.org/ark:/61903/1:1:MNBT-RF3",
+    "1920 U.S. census, William Nelson household, Frisco Township, McCurtain County, ED 141, sheet 8B, household 65; indexed Audrey: https://www.familysearch.org/ark:/61903/1:1:MNBT-RFQ ; indexed Hattie Myres: https://www.familysearch.org/ark:/61903/1:1:MNBT-RF3 ; original image examined: https://www.familysearch.org/ark:/61903/3:1:33S7-9RJK-QW8",
     "1930 U.S. census, Broken Bow, indexed Julian A. Stevens and daughter Audry Nelson; indexes, not original image: https://www.familysearch.org/ark:/61903/1:1:XCWW-HJT and https://www.familysearch.org/ark:/61903/1:1:XCWW-HJY",
-    "Arkansas marriage index, Julia Ann Stevens and Charles M. Ratcliff, 19 August 1950; index, not original image: https://www.familysearch.org/ark:/61903/1:1:N972-6H3",
+    "Arkansas marriage record, Julia Ann Stevens and Charles M. Ratcliff, both of Broken Bow, 19 August 1950, Sevier County, p. 249; original image examined: https://www.familysearch.org/ark:/61903/3:1:S3HT-DW19-QHH ; index: https://www.familysearch.org/ark:/61903/1:1:N972-6H3",
     "Hattie Myers Kilgore memorial, transcription of a 1929 McCurtain County newspaper notice; original newspaper not yet examined: https://www.findagrave.com/memorial/23702992/hattie-kilgore",
     "Ratcliff memorial, transcription of a 1956 Broken Bow News / McCurtain Gazette notice for Mrs. C. M. Ratcliff; original newspaper not yet examined: https://www.findagrave.com/memorial/203574529/charlie-m-ratcliff",
     "Audrey Inez Nelson Sandridge memorial with reproduced obituary naming Julia Robbins: https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/docs/nelson_myers_1916_marriage_register.jpg",
+     "cap": "Original McCurtain County marriage register, book 5, page 314, left-hand entry: William A. Nelson and Julia Myers, 1 July 1916. FamilySearch image 40.",
+     "kind": "record"
+    }
+   ],
    "note": "The Myers–Nelson–Stevens–Ratcliff continuity is a probable identification supported by the recurring children Audrey and Homer. Recorded ages conflict. Hattie’s biological father and Julia’s parents are not established. Memorial transcriptions are distinguished from original records."
+  },
+  {
+   "id": "hattie-myers-kilgore",
+   "side": "N",
+   "gen": 4,
+   "ev": "probable",
+   "profile": false,
+   "title": "Hattie Myers Kilgore: Audrey’s older sister",
+   "hook": "A young woman’s 1929 death notice helps connect Audrey Nelson with her mother’s Stevens surname.",
+   "people": [
+    "MAT_HATTIE_MYERS_KILGORE",
+    "MAT_JULIA_ROBBINS",
+    "MAT_AUDREY_NELSON"
+   ],
+   "subject": {
+    "name": "Hattie Myers Kilgore",
+    "rel": "Maternal family",
+    "years": "about 1909–1929"
+   },
+   "body": [
+    "Hattie Myres was eleven in the 1920 Nelson household in Frisco Township, McCurtain County. The original census calls her William Nelson’s stepdaughter. Two-year-old Audrey Nelson was in the same household with William’s wife Julia. Hattie’s different surname preserves a clue to the family before Julia’s Nelson marriage.",
+    "Nine years later, a newspaper notice transcribed on Hattie Kilgore’s memorial identifies Mrs. Gordon Kilgore as the former Hattie Myers. It names her mother as Mrs. Stevens of Broken Bow and Miss Audrey Nelson among her sisters. This recurring mother-and-sister combination strongly supports identifying her with the girl in the Nelson household. The notice does not say whether the sisters shared both parents, and Hattie’s father remains unknown.",
+    "The original Texas death certificate records Mrs. Gordon Kilgor’s death at the Sanitarium of Paris on 8 October 1929, at age twenty. Her usual residence was Idabel, Oklahoma, and the certificate records burial there. It gives 1909 as her birth year, with month and day unobtainable, and supplies no parental names. The memorial’s birth date, 23 September 1906, conflicts with both that certificate and her census age. The earlier date has therefore not been adopted as settled fact."
+   ],
+   "quotes": [],
+   "src": [
+    "1920 U.S. census, Frisco Township, McCurtain County, household 65, Hattie Myres indexed as stepdaughter; original image examined: https://www.familysearch.org/ark:/61903/3:1:33S7-9RJK-QW8 ; index: https://www.familysearch.org/ark:/61903/1:1:MNBT-RF3",
+    "Texas death certificate 50095, Mrs. Gordon Kilgor, Paris, Lamar County, 8 October 1929; original examined: https://www.familysearch.org/ark:/61903/3:1:33S7-9B98-3N1N ; index: https://www.familysearch.org/ark:/61903/1:1:K3S1-62S",
+    "Hattie Myers Kilgore memorial, transcription of a 1929 local newspaper notice; original newspaper not yet examined: https://www.findagrave.com/memorial/23702992/hattie-kilgore"
+   ],
+   "imgs": [
+    {
+     "s": "img/docs/hattie_kilgore_1929_death_certificate.jpg",
+     "cap": "Original Texas death certificate for Mrs. Gordon Kilgor, 8 October 1929, Paris, Lamar County. Identification with Hattie Myers Kilgore is probable; the certificate provides no parents’ names.",
+     "kind": "record"
+    }
+   ],
+   "note": "Hattie’s relationship to Julia and Audrey is a probable identification using the census and reproduced family notice. Her father and exact birth date remain unresolved; the certificate’s unknown parent fields must not be filled from an unverified online tree."
   }
  ],
  "storyAliases": {
@@ -20011,6 +20055,12 @@
    "t": "Clinton Lamar Sandridge dies at home in Broken Bow on 20 December; the local newspaper names Lemuel as his son.",
    "side": "N",
    "story": "clinton-sandridge-arkansas-to-broken-bow"
+  },
+  {
+   "y": "1929",
+   "t": "Hattie Myers Kilgore, probably Audrey Nelson’s older sister, dies in Paris, Texas, on 8 October.",
+   "side": "N",
+   "story": "hattie-myers-kilgore"
   }
  ],
  "fixes": [],
