@@ -87,6 +87,45 @@
  ],
  "stories": [
   {
+   "id": "ida-merry-enrollment",
+   "side": "N",
+   "gen": 5,
+   "ev": "probable",
+   "profile": false,
+   "title": "Ida May Merry and her family’s enrollment record",
+   "hook": "A mother’s 1899 affidavit records Ida May Merry’s birth and preserves the names of both her parents.",
+   "people": [
+    "MAT_IDA_MERRY",
+    "MAT_BESSIE_DURANT",
+    "MAT_LEWIS_MERRY"
+   ],
+   "subject": {
+    "name": "Ida May Merry Whitfield",
+    "rel": "Maternal ancestor",
+    "years": "born 1898"
+   },
+   "body": [
+    "On 27 April 1899, Bessie Merry signed an affidavit in an application to the Commission to the Five Civilized Tribes. She gave her age as 19, named her husband Lewis Merry and their daughter Ida May Merry, and identified herself as a Choctaw citizen by blood and Lewis as a citizen by marriage. The record gives Ida’s birth as 12 June 1898. Midwife Eliza Jones signed a separate affidavit on the same page confirming that she had attended the birth.",
+    "More than a century later, Alfreda Whitfield Sandridge’s family anniversary notice in the Choctaw Nation’s Biskinik named Ida Merry Whitfield as Alfreda’s grandmother and Bessie Durant as her great-grandmother, describing both as original enrollees. The affidavit and family notice point to Bessie Merry and Bessie Durant as the same woman; that identification remains probable pending a fuller examination of enrollment records.",
+    "A 1920 census lists Ida M. Whitfield with Oliver C. Whitfield and a son recorded as Oliver L. The boy’s age and family context fit Lewis Oliver Whitfield, Alfreda’s father, but his reversed name order leaves the identification probable. Together the records give a path from the enrollment generation to the family’s later years in McCurtain County."
+   ],
+   "quotes": [],
+   "src": [
+    "Choctaw enrollment application, Ida May Merry, mother’s affidavit, 27 April 1899: https://www.familysearch.org/ark:/61903/3:1:3QS7-997J-Y43J",
+    "Choctaw Nation, Biskinik, December 2008, p. 6, Sandridge anniversary notice: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6",
+    "1920 U.S. census, Oliver C. and Ida M. Whitfield household: https://www.familysearch.org/ark:/61903/1:1:MNBY-3S2",
+    "Alfreda Whitfield Sandridge obituary, FamilySearch: https://www.familysearch.org/ark:/61903/1:1:611X-8LLK"
+   ],
+   "imgs": [
+    {
+     "s": "img/docs/ida_merry_1899_affidavit.jpg",
+     "cap": "The 1899 application for Ida May Merry, including Bessie Merry’s affidavit and midwife Eliza Jones’s statement. National Archives record, via FamilySearch.",
+     "kind": "record"
+    }
+   ],
+   "note": "Bessie Merry and Bessie Durant are treated as a probable match. The later identification of Oliver L. as Lewis Oliver Whitfield is also probable."
+  },
+  {
    "id": "alfreda-whitfield-sandridge",
    "side": "N",
    "gen": 3,
@@ -108,7 +147,7 @@
    },
    "body": [
     "Alfreda Whitfield was born in 1939 at Wheelock, Oklahoma, to L. O. and Violet Box Whitfield. She married Larry Sandridge in 1958 at First Assembly of God in Broken Bow. Her family remembered her love of gardening, fishing and time with her grandchildren, and her work at the Choctaw Casino in Idabel.",
-    "Their 50th anniversary notice in the Choctaw Nation’s Biskinik identifies Alfreda’s grandmother as Ida Merry Whitfield and her great-grandmother as Bessie Durant, both original enrollees. This family notice identifies the relatives but does not specify the parent-child connection between Ida and Bessie; that link remains to be established from enrollment and family records.",
+    "Their 50th anniversary notice in the Choctaw Nation’s Biskinik identifies Alfreda’s grandmother as Ida Merry Whitfield and her great-grandmother as Bessie Durant, both original enrollees. A 1899 application contains an affidavit by Bessie Merry identifying herself as the mother of Ida May Merry and naming Lewis Merry as the father. The family notice and the affidavit together support identifying Bessie Merry with Bessie Durant, though the connection remains a probable match.",
     "The 1920 census lists a child named Oliver L. Whitfield in the McCurtain County household of Oliver C. and Ida M. Whitfield. His age and family context fit Lewis Oliver Whitfield, Alfreda’s father, but the reversed name order makes the identification probable rather than certain. A later Biskinik family notice names the late Lewis Whitfield and Ida Merry Whitfield among this branch’s elders."
    ],
    "quotes": [],
@@ -116,7 +155,8 @@
     "FamilySearch, Alfreda Whitfield Sandridge obituary: https://www.familysearch.org/ark:/61903/1:1:611X-8LLK",
     "Choctaw Nation, Biskinik, December 2008, p. 6, 50th anniversary notice: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6",
     "1920 U.S. census, Oliver C. and Ida M. Whitfield household: https://www.familysearch.org/ark:/61903/1:1:MNBY-3S2",
-    "Choctaw Nation, Biskinik, August 2009, p. 4, family announcement: https://www.choctawnation.com/wp-content/uploads/2022/08/aug-2009-biskinik.pdf#page=4"
+    "Choctaw Nation, Biskinik, August 2009, p. 4, family announcement: https://www.choctawnation.com/wp-content/uploads/2022/08/aug-2009-biskinik.pdf#page=4",
+    "Choctaw enrollment application, Ida May Merry, mother’s affidavit, 27 April 1899: https://www.familysearch.org/ark:/61903/3:1:3QS7-997J-Y43J"
    ],
    "imgs": [
     {
@@ -125,7 +165,7 @@
      "kind": "photo"
     }
    ],
-   "note": "The 1920 census identification of Oliver L. as Lewis Oliver is probable. The 2008 notice does not establish the intervening relationship to Bessie Durant."
+   "note": "The 1920 census identification of Oliver L. as Lewis Oliver is probable. Bessie Merry in Ida’s 1899 application is probably the Bessie Durant named in Alfreda’s family notice."
   },
   {
    "id": "audrey-nelson-sandridge",
@@ -19743,6 +19783,18 @@
    "t": "Alfreda and Larry Sandridge celebrate their 50th wedding anniversary; their family notice names Choctaw ancestors.",
    "side": "N",
    "story": "alfreda-whitfield-sandridge"
+  },
+  {
+   "y": "1898",
+   "t": "Ida May Merry is born on 12 June, according to her mother’s 1899 Choctaw enrollment affidavit.",
+   "side": "N",
+   "story": "ida-merry-enrollment"
+  },
+  {
+   "y": "1899",
+   "t": "Bessie Merry signs an affidavit naming her daughter Ida and Ida’s father Lewis Merry.",
+   "side": "N",
+   "story": "ida-merry-enrollment"
   }
  ],
  "fixes": [],
@@ -20266,6 +20318,9 @@
   },
   "img/p/audrey_nelson_sandridge_original.jpg": {
    "url": "https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge#view-photo=95617468"
+  },
+  "img/docs/ida_merry_1899_affidavit.jpg": {
+   "url": "https://www.familysearch.org/ark:/61903/3:1:3QS7-997J-Y43J"
   }
  }
 }
