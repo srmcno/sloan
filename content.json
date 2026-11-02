@@ -20091,14 +20091,18 @@
    "colorized": "img/p/larry_sandridge_yearbook_color.png",
    "source": "FamilySearch Memories, contributed by Marilyn Elaine Whitfield: https://www.familysearch.org/en/tree/person/memories/GVR8-1DZ",
    "method": "AI restoration and colorization",
-   "labels": {"c": "Restored and colorized interpretation"},
+   "labels": {
+    "c": "Restored and colorized interpretation"
+   },
    "edit_note": "Colors and fine details are interpretations of the yearbook image; view the original for comparison."
   },
   "img/p/alfreda_whitfield_yearbook_original.jpg": {
    "colorized": "img/p/alfreda_whitfield_yearbook_color.png",
    "source": "FamilySearch Memories, contributed by Marilyn Elaine Whitfield: https://www.familysearch.org/en/tree/person/memories/GVRD-9FD",
    "method": "AI restoration and colorization",
-   "labels": {"c": "Restored and colorized interpretation"},
+   "labels": {
+    "c": "Restored and colorized interpretation"
+   },
    "edit_note": "Identification comes from the contributor; colors and fine details are interpretations of the original."
   },
   "img/p/larry_alfreda_sandridge_original.png": {
