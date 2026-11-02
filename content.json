@@ -2743,6 +2743,10 @@
     {
      "s": "img/docs/dawes_card_1437_tims_edward.jpg",
      "cap": "Dawes Card 1437: Edward W. Tims's parents are written Vincent B. Tims and Betsy Tims"
+    },
+    {
+     "s": "img/docs/ratified-indian-treaty-220-1837-signature-page.jpg",
+     "cap": "Ratified Indian Treaty 220, Choctaw and Chickasaw, Doaksville near Fort Towson, 17 January 1837: the signature page. Under 'In the presence of' the witnesses include Josiah S. Doak and Vinct. B. Tims. National Archives, Record Group 11, NAID 148062874 (use unrestricted, public domain; downscaled only)"
     }
    ],
    "tags": [
@@ -4282,6 +4286,10 @@
     {
      "s": "img/books/csr7-p812-moffitt-letter.jpg",
      "cap": "Colonial Records of North Carolina, vol. 7, p. 812: the Regulators' letter signed 'William Moffitt,' ending 'We beseech you Sir not to drive us to despair' (public domain, 1890)"
+    },
+    {
+     "s": "img/places/collet-1770-map-north-carolina.jpg",
+     "cap": "A Compleat Map of North-Carolina from an actual Survey, by Capt. John Collet, published in London on 1 May 1770 (Library of Congress, Geography and Map Division). It names Hillsborough, the Haw and Eno rivers, Great Alamance Creek and the Western or Trading Path, the country of the Regulators. Public domain; downscaled only (the original scan is 13,949 px wide)"
     }
    ],
    "tags": [
@@ -9119,7 +9127,12 @@
    "src": [
     "The War of the Rebellion: Official Records, Series I, vol. 34, part 2 (1891), p. 631, Oliver Adair and others to Col. C. C. Andrews, Little Rock, 10 March 1864; vol. 34, part 1, p. 3 and Index (Skirmish at Cedar Glade, Ark., 1 March 1864). archive.org full text of vol. 34."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/official-records-v34-pt2-p631-adair-petition.jpg",
+     "cap": "The War of the Rebellion: Official Records, Series I, vol. 34, part 2 (Washington, 1891), p. 631: the petition of Oliver Adair and others, citizens of Montgomery County, Ark., to Col. C. C. Andrews, commanding the post at Little Rock, dated at Little Rock, 10 March 1864, which reports that 'Dr. Brown, of Cedar Glades, was shot down.' Public domain; Internet Archive scan"
+    }
+   ],
    "tags": [
     "military"
    ],
@@ -9195,7 +9208,12 @@
    "src": [
     "Gil. R. Stormont, Gibson County in the Civil War (Princeton, 1913), \"Co. F, 42nd Indiana Monument\" (archive.org, gibsoncountyinci00stor); S. F. Horrall, History of the Forty-second Indiana (1892), roll of Company F, pp. 64-67."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/stormont-1913-p25-company-f-monument.jpg",
+     "cap": "Gil. R. Stormont, Gibson County in the Civil War (Princeton, Ind., 1913), p. 25: the building of the Company F, 42nd Indiana monument in 1893, its committee, cost and 143 names, and the scroll 'Starved to death at Andersonville' with the eleven names beneath it. Public domain; Internet Archive scan"
+    }
+   ],
    "tags": [
     "military"
    ],
@@ -9460,7 +9478,7 @@
     "years": "1864"
    },
    "body": [
-    "Buck Horn, in what is now Stone County, Arkansas, is the old settlement near St. James where Henry and Hannah Moffitt's son Tom was born in 1889. Twenty-five years earlier it appears twice in the Union record of the war. On 14 March 1864 the district headquarters at Batesville wrote to Lt. Col. William Baumer, First Nebraska Cavalry, to take men across White River at Ramsay's Ferry and go to Round Bottom, near Sylamore, for forage, protecting the steam transport Miller. The order goes on: \"You will endeavor to hunt up the enemy reported to be in camp at McDermott's, near Buck Horn, and kill, capture, and destroy them.\"",
+    "Buck Horn, in what is now Stone County, Arkansas, is the old settlement near St. James where Henry and Hannah Moffitt's son Tom was born in 1889. Twenty-five years earlier it appears twice in the Union record of the war. On 12 March 1864 the district headquarters at Batesville wrote to Lt. Col. William Baumer, First Nebraska Cavalry, to take men across White River at Ramsay's Ferry and go to Round Bottom, near Sylamore, for forage, protecting the steam transport Miller. The order goes on: \"You will endeavor to hunt up the enemy reported to be in camp at McDermott's, near Buck Horn, and kill, capture, and destroy them.\"",
     "The order shows the care its writer thought necessary. Baumer was to recapture any mules taken from the Union train that he found with local people, \"leaving the women and children of the family undisturbed and in possession of their household goods and such work-cattle as they need to cultivate their farms.\" He was told to be \"kind and courteous in your dealings with the defenseless citizens,\" to give receipts for everything he took, and to \"prevent your men from entering houses, pillaging, or burning any houses or fence rails.\" \"Incendiarism or unnecessary severity,\" the order says, \"you are strictly charged to prevent.\"",
     "A week later Maj. Lewis C. Pace of the Eleventh Missouri Cavalry reported from Batesville on a seven-day scout of 206 miles (15–21 March 1864) after a Confederate force under Rutherford. On the last day he marched \"down the river through Buck Horn. Here I could gain no information of Rutherford.\" His men were out of rations and many horses barefooted. He added a note on the country that fits the hills the Moffitts later farmed: \"a rough, rocky, and mountainous country, destitute of forage excepting in the valleys and coves of the mountains,\" where \"the farmers generally are busily engaged preparing their ground for planting, and express a great desire for peace on any terms.\"",
     "These are two glimpses, not the story of a battle. The county's bloodiest fight of the war came at Buck Horn in May 1864, when Jo Shelby's Confederates attacked a band of bushwhackers; that is told under Henry and Hannah in the Ozarks."
@@ -9478,13 +9496,18 @@
    "src": [
     "Official Records, Series I, vol. 34, part 2, pp. 577–578, and part 1, pp. 640–641 (https://archive.org/details/warofrebellion013402rootrich, https://archive.org/details/warofrebellion013401rootrich)"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/official-records-v34-pt2-p577-buck-horn.jpg",
+     "cap": "The War of the Rebellion: Official Records, Series I, vol. 34, part 2 (Washington, 1891), p. 577: orders dated Batesville, Ark., 12 March 1864, to Lt. Col. William Baumer, First Nebraska Cavalry, to 'hunt up the enemy reported to be in camp at McDermott's, near Buck Horn, and kill, capture, and destroy them.' Public domain; Internet Archive scan"
+    }
+   ],
    "tags": [
     "military"
    ],
    "kv": [
     [
-     "14 Mar 1864",
+     "12 Mar 1864",
      "Order to Lt. Col. Baumer, 1st Nebraska Cavalry (OR vol. 34, pt. 2, pp. 577–578)"
     ],
     [
@@ -9529,7 +9552,12 @@
    "src": [
     "Ben H. Chastaine, Story of the 36th: The Experiences of the 36th Division in the World War (Oklahoma City: Harlow, 1920), pp. 111–120 and Honor Roll p. 287 (https://archive.org/details/storyof36thexper00chasrich); Soldiers of the Great War, vol. 3 (1920), Oklahoma, p. 31"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/chastaine-1920-p287-honor-roll-tims.jpg",
+     "cap": "Ben H. Chastaine, Story of the 36th (Oklahoma City, 1920), p. 287, The Honor Roll: 'TIMS, EDMOND, Private, Co. D ... October 8, 1918.' Public domain; Internet Archive scan"
+    }
+   ],
    "tags": [
     "choctaw",
     "military"
@@ -9581,7 +9609,17 @@
    "src": [
     "WWI Draft Registration of George Washington Hulsey, Montgomery County, Ark., 12 Sept. 1918; E. L. Opie, A. W. Freeman, F. G. Blake, J. C. Small and T. M. Rivers, Epidemic Respiratory Disease: The Pneumonias and Other Infections of the Respiratory Tract Accompanying Influenza and Measles (St. Louis: Mosby, 1921), pp. 15–17 and 52 (https://archive.org/details/epidemicrespirat00opieuoft)"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/opie-1921-p16-camp-pike-influenza.jpg",
+     "cap": "Opie, Freeman, Blake, Small and Rivers, Epidemic Respiratory Disease (St. Louis: Mosby, 1921), p. 16: the army commission's account of the influenza epidemic at Camp Pike, recognized on 23 September 1918 when 214 cases were admitted to the base hospital, and over 1,000 cases a day by 27 September. Public domain; Internet Archive scan"
+    },
+    {
+     "s": "img/places/camp-pike-panorama-1918.jpg",
+     "cap": "Camp Pike, Little Rock, Arkansas: panoramic photograph by the Verne O. Williams Photographic Co., Kansas City, Missouri (lettered 'Copyrighted 1917'; copyright deposit of 5 March 1918). It shows barracks, a railroad line and freight cars at the army camp where George W. Hulsey was working in September 1918; no worker is identified. Library of Congress, Prints and Photographs Division; rights statement: 'No known restrictions on publication. No renewal found in Copyright Office.'",
+     "kind": "photo"
+    }
+   ],
    "tags": [
     "military"
    ],
@@ -11368,7 +11406,12 @@
    "src": [
     "Records of the Colony of New Plymouth, ed. Nathaniel B. Shurtleff, vol. 3 (1855), court orders, pp. 70, 125, 190, 199, 204, 209, 213 and 220: https://archive.org/details/recordsofcolonyo0304newp; Joseph Besse, A Collection of the Sufferings of the People Called Quakers, vol. 2 (1753), New England section; WikiTree Gaunt-5, Gaunt-14, Gaunt-202 and Bate-1462, citing McLean, NGSQ 62:4 (1974), the Great Migration Directory and Israel’s 1698 will; Wikipedia, Sandwich, Massachusetts."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/shurtleff-1855-p74-gaunt-no-visible-worship.jpg",
+     "cap": "Records of the Colony of New Plymouth in New England, Court Orders, vol. 3 (Boston, 1855), p. 74: at the court of 6 March 1654/5, 'Peter Gaunt afeirmed hee knew noc publicke vizable worship now in the world.' Public domain; Internet Archive scan of the 1968 AMS Press reprint"
+    }
+   ],
    "tags": [
     "quaker"
    ],
@@ -11448,7 +11491,12 @@
    "src": [
     "WikiTree Butler-289, citing Sandwich town records and the New England Historical and Genealogical Register; Records of the Colony of New Plymouth, edited by Nathaniel B. Shurtleff (1855), court orders and land records: https://archive.org/details/recordsofcolonyo0304newp; Records of the Colony of New Plymouth in New England, ed. Nathaniel B. Shurtleff, vol. 3, Court Orders 1651-1661 (Boston, 1855), pp. 96, 109, 125, 152, 158, 172, 191, 199, 209"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/shurtleff-1855-p191-daniel-butler-whipped.jpg",
+     "cap": "Records of the Colony of New Plymouth in New England, Court Orders, vol. 3 (Boston, 1855), p. 191: on 13 June 1660 'Daniell Butler, for rescuing a strang Quaker' was sentenced to be publicly whipped, and Thomas and Dorithy Butler were fined forty shillings for the same night's quarrel. Public domain; Internet Archive scan of the 1968 AMS Press reprint"
+    }
+   ],
    "tags": [
     "quaker"
    ],
@@ -11520,7 +11568,12 @@
    "src": [
     "Joseph Besse, A Collection of the Sufferings of the People Called Quakers, vol. 2 (London, 1753), New England chapter, letter of J. Cudworth dated December 1658 and the following list of distraints (index entry 'Gaunt Peter'); https://archive.org/details/bim_eighteenth-century_a-collection-of-the-suff_besse-joseph_1753_2"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/besse-1753-vol2-p195-peter-gaunt-sandwich.jpg",
+     "cap": "Joseph Besse, A Collection of the Sufferings of the People Called Quakers, vol. 2 (London, 1753), p. 195: the end of the Cudworth letter of December 1658 and the list of New England Friends whose goods were taken, which includes 'Peter Gaunt 43 l. 14 s. 6 d.' Public domain; Internet Archive scan, downscaled only (the black borders are part of the scan)"
+    }
+   ],
    "tags": [
     "quaker"
    ],
@@ -12042,7 +12095,12 @@
    "src": [
     "A. E. Kocher and W. S. Lyman, Soil Survey of Franklin County, Texas, in Field Operations of the Bureau of Soils, 1908 (USDA, 1909), pp. 931-947; archive.org: usda-soil-survey-of-franklin-county-texas-1908."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/places/franklin-county-soil-map-1908.jpg",
+     "cap": "Soil map, Franklin County sheet, Texas, from the U.S. Bureau of Soils survey of 1908 (Soil Survey of Franklin County, Texas; Field Operations of the Bureau of Soils, 1908, published 1909). Hagansport lies in the north between the Sulphur River and White Oak Creek, with Mount Vernon to the south. U.S. government publication, public domain; Internet Archive scan, downscaled only"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -17716,6 +17774,281 @@
    "note": "Her name rests on one Dawes card, that of her son Edward. Her descent to this family runs through Vinson W. Tims, whose parentage (son of Vincent B. Tims) is probable; no card names Vinson's mother directly. Her full-blood status is inferred from Edward's one-half fraction and his noncitizen father. Birth about 1800 and death about 1860 are unsourced family-file dates. The tree's placeholder name 'Elizabeth \"Betsy\" Choctaw' should be replaced with Betsy Tims.",
    "place": "",
    "rank": 267
+  },
+  {
+   "id": "garrison-samuel-1779-1782",
+   "side": "J",
+   "gen": 9,
+   "ev": "probable",
+   "title": "Samuel Garrison's two discharges: Stono, 1779, and Frederick, 1782",
+   "hook": "A Mecklenburg elder who served two short terms in the North Carolina militia, then applied for a pension in Warren County, Kentucky, and died a few months after the certificate came.",
+   "profile": false,
+   "people": [
+    "xf1-001"
+   ],
+   "subject": {
+    "name": "Samuel Garrison",
+    "rel": "Paternal family history",
+    "years": "1762–1833"
+   },
+   "body": [
+    "Samuel Garrison was born on 24 August 1762, by his family's record on the Pennsylvania-Maryland line, though one account allows that it may have been Mecklenburg County, North Carolina. On 14 March 1786, in Mecklenburg County, he married Esther Alexander, a daughter of Hezekiah Alexander. Floyd C. Stuart, who compiled a large Garrison genealogy in 1979, worked from the family's record book and from five handwritten pages he obtained from the National Archives about Samuel's Revolutionary War pension, file S 31049. Those pages are the best account of what Samuel did as a teenager in the war.",
+    "He served two short terms as a private in the North Carolina militia. One copied discharge certifies that he served in Captain Bass's company of Colonel McDowell's regiment, General Butler's brigade, from the third of March until July, and discharges him on 2 July 1779 \"near Stono.\" That puts him in South Carolina in the days after the fight at Stono Ferry, near Charleston, on 20 June. The second discharge, signed by Lieutenant Conrad Doll at Frederick County, Maryland, on 14 January 1782, certifies five months in Captain Thomas Beatty's company of Select Militia, raised under a state act. Stuart wonders whether Samuel helped guard the British prisoners marched to Frederick after Yorktown, and repeats a claim that Samuel was at Yorktown. His account cites no document for either idea, and the discharge says only that he served five months.",
+    "Samuel applied for a pension in Warren County, Kentucky, where he gave his home as Hickory Grove and his age as 69. The certificate was issued on 6 November 1832 and counted four months in 1779 and five in 1781–82 on the strength of the two original discharges. Samuel died on 27 March 1833, so he drew little from it. His death place is given both as Warren County and as Allen County, at a daughter's home near Scottsville; Allen County was later formed partly from Warren, so the two accounts may describe one place.",
+    "Between the war and the pension he was a church elder in Mecklenburg County (ordained 10 September 1793, by his record book) and the father of nine children. Their sixth child was born in Mecklenburg in September 1797 and the seventh at Bays Fork Creek in Warren County on 1 April 1800, so the move to Kentucky fell between those dates. Stuart adds that Samuel was Allen County's first member in the Kentucky legislature, in 1816; that was not checked here. One correspondent places his grave on his old home place south of Scottsville; another says he does not know where it is.",
+    "Two points stay open. First, Samuel's father: Stuart's 1979 text named John Garrison (born 1744), a son of a Baptist minister of Monmouth County, New Jersey. His 1981 corrections prefer a different John Garrison, said to be a son of David Garrison Sr., who came to Mecklenburg from Salem County, New Jersey. Stuart admits that positive proof of that John's relationship to David has not been found, and the link to Samuel is only \"claimed.\" This site therefore stops at Samuel. Second, the earlier note on this site (\"Samuel & Esther (Alexander) Garrison\") took from WikiTree a private in the Continental Line and Esther's death in Coles County, Illinois. The pension papers as Stuart describes them show militia service, and the family record puts Esther's death in Allen County, Kentucky."
+   ],
+   "quotes": [],
+   "src": [
+    "Floyd C. Stuart, Supplement: The Garrisons and Connected Families, 1630–1979 (1979, with 1981 corrections), pp. 14-1 to 14-7 and 15-22, synopsis of pension file S 31049 and copies of Samuel Garrison's discharges of 2 July 1779 and 14 January 1782, Internet Archive scan, read 2 Nov 2026: https://archive.org/details/supplementthegar00stua; Battle of Stono Ferry, 20 June 1779, Wikipedia, read 2 Nov 2026: https://en.wikipedia.org/wiki/Battle_of_Stono_Ferry; The Daughters of the American Revolution Magazine, August 1952, vol. 86 no. 8, 'The Six Alexanders who signed the Mecklenburg Declaration of Independence' (lists Esther Alexander m. Garrison and children, scan is a two-column OCR), read 2 Nov 2026: https://archive.org/details/sim_american-spirit_1952-08_86_8"
+   ],
+   "imgs": [],
+   "tags": [
+    "military"
+   ],
+   "kv": [
+    [
+     "Born",
+     "24 Aug 1762 (family record; Pennsylvania-Maryland line, or possibly Mecklenburg Co., N.C.)"
+    ],
+    [
+     "Married",
+     "14 Mar 1786, Mecklenburg Co., N.C., Esther Alexander"
+    ],
+    [
+     "Service",
+     "Private, N.C. militia: 3 Mar to 2 Jul 1779 (discharged near Stono); five months to 14 Jan 1782 (discharged Frederick Co., Md.)"
+    ],
+    [
+     "Pension",
+     "File S 31049; certificate issued 6 Nov 1832; of Hickory Grove, Warren Co., Ky., age 69"
+    ],
+    [
+     "Died",
+     "27 Mar 1833, Warren (now Allen) Co., Ky."
+    ]
+   ],
+   "note": "Evidence: probable. The discharge and pension details come from a compiler's synopsis and copies; the National Archives file S 31049 itself has not been seen and is the check. That this Samuel is the husband of Esther Alexander and the father of John Milton Garrison rests on Stuart's family record and a second compiled list (DAR Magazine, August 1952), not on a county record. Stuart's text is inconsistent in places: it calls the service both Continental and Colonial troops in different passages, though the discharges name the North Carolina militia, and it gives Esther's death year as 1827 once and 1829 elsewhere. Samuel's father is unresolved.",
+   "place": "",
+   "rank": 268
+  },
+  {
+   "id": "alexander-hezekiah-will-1796",
+   "side": "J",
+   "gen": 9,
+   "ev": "probable",
+   "title": "Hezekiah Alexander's will names a daughter, Esther Garrison",
+   "hook": "A 1796 Mecklenburg will, abstracted in 1913, ties an Alexander daughter to a Garrison household and to a granddaughter named Caroline.",
+   "profile": false,
+   "people": [
+    "xf1-002",
+    "xf1-003",
+    "xf1-004"
+   ],
+   "subject": {
+    "name": "Hezekiah Alexander",
+    "rel": "Paternal family history",
+    "years": "will of 1796"
+   },
+   "body": [
+    "On 8 August 1796 Hezekiah Alexander of Mecklenburg County, North Carolina, made his will, and a codicil followed on 28 January 1797. The genealogical editor of the American Monthly Magazine abstracted all the early Alexander wills in the books at Charlotte and printed them in April 1913; this one is marked A20. The abstract names his wife Mary; sons William Semple, James R., Silas, Hezekiah, Amos, Joel and Ozwald; and two daughters, Kezia Alexander and \"Esther Garrison,\" with \"her husband\" and \"dau. Caroline Garrison and other ch. of Esther.\" William Semple and James R. were to serve as executors with their mother. The abstract does not name Esther's husband. A second abstract, in Walter O. Holliman Jr.'s 1997 genealogy of the Davidson family, cites Will Book A, p. 20, and likewise names Esther Garrison and her daughter Caroline; its own entry for Esther says only that she married \"Unknown Garrison.\" So no printed abstract of the will names her husband. That name, Samuel Garrison, comes from the Garrison family record.",
+    "The Esther passage matters because it is a record made in Hezekiah's lifetime that ties an Alexander daughter to a Garrison household and to a child, Caroline, who matches the eldest child in Samuel and Esther Garrison's family record (born 9 January 1787). Floyd C. Stuart, who had a copy of the will, quotes the clause for Esther. It leaves a chest of drawers in trust for Caroline, and an enslaved woman named Jean with her children, whom his transcription lists as Siah, Frank and Nancy, for Esther's use for eighteen years, after which they were to be divided between Esther and her children, or, if she died first, among her children as her husband saw fit. His copy is partly garbled, so the names are as he read them. The same will gave four sons Hezekiah's tracts on the French Broad River, each to pay Esther 25 pounds as Stuart reads it. The codicil gave Charles Polk the property that Hezekiah's \"late beloved dau. Mary\" took with her when she married him.",
+    "Hezekiah himself is well documented. The Dictionary of North Carolina Biography gives his dates as 1728 to 16 July 1801 and names his parents as James Alexander, a Cecil County, Maryland, magistrate and Presbyterian elder, and Margaret McKnitt. He married Mary Sample on 12 June 1752, settled in Mecklenburg, and was appointed a county magistrate in 1768. He sat on the Committee of Safety, was one of thirteen members of the provincial council of 1776, and as a delegate to the Halifax congress that year was placed on the committees that drafted North Carolina's bill of rights and constitution. The entry counts seven sons and three daughters and notes that he enslaved people. Stuart reproduces a state Revolutionary Army Accounts entry of June 1776 in which Richard Caswell, treasurer of the Southern District, pays Hezekiah Alexander 1,200 pounds for supplies furnished to the militia, and says the family's stone house in Charlotte was built in 1774.",
+    "The sources disagree on small points. Stuart gives Hezekiah's birth as 13 January 1722 and his death as 10 January 1801, against 1728 and 16 July 1801 in the biography dictionary. For Mary Sample he gives death on 17 May 1806 at 71, while the earlier note on this site has 17 May 1805. Stuart names three daughters, Esther, Mary and Keziah, and repeats the family account that Mary was killed by a gun accident while her husband cleaned his rifle; the will says only \"late beloved dau. Mary.\" The 1796 will is the one contemporary record here, and it proves only that Hezekiah had a daughter Esther Garrison with a daughter Caroline. Identifying her with Samuel Garrison's wife, and John Milton Garrison as her son, rests on the family record."
+   ],
+   "quotes": [],
+   "src": [
+    "The American Monthly Magazine, April 1913, vol. 42 no. 4, p. 188, Genealogical Department, query 2694, editor's abstract of the will of Hezekiah Alexander, 8 Aug 1796 (A20), and codicil of 28 Jan 1797, Internet Archive scan, read 2 Nov 2026: https://archive.org/details/sim_american-spirit_1913-04_42_4; Preyer, 'Alexander, Hezekiah,' Dictionary of North Carolina Biography, NCpedia, read 2 Nov 2026: https://www.ncpedia.org/biography/alexander-hezekiah; Walter O. Holliman Jr., The Davidson Family: A Narrative Genealogy of Related Families (1997), p. 182, abstract of the will of Hezekiah Alexander (Will Book A, p. 20, Mecklenburg Co.) and entry for Esther Alexander, Internet Archive scan, read 2 Nov 2026: https://archive.org/details/the-davidson-family-a-narrative-genealogy-cdp_202501; Floyd C. Stuart, Supplement: The Garrisons and Connected Families, 1630–1979 (1979, with 1981 corrections), pp. 5-12 and 15-22 (quotation of the Esther clause and the June 1776 accounts entry), Internet Archive scan, read 2 Nov 2026: https://archive.org/details/supplementthegar00stua"
+   ],
+   "imgs": [],
+   "tags": [
+    "military"
+   ],
+   "kv": [
+    [
+     "Will",
+     "8 Aug 1796, Mecklenburg Co., N.C. (Will Book A, p. 20, as cited by Holliman; marked A20 in the 1913 abstract); codicil 28 Jan 1797"
+    ],
+    [
+     "Daughter named",
+     "Esther Garrison, with her husband and daughter Caroline Garrison"
+    ],
+    [
+     "Married",
+     "12 Jun 1752, Mary Sample"
+    ],
+    [
+     "Public service",
+     "County magistrate 1768; Committee of Safety; provincial council 1776; Halifax congress 1776"
+    ],
+    [
+     "Died",
+     "1801, Mecklenburg Co. (16 Jul per the biography dictionary; 10 Jan per Stuart)"
+    ]
+   ],
+   "note": "Evidence: probable. The will abstract is a 1913 editor's summary, not the will itself, and Stuart's quotation is partly garbled; all three agree that Esther Garrison and her daughter Caroline are named. The earlier notes on this site (\"Hezekiah & Mary (Sample) Alexander\" and \"James & Margaret (McKnitt) Alexander\") treat Esther's place in this family as a lead; the will and Stuart's copy of it support the daughter, while the tie to Samuel Garrison and John Milton Garrison stays probable.",
+   "place": "",
+   "rank": 269
+  },
+  {
+   "id": "garrison-samuel-esther-children",
+   "side": "J",
+   "gen": 8,
+   "ev": "probable",
+   "title": "Nine children from a family record: the Garrisons of Bays Fork Creek",
+   "hook": "John Milton Garrison's brothers and sisters, from Mecklenburg County to Warren County, Kentucky, and on to Alabama.",
+   "profile": false,
+   "people": [
+    "xf1-005",
+    "xf1-006",
+    "xf1-007",
+    "xf1-008",
+    "xf1-009",
+    "xf1-010",
+    "xf1-011"
+   ],
+   "subject": {
+    "name": "Children of Samuel and Esther (Alexander) Garrison",
+    "rel": "Paternal family history",
+    "years": "b. 1787–1804"
+   },
+   "body": [
+    "Samuel Garrison kept a record book of births, marriages and deaths, and the compiler Floyd C. Stuart held copies from it. His compilation, drawing on that book and on letters from descendants, lists nine children. The first six were born in Mecklenburg County, North Carolina: Caroline (9 January 1787), John Milton (4 October 1788), Hezekiah Alexander (February 1791), Mary (31 January 1793, who died on 26 October that year), Hannah (15 September 1794, born at her grandfather Hezekiah Alexander's home) and Samuel Young (September 1797). The last three were born at Bays Fork Creek in Warren County, Kentucky: Calvin Alexander (1 April 1800), Esther (22 February 1802) and Cynthia (19 April 1804). Caroline is the only one also named in a will: her grandfather's will of 1796 leaves a chest of drawers in trust for her.",
+    "The record follows several of them into adult life. Caroline married William Ray in 1814. On 10 June 1813 in Warren County, Hezekiah Alexander Garrison married Rebecca Lyle, a native of Loudoun County, Virginia. Nine of their children were born in Kentucky before the family moved to Morgan County, Alabama, where he died on 15 August 1846; she died near Moulton on 5 August 1873. Samuel Young Garrison married Eliza Pogue on 23 June 1829 and, in a second marriage, Chalia S. (Mitchell) Jones on 10 December 1840. Calvin married Mariah Neal and later Nancy Margaret Hawkins. Esther married Samuel Alfred Stubbins on 4 August 1825 and died on 13 December 1831, ten days after the infant son she had borne that November. Cynthia married John C. McPheeters on 22 June 1825.",
+    "John Milton Garrison was the first son, and Stuart's informants place him on Trammell Fork Creek in Allen County. They also speak of his burial alone in a field by an old cemetery there, which may not agree with the flat marker at Mount Pleasant cemetery described in his own story on this site, so the grave is unsettled. Stuart's 1981 corrections change an earlier date of 1814 for his marriage to Patsey Cannon to 1808 or 1809, in line with the 6 December 1809 Wilson County record cited on this site, and, from a descendant's letter, date the legislature's divorce to 29 February 1848 and his marriage to Sarah Stamps to 30 March 1848. The same pages show how unsettled his own children are. One descendant counted ten children, five by Sarah Stamps, and named Nancy, Sidney, John, Charles and William Thurston as hers; another says all of them were born before the divorce; a third list gives Patsey children called John Jr., Samuel Jr., Calvin, Abram and Mary C. Stuart says he can neither prove nor disprove any of it.",
+    "Only that last list has a Mary, and Stuart gives no sign she is our Mary Cannon Garrison, born 17 October 1811; the list is unsourced and reached him through a chain of correspondents. The record that names John Milton as her father is the 1885 county-history sketch of her son James. A DAR Magazine lineage of August 1952 gives a second compiled list of Esther Alexander Garrison's children: Caroline, Milton, Hezekiah, Hannah, Esther, John and Samuel. It matches the family record for six of the nine names, omits Calvin, Mary and Cynthia, and adds a John who is not in the family record. The two compilations may share a source, so they count as one line of evidence, not two."
+   ],
+   "quotes": [],
+   "src": [
+    "Floyd C. Stuart, Supplement: The Garrisons and Connected Families, 1630–1979 (1979, with 1981 corrections), pp. 9 and 21-22 (children of Samuel and Esther; John Milton Garrison; Hezekiah Alexander Garrison and Rebecca Lyle; 1981 corrections), Internet Archive scan, read 2 Nov 2026: https://archive.org/details/supplementthegar00stua; The American Monthly Magazine, April 1913, vol. 42 no. 4, p. 188 (will of Hezekiah Alexander naming his daughter Esther Garrison and her daughter Caroline), read 2 Nov 2026: https://archive.org/details/sim_american-spirit_1913-04_42_4; The Daughters of the American Revolution Magazine, August 1952, vol. 86 no. 8 (lineage list of Esther Alexander Garrison's children; two-column OCR, order uncertain), read 2 Nov 2026: https://archive.org/details/sim_american-spirit_1952-08_86_8"
+   ],
+   "imgs": [],
+   "tags": [],
+   "kv": [
+    [
+     "Children (family record)",
+     "Caroline 1787; John Milton 1788; Hezekiah Alexander 1791; Mary 1793 (d. 1793); Hannah 1794; Samuel Young 1797; Calvin Alexander 1800; Esther 1802; Cynthia 1804"
+    ],
+    [
+     "Born in Mecklenburg Co., N.C.",
+     "The first six; the last three at Bays Fork Creek, Warren Co., Ky."
+    ],
+    [
+     "Hezekiah Alexander Garrison",
+     "Married Rebecca Lyle 10 Jun 1813, Warren Co., Ky.; died 15 Aug 1846, Morgan Co., Ala."
+    ],
+    [
+     "Caroline",
+     "Named in her grandfather Hezekiah Alexander's will of 8 Aug 1796"
+    ]
+   ],
+   "note": "Evidence: probable. The nine children, their dates and spouses come from a family record book as copied by a twentieth-century compiler and from correspondents' letters; neither the record book nor a county marriage or birth record for these children was seen. Dates disagree inside Stuart's own text: Esther's birth is 23 or 28 September 1762, Hezekiah Alexander Garrison's 8 or 18 February 1791 and Samuel Young's 21 or 25 September 1797. The three accounts of John Milton Garrison's children conflict and are not resolved here.",
+   "place": "",
+   "rank": 270
+  },
+  {
+   "id": "calvin-moffitt-david-grimes-uniforms",
+   "side": "J",
+   "gen": 5,
+   "ev": "probable",
+   "title": "Two uniforms, two pension claims: Calvin Moffitt and David Grimes",
+   "hook": "A Lawrence County man's three failed tries at a Union pension and a Confederate lieutenant's widow's claim appear together on one page of an Arkansas research guide.",
+   "profile": false,
+   "people": [
+    "xf1-012"
+   ],
+   "subject": {
+    "name": "Calvin V. Moffitt and David H. Grimes",
+    "rel": "Paternal family history",
+    "years": "1862–1864"
+   },
+   "body": [
+    "A research guide to Arkansas Confederate pension records has a page on Union records, and it uses two examples that matter here. \"Calvin V. Moffitt of Lawrence County served in two Arkansas Confederate units,\" it says, but when he applied for a pension he \"claimed a few months' service in a Union unit and tried three times unsuccessfully to qualify for a Union pension.\" The guide adds that the files made by that process were far more rewarding for descendants than for Calvin. Its second example is \"David H. Grimes,\" a third lieutenant in the 27th Arkansas Confederate Infantry whose widow applied for a Union pension, claiming he had briefly served in 1864 in a Union unit. The guide gives no dates, no wives and no place for Grimes, and it does not say Calvin's father's name.",
+    "Calvin V. Moffitt is the name this site already carries as Nathan Moffitt's son, born in 1841 and raised in Strawberry Township, Lawrence County. The National Park Service soldiers index, which gives only name, rank and unit, has a Calvin V. Moffitt as a private in Company G of the Confederate 25th Arkansas Infantry, and a Calvin V. Moffitt (also entered as Moffett and Moffat) as a private in Company L of the Union 4th Arkansas Cavalry. That pairing fits what the guide describes. The guide's remark that Union pensions turned on the unit, not the man's residence, also bears on a puzzle in the earlier notes: Company L was made up in Montgomery County, far from Lawrence County. According to Wikipedia, Company G of the 25th was enrolled at Pocahontas, in Randolph County, on 13 March 1862, and the 4th Arkansas Cavalry (Union) was organized at Little Rock in December 1863. The index also lists a C. V. Moffatt, private, Company K, 1st Arkansas Volunteers (30 days, 1861), which could be the guide's second Confederate unit, but nothing links him to Calvin.",
+    "David H. Grimes is harder. The index has a D. H. Grimes who rose from corporal to third lieutenant in Company I of the Confederate 27th Arkansas Infantry. Wikipedia says that company was organized on 6 July 1862 at Richwoods, Izard County, one of the four parent counties of Stone County, where Henry Moffitt and Hannah Grimes later lived. That fits the guide's wording about rank and regiment, but the earlier note on this site follows a family tree that has David Grimes living and dying in the Mississippi lowlands of southern Arkansas by 1876, and nothing here puts a David Grimes in Izard County. Whether Hannah Moffitt's father is this lieutenant is a lead.",
+    "The useful part is what the guide implies. A Union pension file is built from affidavits, and a widow's claim has to prove a marriage and a death. If these two men are ours, the National Archives pension files, found through the General Index to Pension Files, 1861–1934 (T288), could name Hannah's mother, and the children of both families, and could show where each man lived in the 1890s and 1900s. Calvin's three attempts may have left several sets of papers. Until someone orders them, the soldier index and a printed example are all the record there is."
+   ],
+   "quotes": [],
+   "src": [
+    "Desmond Walls Allen, comp., Arkansas Confederate Pension Applications from Columbia, Hempstead, Lafayette, Miller, and Nevada Counties (Conway, Ark.: Arkansas Research), p. 10, 'Union Records,' photocopied in the Colonial Dames of the XVII Century, Joseph Underwood Chapter binder 'Underwood, box 1, bk. 6,' Allen County Public Library Genealogy Center scan, Internet Archive, read 2 Nov 2026: https://archive.org/details/underwooddames0106/page/n526; National Park Service, Civil War Soldiers and Sailors System, index entries (name, rank and unit only; index only), read 2 Nov 2026: Calvin V. Moffitt, 25th Arkansas Infantry, Co. G: https://www.nps.gov/subjects/civilwar/search-soldiers-detail.htm?soldierId=4D94C3BB-DC7A-DF11-BF36-B8AC6F5D926A; Calvin V. Moffitt, 4th Arkansas Cavalry (Union), Co. L: https://www.nps.gov/subjects/civilwar/search-soldiers-detail.htm?soldierId=9193C3BB-DC7A-DF11-BF36-B8AC6F5D926A; D. H. Grimes, 27th Arkansas Infantry, Co. I: https://www.nps.gov/subjects/civilwar/search-soldiers-detail.htm?soldierId=AD1F3DA3-DC7A-DF11-BF36-B8AC6F5D926A; C. V. Moffatt, 1st Arkansas Volunteers (30 days, 1861), Co. K: https://www.nps.gov/subjects/civilwar/search-soldiers-detail.htm?soldierId=D090C3BB-DC7A-DF11-BF36-B8AC6F5D926A; 25th Arkansas Infantry Regiment, Wikipedia, read 2 Nov 2026: https://en.wikipedia.org/wiki/25th_Arkansas_Infantry_Regiment; 27th Arkansas Infantry Regiment, Wikipedia: https://en.wikipedia.org/wiki/27th_Arkansas_Infantry_Regiment; 4th Arkansas Cavalry Regiment (Union), Wikipedia: https://en.wikipedia.org/wiki/4th_Arkansas_Cavalry_Regiment_(Union); Stone County, Encyclopedia of Arkansas (parent counties Independence, Izard, Searcy and Van Buren), read 2 Nov 2026: https://encyclopediaofarkansas.net/entries/stone-county-811/"
+   ],
+   "imgs": [],
+   "tags": [
+    "military"
+   ],
+   "kv": [
+    [
+     "Calvin V. Moffitt (index)",
+     "Pvt., Co. G, 25th Arkansas Infantry (Confederate); Pvt., Co. L, 4th Arkansas Cavalry (Union)"
+    ],
+    [
+     "D. H. Grimes (index)",
+     "Cpl. to 3rd Lt., Co. I, 27th Arkansas Infantry (Confederate)"
+    ],
+    [
+     "Research guide",
+     "Both named on p. 10, in the section on Union records"
+    ],
+    [
+     "Next step",
+     "Union pension files for Calvin and for the widow of David H. Grimes (National Archives)"
+    ]
+   ],
+   "note": "Evidence: probable for Calvin, lead for David. The guide names \"Calvin V. Moffitt of Lawrence County\" and the index has the matching unit entries; with the 1850 Strawberry Township household already on this site, that is probable, not proved, because the guide does not name his parents and the index carries no age or place. The guide's page is a printed example, not a record. The index is one man in the Confederate 25th and one in the Union 4th, while the guide says two Confederate units; the second unit was not identified. For David H. Grimes only name, rank and regiment match, and the earlier note's family-tree placement in southern Arkansas does not fit Izard County, so the identification is unconfirmed.",
+   "place": "",
+   "rank": 271
+  },
+  {
+   "id": "alexander-james-r-dorcas-garrison",
+   "side": "J",
+   "gen": 9,
+   "ev": "probable",
+   "title": "A brother and sister, a sister and brother: Dr. James R. Alexander and Dorcas Garrison",
+   "hook": "Hezekiah Alexander's son, a Princeton student turned army surgeon, married a Garrison in York District, South Carolina, and followed the family to Kentucky.",
+   "profile": false,
+   "people": [
+    "xf1-013"
+   ],
+   "subject": {
+    "name": "Dr. James R. Alexander and Dorcas Garrison",
+    "rel": "Paternal family history",
+    "years": "1756–1836 · 1766–1852"
+   },
+   "body": [
+    "Hezekiah Alexander's will of 1796 names a son James R. Alexander twice: first with \"his children,\" then as co-executor with his brother William Semple. Walter O. Holliman Jr.'s 1997 genealogy of the Davidson family identifies him as Dr. James R. Alexander, born about 1756 in Cecil County, Maryland, who died after 1832 in Allen County, Kentucky, and says he married Dorcas Garrison on 26 November 1789. Harry Wright Newman's Maryland Revolutionary Records (1938) has an entry for the same pair and date in \"York Dist., S.C.\" (a search snippet only; the page was not opened). A 1989 Simpson County, Kentucky, family history, also seen only as snippets, gives the same date, calls him a Revolutionary War surgeon, and says Dorcas, born 23 January 1766, was a daughter of John Garrison.",
+    "Holliman summarizes James's own pension application, file W-2901, dated 14 May 1833, when he gave his age as 76. James said he was born on the line between Pennsylvania and Maryland on 23 November 1756 and lived in Cecil County when the war began. He was a student at Princeton College in 1776, enlisted as a private in Captain Walter Alexander's \"Flying Camp,\" was soon made a sergeant and was discharged on 1 December 1776. He then went back to medicine, joined his father in Mecklenburg County, and on 25 May 1780 volunteered again, this time as a surgeon. The W in the file number usually marks a widow's claim, so Dorcas may have filed one after his death; that file is not seen here and would be worth reading.",
+    "Floyd C. Stuart's Garrison compilation says that James and Dorcas moved to Kentucky about 1795 or 1796, a few years before Esther and Samuel Garrison did, and that Dorcas was a widow in Allen County in the 1850 census. Stuart's own phrase for the pattern is a brother and sister Garrison who married a sister and brother Alexander. He admits that some question whether Dorcas was John Garrison's daughter, but reasons from dates and places that she was; the Simpson County snippet naming John Garrison as her father supports him, and York District, where she married, is where Stuart places John Garrison's family in the years before about 1795.",
+    "This does not prove that Dorcas and Samuel were brother and sister, and which John Garrison was their father is unsettled (see the note on Samuel Garrison). It does show that the Alexander and Garrison families were joined twice, and that both couples ended in the same part of Kentucky. Dates differ a little: Stuart once has James born about 1761 against his own 1756 statement, Holliman has his death only as after 1832, and the Simpson County snippet gives 11 March 1836 for his death and 1852 for Dorcas's."
+   ],
+   "quotes": [],
+   "src": [
+    "Walter O. Holliman Jr., The Davidson Family: A Narrative Genealogy of Related Families (1997), pp. 182-183, entry for Dr. James R. Alexander (marriage, pension application W-2901 of 14 May 1833), Internet Archive scan, read 2 Nov 2026: https://archive.org/details/the-davidson-family-a-narrative-genealogy-cdp_202501; The American Monthly Magazine, April 1913, vol. 42 no. 4, p. 188 (will of Hezekiah Alexander naming son James R. Alexander), read 2 Nov 2026: https://archive.org/details/sim_american-spirit_1913-04_42_4; Floyd C. Stuart, Supplement: The Garrisons and Connected Families, 1630–1979 (1979, with 1981 corrections), pp. 14 and 14-4 to 14-6, Internet Archive scan, read 2 Nov 2026: https://archive.org/details/supplementthegar00stua; Harry Wright Newman, Maryland Revolutionary Records (1938), entry 'James R. Alexander, Dorcas Garrison, Nov. 26, 1789, York Dist., S.C.' (search snippet only, page not opened), Internet Archive, 2 Nov 2026: https://archive.org/details/bwb_T5-CCE-243; Simpson County Historical Society, Simpson County Kentucky Families Past and Present (1989), entries for Dr. James Rankin Alexander and Dorcas (Garrison) Alexander (search snippets only, borrowable text not opened), Internet Archive, 2 Nov 2026: https://archive.org/details/simpsoncountyken0000simp"
+   ],
+   "imgs": [],
+   "tags": [
+    "military"
+   ],
+   "kv": [
+    [
+     "Married",
+     "26 Nov 1789, York District, S.C. (Newman 1938 and a 1989 county history, snippets only; Holliman 1997)"
+    ],
+    [
+     "Service",
+     "Private and sergeant, Flying Camp, 1776; surgeon from 25 May 1780 (his pension statement, as summarized by Holliman)"
+    ],
+    [
+     "Pension",
+     "File W-2901; application 14 May 1833, age 76"
+    ],
+    [
+     "Kentucky",
+     "Removed about 1795-96; Dorcas a widow in Allen Co., 1850 (Stuart)"
+    ]
+   ],
+   "note": "Evidence: probable. The marriage date is stated the same way in a full-text genealogy and in two snippets from other books; the pension statement is Holliman's summary of a file not seen. The Simpson County and Newman items are index snippets only. Dorcas's parentage is not established: Stuart reasons that John Garrison was her father but says some doubt it, and the identity of Samuel Garrison's father is a separate open question.",
+   "place": "",
+   "rank": 272
   }
  ],
  "storyAliases": {
@@ -19845,6 +20178,66 @@
    "t": "Mary Cannon (Garrison) Satterfield dies on 2 March at 84 and is buried at Big Springs Cemetery, Lineville, Wayne County, Iowa.",
    "side": "J",
    "story": "hsatt"
+  },
+  {
+   "y": "1779",
+   "t": "Samuel Garrison, a private in the North Carolina militia, is discharged near Stono on 2 July after serving under Captain Bass in McDowell's regiment of Butler's brigade.",
+   "side": "J",
+   "story": "garrison-samuel-1779-1782"
+  },
+  {
+   "y": "1782",
+   "t": "Samuel Garrison is discharged at Frederick County, Maryland, on 14 January after five months in Captain Thomas Beatty's company of Select Militia.",
+   "side": "J",
+   "story": "garrison-samuel-1779-1782"
+  },
+  {
+   "y": "1786",
+   "t": "Samuel Garrison marries Esther Alexander, a daughter of Hezekiah Alexander, in Mecklenburg County, North Carolina, on 14 March, by the family record.",
+   "side": "J",
+   "story": "garrison-samuel-esther-children"
+  },
+  {
+   "y": "1796",
+   "t": "Hezekiah Alexander makes his will on 8 August, naming his daughter Esther Garrison and her daughter Caroline.",
+   "side": "J",
+   "story": "alexander-hezekiah-will-1796"
+  },
+  {
+   "y": "1832",
+   "t": "A pension certificate (file S 31049) is issued on 6 November to Samuel Garrison of Warren County, Kentucky; he dies on 27 March 1833.",
+   "side": "J",
+   "story": "garrison-samuel-1779-1782"
+  },
+  {
+   "y": "1848",
+   "t": "A descendant's letter, printed in a 1981 correction to a Garrison genealogy, dates John Milton Garrison's divorce to 29 February and his marriage to Sarah Stamps to 30 March.",
+   "side": "J",
+   "story": "garrison-samuel-esther-children"
+  },
+  {
+   "y": "1789",
+   "t": "Dr. James R. Alexander, a son of Hezekiah Alexander, marries Dorcas Garrison in York District, South Carolina, on 26 November.",
+   "side": "J",
+   "story": "alexander-james-r-dorcas-garrison"
+  },
+  {
+   "y": "1833",
+   "t": "James R. Alexander, 76, applies on 14 May for a Revolutionary War pension (file W-2901), recalling service as a Flying Camp sergeant in 1776 and as a surgeon from 1780.",
+   "side": "J",
+   "story": "alexander-james-r-dorcas-garrison"
+  },
+  {
+   "y": "1862",
+   "t": "Company G of the Confederate 25th Arkansas Infantry, which lists a Calvin V. Moffitt, is enrolled at Pocahontas on 13 March.",
+   "side": "J",
+   "story": "calvin-moffitt-david-grimes-uniforms"
+  },
+  {
+   "y": "1862",
+   "t": "Company I of the Confederate 27th Arkansas Infantry, which lists D. H. Grimes as corporal and later third lieutenant, is organized at Richwoods, Izard County, on 6 July.",
+   "side": "J",
+   "story": "calvin-moffitt-david-grimes-uniforms"
   }
  ],
  "fixes": [
@@ -20397,6 +20790,13 @@
    "story": "sd-newton-clark",
    "side": "J",
    "source": ""
+  },
+  {
+   "s": "img/places/camp-pike-panorama-1918.jpg",
+   "cap": "Camp Pike, Little Rock, Arkansas: panoramic photograph by the Verne O. Williams Photographic Co., Kansas City, Missouri (lettered 'Copyrighted 1917'; copyright deposit of 5 March 1918). It shows barracks, a railroad line and freight cars at the army camp where George W. Hulsey was working in September 1918; no worker is identified. Library of Congress, Prints and Photographs Division; rights statement: 'No known restrictions on publication. No renewal found in Copyright Office.'",
+   "story": "mil-camp-pike-influenza-1918",
+   "side": "J",
+   "source": "https://www.loc.gov/item/2007664245/"
   }
  ],
  "photoSources": {
@@ -20483,6 +20883,66 @@
   },
   "img/docs/merry_1903_commissioner_letter.jpg": {
    "url": "https://www.familysearch.org/ark:/61903/3:1:3QSQ-G97J-Y4QP"
+  },
+  "img/docs/ratified-indian-treaty-220-1837-signature-page.jpg": {
+   "url": "https://catalog.archives.gov/id/148062874",
+   "credit": "National Archives and Records Administration, Record Group 11, Ratified Indian Treaty 220 (NAID 148062874), file page 5 of 12",
+   "rights": "Use restriction: Unrestricted (NARA catalog). U.S. government record, public domain. Downscaled only (original 8455 x 6740 px)."
+  },
+  "img/books/shurtleff-1855-p74-gaunt-no-visible-worship.jpg": {
+   "url": "https://archive.org/details/recordsofcolonyo0304newp/page/n87/mode/1up",
+   "credit": "N. B. Shurtleff, ed., Records of the Colony of New Plymouth, Court Orders vol. 3 (Boston, 1855), printed p. 74; Internet Archive scan of the AMS Press reprint (Boston Public Library copy)",
+   "rights": "Internet Archive: NOT_IN_COPYRIGHT. The 1855 text is public domain. Original bytes, unaltered."
+  },
+  "img/books/shurtleff-1855-p191-daniel-butler-whipped.jpg": {
+   "url": "https://archive.org/details/recordsofcolonyo0304newp/page/n204/mode/1up",
+   "credit": "N. B. Shurtleff, ed., Records of the Colony of New Plymouth, Court Orders vol. 3 (Boston, 1855), printed p. 191; Internet Archive scan of the AMS Press reprint (Boston Public Library copy)",
+   "rights": "Internet Archive: NOT_IN_COPYRIGHT. The 1855 text is public domain. Original bytes, unaltered."
+  },
+  "img/books/besse-1753-vol2-p195-peter-gaunt-sandwich.jpg": {
+   "url": "https://archive.org/details/bim_eighteenth-century_a-collection-of-the-suff_besse-joseph_1753_2/page/n196/mode/1up",
+   "credit": "Joseph Besse, A Collection of the Sufferings of the People Called Quakers, vol. 2 (London, 1753), p. 195; Internet Archive (British Library, Eighteenth Century collections scan)",
+   "rights": "Published 1753, public domain. Downscaled only (original 8480 x 14513 px)."
+  },
+  "img/books/official-records-v34-pt2-p577-buck-horn.jpg": {
+   "url": "https://archive.org/details/warofrebellion013402rootrich/page/n584/mode/1up",
+   "credit": "War of the Rebellion: Official Records, Series I, vol. 34, part 2 (Washington: Government Printing Office, 1891), printed p. 577; Internet Archive scan",
+   "rights": "U.S. government publication, public domain (Internet Archive: NOT_IN_COPYRIGHT). Original bytes, unaltered."
+  },
+  "img/books/official-records-v34-pt2-p631-adair-petition.jpg": {
+   "url": "https://archive.org/details/warofrebellion013402rootrich/page/n638/mode/1up",
+   "credit": "War of the Rebellion: Official Records, Series I, vol. 34, part 2 (Washington: Government Printing Office, 1891), printed p. 631; Internet Archive scan",
+   "rights": "U.S. government publication, public domain (Internet Archive: NOT_IN_COPYRIGHT). Original bytes, unaltered."
+  },
+  "img/books/opie-1921-p16-camp-pike-influenza.jpg": {
+   "url": "https://archive.org/details/epidemicrespirat00opieuoft/page/n19/mode/1up",
+   "credit": "E. L. Opie, A. W. Freeman, F. G. Blake, J. C. Small and T. M. Rivers, Epidemic Respiratory Disease (St. Louis: C. V. Mosby, 1921), printed p. 16; Internet Archive scan (University of Toronto copy)",
+   "rights": "Published 1921, public domain (Internet Archive: NOT_IN_COPYRIGHT). Original bytes, unaltered."
+  },
+  "img/places/camp-pike-panorama-1918.jpg": {
+   "url": "https://www.loc.gov/item/2007664245/",
+   "credit": "Verne O. Williams Photographic Co. (copyright claimant), Library of Congress Prints and Photographs Division, Panoramic Photographs, PAN US MILITARY - Camps no. 158, item 2007664245",
+   "rights": "Library of Congress rights statement: 'No known restrictions on publication. No renewal found in Copyright Office.' Original bytes (LOC service JPEG), unaltered."
+  },
+  "img/books/stormont-1913-p25-company-f-monument.jpg": {
+   "url": "https://archive.org/details/gibsoncountyinci00stor/page/n26/mode/1up",
+   "credit": "Gil. R. Stormont, Gibson County in the Civil War (Princeton, Ind.: Wm. Mowry Printing Co., 1913), printed p. 25; Internet Archive scan (Library of Congress copy)",
+   "rights": "Published 1912-13, public domain (Internet Archive: NOT_IN_COPYRIGHT). Original bytes, unaltered."
+  },
+  "img/books/chastaine-1920-p287-honor-roll-tims.jpg": {
+   "url": "https://archive.org/details/storyof36thexper00chasrich/page/n298/mode/1up",
+   "credit": "Ben H. Chastaine, Story of the 36th: The Experiences of the 36th Division in the World War (Oklahoma City: Harlow Publishing Co., 1920), printed p. 287; Internet Archive scan",
+   "rights": "Published 1920, public domain (Internet Archive: NOT_IN_COPYRIGHT). Original bytes, unaltered."
+  },
+  "img/places/collet-1770-map-north-carolina.jpg": {
+   "url": "https://www.loc.gov/item/83693769/",
+   "credit": "John Collet, A Compleat Map of North-Carolina from an actual Survey (London: S. Hooper, 1770), Library of Congress Geography and Map Division, G3900 1770 .C6, copy 1 (item 83693769)",
+   "rights": "Published 1770, public domain; no Rights Advisory on the LOC item. Downscaled only, by the LOC IIIF image service (full/2200,)."
+  },
+  "img/places/franklin-county-soil-map-1908.jpg": {
+   "url": "https://archive.org/details/usda-soil-survey-of-franklin-county-texas-1908/page/n29/mode/1up",
+   "credit": "A. E. Kocher and W. S. Lyman, Soil Survey of Franklin County, Texas (U.S. Bureau of Soils, 1908); Internet Archive item from the USDA National Agricultural Library collection, soil map sheet",
+   "rights": "U.S. government publication, public domain. Downscaled only (original 4399 x 9763 px)."
   }
  }
 }
