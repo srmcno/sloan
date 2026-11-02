@@ -58,4 +58,21 @@ class SloanArchiveTests(unittest.TestCase):
         self.assertTrue(any(i['s'] == original and i['kind'] == 'record' for i in story['imgs']))
         self.assertTrue(any('3:1:33SQ-GB98-SW27' in source for source in story['src']))
 
+    def test_alice_walker_does_not_merge_conflicting_mothers_or_birth_years(self):
+        alice = PEOPLE['MAT_ALICE_WALKER']
+        self.assertIsNone(alice.get('m'))
+        self.assertEqual(alice['ev'], 'probable')
+        self.assertEqual(alice['b'], 'about 1859')
+        story = next(s for s in CONTENT['stories'] if s['id'] == 'alice-walker-illinois-records')
+        narrative = ' '.join(story['body'])
+        for year in ('1855', '1859', '1860'):
+            self.assertIn(year, narrative)
+            self.assertIn(year, alice['note'])
+        self.assertIn('67 years, 9 months and 12 days', narrative)
+        self.assertIn('Addie Bruce', narrative)
+        self.assertIn('no record yet establishes whether they identify the same woman', narrative)
+        original = 'img/docs/alice_livesay_1922_death_certificate.jpg'
+        self.assertTrue(any(i['s'] == original and i['kind'] == 'record' for i in story['imgs']))
+        self.assertTrue(any('3:1:33S7-9B9C-95G1' in source for source in story['src']))
+
 if __name__ == '__main__': unittest.main()

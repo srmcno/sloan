@@ -242,8 +242,9 @@
    "body": [
     "The 1860 and 1870 censuses list an Alice M. Walker in the Illinois household of Wm P. and Abigail Walker. The records place the family in Washington County, Illinois; those censuses did not identify the relationships between people in a household.",
     "By 1900 Floyd and Alice Livesay were living in Brazoria County, Texas, with children who included Lester W. Livesay. A 1912 Texas death record for their son Walter names Floyd Livesay and Alice Walker as his parents. In 1920, Floyd H. and Alice M. Livesay were recorded together in Houston.",
-    "A 1922 Houston death certificate for Alice May Livesay identifies her father as Wm P. Walker. F. H. Livesay gave the information, and the couple’s 1920 household and Floyd’s later record as a widower make this a plausible match. The certificate’s stated age and birth year do not agree, so the identification remains probable rather than certain.",
-    "The records leave a question about Alice’s mother. The census household includes Abigail Walker, but the death certificate gives the mother as Addie Brace or Bruce in its index. Without a record resolving that difference, no mother has been attached to Alice’s profile."
+    "Alice May Livesay’s original death certificate records her death in Houston on 23 October 1922. It describes her as a married housewife born in Illinois, with burial at Pearland the following day. The informant’s signature reads F. C. Livesay, rather than F. H. Her father is indexed as Wm P. Walker; the handwritten surname is less clear.",
+    "The mother’s name on the original reads Addie Bruce, with Illinois as her birthplace; the index transcribes the surname as Brace. The earlier census household includes Abigail Walker. These are distinct recorded names, and no record yet establishes whether they identify the same woman. No mother is attached to Alice’s profile.",
+    "The certificate also contains a birth-date conflict. Its date-of-birth field gives 11 January 1860, but the age is 67 years, 9 months and 12 days, which would imply 11 January 1855. The matching census child points instead to about 1859. The tree retains that approximate census date and presents all three indications rather than choosing a precise birth year from the conflicting certificate."
    ],
    "quotes": [],
    "src": [
@@ -253,10 +254,17 @@
     "Texas death record, Walter Livesay, 1912: https://www.familysearch.org/ark:/61903/1:1:K3WG-LFQ",
     "1920 U.S. census, Houston, Floyd H. and Alice M. Livesay: https://www.familysearch.org/ark:/61903/1:1:MHY4-98M",
     "Texas death certificate, Alice May Livesay, 1922: https://www.familysearch.org/ark:/61903/1:1:KS1T-6MG",
-    "Texas death certificate, Floyd Hale Livesay, 1932: https://www.familysearch.org/ark:/61903/1:1:K332-H5B"
+    "Texas death certificate, Floyd Hale Livesay, 1932: https://www.familysearch.org/ark:/61903/1:1:K332-H5B",
+    "Texas death certificate no. 28867, registered no. 1809, Alice May Livesay, Houston, Harris County, 23 October 1922; Texas Death Certificates, September–October 1922, image 3006 of 3318; original downloaded and examined: https://www.familysearch.org/ark:/61903/3:1:33S7-9B9C-95G1"
    ],
-   "imgs": [],
-   "note": "The mother’s name conflicts across the household and death records. The Alice in each census and the woman in the 1922 certificate are treated as a probable match."
+   "imgs": [
+    {
+     "s": "img/docs/alice_livesay_1922_death_certificate.jpg",
+     "cap": "Unmodified original: Texas death certificate no. 28867 (registered no. 1809), Alice May Livesay, 23 October 1922. Texas State Board of Health, via FamilySearch, image 3006 of 3318 (3:1:33S7-9B9C-95G1). The mother’s name reads Addie Bruce; the written birth year and stated age conflict.",
+     "kind": "record"
+    }
+   ],
+   "note": "Original certificate: mother Addie Bruce (indexed Brace), informant F. C. Livesay. Birth field: 11 January 1860; age 67 years, 9 months, 12 days implies 1855; the matching census child suggests about 1859. The identification of Alice across records remains probable. Abigail Walker and any proposed Abigail Schanck identity have not been merged with Addie Bruce or attached as Alice’s mother."
   },
   {
    "id": "livesay-illinois-to-texas",
@@ -5941,19 +5949,19 @@
     "A:richard-browne:father"
    ],
    "subject": {
-    "name": "Richard & Margery Browne",
+    "name": "Richard Browne and his family",
     "rel": "Paternal family history",
     "years": "17th-century family"
    },
    "body": [
-    "The Wellingborough Quaker register records the births of sons James in 1656, William in 1658 and Jeremiah in 1660. The transcriptions name their father as Richard Browne. The mother’s name varies between Mary, Marrey and Margery in accounts of the meeting registers; her original entry remains to be reread. Richard is described as of Boasworth, usually interpreted as Husbands Bosworth in Leicestershire.",
+    "The original Wellingborough Quaker birth register records Willyam Browne as the son of Richard Browne, born on the twenty-ninth day of the first month 1658. In the Friends’ calendar then in use, the first month was March. This entry names no mother. Other register transcriptions report sons James in 1656 and Jeremiah in 1660; the mother’s name appears as Mary, Marrey or Margery in later accounts and remains unresolved. Richard is described in those accounts as of Boasworth, usually interpreted as Husbands Bosworth in Leicestershire.",
     "Forty years after William Brown died, a great-nephew set down William's stories in the minutes of East Nottingham Meeting on the 28th day of the 1st month 1786, and Gilbert Cope printed them in The Browns of Nottingham (1864). They say Richard had leaned toward both the Baptists and the Puritans and was reputed a teacher among both, and that about 1663 William's parents 'had suffered greatly and were much stripped of their property for fines &c.' The memorial miscalls the father 'William senior'; the registers give Richard.",
     "James Brown reached Pennsylvania by 1677. William followed between 1682 and 1684, after marrying Dorothy in England, and married three more times in Pennsylvania, the second time to Ann Mercer in 1684. He died in West Nottingham on 1 October 1746.",
     "The East Nottingham memorandum tells how the Brownes became Friends when William Dewsbury sat at their table, how Richard's wife asked why he had brought \"that madman\" into the house, and how his landlord made him pay his rent twice because he would not swear that it was paid. It is told under \"A madman at the table.\""
    ],
    "quotes": [],
    "src": [
-    "WikiTree Browne-440, Brown-2504, Unknown-278288, citing Wellingborough MM and Northamptonshire QM Quaker registers; Cope, The Browns of Nottingham (1864); Wellingborough Monthly Meeting, TNA RG6/1380, William Brown birth entry, image 20 of 150, https://www.ancestry.com/search/collections/7097/records/524194; Northamptonshire Quarterly Meeting, RG6/502, https://www.ancestry.com/search/collections/7097/records/246957."
+    "WikiTree Browne-440, Brown-2504, Unknown-278288, citing Wellingborough MM and Northamptonshire QM Quaker registers; Cope, The Browns of Nottingham (1864); Wellingborough Monthly Meeting, TNA RG6/1380, William Brown birth entry, image 20 of 150, https://www.ancestry.com/search/collections/7097/records/524194; Northamptonshire Quarterly Meeting, RG6/502, https://www.ancestry.com/search/collections/7097/records/246957. Wellingborough Monthly Meeting, original birth register, TNA RG6/1380, image 20 of 150, first entry: Willyam Browne, son of Richard Browne, born the 29th day of the first month 1658 (29 March, Old Style); https://www.ancestry.com/imageviewer/collections/7097/images/41815_b0153703-00019?pId=524194. The entry does not name a mother."
    ],
    "imgs": [],
    "tags": [
@@ -5971,10 +5979,14 @@
     [
      "Children",
      "Nine reported; births of James (1656), William (1658) and Jeremiah (1660) are in the Wellingborough Quaker register"
+    ],
+    [
+     "William’s original birth entry",
+     "29th day, first month 1658 (29 March, Old Style); father Richard; mother not named"
     ]
    ],
-   "note": "William’s birth-register transcriptions name his father Richard. The mother’s name is rendered Mary, Marrey or Margery in accounts of the two register entries; her original entry remains to be reread before adding a mother to the tree. The Nottingham memorial misnames the father and has a chronology that conflicts with the reported 1662 burial, so its stories are later family recollections rather than a secure source for exact dates. The paternal link is probable.",
-   "place": "Richard Browne 'of Boasworth' and his wife Margery were Quakers at Wellingborough, Northamptonshire. Their sons James and William both settled in the Nottingham lots on the Pennsylvania-Maryland line.",
+   "note": "The original RG6/1380 entry has been visually reviewed and directly names Richard as Willyam’s father. It does not name a mother. Mary, Marrey and Margery in other accounts remain unverified; no mother is attached in the tree. Identifying this English child with the Pennsylvania emigrant remains probable. The Nottingham memorial misnames the father and has a chronology conflicting with the reported 1662 burial; its stories remain later family recollections rather than a secure source for exact dates.",
+   "place": "Richard Browne and his family appear in the Wellingborough Quaker registers. His sons James and William later settled in Pennsylvania.",
    "rank": 88
   },
   {
@@ -8256,13 +8268,13 @@
    "profile": false,
    "people": [],
    "subject": {
-    "name": "Henry & Janet (Harrison) Croasdale",
+    "name": "Henry Croasdale of Newhey",
     "rel": "Paternal family history",
     "years": "c.1586–1652"
    },
    "body": [
     "Henry Croasdale lived at Newhey in the Forest of Bowland, within the parish of Waddington. The register records three of his children between 1616 and 1621: Elizabeth, buried 1 June 1616; Edward, baptized 13 January 1617/8; and William, baptized 24 October 1621.",
-    "His burial reads 'Henry Croasdell buried Oct: 10' (1652). He had made his will the month before, on 21 September 1652, as 'Henrie Croasdale, yeoman; Newhay within Bolannd', with his son William as administrator; it was registered in 1654.",
+    "His burial reads 'Henry Croasdell buried Oct: 10' (1652). He had made his will the month before, on 21 September 1652, as 'Henrie Croasdale, yeoman; Newhay within Bolannd', with his son William as administrator; it was registered in 1654. The printed will index identifies the surviving register as Alchin, folio 337, under 1654. That reference points to the original probate record; the index itself supplies no wife’s name.",
     "WikiTree makes this Henry the grandfather of the Thomas Croasdale who emigrated in 1682. That step is a family-history inference: the William baptized in 1621 would have been about 23 if Thomas was born in 1644, and some published lines give a different Henry (died 1595)."
    ],
    "quotes": [
@@ -8272,7 +8284,7 @@
     }
    ],
    "src": [
-    "Waddington parish register (FreeREG; Ancestry Yorkshire Parish Records 1599-1812); FamilySearch England Births and Christenings; YAS Record Series; as cited on WikiTree Croasdale-34 (https://www.wikitree.com/wiki/Croasdale-34)"
+    "Waddington parish register (FreeREG; Ancestry Yorkshire Parish Records 1599-1812); FamilySearch England Births and Christenings; YAS Record Series; as cited on WikiTree Croasdale-34 (https://www.wikitree.com/wiki/Croasdale-34); Yorkshire Archaeological and Topographical Association, Record Series, vol. I (1885), catalogue of Yorkshire wills, p. 97: Yorkshire Wills, 1654, Register Alchin, folio 337, Henrie Croasdale, Newhay within Bolannd, will dated 21 September 1652, administrator William Croasdale, son; https://archive.org/details/YASRS001/page/97."
    ],
    "imgs": [],
    "tags": [
@@ -8292,7 +8304,7 @@
      "Elizabeth (buried 1 Jun 1616), Edward (bapt. 13 Jan 1617/8), William (bapt. 24 Oct 1621)"
     ]
    ],
-   "note": "Henry's will and burial are record-based; whether this Henry is the emigrant's grandfather is not proven. The baptism of William in 1621 does not match the c.1618 birth year used on WikiTree.",
+   "note": "Henry's will and burial are record-based; whether this Henry is the emigrant's grandfather is not proven. The baptism of William in 1621 does not match the c.1618 birth year used on WikiTree. The printed index page has been independently examined; the original Alchin will has not. No evidence in the reviewed index names Janet Harrison as his wife, and no such relationship is established here.",
    "place": "Newhey in the Forest of Bowland, parish of Waddington, Yorkshire.",
    "rank": 128
   },
@@ -12325,7 +12337,7 @@
     "In 1786 East Nottingham Monthly Meeting entered into its book of births and burials an account of the English father of William Brown the emigrant, written down from the stories of a great-nephew of William's in his eightieth year. It places the father in \"Puddington\" near Wellingborough, today's Podington, and says he had been \"some time in communion with the Baptists, afterwards joining with the sect called Puritans, and is said to have been a teacher among both, and a seeking, religious man.\" The memorandum calls him William, but the Wellingborough Quaker registers give the father's name as Richard.",
     "The story is that William Dewsbury, \"about the first going forth\" of that minister, came to the town, and the man noticed \"the solidity of his countenance\" and asked him in to \"break bread.\" When they sat down the host said grace. Dewsbury sat in a grave manner and answered, \"if thou wilt first partake with me I shall be free to partake with thee.\" After a short silence he was moved to speak, \"beginning with these words, 'O Earth! Earth! hear the word of the Lord,'\" and the host was convinced. When he came home with Dewsbury his wife asked why he had brought \"that madman\" to their house. \"Why woman,\" he answered, \"he hath brought the Eternal Truth of God to us.\" She thought it over and was convinced too.",
     "The cost came quickly. The landlord, \"a wild airy man and given to sporting,\" sent his tenant two young hounds to feed and raise. The tenant would not, and the landlord waited. Rent had been paid every half year to a steward without a receipt, so the landlord demanded it again, and said, \"except you will take your oath that it is paid, you shall pay it to me.\" Browne held that Christ had forbidden swearing, so \"this Friend had to pay his rent over again,\" and was then turned off the farm. It took him a considerable time to find another, where he did well. Dewsbury came back, the memorandum adds, and Browne got him leave to speak in the parish church, where \"many people were convinced.\"",
-    "Richard died about 1664 by the memorandum's reckoning (a Quaker burial record in the registers gives 1662), and on his deathbed told his wife, \"thou shalt live to bring up all our children, and they shall be blessed and be all favoured to keep their habitations in the Truth.\" William, born about 1656, was the youngest of nine, six other sons and two daughters. The same pages say that when Penn's province was proposed, some Friends doubted whether to go, and Dewsbury, preaching among the Brownes in Northamptonshire, told them: \"The Lord is about to plant the wilderness of America with a choice vine or noble seed which shall grow and flourish.\"",
+    "Richard died about 1664 by the memorandum's reckoning (a Quaker burial record in the registers gives 1662), and on his deathbed told his wife, \"thou shalt live to bring up all our children, and they shall be blessed and be all favoured to keep their habitations in the Truth.\" The memorandum makes William, born about 1656 in its reckoning, the youngest of nine, six other sons and two daughters. The original Wellingborough register instead gives his birth as the twenty-ninth day of the first month 1658 and names his father Richard; it does not name his mother. The same pages say that when Penn's province was proposed, some Friends doubted whether to go, and Dewsbury, preaching among the Brownes in Northamptonshire, told them: \"The Lord is about to plant the wilderness of America with a choice vine or noble seed which shall grow and flourish.\"",
     "Besse's Sufferings of the People Called Quakers records, in its Northamptonshire section, a meeting at Findon where Daniel Brown and Joane Brown, both \"of Puddington in Bedfordshire,\" were taken with some forty other Friends, held overnight in an alehouse, fined forty shillings each, and sent with the rest to the county gaol for six weeks. Nothing in either source ties them to Richard, and the match rests only on the village name, so it remains a lead."
    ],
    "quotes": [
@@ -12343,7 +12355,7 @@
     }
    ],
    "src": [
-    "Gilbert Cope, The Browns of Nottingham (West Chester, Pa., 1864), reprinting the account entered at East Nottingham Monthly Meeting on the 28th of the 1st month 1786, https://archive.org/details/brownsofnottingh00cope; Joseph Besse, Sufferings, vol. 1 (1753), Northamptonshire (meeting at Findon)."
+    "Gilbert Cope, The Browns of Nottingham (West Chester, Pa., 1864), reprinting the account entered at East Nottingham Monthly Meeting on the 28th of the 1st month 1786, https://archive.org/details/brownsofnottingh00cope; Joseph Besse, Sufferings, vol. 1 (1753), Northamptonshire (meeting at Findon).; Wellingborough Monthly Meeting, original birth register, TNA RG6/1380, image 20 of 150, first entry: Willyam Browne, son of Richard Browne, born the 29th day of the first month 1658 (29 March, Old Style); https://www.ancestry.com/imageviewer/collections/7097/images/41815_b0153703-00019?pId=524194. The entry does not name a mother."
    ],
    "imgs": [],
    "tags": [
@@ -17311,21 +17323,21 @@
     "years": "came 1682"
    },
    "body": [
-    "Ann Mercer was born on the 24th day of the 12th month 1666/7 at Ringwood in Hampshire, the daughter of Thomas Mercer of Andover and his wife Ann, Quakers who crossed to Pennsylvania about 1682-83 and settled in Aston Township, Chester County. Ann was William Brown's second wife. William, born at Wellingborough, Northamptonshire, in 1658, the son of Richard and Margery Browne, had married Dorothy in England, and their son Joseph was born there on 12 June 1682. Dorothy died at sea on the voyage to the Delaware. William went first to his brother James, a weaver at Marcus Hook, and in 1684, when Ann was seventeen, he married her.",
+    "An original Ringwood Quaker entry records Ann Mercer, daughter of Thomas and Ann Mercer of Ringwood, born on the twenty-fourth day of the twelfth month 1666: 24 February 1666/7, or 1667 in modern year numbering. Her identification with Ann Mercer, William Brown’s second wife in Pennsylvania, remains probable. Later accounts place Thomas at Andover before he and his daughter crossed to Pennsylvania about 1682–83 and settled in Aston Township, Chester County. William’s original Wellingborough Quaker birth entry records him on the twenty-ninth day of the first month 1658 (29 March, Old Style), the son of Richard Browne; it does not name his mother. William had married Dorothy in England, and their son Joseph was born there on 12 June 1682. Dorothy died at sea on the voyage to the Delaware. William went first to his brother James, a weaver at Marcus Hook, and in 1684, when Ann was seventeen, he married her.",
     "Gilbert Cope's 1864 list of the family, built from the Nottingham Monthly Meeting registers, gives the children Ann bore him: Mercer, born the 27th of the 12th month 1685; Ann, 1st of the 10th month 1687; William, 21st of the 7th month 1689; John, 3rd of the 5th month 1691; Richard, 31st of the 1st month 1693; and Thomas, 17th of the 11th month 1694. Mercer, named for her family and often written \"Messer,\" was the first. Ann Mercer died in 1696; a 1709 Quaker list of Friends who died in Pennsylvania names her as \"Ann Browne daughtr of said Thoms Mercer.\" Her father Thomas had died on 22 November 1694, eight weeks before her youngest, Thomas Brown, was born in January 1695.",
     "William married Catharine Williams of Philadelphia in 1699, and in 1702 he moved to the Nottingham Lots on the Pennsylvania-Maryland line, where Lots 23 and 33 were assigned to him. A 1902 history of the Brick Meeting House says that he \"was the first Friend to settle on the Nottingham lots\" and that the first meeting was held at his house in 1704. His fourth wife, whom he married in 1711, was Mary Matthews. The family memorandum entered at East Nottingham Monthly Meeting in 1786 calls him an elder and a substantial Friend, and puts his death in 1746 in his ninety-first year; the Wellingborough register, which gives his birth in 1658, would make him about eighty-eight.",
     "Ann Mercer’s descendants connect several branches of the family. Her son William married Elizabeth Cowgill in 1715; her son Thomas married Elizabeth's sister Ellin in 1718/9; her son Richard married three times and ended with Mary Norton of Armagh in 1733; and William's daughter Elizabeth Brown married Mary's brother Edward Norton in 1739. Their daughter Margaret Norton married Joseph Chamness, and Margaret's daughter Martha married Robert Moffitt. Ann Mercer is Martha Chamness's great-great-grandmother, and so the ancestor of every child Martha bore Robert Moffitt."
    ],
    "quotes": [],
    "src": [
-    "Maryland Quaker Records: Nottingham Monthly Meeting; WikiTree Brown-2504 and Mercer-123, citing Wellingborough MM and Northamptonshire QM registers Gilbert Cope, The Browns of Nottingham (1864), pp. 6-8 (children of William Brown and Ann Mercer; marriages of William and of his sons); Bi-centennial of Brick Meeting-House (1902), pp. 33-43"
+    "Maryland Quaker Records: Nottingham Monthly Meeting; WikiTree Brown-2504 and Mercer-123, citing Wellingborough MM and Northamptonshire QM registers Gilbert Cope, The Browns of Nottingham (1864), pp. 6-8 (children of William Brown and Ann Mercer; marriages of William and of his sons); Bi-centennial of Brick Meeting-House (1902), pp. 33-43; Wellingborough Monthly Meeting, original birth register, TNA RG6/1380, image 20 of 150, first entry: Willyam Browne, son of Richard Browne, born the 29th day of the first month 1658 (29 March, Old Style); https://www.ancestry.com/imageviewer/collections/7097/images/41815_b0153703-00019?pId=524194. The entry does not name a mother.; Ringwood Quaker birth register, TNA RG6/1027, Ancestry image 18 of 206, stamped 00011, handwritten p. 6: Ann Mercer, daughter of Thomas and Ann Mercer of Ringwood, born the 24th day of the 12th month 1666; original visually reviewed, https://www.ancestry.com/imageviewer/collections/7097/images/41815_b0153345-00017?pId=452488. Old Style date 24 February 1666/7 (1667 in modern year numbering); no Gregorian day conversion implied."
    ],
    "imgs": [],
    "tags": [],
    "kv": [
     [
-     "Born",
-     "1658, Wellingborough, Northamptonshire"
+     "Birth entry",
+     "29th day, first month 1658 (29 March, Old Style), Wellingborough Quaker register"
     ],
     [
      "Died",
@@ -17340,7 +17352,7 @@
      "William Jr. and Elizabeth Cowgill (m. 1715); their daughter Elizabeth m. Edward Norton 1739; their daughter Margaret m. Joseph Chamness 1763"
     ]
    ],
-   "note": "",
+   "note": "The original English birth entry names Richard as father and leaves the mother unnamed. The child’s identification with the later Pennsylvania emigrant remains probable. The Old Style date is retained; no Gregorian day conversion is implied. Ann Mercer’s original Ringwood birth entry names Thomas and Ann as parents; identifying that English child with the Pennsylvania wife remains probable. The elder Ann’s maiden surname is unknown.",
    "place": "William Brown came from England in 1682 and was one of the first settlers of the Nottingham Quaker settlement on the Pennsylvania–Maryland line. Ann was his second wife.",
    "rank": 9999
   },
@@ -17785,21 +17797,21 @@
     "years": "c.1635–1694"
    },
    "body": [
-    "Thomas Mercer and his wife Ann were Quakers of Ringwood and Andover in Hampshire. Their daughter Ann’s birth entry names both parents and dates her birth to the twenty-fourth day of the twelfth month, 1666/7. That was February in the calendar Friends then used, not December. The entry supplies her mother’s given name, but no maiden surname. Thomas later crossed to Pennsylvania with his daughter, about 1682–83.",
+    "Thomas Mercer and his wife Ann lived at Ringwood in Hampshire when their daughter Ann was born. The original Quaker register names both parents and dates the birth to the twenty-fourth day of the twelfth month 1666. In the Friends’ calendar then in use, this means 24 February 1666/7, or 1667 in modern year numbering. The entry gives the mother’s first name but no maiden surname. Later family accounts place Thomas at Andover before crossing to Pennsylvania with his daughter about 1682–83; identification with the Ringwood family remains probable.",
     "He took up land in Aston Township, Chester County, and his daughter was married there in 1684 to William Brown, born in Northamptonshire, who had landed a year or two earlier. Ann was seventeen. Her first child, born in February 1685/6, was named Mercer for her family. Thomas Mercer lived long enough to see five grandchildren born, and died on 22 November 1694. A 1709 Quaker list of public Friends who died in Pennsylvania names him and \"Ann Browne daughtr of said Thoms Mercer,\" who died in 1696.",
     "Thomas Mercer's own parents are unknown. Through Ann his line runs to her son William Brown Jr., his daughter Elizabeth Brown, her daughter Margaret Norton and her daughter Martha Chamness, who married Robert Moffitt.",
     "The two Anns belong to different generations: Ann, wife of Thomas, was the mother; Ann Mercer, who married William Brown, was the daughter. The elder Ann’s maiden surname and life dates remain unknown. Keeping those identities separate preserves the maternal link without supplying a name the birth entry does not give."
    ],
    "quotes": [],
    "src": [
-    "WikiTree Mercer-123 and Mercer-124, citing the Quaker birth register and the 1709 'Catalogue of Eighty-seven Publick Friends' Gilbert Cope, The Browns of Nottingham (1864); Conventicles Act 1664 (16 Car. II c. 4); Ringwood Quaker birth register, TNA RG6/1027, p. 18, Ann daughter of Thomas and Ann Mercer, https://www.ancestry.com/search/collections/7097/records/452488; indexed father https://www.familysearch.org/ark:/61903/1:1:FQL5-P3J and mother https://www.familysearch.org/ark:/61903/1:1:FQL5-P3V; Thomas Mercer burial, https://www.ancestry.com/search/collections/2189/records/99768505."
+    "WikiTree Mercer-123 and Mercer-124, citing the Quaker birth register and the 1709 'Catalogue of Eighty-seven Publick Friends' Gilbert Cope, The Browns of Nottingham (1864); Conventicles Act 1664 (16 Car. II c. 4); Ringwood Quaker birth register, TNA RG6/1027, Ancestry image 18 of 206, handwritten p. 6, Ann daughter of Thomas and Ann Mercer, https://www.ancestry.com/search/collections/7097/records/452488; indexed father https://www.familysearch.org/ark:/61903/1:1:FQL5-P3J and mother https://www.familysearch.org/ark:/61903/1:1:FQL5-P3V; Thomas Mercer burial, https://www.ancestry.com/search/collections/2189/records/99768505.; Ringwood Quaker birth register, TNA RG6/1027, Ancestry image 18 of 206, stamped 00011, handwritten p. 6: Ann Mercer, daughter of Thomas and Ann Mercer of Ringwood, born the 24th day of the 12th month 1666; original visually reviewed, https://www.ancestry.com/imageviewer/collections/7097/images/41815_b0153345-00017?pId=452488. Old Style date 24 February 1666/7 (1667 in modern year numbering); no Gregorian day conversion implied."
    ],
    "imgs": [],
    "tags": [],
    "kv": [
     [
-     "Daughter Ann",
-     "Born 24th day of the 12th month 1666/7, Ringwood Meeting; m. William Brown 1684"
+     "Daughter Ann’s birth entry",
+     "24th day, 12th month 1666 (24 Feb 1666/7, Old Style), daughter of Thomas and Ann Mercer of Ringwood; identification with William Brown’s wife probable"
     ],
     [
      "Died",
@@ -17810,7 +17822,7 @@
      "1684, to William Brown; six children 1685/6-1694/5"
     ]
    ],
-   "note": "The Ringwood birth entry is available through specifically cited register transcriptions and indexes. The original register image has not yet been independently reread, so the parental links remain probable. Thomas’s parents and his wife’s maiden surname are unknown.",
+   "note": "The original Ringwood entry has been visually reviewed: it names Thomas and Ann Mercer as the parents of the child Ann and gives their residence as Ringwood. Her birth is written 24th day, 12th month 1666, rendered 24 February 1666/7 (1667 in modern year numbering). No Gregorian day conversion is implied. The child’s identification with William Brown’s later wife in Pennsylvania remains probable; the birth entry alone does not establish that connection. Thomas’s own parents and the elder Ann’s maiden surname remain unknown.",
    "place": "Quakers of Ringwood and Andover, Hampshire. Ann died before the voyage; Thomas crossed about 1682–83 with their daughter Ann and settled in Aston Township, Chester County, Pennsylvania, where he died on 22 November 1694. A 1709 Quaker list of public Friends who died in Pennsylvania names him and 'Ann Browne daughtr of said Thoms Mercer', who died in 1696.",
    "rank": 9999
   },
@@ -17934,6 +17946,40 @@
    ],
    "imgs": [],
    "note": "The newspaper directly names Lemuel as Clinton’s son. The family identification remains probable because of conflicting ages across records. Neither Clinton’s parents nor Maggie’s maiden name has been established. The newspaper’s Arkansas birthplace is printed as Burn; it has not been assigned to a modern locality."
+  },
+  {
+   "id": "barbara-phillips-livesay-family",
+   "side": "N",
+   "gen": 4,
+   "ev": "probable",
+   "profile": false,
+   "title": "Barbara Phillips Livesay and the Pearland family",
+   "hook": "A local historical society remembered Barbara and Lester’s daughter, preserving a link between the Pearland and Carthage generations.",
+   "people": [
+    "MAT_BARBARA_PHILLIPS",
+    "MAT_LESTER_JR",
+    "MAT_WAYNE_W_LIVESAY",
+    "MAT_CARYLON_LIVESAY_BARDWELL"
+   ],
+   "subject": {
+    "name": "Barbara Phillips Livesay",
+    "rel": "Maternal ancestor",
+    "years": ""
+   },
+   "body": [
+    "Barbara Phillips and Lester Woodrow Livesay Jr. belonged to a family with ties to Houston, Pearland and Carthage. A Texas birth index names Barbara Phillips and Lester as Wayne Woodrow Livesay’s parents. Lester’s later obituary identifies Barbara by her maiden name and records that she died before him.",
+    "In July 2014, the Pearland Historical Society remembered their daughter Carylon Livesay Bardwell. Its newsletter reports her death in Carthage on 18 June and names her parents as Lester and Barbara Livesay. It also identifies Wayne Livesay as her brother and Jimmy Bardwell as her husband, both of whom had already died.",
+    "The notice adds a daughter to the family preserved in the birth index and Lester’s obituary. It does not identify Barbara’s own parents, and they remain unknown in this tree."
+   ],
+   "quotes": [],
+   "src": [
+    "Texas birth index, Wayne Woodrow Livesay, parents Lester and Barbara Phillips: https://www.familysearch.org/ark:/61903/1:1:V69G-NSC",
+    "The Panola Watchman, 22 July 2001, Lester Woodrow Livesay Jr. obituary, transcribed by Panola County TXGenWeb: https://www.txgenwebcounties.com/panola/obit/2001obit2.htm",
+    "Pearland Historical Society Newsletter, vol. 19, ed. 3, July 2014, p. 3, Carylon Livesay Bardwell notice; original PDF examined: https://drive.google.com/file/d/1dxwDbcKuRHIHWXN8gsGtxT6ExsjdoJqB/view",
+    "Pearland Historical Society official newsletter archive, July 2014 issue: https://www.pearlandhistoricalsociety.org/newsletters"
+   ],
+   "imgs": [],
+   "note": "The historical society’s contemporary notice directly names Carylon’s parents and brother. Identifying its Lester and Barbara with this indexed family is probable. Barbara’s birth and death dates and her parents have not yet been verified from original records."
   }
  ],
  "storyAliases": {
