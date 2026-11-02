@@ -10859,15 +10859,26 @@
    },
    "body": [
     "Newton Jasper Clark was born on 6 August 1817 and died on 3 April 1878 in Butler County. Compiled profiles identify his parents as William Clark (1785-1856), born in Granville County, North Carolina, and Levina Willis (1785-1877). WikiTree credits William with service in the War of 1812; that is not checked.",
-    "WikiTree reports a marriage to Polly Elms on 20 January 1839 in Butler County and cites the county marriage register on FHL film 928,314; that original marriage entry has not been examined here. Her compiled dates are 1818–1888. The original 1850 census lists Newton and Polly Clark, both 32, in Butler County, household 629. It gives no maiden name and no relationships.",
-    "Melvina’s 1929 death certificate names Newton Clark and Mary Dunn as her parents. Dunn and Elms are not established alternative names for the same woman. Identifying Mary Dunn with Newton’s census companion Polly remains probable; the marriage original and further records are needed to resolve the mother’s identity. The existing maternal tree link is retained with that qualification.",
+    "The original Butler County papers record Newton Clark and Polly D. Elms. The clerk issued their license on 20 January 1839. William Anderson’s return states that he joined them in marriage on 24 January and signed the return on 25 January. These are three different events; the 20 January date repeated in compiled profiles is the license date. A typed abstract on film 928314 refers to original page 38 and gives the license and return dates, while the manuscript supplies the ceremony date.",
+    "The license says Polly’s age was proved by Moses Elms and Newton’s age was sworn to; it gives neither person’s age in years and does not state how Moses was related to Polly. Melvina’s 1929 death certificate names Newton Clark and Mary Dunn as her parents. The marriage establishes the bride’s recorded name as Polly D. Elms, but it does not reconcile Dunn and Elms or establish an earlier marriage. Identifying the bride with Polly in Newton’s 1850 household and with Melvina’s mother remains probable.",
     "Family memorials place Newton’s burial at Newton Clark Cemetery, Brooklyn, and give Polly’s death as 16 February 1888 and burial at Clark Cemetery, Morgantown. They link Martha J., Stanford C., Beverly L. \"Belva\" and Melvina as children. These compiled links are not independently proved by the relationship-free 1850 schedule; Stanford’s census age of 8 also conflicts with the later 1844 birth date attributed to him."
    ],
    "quotes": [],
    "src": [
-    "Find a Grave memorial 87367153 (Newton Jasper Clark) and 200880774 (Mary Dunn Elms Clark); WikiTree Clark-75982 citing Butler Co. marriage register; Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481; 1850 U.S. census, Butler County, Kentucky, p. 259b, dwelling/family 629, lines 1–9, 9 September 1850; NARA M432 roll 194, Ancestry collection 8054, image 4193960-00096: https://www.ancestry.com/imageviewer/collections/8054/images/4193960-00096?pId=16938681"
+    "Find a Grave memorial 87367153 (Newton Jasper Clark) and 200880774 (Mary Dunn Elms Clark); WikiTree Clark-75982 citing Butler Co. marriage register; Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481; 1850 U.S. census, Butler County, Kentucky, p. 259b, dwelling/family 629, lines 1–9, 9 September 1850; NARA M432 roll 194, Ancestry collection 8054, image 4193960-00096: https://www.ancestry.com/imageviewer/collections/8054/images/4193960-00096?pId=16938681; Butler County, Kentucky, Newton Clark and Polly D. Elms marriage papers, license 20 January 1839 and minister’s return recording ceremony 24 January, signed 25 January 1839 by William Anderson; FHL film 982456, DGS 007728005, images 902–903; originals examined: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-W71Y ; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-WW3Y; Butler County typed marriage abstract, original page 38, FHL film 928314, DGS 007727388 item 2, image 210: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BL-N1M6"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/rec/newton-clark-polly-elms-1839-license-original.jpg",
+     "cap": "Original Butler County license for Newton Clark and Polly D. Elms, 20 January 1839. The age notation names Moses Elms without stating his relationship. Butler County Clerk, via FamilySearch.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/newton-clark-polly-elms-1839-return-original.jpg",
+     "cap": "Original minister’s return: William Anderson records the ceremony on 24 January 1839 and signs on 25 January. Butler County Clerk, via FamilySearch.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -10876,7 +10887,7 @@
     ],
     [
      "Married",
-     "20 Jan 1839, Butler Co., Ky. (reported by WikiTree; original not examined)"
+     "24 Jan 1839, Butler Co., Ky.; license 20 Jan; return signed 25 Jan (original papers)"
     ],
     [
      "Newton died",
@@ -10887,7 +10898,7 @@
      "16 Feb 1888, Butler Co., Ky."
     ]
    ],
-   "note": "Mary Dunn in Melvina’s death certificate and Polly Elms in compiled profiles have not been reconciled. Do not treat Dunn as an additional given name or infer an earlier marriage from the surname difference.",
+   "note": "The original marriage papers name Polly D. Elms but do not reconcile that name with Mary Dunn on Melvina’s death certificate. Moses Elms proved the bride’s age; his relationship to her is unstated. No earlier marriage or new parentage is inferred.",
    "place": "Brooklyn, Butler County, Kentucky",
    "rank": 183
   },
@@ -14262,11 +14273,11 @@
     "A WikiTree profile for William Clark, built from the Kentucky War of 1812 soldiers list, the censuses of 1840 and 1850 for Butler County, and the 1856 Kentucky death register, gives his birth as 13 October 1785 in Granville County, North Carolina, and his death as 6 January 1856 in Butler County. His wife appears in the 1850 census as 'Vina Clarke' in his household and in the 1860 census as 'Luvina Clark.'",
     "They married in 1808 in Pulaski County, Kentucky. The county marriage book (Book 1, 1799-1850, p. 28) has the couple's names in the wrong places in the index: 'William Willis & Livina Clark.' The Kentucky marriage index files the same record under 'Viny Willis' and 'William Clark,' 1808. A discussion on WikiTree's Henry Willis page says William Clark and Henry Willis stood as bondsmen.",
     "Their first child, Lewis, was born in Pulaski County on 16 April 1809. The family moved to what became Butler County, where Mary (1815), Newton Jasper (6 August 1817), and Emeline (1820) were born, and then to what became Edmonson County, where Harvey was born in 1826. Lewis and Emeline died in Edmonson County and Mary and Harvey in Butler.",
-    "Compiled profiles report that Newton married Polly Elms in Butler County in January 1839. Melvina’s death certificate names Newton Clark and Mary Dunn as her parents; identifying her mother with Polly Elms remains probable and the surname difference is unresolved. Melvina married a Johnson, and her daughter Samantha married John C. Satterfield, who is our line."
+    "Original Butler County papers record Newton Clark and Polly D. Elms marrying on 24 January 1839, after a 20 January license; the return was signed on 25 January. Melvina’s death certificate names Newton Clark and Mary Dunn as her parents; identifying her mother with Polly Elms remains probable and the surname difference is unresolved. Melvina married a Johnson, and her daughter Samantha married John C. Satterfield, who is our line."
    ],
    "quotes": [],
    "src": [
-    "WikiTree Clark-53993, Willis-1450 and Clark-75982, citing Pulaski Co., Ky. Marriage Book 1 (1799-1850), p. 28; Kentucky Marriages, 1785-1979 (1808); 1840 and 1850 censuses, Butler Co.; Kentucky Soldiers of the War of 1812; Kentucky Vital Statistics, deaths for 1856; WikiTree Willis-11599 (discussion of the Willis family); Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481"
+    "WikiTree Clark-53993, Willis-1450 and Clark-75982, citing Pulaski Co., Ky. Marriage Book 1 (1799-1850), p. 28; Kentucky Marriages, 1785-1979 (1808); 1840 and 1850 censuses, Butler Co; Kentucky Soldiers of the War of 1812; Kentucky Vital Statistics, deaths for 1856; WikiTree Willis-11599 (discussion of the Willis family); Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481; Butler County, Kentucky, Newton Clark and Polly D. Elms marriage papers, license 20 January 1839 and minister’s return recording ceremony 24 January, signed 25 January 1839 by William Anderson; FHL film 982456, DGS 007728005, images 902–903; originals examined: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-W71Y ; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-WW3Y"
    ],
    "imgs": [],
    "tags": [],
@@ -17608,13 +17619,13 @@
     "Melvina’s original Kentucky death certificate uses the married spelling Johnston. It records her death at Big Reedy in Edmonson County on 17 January 1929, describes her as a widow, and names her father as Newton Clark, born in Kentucky, and her mother as Mary Dunn. Polly Nash of Big Reedy supplied the information. The space for her husband’s name is blank; this record does not identify him.",
     "The certificate’s birth date is read and indexed as 10 November 1851, although the final year digits are not perfectly clear. It also records an age of 78 years, 2 months, 6 days. That age is inconsistent with the written birth and death dates. Both fields are preserved here without choosing a corrected birth year.",
     "The original 1850 census for Newton Clark’s Butler County household lists Newton, 32; Polly, 32; Martha, 10; Granville, 9; Stanford, 8; Hester, 6; William, 5; a girl aged 3 indexed as Vina; and Mary, 11 months. The handwriting of the age-three girl’s name does not unambiguously identify her as Melvina. The former claim that this census establishes Melvina’s birth about 1847 is therefore withdrawn. The census has no relationship column, and the identification of Vina with Melvina remains open.",
-    "Compiled family profiles identify Newton’s wife as Polly Elms and link the family to William and Lavina (Willis) Clark. Melvina’s death certificate instead gives her mother’s maiden name as Dunn. No examined marriage record reconciles Dunn and Elms or proves that the same woman bore both names. The identification of the mother named in 1929 with Polly in Newton’s 1850 household remains probable, rather than an established maiden-name sequence.",
+    "Original Butler County marriage papers name Newton Clark and Polly D. Elms: license issued 20 January 1839, ceremony 24 January, return signed 25 January. Melvina’s death certificate instead gives her mother’s name as Mary Dunn. The marriage does not reconcile Dunn and Elms or prove that the same woman bore both names. The identification of the mother named in 1929 with Polly in Newton’s 1850 household and with the 1839 bride remains probable. Compiled profiles link Newton to William and Lavina (Willis) Clark; that parental link is a separate question.",
     "Her married name was Johnson; her husband's first name is not recorded on the memorials. Samantha D. was born on 28 March 1872 and Charlie in 1885. Samantha married John C. Satterfield in 1892, moved with him to Hagansport, Texas, about 1907, and crossed the Red River to Choctaw County, Oklahoma, after marrying Bird Alexander Stephens in 1917. She died on 1 October 1928 and is buried at Soper Cemetery.",
     "The death certificate records burial at Mount Pleasant on 18 January 1929. The family memorial identifies this as Mount Pleasant Cemetery at Big Reedy. Samantha had died on 1 October 1928; the records examined do not establish that Melvina attended her Oklahoma burial. Charlie remained in Butler County and died in 1959."
    ],
    "quotes": [],
    "src": [
-    "Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481; 1850 U.S. census, Butler County, Kentucky, p. 259b, dwelling/family 629, lines 1–9, 9 September 1850; NARA M432 roll 194, Ancestry collection 8054, image 4193960-00096: https://www.ancestry.com/imageviewer/collections/8054/images/4193960-00096?pId=16938681; Find a Grave memorials 269080605, 82285257 and 87367153 (compiled family links)."
+    "Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481; 1850 U.S. census, Butler County, Kentucky, p. 259b, dwelling/family 629, lines 1–9, 9 September 1850; NARA M432 roll 194, Ancestry collection 8054, image 4193960-00096: https://www.ancestry.com/imageviewer/collections/8054/images/4193960-00096?pId=16938681; Find a Grave memorials 269080605, 82285257 and 87367153 (compiled family links); Butler County, Kentucky, Newton Clark and Polly D. Elms marriage papers, license 20 January 1839 and minister’s return recording ceremony 24 January, signed 25 January 1839 by William Anderson; FHL film 982456, DGS 007728005, images 902–903; originals examined: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-W71Y ; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-WW3Y"
    ],
    "imgs": [
     {
