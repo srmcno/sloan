@@ -359,6 +359,11 @@
      "s": "img/p/larry_alfreda_sandridge_original.png",
      "cap": "Larry and Alfreda Sandridge in their 50th anniversary portrait, published in the Biskinik in 2008. The restored and colorized version interprets details lost in the small, overexposed original.",
      "kind": "photo"
+    },
+    {
+     "s": "img/p/larry_sandridge_young_adult_original.jpg",
+     "cap": "Young-adult portrait attributed to Larry Sandridge by FamilySearch contributor JNR12. Date unknown. Fine detail in the restored edition is interpretive.",
+     "kind": "photo"
     }
    ],
    "note": "The 1930 census and 1961 obituary differ on Clinton Sandridge’s birth year; Maggie’s maiden name is not yet established."
@@ -20234,6 +20239,15 @@
     "c": "Restored interpretation"
    },
    "edit_note": "The original is small; facial and clothing details in this restored version are interpreted. Compare with the original."
+  },
+  "img/p/larry_sandridge_young_adult_original.jpg": {
+   "colorized": "img/p/larry_sandridge_young_adult_restored.png",
+   "source": "FamilySearch Memories, contributed by JNR12: https://www.familysearch.org/en/tree/person/memories/GVR8-1DZ",
+   "method": "AI restoration of an existing color photograph",
+   "labels": {
+    "c": "Restored color portrait"
+   },
+   "edit_note": "Identification is contributor-supplied. Fine detail is interpreted from the small original; compare the source image."
   }
  },
  "archivePhotos": [
@@ -20491,6 +20505,9 @@
   },
   "img/docs/ida_merry_1899_affidavit.jpg": {
    "url": "https://www.familysearch.org/ark:/61903/3:1:3QS7-997J-Y43J"
+  },
+  "img/p/larry_sandridge_young_adult_original.jpg": {
+   "url": "https://www.familysearch.org/en/tree/person/memories/GVR8-1DZ"
   }
  }
 }
