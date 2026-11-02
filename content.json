@@ -87,6 +87,42 @@
  ],
  "stories": [
   {
+   "id": "livesay-illinois-to-texas",
+   "side": "N",
+   "gen": 6,
+   "ev": "probable",
+   "profile": false,
+   "title": "From Illinois to the Texas Gulf Coast",
+   "hook": "Census records trace Floyd and Alice Livesay’s family from Illinois to Brazoria County, where later generations put down roots.",
+   "people": [
+    "MAT_FLOYD_LIVESAY",
+    "MAT_ALICE_WALKER",
+    "MAT_LESTER_SR"
+   ],
+   "subject": {
+    "name": "Floyd and Alice Livesay",
+    "rel": "Maternal ancestors",
+    "years": "19th and 20th centuries"
+   },
+   "body": [
+    "In 1900, Floyd and Alice Livesay lived in Brazoria County, Texas, with children born in Illinois and Texas. Their son Lester W. was listed as born in Illinois in November 1894. The census points to a family move from Illinois to Texas between the births of their Illinois-born children and their Texas-born daughter Ruth, about 1898; it does not reveal the reason for the move.",
+    "The 1920 census places Lester W. and Sadah Livesay in Harris County, Texas, with their young children, including a son Lester Jr. The younger Lester’s obituary later identified his parents as Lester W. Sr. and Sadah McCormick. His railroad career and ranches carried the story into Pearland and East Texas.",
+    "A Texas death record for Walter Livesay, also listed in the 1900 household, names his parents Floyd Livesay and Alice Walker. A 1932 death record identifies Floyd Hale Livesay, born in Illinois; it gives February 1857 as his birth, while the 1900 census gives February 1856. The 1900 entry for Lester gives a birth month and year that do not agree with his recorded age.",
+    "An earlier 1870 census lists a fourteen-year-old Floyd H. Livesay in the Illinois household of David Livesay. The 1870 census did not state family relationships; additional evidence is needed to establish whether David was his father."
+   ],
+   "quotes": [],
+   "src": [
+    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-JSM",
+    "1920 U.S. census, Harris County, Lester and Sadah Livesay household: https://www.familysearch.org/ark:/61903/1:1:MHY4-98J",
+    "Texas death record, Walter Livesay, 1912, naming Floyd Livesay and Alice Walker: https://www.familysearch.org/ark:/61903/1:1:K3WG-LFQ",
+    "Texas death record, Floyd Hale Livesay, 1932: https://www.familysearch.org/ark:/61903/1:1:K332-H5B",
+    "1870 U.S. census, Washington County, Illinois, David Livesay household: https://www.familysearch.org/ark:/61903/1:1:M6WP-C5M",
+    "The Panola Watchman, 22 July 2001, Lester Woodrow Livesay Jr. obituary: https://www.txgenwebcounties.com/panola/obit/2001obit2.htm"
+   ],
+   "imgs": [],
+   "note": "The identity of Floyd in the 1870 household and any parentage for him need additional corroboration. Dates and ages differ across records."
+  },
+  {
    "id": "sandridge-broken-bow-research-lead",
    "side": "N",
    "gen": 3,
@@ -106,6 +142,7 @@
    },
    "body": [
     "Larry Lamar Sandridge grew up in Broken Bow, Oklahoma, where he graduated from high school in 1956. His obituary says he served in the Army and Navy as an aviation electrician, including service aboard the helicopter carrier USS Thetis Bay. It names his parents as Lemuel Lamar Sandridge and Audrey Inez Nelson.",
+    "In 2008 Larry and his wife Alfreda Whitfield Sandridge celebrated their 50th wedding anniversary. Their anniversary notice appeared in the Choctaw Nation’s Biskinik along with a photograph. The notice identifies Alfreda’s Choctaw relatives; it does not name Larry’s daughter or establish her mother, so that connection remains under investigation.",
     "A 1961 McCurtain Gazette notice identifies Lemuel Sandridge of Broken Bow as a son of Clinton Lamar Sandridge. The notice says Clinton was born in Arkansas and moved to McCurtain County in 1919, where he farmed. These records offer a path into an earlier generation of a Sandridge family in the region.",
     "A funeral-home obituary index names a daughter whose identity was confirmed by the family. The 1930 census names Clinton and Maggie in Lemuel’s household; Clinton’s recorded age there differs from the birth year reported in his obituary, and Maggie’s maiden name needs more research."
    ],
@@ -114,9 +151,16 @@
     "Larry Lamar Sandridge obituary, United States Obituary Records, FamilySearch: https://www.familysearch.org/ark:/61903/1:1:XMR9-K659",
     "McCurtain Gazette, 20 December 1961, p. 4, C. L. Sandridge obituary, Gateway to Oklahoma History: https://gateway.okhistory.org/ark:/67531/metadc2405029/m1/4/",
     "1930 United States census, Eagle Township, McCurtain County: https://www.familysearch.org/ark:/61903/1:1:XCWW-KCX",
-    "Ancestry, funeral-home obituary index: https://www.ancestry.com/search/collections/2190/records/137405823"
+    "Ancestry, funeral-home obituary index: https://www.ancestry.com/search/collections/2190/records/137405823",
+    "Choctaw Nation, Biskinik, December 2008, p. 6, Larry and Alfreda Sandridge anniversary: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/p/larry_alfreda_sandridge_original.png",
+     "cap": "Larry and Alfreda Sandridge in their 50th anniversary portrait, published in the Biskinik in 2008. The restored and colorized version interprets details lost in the small, overexposed original.",
+     "kind": "photo"
+    }
+   ],
    "note": "The 1930 census and 1961 obituary differ on Clinton Sandridge’s birth year; Maggie’s maiden name is not yet established."
   },
   {
@@ -1446,7 +1490,7 @@
    ],
    "note": "No grave has been found and Stone County deaths were not registered until 1914, so his death date is from family records. Stone County newspapers for September 1901 are the likeliest check.",
    "place": "Born in Lawrence County, Arkansas; died at Mountain View, Stone County, at 46.",
-   "rank": 19
+   "rank": 20
   },
   {
    "id": "aden",
@@ -1499,7 +1543,7 @@
    ],
    "note": "The 1899 biography names Adin's wife as Sarah, not Martha Johnson, so either Aden married twice or the captain descends from another Adin. Ellis being Micajah's son rests on cemetery records and a family account; it is very likely but not proven by a single document. Sources disagree on whether the Richmond works began in 1851 or 1859.",
    "place": "",
-   "rank": 20
+   "rank": 21
   },
   {
    "id": "marydavies",
@@ -1562,7 +1606,7 @@
    ],
    "note": "The gifts and named executors appear in Mary’s will. The file is indexed 1822; that date alone does not establish her date of death.",
    "place": "",
-   "rank": 21
+   "rank": 22
   },
   {
    "id": "emeline",
@@ -1570,7 +1614,7 @@
    "gen": 6,
    "ev": "proven",
    "title": "The midwife of Doaksville",
-   "hook": "¼ Choctaw, daughter of a white man and a Choctaw woman named O-we-na. She delivered her own grandson.",
+   "hook": "Her Dawes card names her parents as John Steadman and O-we-na. She attended the birth of her grandson Simon.",
    "profile": false,
    "people": [
     "I352798549838"
@@ -1581,7 +1625,7 @@
     "years": "1842–1918"
    },
    "body": [
-    "Born 26 January 1842, Emeline was enrolled as Choctaw by Blood, Roll No. 1947, one-quarter blood, with her sons Johnny and Calvin on Card 778. Her father John Steadman was a white man (\"non-citizen\"); her mother O-we-na was Choctaw of Towson County.",
+    "Born 26 January 1842, Emeline was enrolled as Choctaw by Blood, Roll No. 1947, one-quarter blood, with her sons Johnny and Calvin on Card 778. The card names her father John Steadman as a noncitizen and her mother O-we-na as deceased in Towson County; it does not state John's race or O-we-na's ancestry.",
     "She and Vinson farmed in the High Hill neighborhood north of Doaksville. Their children included James, Mitchell, Betsy (Mrs. Joseph Thompson), John, Rev. Robert Tims, Willie, Rosie and Calvin, and several of them later lived around Spencerville.",
     "When her grandson Simon was born on 4 May 1899, Emeline attended as the midwife. On 17 October 1899 she swore before a notary at Doaksville that \"there was born to her on said date a male child… said to have been named Simon Thompson,\" the affidavit that put Simon on the rolls. She died on 16 March 1918 and is buried at High Hill Cemetery.",
     "Her grandson Joel did not remember her maiden name ('Grandmother Tims first name was Emmaline'), so the name Steadman comes from the Dawes records, not family memory. Joel placed her home 'about four miles north and a little west of Doaksville,' in Towson County, 'known as the Charley Blankenship place now.' A local history says six or seven miles. Betsy and Joseph were married there in 1889.",
@@ -1645,7 +1689,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 22
+   "rank": 23
   },
   {
    "id": "johnc",
@@ -1731,7 +1775,7 @@
    ],
    "note": "A family biography places John's death between 1912 and 1916; no grave or death record has been found, so the 1919 date in family trees is uncertain. Most details about Samantha come from a Find a Grave biography written by a Stephens family member; the 1892 marriage record itself has not been seen. Wavey’s draft cards and headstone differ on his birth date.",
    "place": "Farmed at Horse Mill, Butler County, Kentucky, in 1900, with seven children at home.",
-   "rank": 23
+   "rank": 24
   },
   {
    "id": "elam",
@@ -1842,7 +1886,7 @@
    ],
    "note": "Frank's place in this family is now supported by the Casey family history and 1870 and 1880 census households, which list Gilbert Franklin, born 17 November 1861, as the twelfth child of Abner and Martha Stevenson. Elam's father, James Stevenson, served 21 days as a private in the Rowan County militia in 1781; the family title 'Capt. James' and claims of Kings Mountain and Yorktown are not supported. Martha Still Watson's parents are given on WikiTree as William Watson (about 1778-1840) and Mary Brown; the earlier lead of Isham Brown of Giles County, Continental soldier, may be Mary's father or kinsman (lead).",
    "place": "",
-   "rank": 24
+   "rank": 25
   },
   {
    "id": "jhsatt",
@@ -1952,7 +1996,7 @@
    ],
    "note": "Birth year is 1838 in the 1885 sketch and 1837 on Find a Grave; death is 24 Nov 1922 or 1924 on the TXGenWeb sheet and 28 Nov 1922 on Find a Grave.",
    "place": "",
-   "rank": 25
+   "rank": 26
   },
   {
    "id": "betsy",
@@ -2031,7 +2075,7 @@
    ],
    "note": "Her birth year is 1870 in the family tree; her age on the card (28 in May 1899) and Find a Grave and a local Tims history give 1871. Her 1925 death comes from Joel's interview, and the memorial at High Hill is a placeholder, not a known grave. The 1910 census says she had borne seven children, six living, while Joel names seven who grew up plus Ella.",
    "place": "",
-   "rank": 26
+   "rank": 27
   },
   {
    "id": "nathan",
@@ -2132,7 +2176,7 @@
    ],
    "note": "Why the family lost its property in the 1860s is not recorded. The marriage date comes from a North Carolina county marriage index. Where Nathan lived between 1840 and 1850 comes from the children's birthplaces. Centre Meeting's older men's minutes are lost, so no removal certificate survives.",
    "place": "Born in Randolph County, North Carolina; moved west and died in Oregon County, Missouri.",
-   "rank": 27
+   "rank": 28
   },
   {
    "id": "rogers",
@@ -2184,7 +2228,7 @@
    ],
    "note": "Ann is sometimes listed in online trees as \"Ann Rogers (1714–1791)\". Rogers was her married name; she was born Ann Staples.",
    "place": "",
-   "rank": 28
+   "rank": 29
   },
   {
    "id": "grady",
@@ -2291,7 +2335,7 @@
    ],
    "note": "In the 1940 listing Alton and Eldon, both born in 1928, fit as twins of 11. Several names are spelled differently across the census records (Odis, Ottis and Odas; Dais and Dois; \"Manile\" for Mary).",
    "place": "",
-   "rank": 29
+   "rank": 30
   },
   {
    "id": "vincent",
@@ -2406,7 +2450,7 @@
    ],
    "note": "Vincent was white, so the family's Choctaw citizenship came through his wife, whose name has not been found. His date of death is given as 14 June 1864 in a descendants' account and 17 June 1864 in family files, but he signed letters as Doaksville's Confederate postmaster on 9 September and 1 November 1864, so both dates look wrong. The postmaster rolls name a 'V. B. Tims' on 17 May 1871, which may be Vincent himself. The 'first postmaster' detail rests on Joel's memory, and the Confederate office had an earlier postmaster, J. P. Kingsbury, in 1862-63. A card for his son Edward may name Vincent's wife.",
    "place": "",
-   "rank": 30
+   "rank": 31
   },
   {
    "id": "anthony",
@@ -2477,7 +2521,7 @@
    ],
    "note": "His birth is given as about 1713, yet the indenture transcript gives his age as 15 in February 1724/5. The two do not agree, and the repository holding the indenture is not cited, so the story is probable rather than proven. Family stories of a French Huguenot or Norman noble origin have no support.",
    "place": "",
-   "rank": 31
+   "rank": 32
   },
   {
    "id": "daniel",
@@ -2593,7 +2637,7 @@
    ],
    "note": "The 1884 county roll says he was a veteran who mustered out on 21 July 1865, which conflicts with the family biography's discharge for blindness in March 1862; his compiled service record or pension file would settle which is right. His grave memorial gives two death dates in 1919, 14 January and 22 May. The 1880 census gives his birthplace as Indiana, with a father born in Virginia and a mother born in Ohio, which conflicts with the Tennessee birthplace in other records.",
    "place": "",
-   "rank": 32
+   "rank": 33
   },
   {
    "id": "sarahcole",
@@ -2646,7 +2690,7 @@
    ],
    "note": "The murder trial and the 1712 deed come from Robert Barnes's Baltimore County Families, which abstracts court and land records; the original court papers have not been seen yet.",
    "place": "",
-   "rank": 33
+   "rank": 34
   },
   {
    "id": "courtday",
@@ -2693,7 +2737,7 @@
    "kv": [],
    "note": "",
    "place": "",
-   "rank": 34
+   "rank": 35
   },
   {
    "id": "edward",
@@ -2769,7 +2813,7 @@
    ],
    "note": "A local history gives the second marriage as 19 April 1888; the certified copy of the certificate in his Dawes file says 29 April.",
    "place": "",
-   "rank": 35
+   "rank": 36
   },
   {
    "id": "robertp",
@@ -2842,7 +2886,7 @@
    ],
    "note": "The Fort Coffee migration story is family tradition printed in a newspaper; it has not been matched to a removal-era roll.",
    "place": "",
-   "rank": 36
+   "rank": 37
   },
   {
    "id": "gwhulsey",
@@ -2942,7 +2986,7 @@
    ],
    "note": "His original 1918 draft registration gives 24 December 1875, also supported by December 1875 in the 1900 census; the grave transcription gives 1876. His exact death day remains unresolved: published sources differ between 5 August and 21 August 1935, while 22 December in the earlier tree repeats his wedding date. Family usage calls him “Rev.”; the occupational records reviewed identify a laborer and farmer. B. F. and Sarah G. are provisional parents: the 1880 census names George as B. F.’s son but does not expressly identify Sarah as his biological mother, and no named-parent record for the adult George has closed that connection. They have not been merged with Benjamin Franklin Hulsey and Sylvania Partain in other family accounts.",
    "place": "",
-   "rank": 37
+   "rank": 38
   },
   {
    "id": "benjaminh",
@@ -3022,7 +3066,7 @@
    ],
    "note": "This profile preserves a family-account lead separately from the B. F. Hulsey household recorded in 1880. Their identity, Benjamin’s parents, his military service and the identity of George Washington’s mother remain unconfirmed. The competing 1850 ages, wife names and death years are retained rather than silently reconciled.",
    "place": "",
-   "rank": 38
+   "rank": 39
   },
   {
    "id": "oscar",
@@ -3118,7 +3162,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 39
+   "rank": 40
   },
   {
    "id": "removal",
@@ -3158,7 +3202,7 @@
    "kv": [],
    "note": "These individuals have not yet been found on a removal-era roll such as the 1831 Armstrong Roll.",
    "place": "",
-   "rank": 40
+   "rank": 41
   },
   {
    "id": "depression",
@@ -3189,7 +3233,7 @@
    "kv": [],
    "note": "",
    "place": "",
-   "rank": 41
+   "rank": 42
   },
   {
    "id": "doaksville-town",
@@ -3228,7 +3272,7 @@
    "kv": [],
    "note": "Place history from secondary sources; not tied to a named relative.",
    "place": "",
-   "rank": 42
+   "rank": 43
   },
   {
    "id": "doaksville-constitution-1860",
@@ -3260,7 +3304,7 @@
    "kv": [],
    "note": "Capital dates are inconsistent between sources; stated loosely on purpose.",
    "place": "",
-   "rank": 43
+   "rank": 44
   },
   {
    "id": "watie-surrender-doaksville",
@@ -3293,7 +3337,7 @@
    "kv": [],
    "note": "Place and event history; no specific family member is documented here. Whether a relative served is a lead to check in Confederate Choctaw rolls.",
    "place": "",
-   "rank": 44
+   "rank": 45
   },
   {
    "id": "fort-towson-post",
@@ -3344,7 +3388,7 @@
    "kv": [],
    "note": "Institution history only.",
    "place": "",
-   "rank": 45
+   "rank": 46
   },
   {
    "id": "atoka-agreement-allotment",
@@ -3379,7 +3423,7 @@
    "kv": [],
    "note": "Choctaw Nation history provides context for the Thompson family’s records. No evidence here identifies how a family member voted or whether they participated in the later organizations.",
    "place": "",
-   "rank": 46
+   "rank": 47
   },
   {
    "id": "smith-butler-monument",
@@ -3417,7 +3461,7 @@
    "kv": [],
    "note": "Place story. It describes the county where Smith and Satterfield kin lived. It does not claim a named ancestor served in either army.",
    "place": "Morgantown, Butler County, KY",
-   "rank": 47
+   "rank": 48
   },
   {
    "id": "smith-scottsville",
@@ -3481,7 +3525,7 @@
    "kv": [],
    "note": "Place story. The 1902 fire is a fact about the county, not a record of a particular family.",
    "place": "Scottsville, Allen County, KY",
-   "rank": 48
+   "rank": 49
   },
   {
    "id": "smith-hagansport",
@@ -3516,7 +3560,7 @@
    "kv": [],
    "note": "The Smith and Satterfield families lived in the Hagansport area.",
    "place": "Hagansport, Franklin County, TX",
-   "rank": 49
+   "rank": 50
   },
   {
    "id": "smith-franklin-cotton",
@@ -3557,7 +3601,7 @@
    "kv": [],
    "note": "Context for families who moved from Kentucky to Franklin County around 1900-1910. It does not say any named ancestor was a tenant or an owner.",
    "place": "Franklin County, TX",
-   "rank": 50
+   "rank": 51
   },
   {
    "id": "smith-grant-ok",
@@ -3590,7 +3634,7 @@
    "kv": [],
    "note": "Place story. It does not claim a Choctaw citizenship record for a named ancestor.",
    "place": "Grant, Choctaw County, OK",
-   "rank": 51
+   "rank": 52
   },
   {
    "id": "hulsey-42nd-perryville-stones-river",
@@ -3630,7 +3674,7 @@
    "kv": [],
    "note": "Regimental facts are documented. The connection to this family rests on Daniel O'Neal's service in the 42nd, covered in his own story.",
    "place": "",
-   "rank": 52
+   "rank": 53
   },
   {
    "id": "hulsey-42nd-atlanta-campaign",
@@ -3665,7 +3709,7 @@
    "kv": [],
    "note": "Regimental history is documented. Daniel O'Neal's own dates of service should be checked against it.",
    "place": "",
-   "rank": 53
+   "rank": 54
   },
   {
    "id": "hulsey-wright-city-company-town",
@@ -3703,7 +3747,7 @@
    "kv": [],
    "note": "Place history for the family's McCurtain County years. No record here names an ancestor who worked in the mills.",
    "place": "",
-   "rank": 54
+   "rank": 55
   },
   {
    "id": "moff-after-alamance",
@@ -3753,7 +3797,7 @@
    "kv": [],
    "note": "Frames the westward chain the family followed. Whether a specific Moffitt signed the oath should be checked against the 1771 oath lists.",
    "place": "",
-   "rank": 55
+   "rank": 56
   },
   {
    "id": "moff-hugo-crossing",
@@ -3814,7 +3858,7 @@
    "kv": [],
    "note": "No particular sawmill has been tied to the family's timber work.",
    "place": "",
-   "rank": 56
+   "rank": 57
   },
   {
    "id": "moff-etowah-twice",
@@ -3847,7 +3891,7 @@
    "kv": [],
    "note": "Place story with a practical research tip for the family; no named ancestor is tied to it here.",
    "place": "",
-   "rank": 57
+   "rank": 58
   },
   {
    "id": "wm-regulator-1768",
@@ -3918,7 +3962,7 @@
    ],
    "note": "Spellings vary (Maffet, Maffit, Moffit, Moffitt) in the 1768 papers. The 1766 Deep River entry reads \"Wm Masset,\" very likely a misreading of Maffet.",
    "place": "",
-   "rank": 58
+   "rank": 59
   },
   {
    "id": "wm-after-alamance",
@@ -3968,7 +4012,7 @@
    ],
    "note": "The provisions claim rests on a family account and a compiled record; the voucher itself has not been seen. Whether William or Hugh or James ran the mill is unsettled. The Alamance book's statements about his birth in Donegal and burial at Richland Creek carry no citation.",
    "place": "",
-   "rank": 59
+   "rank": 60
   },
   {
    "id": "wm-mary-wills",
@@ -4019,7 +4063,7 @@
    ],
    "note": "The last digit of William's will date is faint: one reading gives 1790, but the 1796 reading fits Robert as executor. Online trees give his death as 10 August 1797 or 1799; no record settles it. Mary's death is given as February 1822.",
    "place": "",
-   "rank": 60
+   "rank": 61
   },
   {
    "id": "cane-creek-1763",
@@ -4102,7 +4146,7 @@
    ],
    "note": "Charles Davies's wedding is given as 9 Feb 1732 (old style, meaning 1733) and 9 Dec 1732 in different sources. One Find a Grave account places his birth in Luton, England and says he was indentured to a Quaker family in Philadelphia, while the Cane Creek family account says only that he was \"sold to pay his passage.\" A note on that memorial suggests the disownment may be tied to a Deep River marriage dispute; the minute has not been seen, so that is only a possibility.",
    "place": "",
-   "rank": 61
+   "rank": 62
   },
   {
    "id": "robertm",
@@ -4168,7 +4212,7 @@
    ],
    "note": "A memorial gives 6 October 1778 for Robert’s birth and 6 October 1844 for his death, but that birth date also appears for Martha; neither date has been verified. As executor in 1796, Robert was probably born by about 1775. Martha’s death is given as 11 October or 11 November 1865. Her parents and the children’s list come from compiled Quaker abstracts. The records do not establish that Robert was the Patriot Robert Moffitt of Brush Creek or Robert son of Hugh; neither married Martha.",
    "place": "Married 20 September 1797 at Centre Quaker Meeting, North Carolina. Robert inherited 250 acres his father had bought of William Cox and was still living in 1820. Martha, born 6 October 1778, a daughter of Joseph Chamness, lived until 1865. Their children included Mary, Nathan, David, Naomi, William, Hannah, Lydia and Aaron.",
-   "rank": 62
+   "rank": 63
   },
   {
    "id": "nathan-wheelwright",
@@ -4218,7 +4262,7 @@
    ],
    "note": "The NPS record documents a soldier named Calvin V. Moffitt; identifying that soldier with Nathan's son remains a lead. Patrick is given as born 11 May 1853 at Sylamore and as dying on 20 December 1905 at Mountain View in one source, and as dying in November 1904 and buried at Sallisaw in another. Who burned the Alton courthouse is disputed: the marker says Union troops, a 2024 survey says Southern partisans.",
    "place": "",
-   "rank": 63
+   "rank": 64
   },
   {
    "id": "henry-hannah-1901",
@@ -4268,7 +4312,7 @@
    ],
    "note": "Henry's exact death date comes from family records and no original has been seen. The Stone County Record newspapers for September 1901 would be the likeliest check. Bertha May Moffitt Barham (1888-1930), buried at Herpel, may be a daughter but is not proved.",
    "place": "",
-   "rank": 64
+   "rank": 65
   },
   {
    "id": "grady-mary-family",
@@ -4343,7 +4387,7 @@
    ],
    "note": "Children's names and dates come from census records and Find a Grave family links, and the census spells several names differently. In the 1940 household, Alton and Eldon are both born in 1928, which fits the twins aged 11 shown there. Hugo's founding and the Frisco depot date are from the Oklahoma Historical Society; Grady's own connection to any particular mill is unknown.",
    "place": "",
-   "rank": 65
+   "rank": 66
   },
   {
    "id": "shackleford-family",
@@ -4402,7 +4446,7 @@
    ],
    "note": "John Morgan's birth is 1862 on his memorial and 1863 in the 1930 census. His parents-of-Mary link rests on Find a Grave family links, the 1889 marriage and the 1900 census; Mary's 1962 death certificate should name them. The source of Mary's middle name, Tinsley, is unknown.",
    "place": "",
-   "rank": 66
+   "rank": 67
   },
   {
    "id": "ard19-leyte",
@@ -4458,7 +4502,7 @@
    ],
    "note": "Ship details come from the Navy's ship histories and NavSource, read via excerpts. Whether ARD-19 stopped at Ulithi or Kossol Roads is unclear, and no source places her at Okinawa. His service in the attack is inferred, not documented.",
    "place": "",
-   "rank": 67
+   "rank": 68
   },
   {
    "id": "uss-chief-nagoya",
@@ -4518,7 +4562,7 @@
    ],
    "note": "The muster index labels this ship MCM 14, which is a 1990s ship named after her; a 1946 roll can only be AM-315. The photograph is the ship in 1952, not in John's time.",
    "place": "",
-   "rank": 68
+   "rank": 69
   },
   {
    "id": "joel-wpa",
@@ -4622,7 +4666,7 @@
    ],
    "note": "This is a son's memory, set down in 1937. Details such as dates and the order of his father's schooling are his recollection, not records.",
    "place": "",
-   "rank": 70
+   "rank": 71
   },
   {
    "id": "allotment-1903",
@@ -4682,7 +4726,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 71
+   "rank": 72
   },
   {
    "id": "ella",
@@ -4756,7 +4800,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 72
+   "rank": 73
   },
   {
    "id": "jimmie",
@@ -4879,7 +4923,7 @@
    ],
    "note": "The exact birth date and the age at death come from the 1941 memoir. The year of death is inferred from the age of 77 and the September 1941 conference; a later memorial roll lists 1940 but says it contains errors. The text of his own 1937 Indian-Pioneer interview has not been read; what is said about it comes from a local history of the Tims family and from a citation in a Cedar County article.",
    "place": "",
-   "rank": 73
+   "rank": 74
   },
   {
    "id": "gilliam",
@@ -4948,7 +4992,7 @@
    ],
    "note": "The Graves family genealogy gives his name as Gilliam, not William Gilliam, and identifies him as Jesse's father from family records. His birth is given as about 1813 or about 1819: marriage in 1832 favors the earlier year and the 1864 army age of 45 the later. No original record seen names the father-son link, so this stays probable.",
    "place": "",
-   "rank": 74
+   "rank": 75
   },
   {
    "id": "jessegraves",
@@ -5008,7 +5052,7 @@
    ],
    "note": "The genealogy calls him Jesse S. Graves, while the tree calls him Jesse King Graves. The 1884 and 1889 marriage registers each record their groom as 38, five years apart. The 1871 Montgomery County marriage, as quoted in the genealogy, gives Jesse's age as 18, suggesting 1852–53. These records could contain errors or concern different men. Sarah Rebecca's maternal identity has not been established by a record naming her mother. The stated Blount County birthplace also needs checking against Gilliam Graves's reported Arkansas tax records.",
    "place": "",
-   "rank": 75
+   "rank": 76
   },
   {
    "id": "corinne-mail",
@@ -5061,7 +5105,7 @@
    ],
    "note": "Corinne's naming and dates come from a published account of the town and are context; the family's addresses come from the Dawes card, the allotment ledgers and the draft card.",
    "place": "",
-   "rank": 76
+   "rank": 77
   },
   {
    "id": "peterp",
@@ -5132,7 +5176,7 @@
    ],
    "note": "Only the spelling of the name is recorded; the link to the chief is a possibility, not a documented fact. The burial rests on a cemetery roster whose page was seen only in excerpt.",
    "place": "",
-   "rank": 77
+   "rank": 78
   },
   {
    "id": "highhill",
@@ -5196,7 +5240,7 @@
    ],
    "note": "The memorials for Betsy and Joseph at High Hill are placeholders; their actual burial places have not been found.",
    "place": "",
-   "rank": 78
+   "rank": 79
   },
   {
    "id": "choctaw-names",
@@ -5251,7 +5295,7 @@
    ],
    "note": "Who the people were is on the cards. What the names mean is a reading from Byington's 1915 dictionary, not a published translation, so it is a lead.",
    "place": "",
-   "rank": 79
+   "rank": 80
   },
   {
    "id": "book-wm-act-not-found",
@@ -5300,7 +5344,7 @@
    "kv": [],
    "note": "",
    "place": "",
-   "rank": 80
+   "rank": 81
   },
   {
    "id": "book-wm-sept-1768",
@@ -5347,7 +5391,7 @@
    "kv": [],
    "note": "",
    "place": "",
-   "rank": 81
+   "rank": 82
   },
   {
    "id": "book-vb-tims-postmaster-1864",
@@ -5407,7 +5451,7 @@
    "kv": [],
    "note": "",
    "place": "",
-   "rank": 82
+   "rank": 83
   },
   {
    "id": "book-elam-own-words-1869",
@@ -5457,7 +5501,7 @@
    "kv": [],
    "note": "",
    "place": "",
-   "rank": 83
+   "rank": 84
   },
   {
    "id": "snews-stevenson-pulaski",
@@ -5558,7 +5602,7 @@
    "kv": [],
    "note": "",
    "place": "",
-   "rank": 84
+   "rank": 85
   },
   {
    "id": "oknews-robert-james-tims-1944",
@@ -5615,7 +5659,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 85
+   "rank": 86
   },
   {
    "id": "wt-robert-margaret-moffitt",
@@ -5687,7 +5731,7 @@
    ],
    "note": "Joseph's 1853 family letter survives here as a 1924 transcription; Hugh's will names Hannah and Joseph. The letter supports Robert and Margaret as Hugh's parents and names his brother William, but does not explicitly identify that William as Mary's husband. The link to the Randolph County couple remains a reasoned lead. Robert and Margaret's precise dates and places, the crossing account and earlier parentage remain unverified. The Bible record and 1928 book disagree on who crossed first; the Alamance Battleground book names the wife Martha Steward. No Donegal parish record has been seen.",
    "place": "Robert Moffitt, said to have been born in Scotland, moved young to County Donegal, Ireland, where he and Margaret Stuart raised eleven children. Six sons are said to have crossed to America, among them our William, who settled at Cane Creek, North Carolina.",
-   "rank": 86
+   "rank": 87
   },
   {
    "id": "wt-richard-margery-browne",
@@ -5735,7 +5779,7 @@
    ],
    "note": "William’s birth-register transcriptions name his father Richard. The mother’s name is rendered Mary, Marrey or Margery in accounts of the two register entries; her original entry remains to be reread before adding a mother to the tree. The Nottingham memorial misnames the father and has a chronology that conflicts with the reported 1662 burial, so its stories are later family recollections rather than a secure source for exact dates. The paternal link is probable.",
    "place": "Richard Browne 'of Boasworth' and his wife Margery were Quakers at Wellingborough, Northamptonshire. Their sons James and William both settled in the Nottingham lots on the Pennsylvania-Maryland line.",
-   "rank": 87
+   "rank": 88
   },
   {
    "id": "wt-john-bridget-cowgill",
@@ -5804,7 +5848,7 @@
    ],
    "note": "The Settle certificate and children’s list are reproduced in Potts’s 1895 book. He cautions that Settle and Middletown birth dates differ. The John-and-Bridget parentage of Elizabeth comes from a specific Middletown register transcription; its original page has not yet been independently reread. The servant detail and ship identifications depend on later accounts.",
    "place": "John Cowgill came from Yorkshire in 1682 with his widowed mother and married Bridget Croasdale at Neshaminy, Bucks County, in 1693. About 1713 he moved to New Castle County, Delaware, and built a tan-yard. Their daughter Elizabeth married William Brown Jr.",
-   "rank": 88
+   "rank": 89
   },
   {
    "id": "wt-dorothy-butler-gaunt",
@@ -5849,7 +5893,7 @@
    ],
    "note": "The Quaker marriage record names her father; the 1720 will names her daughter. Evidence: probable (the marriage record is cited only through WikiTree and McLean).",
    "place": "Born at Sandwich, Plymouth Colony, on 23 January 1649/50, the daughter of Thomas Butler. She married Hananiah Gaunt there in 1678 and moved with him to Springfield Township, Burlington County, New Jersey. She died on 26 April 1714 and is buried at Jobstown.",
-   "rank": 89
+   "rank": 90
   },
   {
    "id": "book2-noble-shaw-estate-1857",
@@ -5908,7 +5952,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 90
+   "rank": 91
   },
   {
    "id": "dgarrett",
@@ -5979,7 +6023,7 @@
    ],
    "note": "The court text gives both 30 and 31 July for the attack. Sources differ on whether Barbara’s second husband was named Thomas or John Broad.",
    "place": "Baltimore County, Maryland. Dennis was murdered; Barbara later married John Broad.",
-   "rank": 91
+   "rank": 92
   },
   {
    "id": "book2-john-cole-baltimore-tracts",
@@ -6045,7 +6089,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 92
+   "rank": 93
   },
   {
    "id": "book2-doak-tims-contracts-1838",
@@ -6107,7 +6151,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 93
+   "rank": 94
   },
   {
    "id": "book2-stewart-letters-tims-1841",
@@ -6162,7 +6206,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 94
+   "rank": 95
   },
   {
    "id": "book2-old-times-giles-1884",
@@ -6228,7 +6272,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 95
+   "rank": 96
   },
   {
    "id": "choc-willie-jane-tims",
@@ -6327,7 +6371,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 96
+   "rank": 97
   },
   {
    "id": "choc-mitchell-tims",
@@ -6401,7 +6445,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 97
+   "rank": 98
   },
   {
    "id": "choc-willie-tims-mary-lewis",
@@ -6465,7 +6509,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 98
+   "rank": 99
   },
   {
    "id": "choc-henry-w-thompson",
@@ -6524,7 +6568,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 99
+   "rank": 100
   },
   {
    "id": "choc-joseph-w-thompson",
@@ -6587,7 +6631,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 100
+   "rank": 101
   },
   {
    "id": "choc-william-h-pisachubbe",
@@ -6660,7 +6704,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 101
+   "rank": 102
   },
   {
    "id": "choc-edward-pisachubbi",
@@ -6715,7 +6759,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 102
+   "rank": 103
   },
   {
    "id": "choc-love-v-doak-tims-1849",
@@ -6774,7 +6818,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 103
+   "rank": 104
   },
   {
    "id": "choc-edward-tims-chief-1886",
@@ -6838,7 +6882,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 104
+   "rank": 105
   },
   {
    "id": "choc-nancy-pisachubbi",
@@ -6897,7 +6941,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 105
+   "rank": 106
   },
   {
    "id": "choc-rosanna-tims-wilson",
@@ -6973,7 +7017,7 @@
    ],
    "note": "",
    "place": "",
-   "rank": 106
+   "rank": 107
   },
   {
    "id": "choc-james-austin",
@@ -7032,7 +7076,7 @@
    ],
    "note": "",
    "place": "Fowlerville, Towson County, Choctaw Nation",
-   "rank": 107
+   "rank": 108
   },
   {
    "id": "choc-adline-austin",
@@ -7091,7 +7135,7 @@
    ],
    "note": "",
    "place": "Fowlerville, then Speer, Choctaw County",
-   "rank": 108
+   "rank": 109
   },
   {
    "id": "choc-counties-on-the-cards",
@@ -7140,7 +7184,7 @@
    ],
    "note": "",
    "place": "Choctaw Nation, Indian Territory",
-   "rank": 109
+   "rank": 110
   },
   {
    "id": "calvin-vestal-moffitt",
@@ -7198,7 +7242,7 @@
    ],
    "note": "The NPS soldier record names a Calvin V. Moffitt; whether that soldier was Nathan's son is unconfirmed. The family-tree profiles and the Strawberry Township household establish a separate family lead. The dates of Matilda's and the infant's deaths come from a tree import and no certificate has been seen. An 1880 census entry at Janes Creek, Randolph County, attached to him in that profile does not fit his children being born in Missouri through 1889, so it is not used here.",
    "place": "Born in Randolph County, N.C.; raised in Lawrence County, Ark.; died at Duncan, Stephens County, Okla.",
-   "rank": 110
+   "rank": 111
   },
   {
    "id": "patrick-green-moffitt",
@@ -7250,7 +7294,7 @@
    ],
    "note": "Alice as Nancy Cole's daughter is a guess from the surname; no record names her parents.",
    "place": "Born at Sylamore, Ark.; married in Oregon County, Mo.; lived and died at Mountain View, Stone County, Ark.",
-   "rank": 111
+   "rank": 112
   },
   {
    "id": "robert-moffitt-1815",
@@ -7311,7 +7355,7 @@
    ],
    "note": "The census citations are given in the WikiTree profile; the census pages themselves were not viewed. Cynthia Gardner is from North Carolina and no link to the Choctaw Gardner family on the maternal side has been found.",
    "place": "Born in Randolph County, N.C.; farmed in Henderson County, Tenn., and Strawberry Township, Lawrence County, Ark.; died at Hutton Valley, Howell County, Mo.",
-   "rank": 112
+   "rank": 113
   },
   {
    "id": "veno-moffitt-elmira",
@@ -7369,7 +7413,7 @@
    ],
    "note": "The prison record and burial are from the cards cited on WikiTree and Find a Grave; the originals were not viewed.",
    "place": "Randolph County, N.C.; died as a Confederate prisoner at Elmira, N.Y.",
-   "rank": 113
+   "rank": 114
   },
   {
    "id": "william-c-moffitt-three-wives",
@@ -7417,7 +7461,7 @@
    ],
    "note": "The Williams sister idea is only a lead.",
    "place": "Randolph County, N.C.",
-   "rank": 114
+   "rank": 115
   },
   {
    "id": "moffitt-barkers-iowa",
@@ -7466,7 +7510,7 @@
    ],
    "note": "The deathbed account is an undated family account; the census and burial records are as cited on WikiTree.",
    "place": "Randolph County, N.C.; Union County, Iowa",
-   "rank": 115
+   "rank": 116
   },
   {
    "id": "moffitt-rains-craven",
@@ -7509,7 +7553,7 @@
    ],
    "note": "The sons' deaths are a one-line statement on WikiTree; the units were not checked.",
    "place": "Randolph County, N.C. (Coleridge and Ramseur)",
-   "rank": 116
+   "rank": 117
   },
   {
    "id": "tom-moffitt-vesta",
@@ -7562,7 +7606,7 @@
    ],
    "note": "The WikiTree profile does not give his military record; the marker wording is from Find a Grave. Henry's death date appears on WikiTree as 9 September 1901.",
    "place": "Born at St. James, Stone County, Ark.; farmed beside Grady in Choctaw County, Okla.; died at Paris, Texas.",
-   "rank": 117
+   "rank": 118
   },
   {
    "id": "henry-hannah-other-children",
@@ -7609,7 +7653,7 @@
    ],
    "note": "Little is recorded for these siblings. Gimsa is the spelling transcribed from the 1900 census and may be a misreading of a given name.",
    "place": "Randolph and Stone counties, Ark.; West Texas",
-   "rank": 118
+   "rank": 119
   },
   {
    "id": "grady-sons-war",
@@ -7662,7 +7706,7 @@
    ],
    "note": "The dates listed for these children come from census records and family-tree entries; some exact dates need independent confirmation.",
    "place": "Choctaw County, Okla.; Paris, Texas",
-   "rank": 119
+   "rank": 120
   },
   {
    "id": "john-grimes-penelope-blackshear",
@@ -7709,7 +7753,7 @@
    ],
    "note": "David H. Grimes is not named in the Grimes family website; he fits the unnamed son of 1825-1829. The tree that names John Grimes as his father calls him \"John Jasper\" born 1784, which does not match the site's John, born about 1775. WikiTree gives Penelope an 1814 death date that cannot be right if she was living in 1850 or 1864.",
    "place": "Williamson County, then Wayne County, Tenn. (Hardin Creek, near Waynesboro)",
-   "rank": 120
+   "rank": 121
   },
   {
    "id": "grimes-brothers-wayne",
@@ -7762,7 +7806,7 @@
    ],
    "note": "The will is a modern transcription from a poor photocopy. The brothers are tied to David H. only through the unproved link to John and Penelope Grimes.",
    "place": "Wayne County, Tenn.",
-   "rank": 121
+   "rank": 122
   },
   {
    "id": "jesse-blackshear-1814",
@@ -7809,7 +7853,7 @@
    ],
    "note": "WikiTree gives Jesse's death as 1803, which does not fit an estate settled in 1814 with a guardian; the settlement could follow years after his death. Penelope's place as the \"dau., m. Grimes\" rests on the name Penny and the Grimes family site.",
    "place": "Jones County, N.C.; Williamson County, Tenn.",
-   "rank": 122
+   "rank": 123
   },
   {
    "id": "elijah-blackshear-1830",
@@ -7861,7 +7905,7 @@
    ],
    "note": "Elijah is a brother of Penelope only if Penelope is Jesse's daughter. Isaac G. Grimes is not shown to be a relative.",
    "place": "Waynesboro, Wayne County, Tenn.",
-   "rank": 123
+   "rank": 124
   },
   {
    "id": "wt2-thomas-susan-gaunt",
@@ -7908,7 +7952,7 @@
    ],
    "note": "The marriage, Susan's baptism and both wills are record-based. The link from Peter Gaunt of Sandwich to this Lincoln couple rests on the wills naming Peter, as summarized on WikiTree; Thomas's parents are not known.",
    "place": "Rotherham, Norton and Lincoln, England. Peter Gaunt, who crossed to Sandwich in Plymouth Colony, was the only son of their 1609 marriage.",
-   "rank": 124
+   "rank": 125
   },
   {
    "id": "wt2-james-dorothy-bate",
@@ -7955,7 +7999,7 @@
    ],
    "note": "Parish registers name James as father of Susan; his own parents are unknown. Dorothy's parents are not given.",
    "place": "Jordanthorpe, in the parish of Norton just south of Sheffield, on the Yorkshire and Derbyshire border.",
-   "rank": 125
+   "rank": 126
   },
   {
    "id": "wt2-william-croasdale",
@@ -8004,7 +8048,7 @@
    ],
    "note": "Burial dates come from the Settle Meeting register as abstracted by the cited authors; the parent link to Thomas is secondary-source probable, and Elizabeth's surname is unconfirmed.",
    "place": "Newhey (Newah) in the Forest of Bowland, Yorkshire. Quakers of Settle Monthly Meeting; buried at Settle Meeting, Newton.",
-   "rank": 126
+   "rank": 127
   },
   {
    "id": "wt2-henry-janet-croasdale",
@@ -8054,7 +8098,7 @@
    ],
    "note": "Henry's will and burial are record-based; whether this Henry is the emigrant's grandfather is not proven. The baptism of William in 1621 does not match the c.1618 birth year used on WikiTree.",
    "place": "Newhey in the Forest of Bowland, parish of Waddington, Yorkshire.",
-   "rank": 127
+   "rank": 128
   },
   {
    "id": "wt2-william-elizabeth-hawthornthwaite",
@@ -8099,7 +8143,7 @@
    ],
    "note": "Index-level sourcing only; the parent link to Agnes is not shown from a register entry.",
    "place": "Tatham (Tethem) parish, on the Yorkshire and Lancashire border. His daughter Agnes married Thomas Croasdale and sailed to Pennsylvania in 1682.",
-   "rank": 128
+   "rank": 129
   },
   {
    "id": "wt2-anthony-ann-chamness",
@@ -8144,7 +8188,7 @@
    ],
    "note": "Marriage record exists; nothing cited ties John Chamness (b. c.1681) to this couple as their son.",
    "place": "East Smithfield and Wapping, London. If the link holds, they are the grandparents of Anthony Chamness, who was sent to America as a boy and settled at Cane Creek.",
-   "rank": 129
+   "rank": 130
   },
   {
    "id": "wt2-john-mary-rogers",
@@ -8193,7 +8237,7 @@
    ],
    "note": "Parentage from a Quaker birth record is solid for the 1687 John; that he is our Thomas Rogers's father conflicts with the dates of our John Rodgers's will (proved 1767).",
    "place": "Quakers of Nottingham township, Burlington County, New Jersey. John is said to have come from Rotherham, Yorkshire, on the ship Kent in 1677.",
-   "rank": 130
+   "rank": 131
   },
   {
    "id": "wt2-henry-ann-stevenson",
@@ -8240,7 +8284,7 @@
    ],
    "note": "Marriage indexes are solid; the children are attached from family-tree compilations, and the obituary does not name Henry or Ann.",
    "place": "Downpatrick and Belfast, County Antrim, Ireland. If the line is right, they are the parents of the Scots-Irish James Stevenson who died in Iredell County, North Carolina, in 1820.",
-   "rank": 131
+   "rank": 132
   },
   {
    "id": "wt2-robert-virginia-johnson",
@@ -8296,7 +8340,7 @@
    ],
    "note": "The Quaker abstracts are good evidence for the couple. The step to Martha Johnson (b. 1766) as their daughter comes from a compiled family history, so it stays probable.",
    "place": "Quakers of Cedar Creek Meeting, Hanover County, Virginia, who moved in 1766 to Deep River and Stokes County, North Carolina.",
-   "rank": 132
+   "rank": 133
   },
   {
    "id": "wt2-ashley-martha-johnson",
@@ -8354,7 +8398,7 @@
    ],
    "note": "Deeds and meeting records name Ashley, Martha and Elijah. Robert as their son is supported by WikiTree's compiled Quaker sources.",
    "place": "St Peter's Parish, New Kent County, then Cedar Creek in Hanover and Chamberlain's Creek, Louisa County, Virginia. Friends of the Henrico and Cedar Creek meetings.",
-   "rank": 133
+   "rank": 134
   },
   {
    "id": "wt2-john-johnson-new-kent",
@@ -8403,7 +8447,7 @@
    ],
    "note": "Land records are original; the first wife and John's parents are unresolved on WikiTree.",
    "place": "St Peter's Parish, New Kent County, later St Paul's Parish, Hanover County, Virginia. A Friend of the Cedar Creek and Henrico meetings.",
-   "rank": 134
+   "rank": 135
   },
   {
    "id": "wt2-john-frances-paine",
@@ -8446,7 +8490,7 @@
    ],
    "note": "The will is a real record; whether William Paine of Burke County is John's son, and Lydia his daughter, is unproven.",
    "place": "Spotsylvania County, Virginia, born in Drysdale Parish, King and Queen County.",
-   "rank": 135
+   "rank": 136
   },
   {
    "id": "wt2-hezekiah-mary-alexander",
@@ -8494,7 +8538,7 @@
    ],
    "note": "Hezekiah and Mary are well documented; that Esther (Alexander) Garrison is their daughter, and mother of John Milton Garrison, rests on compiled lists only.",
    "place": "Sugaw Creek, Mecklenburg County, North Carolina, from New Munster in Cecil County, Maryland. Presbyterians; Hezekiah is a recognized Revolutionary patriot and the family's stone house survives as a museum site.",
-   "rank": 136
+   "rank": 137
   },
   {
    "id": "wt2-william-esther-sample",
@@ -8540,7 +8584,7 @@
    ],
    "note": "The wills and estate papers are the record basis; birthplace and Esther's parentage come from compiled summaries.",
    "place": "Hopewell Presbyterian congregation, Mecklenburg County, North Carolina, earlier of Cecil County, Maryland.",
-   "rank": 137
+   "rank": 138
   },
   {
    "id": "wt2-james-margaret-alexander",
@@ -8587,7 +8631,7 @@
    ],
    "note": "Bible list and compiled records only; the Donegal ancestry beyond James is not accepted here.",
    "place": "Manokin Hundred, Somerset County, then New Munster, Cecil County, Maryland. Buried at Head of Christiana Church, Delaware.",
-   "rank": 138
+   "rank": 139
   },
   {
    "id": "wt2-samuel-esther-garrison",
@@ -8635,7 +8679,7 @@
    ],
    "note": "Plausible and consistent with the move to Allen County, but no cited record names John Milton as Samuel's son.",
    "place": "Mecklenburg County, North Carolina, then Warren (later Allen) County, Kentucky. Samuel is said to be buried at Old Scottsville Cemetery.",
-   "rank": 139
+   "rank": 140
   },
   {
    "id": "wroyh",
@@ -8682,7 +8726,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 140
+   "rank": 141
   },
   {
    "id": "jwesleyh",
@@ -8725,7 +8769,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 141
+   "rank": 142
   },
   {
    "id": "noahh",
@@ -8768,7 +8812,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 142
+   "rank": 143
   },
   {
    "id": "fredh",
@@ -8807,7 +8851,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 143
+   "rank": 144
   },
   {
    "id": "rubystipe",
@@ -8846,7 +8890,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 144
+   "rank": 145
   },
   {
    "id": "gradyh",
@@ -8881,7 +8925,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 145
+   "rank": 146
   },
   {
    "id": "louisdh",
@@ -8933,7 +8977,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 146
+   "rank": 147
   },
   {
    "id": "graceirene",
@@ -8972,7 +9016,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 147
+   "rank": 148
   },
   {
    "id": "georgepaulh",
@@ -9007,7 +9051,7 @@
    ],
    "note": "The birth year and parentage come from the family listing of the ten children; the dates of death, marriages and later homes have not been confirmed from a certificate or census page and are marked lead where given.",
    "place": "",
-   "rank": 148
+   "rank": 149
   },
   {
    "id": "margaretcornett",
@@ -9065,7 +9109,7 @@
    ],
    "note": "The identification of the 1880 and 1884 Margaret Crumptons, Margaret's maiden name, the identity of the 1860 Margaret Cornett, and Sarah Rebecca's mother are unresolved. The 1884 groom's age differs substantially from that cited for Jesse in 1871. The family genealogy's account of Margaret's death has not been independently verified.",
    "place": "Garland Co., Arkansas",
-   "rank": 149
+   "rank": 150
   },
   {
    "id": "emmafisher",
@@ -9117,7 +9161,7 @@
    ],
    "note": "The genealogy treats Sarah L. Garrett's identification as Emma's mother as probable. Vestal's reported birth date, 21 March 1881, is after the 1880 census; the genealogy lists Abraham, Catherine and Greenbury as the children born by then.",
    "place": "Mountain Twp, Montgomery Co., Arkansas",
-   "rank": 150
+   "rank": 151
   },
   {
    "id": "nancywilborn",
@@ -9160,7 +9204,7 @@
    ],
    "note": "The 1889 marriage index names Nancy Cutter; the 1977 query uses Nancy Wilborn Sutton, while the family genealogy uses Nancy Wilborn Kyle Cuttler. The connection between these names and Sarah Rebecca requires independent verification.",
    "place": "Garland Co., Arkansas",
-   "rank": 151
+   "rank": 152
   },
   {
    "id": "robertrhulsey",
@@ -9199,7 +9243,7 @@
    ],
    "note": "In this transcription Benjamin is 6 in 1850, which gives a birth about 1844; the family record and the entry for Benjamin say 2 February 1847, and the census would then have said 3.",
    "place": "Union Co., Georgia; Hempstead Co., Arkansas",
-   "rank": 152
+   "rank": 153
   },
   {
    "id": "graves-orphans",
@@ -9248,7 +9292,7 @@
    ],
    "note": "Names are spelled Alley, Ursa, Alison, Madison in the 1860 census and Alley, Ultha, Alison, Madison in the 1861 guardianship; Ursa and Ultha are probably the same child.",
    "place": "Montgomery Co., Arkansas",
-   "rank": 153
+   "rank": 154
   },
   {
    "id": "pollygray",
@@ -9295,7 +9339,7 @@
    ],
    "note": "The genealogy gives the 1859 ages as 21 for Washburn and 19 for her. The date of her death is given only as about 1879.",
    "place": "Hot Spring Co. and Cedar Glades, Arkansas",
-   "rank": 154
+   "rank": 155
   },
   {
    "id": "benjamin-wives",
@@ -9342,7 +9386,7 @@
    ],
    "note": "No woman in this account is substituted for another. The records do not yet establish George Washington Hulsey’s biological mother or prove that the 1880 father and 1893 groom were the same man. The license issue date is not a confirmed ceremony date.",
    "place": "Montgomery and Garland counties, Arkansas",
-   "rank": 155
+   "rank": 156
   },
   {
    "id": "m3-cedar-glades-1864",
@@ -9384,7 +9428,7 @@
    "kv": [],
    "note": "The event and the petition are proven by the printed Official Records. That Gilliam Graves or B. F. Hulsey took part in it is not shown; the OCR text reads \"Company L\".",
    "place": "Cedar Glades, Montgomery County, Arkansas",
-   "rank": 156
+   "rank": 157
   },
   {
    "id": "m3-4th-ark-cav-scouts-1864",
@@ -9422,7 +9466,7 @@
    "kv": [],
    "note": "Page numbers are from the OCR text of the volumes and should be checked against page images. No document seen names Gilliam Graves or Benjamin Hulsey.",
    "place": "Montgomery County, Arkansas",
-   "rank": 157
+   "rank": 158
   },
   {
    "id": "m3-co-f-andersonville",
@@ -9460,7 +9504,7 @@
    "kv": [],
    "note": "That Daniel W. O'Neal is among the 143 names has not been confirmed by a reading of the stone.",
    "place": "Oakland City, Gibson County, Indiana",
-   "rank": 158
+   "rank": 159
   },
   {
    "id": "m3-gibson-hanging-1872",
@@ -9496,7 +9540,7 @@
    "kv": [],
    "note": "Page number not recorded from the OCR text. Stormont's booklet says Denby was transferred from the 42nd Indiana and commissioned colonel of another Gibson County regiment after Perryville.",
    "place": "Princeton and Haubstadt, Gibson County, Indiana",
-   "rank": 159
+   "rank": 160
   },
   {
    "id": "m3-princeton-cyclone-1876",
@@ -9531,7 +9575,7 @@
    "kv": [],
    "note": "The O'Neal link to this storm is by place only. The text says the storm \"passed out northeast of Oakland\" in the OCR, which may be misread.",
    "place": "Princeton, Gibson County, Indiana",
-   "rank": 160
+   "rank": 161
   },
   {
    "id": "m3-coleman-stevenson-csa",
@@ -9569,7 +9613,7 @@
    "kv": [],
    "note": "Goodspeed does not say the 32nd was Confederate; that is from the regiment itself. Whether Abner or his own sons served is not known.",
    "place": "Ninth District, Giles County, Tennessee",
-   "rank": 161
+   "rank": 162
   },
   {
    "id": "m3-philip-bruce-bee-spring",
@@ -9609,7 +9653,7 @@
    "kv": [],
    "note": "McFerrin prints the name as Stephenson. Page numbers are approximate from the OCR text (182-183 for the Bruce passage).",
    "place": "Bee Spring, Giles County, Tennessee",
-   "rank": 162
+   "rank": 163
   },
   {
    "id": "m3-salathiel-1850",
@@ -9640,7 +9684,7 @@
    "kv": [],
    "note": "This is a transcription of a transcription; the original census page has not been seen. The ages of Benjamin disagree with the grave and with the earlier text.",
    "place": "Union County, Georgia",
-   "rank": 163
+   "rank": 164
   },
   {
    "id": "m3-hulseys-hall-county",
@@ -9671,7 +9715,7 @@
    "kv": [],
    "note": "A lead only. Salathiel's parentage is not established.",
    "place": "Hall County, Georgia",
-   "rank": 164
+   "rank": 165
   },
   {
    "id": "mil-4th-arkansas-cav-union",
@@ -9730,7 +9774,7 @@
    ],
    "note": "A soldier named Calvin V. Moffitt is listed in Company L, whose members in March 1864 were men from Montgomery County; how he came to be in that company is not shown, so the identification stays a lead.",
    "place": "Montgomery County and Little Rock, Arkansas",
-   "rank": 165
+   "rank": 166
   },
   {
    "id": "mil-buck-horn-1864",
@@ -9781,7 +9825,7 @@
    ],
    "note": "Buck Horn here is the White River community in Stone County; the Moffitts did not live there until the late 1880s.",
    "place": "Buck Horn, Stone County, Arkansas",
-   "rank": 166
+   "rank": 167
   },
   {
    "id": "mil-edmond-co-d-st-etienne",
@@ -9837,7 +9881,7 @@
    ],
    "note": "Chastaine does not name Edmond in the narrative; his presence in Company D is established by the Honor Roll and the regiment's report, and the battalion's movements by the book.",
    "place": "St. Etienne-a-Arnes, Champagne, France",
-   "rank": 167
+   "rank": 168
   },
   {
    "id": "mil-camp-pike-influenza-1918",
@@ -9888,7 +9932,7 @@
    ],
    "note": "The 1920 McCurtain County detail is from the census already cited under George W. Hulsey.",
    "place": "Camp Pike, near Little Rock, Arkansas",
-   "rank": 168
+   "rank": 169
   },
   {
    "id": "mil-registration-days",
@@ -9943,7 +9987,7 @@
    ],
    "note": "Joel and Peter Thompson are placed in the 1917 registration by birth date only; no card has been seen, so their service, if any, is a lead.",
    "place": "Choctaw, Montgomery and Pushmataha counties",
-   "rank": 169
+   "rank": 170
   },
   {
    "id": "mil-9th-kentucky-satterfield",
@@ -9994,7 +10038,7 @@
    ],
    "note": "The 'Ninth Kentucky' of his own sketch is taken at its word; his service is not matched to a roster entry.",
    "place": "Allen and Butler counties, Kentucky",
-   "rank": 170
+   "rank": 171
   },
   {
    "id": "sd-sidney-ancie",
@@ -10045,7 +10089,7 @@
    ],
    "note": "Dates and family links come from Find a Grave memorials; no original record has been checked.",
    "place": "Butler County, Kentucky; buried at Satterfield Cemetery, Jetson",
-   "rank": 171
+   "rank": 172
   },
   {
    "id": "sd-james-doiser",
@@ -10092,7 +10136,7 @@
    ],
    "note": "The wife's name as given on Find a Grave looks like a transcription of a maiden name (Embry); not checked.",
    "place": "Born in Allen County, Kentucky; died at Hickoria, Clay County, Arkansas",
-   "rank": 172
+   "rank": 173
   },
   {
    "id": "sd-am-coots",
@@ -10139,7 +10183,7 @@
    ],
    "note": "",
    "place": "Born in Minnesota; buried at Butler Phelps Cemetery, Butler County, Kentucky",
-   "rank": 173
+   "rank": 174
   },
   {
    "id": "sd-lucinda-phelps-family",
@@ -10187,7 +10231,7 @@
    ],
    "note": "Effie J. Bean is given as dying 6 Feb 1974 in Kerr County on the group sheet but as 1899-1938 on Find a Grave. The two sources disagree.",
    "place": "Butler County, Kentucky, then Bowie County, Texas",
-   "rank": 174
+   "rank": 175
   },
   {
    "id": "sd-george-franklin",
@@ -10236,7 +10280,7 @@
    ],
    "note": "",
    "place": "Born at Brooklyn, Butler County, Kentucky; died at Texarkana; buried at Lockesburg, Arkansas",
-   "rank": 175
+   "rank": 176
   },
   {
    "id": "sd-alonzo-grover",
@@ -10291,7 +10335,7 @@
    ],
    "note": "",
    "place": "Born in Butler County, Kentucky; lived in Bowie County, Texas",
-   "rank": 176
+   "rank": 177
   },
   {
    "id": "sd-wavey",
@@ -10344,7 +10388,7 @@
    ],
    "note": "",
    "place": "Born at Morgantown, Butler County, Kentucky; died at Soper, Choctaw County, Oklahoma",
-   "rank": 177
+   "rank": 178
   },
   {
    "id": "sd-james-bethel",
@@ -10391,7 +10435,7 @@
    ],
    "note": "Whether the two Riddle spouses were related is unchecked (lead).",
    "place": "Born in Kentucky; died at Paris, Lamar County, Texas; buried at Soper, Oklahoma",
-   "rank": 178
+   "rank": 179
   },
   {
    "id": "sd-stella",
@@ -10438,7 +10482,7 @@
    ],
    "note": "",
    "place": "Born in Franklin County, Texas; buried at Chillicothe, Hardeman County, Texas",
-   "rank": 179
+   "rank": 180
   },
   {
    "id": "sd-ira-jewel",
@@ -10486,7 +10530,7 @@
    ],
    "note": "",
    "place": "Ira born in Kentucky; Jewel born at Talco, Titus County, Texas; both ended in Choctaw County, Oklahoma",
-   "rank": 180
+   "rank": 181
   },
   {
    "id": "sd-bird-stephens",
@@ -10533,7 +10577,7 @@
    ],
    "note": "The Choctaw detail about his first wife is from a family biography and has not been checked against a roll or record (lead).",
    "place": "Born in Tennessee; Oaks Township, Choctaw County, Oklahoma, in 1920; buried at Mount Pleasant, Texas",
-   "rank": 181
+   "rank": 182
   },
   {
    "id": "sd-newton-clark",
@@ -10583,7 +10627,7 @@
    ],
    "note": "",
    "place": "Brooklyn, Butler County, Kentucky",
-   "rank": 182
+   "rank": 183
   },
   {
    "id": "sd-stanford-clark",
@@ -10631,7 +10675,7 @@
    ],
    "note": "Service is from the headstone inscription; no muster roll seen.",
    "place": "Butler County, Kentucky",
-   "rank": 183
+   "rank": 184
   },
   {
    "id": "sd-belva-clark",
@@ -10678,7 +10722,7 @@
    ],
    "note": "The date the Clarks reached Oklahoma is not given on the memorial.",
    "place": "Born in Butler County, Kentucky; died at Cushing, Payne County, Oklahoma",
-   "rank": 184
+   "rank": 185
   },
   {
    "id": "sd-martha-clark-johnson",
@@ -10725,7 +10769,7 @@
    ],
    "note": "Relationship of the two Johnson husbands is a lead.",
    "place": "Butler County, Kentucky; buried at Satterfield Cemetery, Jetson",
-   "rank": 185
+   "rank": 186
   },
   {
    "id": "sd-charlie-johnson",
@@ -10772,7 +10816,7 @@
    ],
    "note": "Martha Alice Satterfield's parentage is a lead.",
    "place": "Born at Brooklyn, Butler County, Kentucky; died at Welchs Creek, Butler County",
-   "rank": 186
+   "rank": 187
   },
   {
    "id": "sd-hazel-king",
@@ -10824,7 +10868,7 @@
    ],
    "note": "The Moffitt pallbearers are an inference from the surname; the obituary does not name Mary or Grady.",
    "place": "Born at Rattan, Delta County, Texas; died at Paris, Texas",
-   "rank": 187
+   "rank": 188
   },
   {
    "id": "sd-balis",
@@ -10871,7 +10915,7 @@
    ],
    "note": "Myrtle and Eddie appear only in the 1900 census transcription (lead).",
    "place": "Born in Alabama; died in Los Angeles County, California",
-   "rank": 188
+   "rank": 189
   },
   {
    "id": "sd-robert-yates",
@@ -10923,7 +10967,7 @@
    ],
    "note": "Josephine Haskell, Eulah Tillman and Beulah Hutchins are not yet tied to a birth year or place.",
    "place": "Born at Gadsden, Etowah County, Alabama; died at Oroville, California",
-   "rank": 189
+   "rank": 190
   },
   {
    "id": "sd-shackleford-sisters",
@@ -10962,7 +11006,7 @@
    ],
    "note": "Lead: no vital record seen for any of the three.",
    "place": "Oklahoma and Texas",
-   "rank": 190
+   "rank": 191
   },
   {
    "id": "sd-hagansport-cemetery",
@@ -11005,7 +11049,7 @@
    ],
    "note": "",
    "place": "Hagansport, Franklin County, Texas",
-   "rank": 191
+   "rank": 192
   },
   {
    "id": "sd-satterfield-cemetery",
@@ -11044,7 +11088,7 @@
    ],
    "note": "",
    "place": "Jetson, Butler County, Kentucky",
-   "rank": 192
+   "rank": 193
   },
   {
    "id": "cem-wheelock",
@@ -11092,7 +11136,7 @@
    ],
    "note": "",
    "place": "Wheelock, near Millerton, McCurtain County, Oklahoma, the old Choctaw mission ground where Oscar Franklin Hulsey was buried in June 1982.",
-   "rank": 193
+   "rank": 194
   },
   {
    "id": "cem-mount-olivet",
@@ -11140,7 +11184,7 @@
    ],
    "note": "",
    "place": "Hugo, Choctaw County, Oklahoma, where Frank and Parsis Jane Stevenson and their daughter Katie Hulsey are buried.",
-   "rank": 194
+   "rank": 195
   },
   {
    "id": "cem-shoat-springs",
@@ -11194,7 +11238,7 @@
    ],
    "note": "",
    "place": "South of Hugo, Choctaw County, Oklahoma (3 miles east of SH 93 on US 70, then 2.75 miles south on Fallon Road).",
-   "rank": 195
+   "rank": 196
   },
   {
    "id": "cem-cane-creek",
@@ -11244,7 +11288,7 @@
    ],
    "note": "",
    "place": "Cane Creek Meeting, Snow Camp, Alamance County, North Carolina.",
-   "rank": 196
+   "rank": 197
   },
   {
    "id": "cem-breashears",
@@ -11292,7 +11336,7 @@
    ],
    "note": "",
    "place": "1.25 miles east of Story, Montgomery County, Arkansas, on Red Ridge Road, a quarter mile off Highway 298.",
-   "rank": 197
+   "rank": 198
   },
   {
    "id": "cem-bee-spring",
@@ -11344,7 +11388,7 @@
    ],
    "note": "",
    "place": "Bee Spring Methodist church, about 3 miles northeast of Bryson and 15 miles southeast of Pulaski, Tennessee.",
-   "rank": 198
+   "rank": 199
   },
   {
    "id": "mig-hugh-moffitt-scioto",
@@ -11377,7 +11421,7 @@
    "kv": [],
    "note": "The 1799 will records a planned move, not a completed journey. The 1853 letter and the will identify the same immediate family, but the original documents and an Ohio death or burial record have not been seen. The connection to William Moffitt and Mary Davies is supported by family testimony and later genealogy, but remains a lead.",
    "place": "Chatham County, North Carolina; possible move to Ohio",
-   "rank": 200
+   "rank": 201
   },
   {
    "id": "mig-silas-moffitt-1823",
@@ -11415,7 +11459,7 @@
    "kv": [],
    "note": "Compiled 1928 family book quoting a county history; no North Carolina or Indiana deed has been checked.",
    "place": "Randolph County, North Carolina to Hamilton County, Indiana",
-   "rank": 201
+   "rank": 202
   },
   {
    "id": "mig-davies-norton-road",
@@ -11457,7 +11501,7 @@
    "kv": [],
    "note": "The exact year Charles and Hannah left Hopewell is not recorded because the early minutes burned. The Norton route to Cane Creek rests on the tree's reading of West Nottingham, Hopewell and Fairfax records.",
    "place": "Radnor and Goshen, Pennsylvania; Hopewell and Fairfax, Virginia; Cane Creek, North Carolina",
-   "rank": 202
+   "rank": 203
   },
   {
    "id": "mig-chamness-london-carolina",
@@ -11490,7 +11534,7 @@
    "kv": [],
    "note": "Martha's birthplace is given as Center, Guilford, in the tree; if Centre Meeting's neighborhood fell in Randolph County in 1778 the county named at birth would differ. The Dover 'Camness' is a surname match only.",
    "place": "Whitechapel, London; Baltimore County, Maryland; Monocacy; Carver's Creek and Cane Creek, North Carolina",
-   "rank": 203
+   "rank": 204
   },
   {
    "id": "mig-nordyke-1761-1805",
@@ -11528,7 +11572,7 @@
    "kv": [],
    "note": "Terrell dates the Ohio move to 1805 and Weeks's context supports Tennessee in 1798; the tree entry for Abraham gives Clinton County in 1806. The Georgia meeting is not named. A diary of the road from Tennessee to Ohio is quoted in the same book but is not attributed to the Nordykes.",
    "place": "Burlington County, New Jersey; Virginia; Georgia; Deep River, North Carolina; Lost Creek, Tennessee; East Fork, Ohio",
-   "rank": 204
+   "rank": 205
   },
   {
    "id": "mig-nordyke-shaw-indiana",
@@ -11561,7 +11605,7 @@
    "kv": [],
    "note": "Parses Shaw's parentage and the 'Ohio' of her birthplace (the town of that name is in Indiana) are unresolved. Aden Nordyke's Indiana death place comes from the tree and has not been checked against a record.",
    "place": "Deep River and Dover Meetings, Guilford County, North Carolina; Indiana; Gibson County, Indiana",
-   "rank": 205
+   "rank": 206
   },
   {
    "id": "mig-hulsey-georgia-arkansas",
@@ -11597,7 +11641,7 @@
    "kv": [],
    "note": "Salathiel's place in the line depends on Benjamin being G. W. Hulsey's father, and the Hall County Hulseys are not tied to Salathiel. The Memoirs' Jennings is the grandfather of a DeKalb County man, not a proven ancestor.",
    "place": "Virginia; South Carolina; Hall and Union counties, Georgia; Hempstead and Montgomery counties, Arkansas",
-   "rank": 206
+   "rank": 207
   },
   {
    "id": "mig-graves-toms-creek-cedar-glades",
@@ -11628,7 +11672,7 @@
    "kv": [],
    "note": "Jesse King Graves's Alabama birth conflicts with Gilliam's Arkansas tax record in 1853; the tree also gives different details for Gilliam's death.",
    "place": "Toms Creek, Randolph County, North Carolina; Cherokee County, Georgia; Cedar Glades, Montgomery County, Arkansas; Garland County, Arkansas",
-   "rank": 207
+   "rank": 208
   },
   {
    "id": "mig-satterfield-nc-ky-tx",
@@ -11659,7 +11703,7 @@
    "kv": [],
    "note": "WikiTree gives Ephraim's birth as South Carolina in 1787, while the 1885 sketch says Virginia; the Maury County birthplace for Henry rests on the same sketch.",
    "place": "Orange County, North Carolina; South Carolina; Warren and Allen counties, Kentucky; Maury and Wilson counties, Tennessee; Butler County, Kentucky; Franklin County, Texas",
-   "rank": 208
+   "rank": 209
   },
   {
    "id": "mig-moffitt-arkansas-counties",
@@ -11697,7 +11741,7 @@
    "kv": [],
    "note": "No record explains why Nathan left North Carolina in the early 1840s. His 1850 household is read from children's birthplaces; the scan of the 1894 sketch is damaged at the left margin.",
    "place": "Lawrence County, Randolph County and Stone County, Arkansas; Choctaw County, Oklahoma; Martin County, Texas",
-   "rank": 209
+   "rank": 210
   },
   {
    "id": "mig-stevenson-frank-road",
@@ -11728,7 +11772,7 @@
    "kv": [],
    "note": "The order of the Texas and Oklahoma births between 1889 and 1902 is not established from the sources seen.",
    "place": "Pulaski, Tennessee; Gibson County, Indiana; Texas; Oklahoma; Danville, Yell County, Arkansas; Valliant and Hugo, Oklahoma",
-   "rank": 210
+   "rank": 211
   },
   {
    "id": "mig-pisachubbe-first-exiles",
@@ -11766,7 +11810,7 @@
    "kv": [],
    "note": "No removal roll naming Joseph Pisachubbe has been seen. Fort Coffee was established in June 1834, so a settlement there in 1832 cannot be literal.",
    "place": "Mississippi; Arkansas Post and Little Rock; the Arkansas River near Fort Smith and Fort Coffee",
-   "rank": 211
+   "rank": 212
   },
   {
    "id": "mig-doaksville-1833-removal",
@@ -11808,7 +11852,7 @@
    "kv": [],
    "note": "The 1833 letter names Doaksville and white traders but not Tims; the Josiah S. Doak line in Stephenson's account is not identified by place and the scan is garbled.",
    "place": "Doaksville and the Kiamichi, Choctaw Nation",
-   "rank": 212
+   "rank": 213
   },
   {
    "id": "wt-peter-lydia-gaunt",
@@ -11896,7 +11940,7 @@
    ],
    "note": "The Plymouth court books identify Peter Gaunt at Sandwich, 1654–61. The Lincoln baptism is an inference, and the proposed parents Thomas Gaunt and Susan Bate remain a lead. Family trees give Peter’s death as 10 May 1678, also the date of Hananiah’s wedding; both require confirmation. The 1661 Lydia Gaunt entry is unplaced and is not evidence about Peter’s wife.",
    "place": "Peter Gaunt was baptized at St Peter at Gowts, Lincoln, on 29 June 1610 (WikiTree: 'almost certainly' the emigrant), settled at Sandwich on Cape Cod in Plymouth Colony, and became a Quaker. He died there on 10 May 1678, and Lydia in April 1692. Their sons included Israel and Hananiah, who moved to New Jersey.",
-   "rank": 213
+   "rank": 214
   },
   {
    "id": "wt-thomas-dorothy-butler",
@@ -11968,7 +12012,7 @@
    ],
    "note": "Evidence: probable. Dorothy's maiden name is not known; 'Howes' is a guess. The court books name one Thomas Butler of Sandwich with wife Dorothy and son Daniel; a second Thomas Butler lived on Martha's Vineyard and is not this man.",
    "place": "Thomas Butler was at Sandwich, Plymouth Colony, soon after the town was founded in 1637. His wife Dorothy died there on 9 August 1675 and was buried the next day; Thomas died on 12 March 1690. Their daughter Dorothy married Hananiah Gaunt. Thomas's origin is not known.",
-   "rank": 214
+   "rank": 215
   },
   {
    "id": "col-sandwich-cattle-1658",
@@ -12011,7 +12055,7 @@
    "kv": [],
    "note": "The amounts in Besse's list were read from a scan; the 43 pounds 14 shillings 6 pence for Gaunt should be checked against a page image.",
    "place": "Sandwich, Cape Cod, Massachusetts",
-   "rank": 215
+   "rank": 216
   },
   {
    "id": "col-hananiah-gaunt-deeds",
@@ -12065,7 +12109,7 @@
    ],
    "note": "The Dartmouth list and the Ricketson deed are secondary; they are probable.",
    "place": "Oneanickon, Springfield Township, Burlington County, New Jersey",
-   "rank": 216
+   "rank": 217
   },
   {
    "id": "col-browne-dewsbury",
@@ -12112,7 +12156,7 @@
    "kv": [],
    "note": "The memorandum was written down more than a century after the events from a descendant's memory; the 'William senior' it names is Richard in the registers. The Findon entry is a lead.",
    "place": "Podington, Bedfordshire, near Wellingborough, England",
-   "rank": 217
+   "rank": 218
   },
   {
    "id": "col-brown-keith-marcus-hook",
@@ -12168,7 +12212,7 @@
    ],
    "note": "The memorandum dates William's landing 'about the year 1696' and Cope marks that as wrong; the Keith dispute dates from about 1692. The date for Dorothy's death at sea is inferred from the voyage.",
    "place": "Marcus Hook and Chichester, Pennsylvania",
-   "rank": 218
+   "rank": 219
   },
   {
    "id": "col-nottingham-lots-brown",
@@ -12211,7 +12255,7 @@
    "kv": [],
    "note": "The lot numbers come from the history's account of the plat; the 1701 ride with Penn and the first-tree remark are tradition, not records.",
    "place": "Nottingham Lots, Chester County, Pennsylvania (now Cecil County line)",
-   "rank": 219
+   "rank": 220
   },
   {
    "id": "wt-thomas-agnes-croasdale",
@@ -12288,7 +12332,7 @@
    ],
    "note": "Thomas Maxwell Potts’s 1895 book reproduces the inventories and meeting entries; these are printed transcriptions, not images of the original manuscripts. Thomas’s inventory supports his death in 1684 rather than 1682. Agnes’s printed inventory year conflicts with the reported 1686 death and administration. Their own birth dates and parents remain unverified. The ship name is disputed in later accounts. The Swarthmore finding aid describes the 1682 and 1728 documents; their original text has not been independently examined. The 1733 debtor’s identity is not established.",
    "place": "From New Hay, Yorkshire, to Neshaminy Creek, Bucks County, Pennsylvania. The Settle certificate of 1682 names Thomas, Agnes and six children.",
-   "rank": 220
+   "rank": 221
   },
   {
    "id": "wt-ellen-cowgill",
@@ -12345,7 +12389,7 @@
    ],
    "note": "Ellen’s identity as mother is probable; the children’s father remains unconfirmed. Ralph as Ellen's son and the Lamb as the ship are both probable, not proven; John's servitude to Hayhurst rests on the 1970 study.",
    "place": "A widow in the 1682 Settle certificate, which reads 'Ellen Cowgill widow & her children'; later genealogical research identifies children Edmund, Jennet, John and Jane. Accounts differ on the ship that carried the party. She settled at Middletown, Bucks County, Pennsylvania, and is buried in the Middletown cemetery. Her husband's name is not documented: tradition says Ralph Cowgill, but the Cowgill family association thinks Edmund Cowgill, baptized 1634 at Thornton in Craven. The maiden name Stackhouse of Giggleswick is traditional and disputed.",
-   "rank": 221
+   "rank": 222
   },
   {
    "id": "col-cowgill-tanyard-delaware",
@@ -12401,7 +12445,7 @@
    ],
    "note": "Quaker month numbers began with March before 1752; from 1752 they began with January. The historical dates here are transcribed from published genealogies.",
    "place": "Blackbird Creek and Duck Creek, New Castle County, Delaware",
-   "rank": 222
+   "rank": 223
   },
   {
    "id": "col-cowgill-carted-little-creek",
@@ -12448,7 +12492,7 @@
    "kv": [],
    "note": "That this is the nephew of Elizabeth Cowgill depends on the Stout family history's genealogy, which makes him the son of John Cowgill and Lydia Clayton.",
    "place": "Little Creek Hundred, Kent County, Delaware",
-   "rank": 223
+   "rank": 224
   },
   {
    "id": "col-norton-brown-armagh",
@@ -12487,7 +12531,7 @@
    "kv": [],
    "note": "The marriages and the Brown relationships are proven by meeting records; that the Rowan County Nortons of 1763 are this couple is probable, not proven.",
    "place": "West Nottingham, Chester County, Pennsylvania; later Hopewell and Fairfax, Virginia",
-   "rank": 224
+   "rank": 225
   },
   {
    "id": "jperkins",
@@ -12551,7 +12595,7 @@
    ],
    "note": "The calendar abstracts the wills; the originals have not been read. That Henry and Rebecca's son Abraham is the Abraham Nordyke who married Mary Rogers in 1761 comes from the family tree, not from these abstracts. Some trees identify Jacob Sr. with a man from Hampton, New Hampshire, who married Mary Philbrick, but no record has established that this man moved to New Jersey.",
    "place": "Wellingborough (Willingboro), Burlington County, New Jersey. Parents of Rebecca, who married Henry Nordyke in 1731.",
-   "rank": 225
+   "rank": 226
   },
   {
    "id": "kytx-giles-war",
@@ -12606,7 +12650,7 @@
    ],
    "note": "Place story. It describes the county, not any raid on the Stevenson farm; no source seen says what Abner's family lost or did.",
    "place": "Pulaski and Bee Spring, Giles County, Tennessee",
-   "rank": 226
+   "rank": 227
   },
   {
    "id": "jmgarrison",
@@ -12670,7 +12714,7 @@
    ],
    "note": "The divorce is proven by the printed act. The 1810 slave count is a WikiTree transcription (probable). The Sarah Stamps children and their legitimation are a lead: WikiTree states them without a source and the act was not found. No record examined directly names Mary’s mother. Her attribution to Patsey rests on Mary’s birth during the marriage and the Cannon middle name already in the family tree.",
    "place": "Allen County, Kentucky.",
-   "rank": 227
+   "rank": 228
   },
   {
    "id": "kytx-hagansport-soil",
@@ -12723,7 +12767,7 @@
    ],
    "note": "The soil survey describes the area, not an individual ancestor; the family details come from census records.",
    "place": "Hagansport, Franklin County, Texas",
-   "rank": 228
+   "rank": 229
   },
   {
    "id": "sd-abner-fifteen",
@@ -12759,7 +12803,7 @@
    "kv": [],
    "note": "The Casey family history names the fifteen children and their births; the 1870 and 1880 census households and the cemetery dates fit it, but the family history has no sources for the exact days.",
    "place": "Giles County, Tennessee, with branches in Alabama, Arkansas and Texas",
-   "rank": 229
+   "rank": 230
   },
   {
    "id": "sd-george-edward-texas",
@@ -12798,7 +12842,7 @@
    "kv": [],
    "note": "The El Paso death and the Lubbock judgeship come from the family history alone, which has no source for them. A Texas death record or a Lubbock County court record would settle both.",
    "place": "Giles County, Tennessee; Texas",
-   "rank": 230
+   "rank": 231
   },
   {
    "id": "sd-julia-andrew",
@@ -12828,7 +12872,7 @@
    "kv": [],
    "note": "Julia's death year is given as 1925 and 1928 in different WikiTree fields, and her birth as 1856 and 1857. A Texas death certificate or Vernon cemetery record would settle it.",
    "place": "Giles County, Tennessee; Rockwall and Wilbarger Counties, Texas",
-   "rank": 231
+   "rank": 232
   },
   {
    "id": "sd-ellen-britton",
@@ -12858,7 +12902,7 @@
    "kv": [],
    "note": "Birthplaces and the month of Ellen's death differ between the sources. The family history's 17 September 1872 birth date for Logan and 24 January 1873 date for Sarah Beulah are only four months apart. The 1880 census records a son L. H., age seven, and daughter B. V., age five; Logan's 1900 census gives September 1872. Sarah Beulah's 1957 death record names her parents James Britton and Ellen Stevenson but estimates her birth year as 1873; her grave memorial gives 24 January 1872. The exact dates and the identification of B. V. with Beulah remain unresolved.",
    "place": "Giles and Crockett Counties, Tennessee; Texas",
-   "rank": 232
+   "rank": 233
   },
   {
    "id": "sd-james-willis",
@@ -12888,7 +12932,7 @@
    "kv": [],
    "note": "The 1943 death date comes from the family history; the cemetery list used here has no matching entry for him.",
    "place": "Giles County, Tennessee",
-   "rank": 233
+   "rank": 234
   },
   {
    "id": "sd-william-payne",
@@ -12930,7 +12974,7 @@
    "kv": [],
    "note": "The influenza suggestion is only a guess from the dates. Neither source states a cause for the 1918 deaths.",
    "place": "Giles County, Tennessee",
-   "rank": 234
+   "rank": 235
   },
   {
    "id": "sd-bee-spring-1856",
@@ -12969,7 +13013,7 @@
    "kv": [],
    "note": "The cemetery list gives no cause of death and does not say which Stevenson household each child belonged to; only the names matched in the family history are placed.",
    "place": "Bee Spring Methodist Church, near Bunker Hill and Bryson, Giles County, Tennessee",
-   "rank": 235
+   "rank": 236
   },
   {
    "id": "sd-catherine-hamilton",
@@ -13004,7 +13048,7 @@
    "kv": [],
    "note": "A 1950 Skinner family genealogy on archive.org (ancestryofcaroly00skin) prints a chart of Elam Stevenson (1787-1875) and what appears to be the opening of his will in Giles County Court, 1875, via the Hamilton line; the book is not available in full text and was seen only in search snippets.",
    "place": "Giles County, Tennessee; Limestone County, Alabama",
-   "rank": 236
+   "rank": 237
   },
   {
    "id": "sd-elam-augustus",
@@ -13043,7 +13087,7 @@
    "kv": [],
    "note": "This Elam A. Stevenson is called \"Elam A., Jr.\" in the Casey family history, which gives his wife as Mrs. Hannah Celia Wright.",
    "place": "Giles County, Tennessee; Arkansas; Winston County, Alabama",
-   "rank": 237
+   "rank": 238
   },
   {
    "id": "sd-james-baxter-ark",
@@ -13082,7 +13126,7 @@
    "kv": [],
    "note": "The 1932 letter is attributed on the Giles County site to \"Rev. J. B. Stevenson, Elam's grandson\"; James Baxter, then 72, is the grandson of that name found in the Minutes and the Arkansas biography.",
    "place": "Richmond, Booneville and Atkins, Arkansas; Oklahoma City",
-   "rank": 238
+   "rank": 239
   },
   {
    "id": "sd-james-calvin",
@@ -13126,7 +13170,7 @@
    "kv": [],
    "note": "The 1912 autobiography, 1937 newspaper account and Nashville Public Library papers identify the generations from James Calvin Stevenson to Frank Maxwell Andrews. Elam Stevenson’s will and the 1886 Goodspeed sketch support the connection between James Calvin and his brother Abner, the direct ancestor.",
    "place": "Near Bryson, Giles County, Tennessee",
-   "rank": 239
+   "rank": 240
   },
   {
    "id": "sd-oneal-brothers",
@@ -13156,7 +13200,7 @@
    "kv": [],
    "note": "Death dates after 1900 are taken from WikiTree and are not checked against Indiana death certificates.",
    "place": "Gibson and Pike Counties, Indiana; Missouri",
-   "rank": 240
+   "rank": 241
   },
   {
    "id": "sd-mary-wilson",
@@ -13192,7 +13236,7 @@
    "kv": [],
    "note": "Names and dates for her children and husbands are from WikiTree; the Rinker and Wilson marriages are not checked against a county marriage register.",
    "place": "Gibson County, Indiana; Missouri; Arkansas; Tuttle, Oklahoma",
-   "rank": 241
+   "rank": 242
   },
   {
    "id": "sd-katie-siblings",
@@ -13223,7 +13267,7 @@
    "kv": [],
    "note": "Delphia, Willie, George, Frank, Elisha and Eddie are the names on the 1910 census page; the later given names in other trees are not proven. The census is also the only record yet seen for Willie and Delphia.",
    "place": "Indiana, Texas, Oklahoma and Arkansas",
-   "rank": 242
+   "rank": 243
   },
   {
    "id": "sd-louderback",
@@ -13253,7 +13297,7 @@
    "kv": [],
    "note": "The marriage record itself has not been seen. Both the Louderback surname index and the bride's age should be checked against the Pulaski County, Arkansas, marriage register for 25 December 1884.",
    "place": "Pulaski County, Arkansas; Illinois; Rockwall County, Texas",
-   "rank": 243
+   "rank": 244
   },
   {
    "id": "graves-cherokee-1838",
@@ -13307,7 +13351,7 @@
    ],
    "note": "Gilliam's jury service comes from the Graves family compilation cited on his own page; Mooney does not mention him or any juror. The page numbers are those of the Annual Report edition. This is a place-and-time story: nothing seen says Gilliam took any part in the roundup.",
    "place": "Cherokee County, Georgia",
-   "rank": 244
+   "rank": 245
   },
   {
    "id": "doaksville-june-1861",
@@ -13367,7 +13411,7 @@
    ],
    "note": "Place story. The dates are worked out from Edwards's own \"1st and 2nd of June\" and \"the following Monday\"; he gives no date for the Doaksville meeting. The editor places Jones's home four miles southeast of Hugo; the encyclopedia says six miles east.",
    "place": "Doaksville, Choctaw Nation",
-   "rank": 245
+   "rank": 246
   },
   {
    "id": "pine-belt-runaway-1915",
@@ -13425,7 +13469,7 @@
    ],
    "note": "The injury is Riggs's allegation as stated in the opinion; the jury found for him and the court affirmed. The link to Grady is the lumber industry of the same county.",
    "place": "Fort Towson, Choctaw County, Oklahoma",
-   "rank": 246
+   "rank": 247
   },
   {
    "id": "hagansport-murder-1898",
@@ -13487,7 +13531,7 @@
    ],
    "note": "Court record, not a newspaper account. The widow's testimony is the account of an admitted accomplice, and the court twice reversed Wallace's conviction, so his guilt was never settled in these opinions. The family connection is the place and the years only.",
    "place": "Hagansport, Franklin County, Texas",
-   "rank": 247
+   "rank": 248
   },
   {
    "id": "frogville-sawmill-killing-1912",
@@ -13545,7 +13589,7 @@
    ],
    "note": "Court opinion; the quotations are testimony as summarized by the court. Nothing seen connects the Moffitt family to anyone in the case. Grady's 1910 stave-making and 1917 timber work are from his own page.",
    "place": "Frogville, Choctaw County, Oklahoma",
-   "rank": 248
+   "rank": 249
   },
   {
    "id": "bd-jesse-hannah-blackshear",
@@ -13609,7 +13653,7 @@
    ],
    "note": "Jesse's father is stated in a printed genealogy, not in his father's will: Elisha Stout Blackshear's will names only sons Moses and Jacob, and the book says the other sons had already had their share and left. The book names no wife for Jesse; Hannah Huggins rests on WikiTree and a Texas family website. WikiTree's date of 26 July 1803 for Jesse's death sits oddly beside an estate settled in 1814, and WikiTree's 1814 death for Penelope is wrong if she was alive in 1850. Penny as the wife of John Grimes is probable, not proved; the next link down (that David H. Grimes of Wayne County was their son) is only a lead.",
    "place": "Jesse was born in Jones (or Craven) County, North Carolina, about 1767, married there about 1788, and took his family to Williamson County, Tennessee, between 1800 and 1810. Hannah Huggins, born in Jones County in 1771, outlived him, remarried, and died in Wayne County, Tennessee, in 1829. Their daughter Penny is the probable wife of John Grimes.",
-   "rank": 249
+   "rank": 250
   },
   {
    "id": "bd-luke-huggins",
@@ -13668,7 +13712,7 @@
    ],
    "note": "The will names a Hannah but does not say she married Jesse Blackshear; that link comes from compiled family trees. Luke's wife is called Nelly in the will; WikiTree's dates for her (born 1718, died 8 March 1784) match the date of the will, so they are not her own, and none are given here.",
    "place": "A planter of Jones County, North Carolina, who made his will on 8 March 1784 and died that year. He left his plantation to his son Jacob and named his youngest children, among them Hannah, who married Jesse Blackshear.",
-   "rank": 250
+   "rank": 251
   },
   {
    "id": "bd-elisha-susanna-blackshear",
@@ -13732,7 +13776,7 @@
    ],
    "note": "Elisha as Jesse's father rests on the Blacksheariana, which does not cite a record naming Jesse as his son; the will does not name him. Susanna's maiden name Ward is the author's guess. A WikiTree profile gives Susannah Ward's birth as 16 January 1736 at Beaufort, Carteret County; no source for that date is given.",
    "place": "Born at Little Creek in Kent County, Delaware, about 1736, and brought to Craven County, North Carolina, as a boy. He farmed on the Trent River in what became Jones County, served as executor of his father's will, and made his own will on 11 December 1808.",
-   "rank": 251
+   "rank": 252
   },
   {
    "id": "bd-alexander-agnes-blackshear",
@@ -13808,7 +13852,7 @@
    ],
    "note": "Both wills name Elisha as a son, which proves that link as the printed texts read; the printed texts are the book's transcriptions, not images. Agnes's maiden name is not known. The book says 'probably Stout' (Elisha Stout is the son's name), and WikiTree makes her a daughter of Benjamin Stout and Agnes Truax of Delaware. Stillwell's Stout genealogy lists only sons Charles, Benjamin and Jacob for that Benjamin, a wife Agnes of unknown surname, and no daughter Agnes. That Stout daughter is not accepted here.",
    "place": "Alexander was born in Kent County, Delaware, about 1708 and farmed at Little Creek Hundred. He and his wife Agnes sold their Delaware land in 1740, were in Craven County, North Carolina, by 1747, and settled on the Trent River in what became Jones County, where he died in 1786 and she in 1793.",
-   "rank": 252
+   "rank": 253
   },
   {
    "id": "bd-robert-blackshaw-little-creek",
@@ -13874,7 +13918,7 @@
    ],
    "note": "His son Alexander is named in his own 1735 deed as printed in the book (the book quotes it, and says Alexander's sale of 1740 was of the same land his father had given him). Robert's New Jersey birth rests on the book's citation of the third series of the New Jersey Archives, vol. 2, p. 73. His death date is not given in the book (WikiTree says 1747, unsourced).",
    "place": "Born at Piscataway, New Jersey, on 24 August 1677, the son of Thomas and Ellenor Blackshaw. He moved to Lewes in Sussex County, Delaware, where he bought a town lot in 1708, and then to Little Creek in Kent County, where he took up 200 acres in 1716.",
-   "rank": 253
+   "rank": 254
   },
   {
    "id": "bd-thomas-ellenor-blackshaw",
@@ -13933,7 +13977,7 @@
    ],
    "note": "Robert as the son of Thomas and Ellenor rests on the book's citation of a New Jersey record; the record was not seen. The Cheshire parents are the author's inference only ('probably'). Ellenor's surname and dates are not recorded; a WikiTree profile that gives her a birth in 1633 is not accepted.",
    "place": "Thomas Blackshaw appears at Piscataway, Middlesex County, New Jersey, in 1677, the year his son Robert was born, and is listed as a freeholder in 1683. Six children are recorded for him and Ellenor between 1677 and 1688; only Robert and Joseph outlived him.",
-   "rank": 254
+   "rank": 255
   },
   {
    "id": "bd-william-lavina-clark",
@@ -13992,7 +14036,7 @@
    ],
    "note": "That Newton Jasper Clark was this couple's son comes from compiled trees (WikiTree credits FamilySearch Family Tree); no record naming Newton as a son has been seen. The marriage, the years and the places match. WikiTree's Lavina Willis profile names Henry Willis and a Lavina Wells as her parents. The Henry Willis profile gives his wife as Mary Cochran. Both cannot be right, and no record names Lavina's parents, so none is entered beyond the bondsman Henry Willis.",
    "place": "William Clark was born in Granville County, North Carolina, on 13 October 1785. He married Lavina, called Viney, Willis in Pulaski County, Kentucky, in 1808, farmed in Butler County, and died there on 6 January 1856. Lavina, born in South Carolina about 1785, died in Butler County in 1877.",
-   "rank": 255
+   "rank": 256
   },
   {
    "id": "bd-henry-willis-pulaski",
@@ -14050,7 +14094,7 @@
    ],
    "note": "No document seen names Henry Willis as Lavina's father; the bond shows only that he stood security. Henry's birth date and place on WikiTree (1746, Augusta Co., Va.) have no source, and the Cochran marriage is not documented. Mary's maiden name is therefore a lead. The Henry Willis of Edmonson County may be a son or an unrelated man.",
    "place": "A Henry Willis, with his wife Mary, sold land on Clifty and Fishing creeks in Pulaski County, Kentucky, in 1800. He was excused from the county levy for age and infirmity in 1807 and was dead by about 1818. He is probably the bondsman at the 1808 marriage of Lavina Willis.",
-   "rank": 256
+   "rank": 257
   },
   {
    "id": "oscar-1938-stabbing",
@@ -14123,7 +14167,7 @@
    ],
    "note": "The full Gazette pages are behind a separate Newspapers.com subscription, so the Gazette articles are known from their headlines and the visible snippets. The Valliant Tribune text is a public reader's clipping of the same story. Stevenson's relationship is as the newspaper gives it.",
    "place": "Millerton and Idabel, McCurtain County, Oklahoma",
-   "rank": 257
+   "rank": 258
   },
   {
    "id": "bennie-1947",
@@ -14184,7 +14228,7 @@
    ],
    "note": "The clipping does not show the newspaper's name or date. The date is inferred from the matching headline in The Southeast Oklahoman of 24 July 1947, which makes the accident Tuesday, 22 July. The clipping is a low-resolution photograph, so a few words in the second column are read from context.",
    "place": "U.S. 70 two miles west of Hugo, Choctaw County, Oklahoma",
-   "rank": 258
+   "rank": 259
   },
   {
    "id": "oscar-katie-court",
@@ -14241,7 +14285,7 @@
    ],
    "note": "The Arkansas index does not say who filed. The 1950 Oscar Hulsey in Sulphur Township is probable because the age and birthplace are slightly off (38, Oklahoma).",
    "place": "Mount Ida, Arkansas; Idabel, Oklahoma",
-   "rank": 259
+   "rank": 260
   },
   {
    "id": "payne-william-catherine",
@@ -14305,7 +14349,7 @@
    ],
    "note": "Probable and not proven: the statement is a son's recollection, no original record naming Lydia as William's daughter has been seen, and two William Paines are confused on the WikiTree pages. The 1790 and 1800 census entries and the death date are quoted from WikiTree transcriptions and have not been checked against the census pages. A different William Paine (b. 1744, Paine-1997) is marked there as a rejected match.",
    "place": "Burke County, North Carolina, where their daughter Lydia was born on 16 August 1787. Lydia married Rev. Elam Stevenson and followed him to Giles County, Tennessee.",
-   "rank": 260
+   "rank": 261
   },
   {
    "id": "arnold-william-lydia-bell",
@@ -14346,7 +14390,7 @@
    ],
    "note": "Lead only. The will was not seen; 'Catey' is a common Virginia form of Catherine, and the Payne-Arnold marriage record, if one exists, has not been found.",
    "place": "Spotsylvania County, Virginia. Catherine Arnold is said to have been born there about 1751.",
-   "rank": 261
+   "rank": 262
   },
   {
    "id": "stev-james-sr-sally-kelly",
@@ -14393,7 +14437,7 @@
    ],
    "note": "Conflict inside the same book: one passage makes William Stevenson of County Antrim (to Pennsylvania 1748, Iredell Co. 1762, d. 1809) the father, the 1955 note rejects that and names a James. Only search excerpts of the book could be read; the item is no longer downloadable, so the full chapter was not seen.",
    "place": "Said to have been born in Ireland and to have settled in North Carolina; his wife Sally Kelly is called 'of Md.'",
-   "rank": 262
+   "rank": 263
   },
   {
    "id": "stev-john-d1794-thompson",
@@ -14440,7 +14484,7 @@
    ],
    "note": "Lead only. Same limits as the entry on James's father: the book's own sources are not in the readable excerpts.",
    "place": "Parents of Jane Stevenson, wife of James Stevenson of Iredell County, North Carolina",
-   "rank": 263
+   "rank": 264
   },
   {
    "id": "hulsey-jesse-revolutionary",
@@ -14488,7 +14532,7 @@
    ],
    "note": "Lead only. Trees also name Mary Tharp as Salathiel's mother; her place is not carried here because the tree's own marriage date is impossible. Benjamin Franklin Hulsey's descent from Salathiel, and G. W. Hulsey's from Benjamin, still rest on grave memorials and family tradition; see the entries for Benjamin and Salathiel.",
    "place": "Greenville District, South Carolina, in 1800; Hall County, Georgia, from 1820. Wounded by Indians in the Revolution and paid a North Carolina pension.",
-   "rank": 264
+   "rank": 265
   },
   {
    "id": "anc4-george-langley",
@@ -14542,7 +14586,7 @@
    ],
    "note": "Emma is entered as Emma J. rather than Emma Elizabeth or Emma Liza (the form on John B. Smith's Find a Grave page). The mother's name Mary F. Black is only an Ancestry suggestion from other trees and is not in the tree here.",
    "place": "Hopkins County, Texas, in 1880, a farmer's household next door to the county where his daughter Emma later married into the Smiths of Franklin County.",
-   "rank": 265
+   "rank": 266
   },
   {
    "id": "frances",
@@ -14984,7 +15028,7 @@
    "side": "J",
    "gen": 7,
    "ev": "proven",
-   "title": "John Steadman, the white man on Card 778",
+   "title": "John Steadman on Card 778",
    "hook": "The one name on a Choctaw card whose county column reads 'Non Citz': the father of the Doaksville midwife.",
    "profile": false,
    "people": [
@@ -14996,7 +15040,7 @@
     "years": "d. before 1899"
    },
    "body": [
-    "The Dawes clerk's habit is the key to him. On Card 778, in the father column of line 1, the clerk wrote \"John Steadman,\" the year column \"Dead,\" and the county column \"Non Citz.\" Every other parent on the card is given a Choctaw county. A man called a non-citizen in that column was a white man who had not been adopted into the Choctaw Nation, though he had fathered a child in it, and his daughter Emeline was enrolled as a Choctaw by blood through her mother. Emeline herself is Roll No. 1947, enrolled with her sons Johnny and Calvin, and the clerk wrote her blood as one-quarter. A white father and a full-blood mother would have made her half; the quarter blood implies that her mother O-we-na was counted as about half Choctaw herself, a detail the card does not explain.",
+    "On Card 778, in the father column of line 1, the clerk wrote \"John Steadman,\" with \"Dead\" and \"Non Citz.\" in the adjoining columns. Emeline was enrolled as a Choctaw citizen by blood, and the card records her mother as O-we-na. The noncitizen label does not by itself establish John's race or birthplace. The card gives Emeline's recorded blood fraction as one-quarter, but does not record a fraction for either parent; it cannot establish O-we-na's ancestry on its own.",
     "Emeline was born on 26 January 1842, while Fort Towson was still an army post and Doaksville a trading town. Her father's surname is Steadman on the Dawes card; her own grandson Joel Thompson could not recall her maiden name when he was interviewed in 1937, so the name comes from the card and not from family memory. Her 1896 census entry is Towson County No. 12116, written there as Emeline Tims, and the clerk gave her age as 57 against a final-roll age of 60.",
     "He may have been Irish (lead). The card gives no birthplace, residence or death year, only that he was dead by 1899. What the card does show is how far his line travelled from him. His daughter married Vinson W. Tims, a son of the Doaksville trader Vincent B. Tims, and bore eight children, among them Betsy, who married Judge Joseph P. Thompson in 1889. Emeline herself lived to see her grandson Simon born on 4 May 1899, attended his birth as midwife and swore the affidavit that put him on the roll."
    ],
@@ -15022,7 +15066,7 @@
     ]
    ],
    "note": "",
-   "place": "A non-citizen (white) man, named as Emeline's father on her 1899 Dawes card (Card 778) and dead by then. Family says he was Irish; no record has confirmed it.",
+   "place": "Named as Emeline's father on her 1899 Dawes card (Card 778), where he is marked noncitizen and deceased. Family says he was Irish; no record has confirmed it.",
    "rank": 9999
   },
   {
@@ -17624,6 +17668,44 @@
    "note": "The 1880 census and 1889 marriage consent give a strong match on the unusually spelled father’s name, Elizabeth/Lizzie, age and county, but do not independently prove the two women’s identity. The census does not explicitly name Elizabeth’s mother. The St. Clair marriage register and a later death index support Mary Dockery as a probable identification; these records should be evaluated together.",
    "place": "",
    "rank": 9999
+  },
+  {
+   "id": "armstrong-choctaw-schools",
+   "side": "J",
+   "gen": 10,
+   "ev": "proven",
+   "title": "A family name on the Armstrong school list",
+   "hook": "A school list preserves William Harrison Pisachubbe's name and points to a Choctaw education system built and funded by the Nation.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "Armstrong Academy and Choctaw schools",
+    "rel": "Paternal family history",
+    "years": "1845–1899"
+   },
+   "body": [
+    "On 22 August 1899, a list of Armstrong Academy students was submitted to the Dawes Commission. It included Harrison Pisachubbe. Twelve years later, a federal official identified him as William H. Pisachubbe, son of Eunice and brother of Robert, the family's direct ancestor. The school list gave him a second enrollment number under his middle name; the 1911 letter and later roll notation document the correction. The letter does not describe his lessons or tell us how long he attended.",
+    "Armstrong Academy had opened in 1845 as part of the Choctaw Nation's school system. The Choctaw Council funded schools, often contracting with religious mission boards to operate them. The Civil War interrupted instruction, and the academy building later served as a Choctaw government meeting place before the Nation's capital moved to Tuskahoma.",
+    "In 1883 the Choctaw General Council passed an act establishing a school for orphan boys at Armstrong and appropriated money for its reopening. A separate act set a planned enrollment of fifty boys there and fifty girls at the Choctaw orphan school. The acts show the Nation making educational policy; a place on a later student list does not by itself explain a child's family circumstances or whether a parent was living.",
+    "The Oklahoma Historical Society dates the reopened orphan boys' academy to 1884. In 1898 the federal Curtis Act placed Choctaw Nation schools under United States government control. William's 1899 listing therefore belongs to a period when control over an institution begun by the Choctaw Nation was being transferred to the federal government. His own experience at the school remains to be researched."
+   ],
+   "quotes": [],
+   "src": [
+    "Commissioner's letter, 1 August 1911, Dawes enrollment jacket Choctaw by Blood 7-1580, reproduced here; Acts of the General Council of the Choctaw Nation, approved 22 October 1883, bills 26–27, Library of Congress: https://tile.loc.gov/storage-services/service/ll/llscd/31013490/31013490.pdf; Oklahoma Historical Society, Choctaw Schools: https://www.okhistory.org/publications/enc/entry?entry=CH049; Choctaw Nation Historic Preservation, Architectural History of the Choctaw Nation Capitol Buildings: https://www.choctawnation.com/news/iti-fabvssa/architectural-history-of-the-choctaw-nation-capitol-buildings-1834-1883/"
+   ],
+   "imgs": [
+    {
+     "s": "img/docs/dawes_1580_pisachubbe_duplicate_1911.jpg",
+     "cap": "The 1911 commission letter identifies Harrison Pisachubbe on the 1899 Armstrong Academy student list as William H. Pisachubbe."
+    }
+   ],
+   "tags": [
+    "choctaw"
+   ],
+   "kv": [],
+   "note": "",
+   "place": "",
+   "rank": 19
   }
  ],
  "storyAliases": {
@@ -19488,6 +19570,24 @@
    "t": "Westfield Monthly Meeting asks advice on members moving to the Scioto River; a family account places Hugh Moffitt's Ohio journey around this time, though his 1799 will describes a move still being planned.",
    "side": "J",
    "story": "mig-hugh-moffitt-scioto"
+  },
+  {
+   "y": "1900",
+   "t": "Floyd and Alice Livesay and their children are enumerated in Brazoria County, Texas; several of the children were born in Illinois.",
+   "side": "N",
+   "story": "livesay-illinois-to-texas"
+  },
+  {
+   "y": "1920",
+   "t": "Lester W. and Sadah Livesay are recorded in Harris County with their children.",
+   "side": "N",
+   "story": "livesay-illinois-to-texas"
+  },
+  {
+   "y": "1883",
+   "t": "The Choctaw General Council approves an orphan boys' school at Armstrong Academy, where William Harrison Pisachubbe later appears on an 1899 student list.",
+   "side": "J",
+   "story": "armstrong-choctaw-schools"
   }
  ],
  "fixes": [],
@@ -19743,6 +19843,16 @@
    "method": "",
    "labels": {},
    "edit_note": "Color and fine details are interpreted from the printed photograph."
+  },
+  "img/p/larry_alfreda_sandridge_original.png": {
+   "colorized": "img/p/larry_alfreda_sandridge_colorized.png",
+   "note": "The original is a small, overexposed newspaper image.",
+   "source": "Choctaw Nation Biskinik, December 2008, p. 6: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6",
+   "method": "AI restoration and colorization",
+   "labels": {
+    "c": "Restored and colorized interpretation"
+   },
+   "edit_note": "The small, overexposed source preserves little facial detail. Facial features, colors and other fine details in the restored image are interpretations; view the original for comparison."
   }
  },
  "archivePhotos": [
@@ -19985,6 +20095,9 @@
   },
   "img/p/wt_andrews_1912_source.png": {
    "url": "https://archive.org/details/memorialsketches00andr/page/n6/mode/1up"
+  },
+  "img/p/larry_alfreda_sandridge_original.png": {
+   "url": "https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6"
   }
  }
 }
