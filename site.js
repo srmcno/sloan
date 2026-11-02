@@ -8,6 +8,7 @@ window.SITE = {
   rootName: 'You',
   rootPossessive: 'Our',
   text: {
+    otherArchive: '<a href="https://srmcno.github.io/family/">Moffitt &amp; Thompson family archive</a>',
     brandSmall: 'Thompson · Hulsey · Moffitt · Smith',
     heroTitle: 'Family history and stories.',
     heroIntro: 'From the Choctaw Nation to Quaker North Carolina, explore the stories, records and photographs of our ancestors. Open any story or person to read more, see the original records, and check the sources.',
