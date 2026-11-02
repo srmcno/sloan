@@ -44,4 +44,18 @@ class SloanArchiveTests(unittest.TestCase):
             for path in (original, variants.get('s'), variants.get('colorized')):
                 if path: self.assertTrue((ROOT/path).is_file(), path)
 
+    def test_floyd_livesay_preserves_unresolved_evidence(self):
+        """A proposed Illinois household must not silently become proven parentage."""
+        floyd = PEOPLE['MAT_FLOYD_LIVESAY']
+        self.assertIsNone(floyd.get('f'))
+        self.assertIsNone(floyd.get('m'))
+        story = next(s for s in CONTENT['stories'] if s['id'] == 'livesay-illinois-to-texas')
+        for text in (floyd['note'], ' '.join(story['body'])):
+            self.assertIn('1856', text)
+            self.assertIn('1857', text)
+        self.assertIn('both parents’ names and birthplaces unknown', ' '.join(story['body']))
+        original = 'img/docs/floyd_livesay_1932_death_certificate.jpg'
+        self.assertTrue(any(i['s'] == original and i['kind'] == 'record' for i in story['imgs']))
+        self.assertTrue(any('3:1:33SQ-GB98-SW27' in source for source in story['src']))
+
 if __name__ == '__main__': unittest.main()

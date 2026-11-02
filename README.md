@@ -1,6 +1,6 @@
 # Family Roots
 
-A child-centered family-history archive with separate paternal and maternal branches. The initial paternal archive was imported from the family site; the maternal line is awaiting verified historical records. Living people appear as family roles and have no dates, places or photographs in the published data.
+A child-centered family-history archive with separate paternal and maternal branches. The paternal archive is imported from the family site. The maternal archive includes sourced Livesay, Walker, Sandridge, Nelson, Whitfield, Box and Merry research; probable identifications and conflicting records are labeled in the people and stories. Earlier parentage is added only when the evidence supports it. Living people appear as family roles and have no dates, places or photographs in the published data.
 
 Serve locally with `python3 -m http.server 8768`, then open `http://localhost:8768/`. Run `PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v` for data, privacy and asset checks. The site is a static GitHub Pages-ready application using `tree.json` and `content.json`; restored photos retain their original editions.
 
