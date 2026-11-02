@@ -39,15 +39,36 @@ const old=normalized(base,sourceOld), next=normalized(latest,sourceNew);
 const target=JSON.parse(fs.readFileSync(path.join(root,'content.json'))), tree=JSON.parse(fs.readFileSync(path.join(root,'tree.json')));
 const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b), updates=[];
 const oldStories=new Map(old.C.stories.map(x=>[x.id,x])), newStories=new Map(next.C.stories.map(x=>[x.id,x]));
-for(const [id,item] of oldStories)if(!newStories.has(id))throw Error(`Upstream story removed: ${id}; review required.`);
+// An upstream story that was removed (for example merged into another) is removed here only when the local copy is unchanged.
+const removedStories=[];
+for(const [id,item] of oldStories)if(!newStories.has(id)){
+ const i=target.stories.findIndex(s=>s.id===id);if(i<0)continue;
+ if(!same(target.stories[i],item)&&!same(target.stories[i],transformStrings(item)))throw Error(`Upstream story removed: ${id}; local copy differs, review required.`);
+ target.stories.splice(i,1);removedStories.push(id);
+}
 for(const [id,item] of newStories){const prior=oldStories.get(id), index=target.stories.findIndex(s=>s.id===id);if(same(prior,item))continue;
  if(prior && (index<0||!same(target.stories[index],prior)))throw Error(`Local story conflict: ${id}`);
  if(!prior&&index>=0)throw Error(`New story conflicts: ${id}`);
  const safe=transformStrings(item);check(safe,`story ${id}`);if(index<0)target.stories.push(safe);else target.stories[index]=safe;updates.push(id);
 }
+// Apply upstream changes entry by entry, so maternal-only entries and local privacy removals survive.
+// An entry changed both upstream and locally still stops the sync for review.
+const entryKey=x=>x&&typeof x==='object'&&typeof x.s==='string'?x.s:JSON.stringify(x);
+function mergeEntries(oldV,newV,localV,key){
+ if(same(localV,oldV))return newV;
+ const list=Array.isArray(newV), toMap=v=>list?new Map((v||[]).map(x=>[entryKey(x),x])):new Map(Object.entries(v||{}));
+ const o=toMap(oldV),n=toMap(newV),l=toMap(localV);
+ for(const k of new Set([...o.keys(),...n.keys()])){
+  const ov=o.get(k),nv=n.get(k),lv=l.get(k);
+  if(same(ov,nv))continue;
+  if(!same(lv,ov)&&!same(lv,nv))throw Error(`Local ${key} conflict at ${k}; review required.`);
+  if(nv===undefined)l.delete(k);else l.set(k,nv);
+ }
+ return list?[...l.values()]:Object.fromEntries(l);
+}
 for(const key of ['hero','storyAliases','restorations','archivePhotos','photoSources'])if(!same(old.C[key],next.C[key])){
- if(!same(target[key],old.C[key]))throw Error(`Local ${key} conflict; review required.`);
- const safe=transformStrings(next.C[key]);check(safe,key);target[key]=safe;
+ const prior=transformStrings(old.C[key]), safe=transformStrings(next.C[key]);check(safe,key);
+ target[key]=mergeEntries(prior,safe,target[key],key);
 }
 const oldEvents=new Map(old.C.timeline.map(e=>[JSON.stringify(e),e])), newEvents=new Map(next.C.timeline.map(e=>[JSON.stringify(e),e]));
 for(const [key] of oldEvents)if(!newEvents.has(key)){const i=target.timeline.findIndex(e=>JSON.stringify(e)===key);if(i<0)throw Error('Timeline conflict');target.timeline.splice(i,1);}
@@ -74,5 +95,5 @@ const paths=new Set();function collect(x){if(typeof x==='string'&&x.startsWith('
 const files=[];for(const rel of paths){if(!/^img\/[A-Za-z0-9_./-]+\.(?:jpg|jpeg|png|webp|gif|pdf)$/i.test(rel)||rel.split('/').includes('..'))throw Error(`Unsafe media path: ${rel}`);
  const targetFile=path.join(root,rel); if(fs.existsSync(targetFile))continue;
  let blob;try{blob=execFileSync('git',['-C',source,'show',`${latest}:${rel}`],{maxBuffer:25*1024*1024});}catch{throw Error(`Missing source media: ${rel}`);}files.push([targetFile,blob]);}
-console.log(`${apply?'Applying':'Previewing'} ${base.slice(0,7)} → ${latest.slice(0,7)}: ${updates.length} stories, ${files.length} new assets.`);
+console.log(`${apply?'Applying':'Previewing'} ${base.slice(0,7)} → ${latest.slice(0,7)}: ${updates.length} stories, ${removedStories.length} removed, ${files.length} new assets.`);
 if(apply){for(const [dest,blob] of files){fs.mkdirSync(path.dirname(dest),{recursive:true});fs.writeFileSync(dest,blob);}fs.writeFileSync(path.join(root,'content.json'),JSON.stringify(target,null,1)+'\n');fs.writeFileSync(path.join(root,'tree.json'),JSON.stringify(tree));fs.writeFileSync(path.join(root,'.paternal-revision'),latest+'\n');}
