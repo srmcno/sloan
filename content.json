@@ -18219,7 +18219,7 @@
    "ev": "probable",
    "profile": false,
    "title": "Sadah’s Indiana beginnings",
-   "hook": "A Texas death certificate supplies dates and a father’s initials, while an earlier census offers a household to investigate.",
+   "hook": "An Indiana census records Sadie’s birth in August 1893, matching the month and year later reported for Sadah; her parents’ identities still need a connecting record.",
    "people": [
     "MAT_SADAH_MCCORMICK"
    ],
@@ -18232,7 +18232,9 @@
     "The 1920 census places Sadah and Lester W. Livesay in Harris County with their children. Their son Lester’s 2001 obituary names his mother as Sadah McCormick. A Harris County marriage index records Lester W. Livesay and Sadah H. Mc.Cormick in 1911, volume 4, page 402, certificate 22072; this is an index entry, not an examined marriage license.",
     "An original Texas certificate records Sadah Livesay Vaughan’s death in Houston on 29 April 1978, aged 84. It gives her birth as 13 August 1893 in Anderson, Indiana, and names the informant as Alice Livesay Kauitzsch. The combination of the unusual given name, Livesay surname and informant supports the probable identification with Lester’s wife. Alice’s Social Security NUMIDENT index names her parents as Lester W. Livesay and Sarah H. McCormack and includes the Kauitzsch surname; Sarah and Sadah remain recorded variants rather than a silently corrected name.",
     "The certificate names Sadah’s father as J. T. McCormack and gives her mother’s maiden name as Unknown. It does not expand his initials. The dates now shown in the tree come from this certificate, whose birth information was reported many decades after the event.",
-    "An earlier original census offers a possible family connection. On 18 April 1910, in Brazoria County’s Justice Precinct 5, Jay T. McCormick, 41, and his wife Frances, 40, were listed with a daughter Sadie, 17, born in Indiana. The father’s initials, daughter’s age and birthplace fit the later certificate, but no examined record yet establishes that Sadie and Sadah are the same person. Jay T. and Frances remain unattached research leads. The census supplies no maiden surname for Frances."
+    "An earlier original census offers a possible family connection. On 18 April 1910, in Brazoria County’s Justice Precinct 5, Jay T. McCormick, 41, and his wife Frances, 40, were listed with a daughter Sadie, 17, born in Indiana. The father’s initials, daughter’s age and birthplace fit the later certificate, but no examined record yet establishes that Sadie and Sadah are the same person. Jay T. and Frances remain unattached research leads. The census supplies no maiden surname for Frances.",
+    "The original 1900 census brings that possible household closer to Sadah’s Indiana beginnings. On 5 June, in Stony Creek Township, Madison County, James McCormack and his wife Frances were listed with Cleveland, Hazel, Sadie, Pernell and Dewey. Sadie was recorded as their six-year-old daughter, born in Indiana in August 1893. That month, year and state agree with the later death certificate. Several names and the children’s sequence also match the 1910 Texas household, supporting continuity between those two census families.",
+    "The comparison leaves material conflicts. The 1900 head is James, born June 1863, rather than the Jay T., 41, recorded in 1910; Frances was born January 1862 and aged 38 in 1900, yet was listed as 40 ten years later. The census daughter has not yet been directly connected to Lester Livesay’s wife. James, Jay T. and J. T. are therefore not treated as an established full-name sequence, and Frances has no established birth surname. The 1911 marriage index notes maternal consent on file; an original license or consent may help resolve the connection."
    ],
    "quotes": [],
    "src": [
@@ -18241,10 +18243,17 @@
     "Texas, County Marriage Index, 1837–1977, Sadah H. Mc.Cormick and Lester W. Livesay, Harris County, 1911, vol. 4, p. 402, certificate 22072; index only: https://www.familysearch.org/ark:/61903/1:1:FXM9-1ZK",
     "Texas Department of Health, death certificate state file 37586, Sadah Livesay Vaughan, Houston, 29 April 1978; original image 100 of 550, Texas Death Certificates, May 1978, via FamilySearch: https://www.familysearch.org/ark:/61903/3:1:33SQ-G5TQ-D8Y",
     "United States, Social Security Numerical Identification Files (NUMIDENT), 1936–2007, Sarah H. McCormack in daughter Alice’s record; index only: https://www.familysearch.org/ark:/61903/1:1:6K76-8JJB",
-    "1910 U.S. census, Brazoria County, Texas, Justice Precinct 5, enumeration district 10, sheet 1B, household 26, lines 89–96, Jay T. McCormick household; original image 777 of 1193, via FamilySearch: https://www.familysearch.org/ark:/61903/3:1:33SQ-GYBC-97G8"
+    "1910 U.S. census, Brazoria County, Texas, Justice Precinct 5, enumeration district 10, sheet 1B, household 26, lines 89–96, Jay T. McCormick household; original image 777 of 1193, via FamilySearch: https://www.familysearch.org/ark:/61903/3:1:33SQ-GYBC-97G8",
+    "1900 U.S. census, Indiana, Madison County, Stony Creek Township, enumeration district 112, sheet 2B, 5 June 1900, lines 79–85, James McCormack household; digital film 004118637, image 4118637_00989; original examined: https://www.familysearch.org/ark:/61903/3:1:S3HY-676S-B2H"
    ],
-   "imgs": [],
-   "note": "The Sadah/Sarah identification remains probable; the Sadie census household is a research lead. J. T. McCormack is the father’s recorded name on the death certificate. His full identity and Sadah’s mother remain unresolved, and no candidate parents are linked."
+   "imgs": [
+    {
+     "s": "img/rec/mccormack-1900-stony-creek-original.jpg",
+     "cap": "Original 1900 census, Stony Creek Township, Madison County, Indiana, ED 112, sheet 2B, lines 79–85: James and Frances McCormack with daughter Sadie, born August 1893. Identification with Sadah Livesay remains unproved. Source: NARA, via FamilySearch.",
+     "kind": "record"
+    }
+   ],
+   "note": "The Sadah/Sarah identification remains probable; the Sadie census households are research leads. The matching August 1893 Indiana birth strengthens the lead, while James/Jay T./J. T. and parental ages conflict. No candidate parents are linked."
   }
  ],
  "storyAliases": {
