@@ -139,6 +139,8 @@
     "MAT_VIOLET_BOX",
     "MAT_TYRO_BOX",
     "MAT_ANNIE_BOX",
+    "MAT_ALONZO_BOX",
+    "MAT_EMMA_BOX",
     "MAT_IDA_MERRY",
     "MAT_OLIVER_C_WHITFIELD"
    ],
@@ -150,6 +152,7 @@
    "body": [
     "Alfreda Whitfield was born in 1939 at Wheelock, Oklahoma, to L. O. and Violet Box Whitfield. She married Larry Sandridge in 1958 at First Assembly of God in Broken Bow. Her family remembered her love of gardening, fishing and time with her grandchildren, and her work at the Choctaw Casino in Idabel.",
     "Violet grew up in McCurtain County: the 1930 census records nine-year-old Violet as a daughter of Tyro Box and his wife Annie. A family-contributed transcription of Violet’s obituary names her father as T. S. Box and says she and her husband ran a grocery in Golden. The initials fit Tyro in the census, but the identification remains probable. Annie’s maiden name needs further research, and the original published obituary has not yet been located.",
+    "The 1900 census in Van Zandt County, Texas, lists twelve-year-old Tyro Box as a son of Alonzo and Emma Box. A World War I draft registration for Tyro Stevens Box in McCurtain County gives a matching May 1888 birth and a Texas birthplace. The 1930 household, however, reports Tyro’s birthplace as Oklahoma. His unusual name and matching birth month support the connection, but the difference in birthplace leaves the identification and his parents’ relationship to Violet probable rather than proven.",
     "Their 50th anniversary notice in the Choctaw Nation’s Biskinik identifies Alfreda’s grandmother as Ida Merry Whitfield and her great-grandmother as Bessie Durant, both original enrollees. A 1899 application contains an affidavit by Bessie Merry identifying herself as the mother of Ida May Merry and naming Lewis Merry as the father. The family notice and the affidavit together support identifying Bessie Merry with Bessie Durant, though the connection remains a probable match.",
     "The 1920 census lists a child named Oliver L. Whitfield in the McCurtain County household of Oliver C. and Ida M. Whitfield. His age and family context fit Lewis Oliver Whitfield, Alfreda’s father, but the reversed name order makes the identification probable rather than certain. A later Biskinik family notice names the late Lewis Whitfield and Ida Merry Whitfield among this branch’s elders."
    ],
@@ -158,6 +161,8 @@
     "FamilySearch, Alfreda Whitfield Sandridge obituary: https://www.familysearch.org/ark:/61903/1:1:611X-8LLK",
     "FamilySearch, portrait contributed by Marilyn Elaine Whitfield: https://www.familysearch.org/en/tree/person/memories/GVRD-9FD",
     "1930 U.S. census, Violet Box in Tyro and Annie Box household: https://www.familysearch.org/ark:/61903/1:1:XCWC-Q3Y",
+    "1900 U.S. census, Tyro Box in Alonzo and Emma Box household, Van Zandt County, Texas: https://www.familysearch.org/ark:/61903/1:1:M35K-RXL",
+    "World War I draft registration, Tyro Stevens Box, McCurtain County: https://www.familysearch.org/ark:/61903/1:1:KZDF-K9N",
     "Family-contributed obituary transcription for Violet Box Whitfield, FamilySearch memories: https://www.familysearch.org/en/tree/person/memories/GVR8-5DN",
     "Choctaw Nation, Biskinik, December 2008, p. 6, 50th anniversary notice: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6",
     "1920 U.S. census, Oliver C. and Ida M. Whitfield household: https://www.familysearch.org/ark:/61903/1:1:MNBY-3S2",
@@ -19754,6 +19759,12 @@
    "t": "A four-year-old Floyd H. Livesay is enumerated with Lydia and David Livesay in Washington County, Illinois; the census does not state their relationships.",
    "side": "N",
    "story": "livesay-illinois-to-texas"
+  },
+  {
+   "y": "1900",
+   "t": "A twelve-year-old Tyro Box is enumerated as Alonzo and Emma Box’s son in Van Zandt County, Texas; his identification with Violet’s father remains probable.",
+   "side": "N",
+   "story": "alfreda-whitfield-sandridge"
   },
   {
    "y": "1900",

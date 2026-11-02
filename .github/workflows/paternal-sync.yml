@@ -49,7 +49,7 @@ jobs:
       - name: Prepare public artifact
         run: |
           mkdir public
-          cp -R site/index.html site/*.js site/*.css site/tree.json site/content.json site/img site/.nojekyll site/robots.txt site/favicon.svg public/
+          cp -R site/index.html site/ancestry.html site/*.js site/*.css site/tree.json site/content.json site/img site/.nojekyll site/robots.txt site/favicon.svg public/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public

@@ -8,6 +8,7 @@ window.SITE = {
   rootName: 'You',
   rootPossessive: 'Our',
   text: {
+    ancestryLink: '<a href="ancestry.html">Ancestry &amp; DNA</a>',
     otherArchive: '<a href="https://srmcno.github.io/family/">Moffitt &amp; Thompson family archive</a>',
     brandSmall: 'Thompson · Hulsey · Moffitt · Smith',
     heroTitle: 'Family history and stories.',

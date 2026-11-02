@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
 <title>Family history</title>
-<script src="site.js?v=20261102j"></script>
+<script src="site.js?v=20261102k"></script>
 <link rel="icon" type="image/svg+xml" href="favicon.svg">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,6 +41,8 @@ button{font:inherit;color:inherit}
 .bar{display:flex;align-items:center;gap:16px;height:60px}
 .brand{font-weight:700;font-size:20px;text-decoration:none;white-space:nowrap}
 .brand small{display:block;font-family:var(--sans);font-weight:400;font-size:12px;color:var(--muted);line-height:1;margin-top:2px}
+.ancestry-link a{display:inline-flex;align-items:center;min-height:44px;color:var(--on-navy,#fff);font:600 14px var(--sans);text-decoration:none;border:1px solid #ffffff70;border-radius:9px;padding:8px 12px;white-space:nowrap}
+.ancestry-link a:hover,.ancestry-link a:focus-visible{background:#ffffff20;outline:2px solid currentColor;outline-offset:2px}
 .tabs{display:flex;gap:2px;font-family:var(--sans);font-size:15px;margin-left:auto;overflow-x:auto;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tabs a{text-decoration:none;padding:8px 10px;border-radius:9px;color:var(--muted);white-space:nowrap}
@@ -280,6 +282,7 @@ footer{padding:24px 0 40px;color:var(--muted);font-family:var(--sans);font-size:
   <div class="wrap bar">
     <a class="brand" href="#/"><span data-site-title>Family history</span><small data-text="brandSmall"></small></a>
 
+    <span class="ancestry-link" data-text="ancestryLink"></span>
     <div class="search"><input id="q" type="search" placeholder="Search the family archive" aria-label="Search the archive" autocomplete="off"><div class="results" id="qres"></div></div>
   </div>
 
