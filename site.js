@@ -1,7 +1,7 @@
 /* Site settings. Everything that differs between the family archives lives here and in the data files;
    index.html, app.js and the shared modules are identical on both sites. */
 window.SITE = {
-  id: 'family',
+  id: 'sloan',
   storage: 'sloan-family',
   title: 'Family Roots',
   data: 'content',                        // data.json + tree.json, converted by adapter.js
