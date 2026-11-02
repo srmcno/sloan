@@ -1,0 +1,36 @@
+{
+  "blocked": [
+    {
+      "length": 18,
+      "hash": "5c509e43989c4a8f14bd27d08df4a4b518f1ac6ebcd49c521180a72b9d55a03d"
+    },
+    {
+      "length": 23,
+      "hash": "54c62a90f7dd38edafc48b17410fcab77fc663587ad99cde5af22b2c60feb178"
+    },
+    {
+      "length": 15,
+      "hash": "4e788852c822502260c3f3b0aa0adc1bbdd4e19a66838d2e0183fa05cb50d0db"
+    },
+    {
+      "length": 16,
+      "hash": "7486e7d22cefaee1c629a57e8541ae6d082ef556873b44b5f9a2a60109756d2b"
+    },
+    {
+      "length": 16,
+      "hash": "c4e75313b07464d5e2ed42b8732392ee8001de2864ce31a99ddf44d5729995a3"
+    }
+  ],
+  "replacements": [
+    {
+      "length": 46,
+      "hash": "a21ceab84502a5ee3fb6b164b9f384010c4f9ca35ea5ef307413971fc2a6a507",
+      "to": "whose daughter is a paternal ancestor"
+    },
+    {
+      "length": 70,
+      "hash": "8bffcd0211ed081036854f31ce0f9cbb37e0b0e7c034fc794e681188a797f461",
+      "to": "Mary was his sister Mary Ellen, then eight years old."
+    }
+  ]
+}

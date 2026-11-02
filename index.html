@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Family history</title>
+<script src="site.js?v=20261102c"></script>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#eef0ec; --card:#fbfbf8; --ink:#1d2523; --muted:#5a6561; --line:#d5dad5;
+  --river:#2e5e6e; --river-soft:#dbe7ea; --clay:#8a3a2e; --clay-soft:#f2e2dd;
+  --proven:#2f6b4a; --probable:#8f7120; --lead:#a23b3b;
+  --shadow:0 1px 2px rgba(20,30,28,.08),0 6px 18px rgba(20,30,28,.07);
+  --serif:"Newsreader",Georgia,serif; --sans:"Instrument Sans",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#131918; --card:#1c2422; --ink:#e4e9e5; --muted:#9aa7a2; --line:#2e3936;
+  --river:#86b5c3; --river-soft:#1e3238; --clay:#d98d7c; --clay-soft:#3a2420;
+  --proven:#76c49a; --probable:#d2b15a; --lead:#e08a8a; --shadow:0 1px 2px rgba(0,0,0,.4);
+}}
+:root[data-theme="dark"]{
+  --paper:#131918; --card:#1c2422; --ink:#e4e9e5; --muted:#9aa7a2; --line:#2e3936;
+  --river:#86b5c3; --river-soft:#1e3238; --clay:#d98d7c; --clay-soft:#3a2420;
+  --proven:#76c49a; --probable:#d2b15a; --lead:#e08a8a; --shadow:0 1px 2px rgba(0,0,0,.4);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:18px;line-height:1.6;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--river);outline-offset:2px}
+[hidden]{display:none!important}
+.wrap{max-width:1160px;margin:0 auto;padding:0 20px}
+
+/* header + tabs */
+.top{position:sticky;top:0;z-index:30;background:var(--paper);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;gap:16px;height:60px}
+.brand{font-weight:700;font-size:20px;text-decoration:none;white-space:nowrap}
+.brand small{display:block;font-family:var(--sans);font-weight:400;font-size:12px;color:var(--muted);line-height:1;margin-top:2px}
+.tabs{display:flex;gap:2px;font-family:var(--sans);font-size:15px;margin-left:auto;overflow-x:auto;scrollbar-width:none}
+.tabs::-webkit-scrollbar{display:none}
+.tabs a{text-decoration:none;padding:8px 10px;border-radius:9px;color:var(--muted);white-space:nowrap}
+.tabs a:hover{color:var(--ink);background:var(--card)}
+.tabs a[aria-current="page"]{color:var(--ink);background:var(--card);box-shadow:inset 0 -2px 0 var(--ink)}
+.search{position:relative;font-family:var(--sans)}
+.search input{width:210px;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font:inherit;font-size:15px}
+.results{position:absolute;right:0;top:44px;width:330px;max-height:62vh;overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);display:none;z-index:5}
+.results.on{display:block}
+.results button{display:flex;gap:10px;align-items:center;width:100%;text-align:left;border:0;background:none;padding:8px 12px;cursor:pointer;font-size:15px}
+.results button:hover,.results button:focus{background:var(--paper)}
+.results small{color:var(--muted);display:block;font-size:12.5px}
+@media (max-width:1150px){
+  .bar{height:54px}.search{margin-left:auto}.search input{width:170px}
+  .tabs{position:static;margin:0 -20px;padding:0 14px 8px}
+  .top .row2{display:block}
+}
+.row2{display:none}
+@media (min-width:1151px){.tabs.mobile{display:none}}
+@media (max-width:1150px){.tabs.desk{display:none}}
+.bottom-nav{display:none}
+@media(max-width:700px){
+  body{padding-bottom:calc(68px + env(safe-area-inset-bottom, 0px))}
+  .bottom-nav{position:fixed;z-index:29;bottom:0;left:0;right:0;display:flex;justify-content:space-around;background:var(--card);border-top:1px solid var(--line);box-shadow:0 -4px 16px rgba(20,30,28,.08);padding:4px max(4px,env(safe-area-inset-right,0px)) calc(4px + env(safe-area-inset-bottom,0px)) max(4px,env(safe-area-inset-left,0px));font-family:var(--sans)}
+  .bottom-nav a{flex:1;min-width:0;min-height:52px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;color:var(--muted);text-decoration:none;font-size:10px;line-height:1.2;border-radius:8px}
+  .bottom-nav svg{width:21px;height:21px;stroke:currentColor;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+  .bottom-nav a[aria-current=page]{color:var(--river);background:var(--river-soft);font-weight:600}
+  .bottom-nav a:focus-visible{outline:2px solid var(--river);outline-offset:-2px}
+}
+@media print{.bottom-nav{display:none!important}}
+
+/* shared bits */
+.view{padding:30px 0 70px}
+.head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:18px}
+.head h1,.head h2{font-size:clamp(28px,3.6vw,40px);margin:0;font-weight:600;line-height:1.1}
+.head p{margin:0;color:var(--muted);max-width:38em;font-size:16px}
+h2.sec{font-size:clamp(24px,3vw,32px);margin:44px 0 14px;font-weight:600;line-height:1.15}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:9px 15px;border-radius:10px;border:1px solid var(--line);background:var(--card);text-decoration:none;font-family:var(--sans);font-size:15px;cursor:pointer}
+.btn:hover{border-color:var(--ink)}
+.btn.primary{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-family:var(--sans);margin-bottom:14px}
+.chip{padding:7px 13px;border-radius:999px;border:1px solid var(--line);background:var(--card);cursor:pointer;font-size:14px}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.filter{padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--ink);font:inherit;font-family:var(--sans);font-size:14.5px;min-width:200px}
+.ev{width:8px;height:8px;border-radius:50%;display:inline-block;background:var(--line);flex-shrink:0}
+.ev.proven{background:var(--proven)} .ev.probable{background:var(--probable)} .ev.lead{background:var(--lead)}
+.badge{font-family:var(--sans);font-size:12px;padding:1px 8px;border-radius:999px;border:1px solid currentColor;white-space:nowrap}
+.badge.proven{color:var(--proven)} .badge.probable{color:var(--probable)} .badge.lead{color:var(--lead)}
+.sidetag{display:inline-flex;align-items:center;gap:5px;font-family:var(--sans);font-size:12.5px;color:var(--muted)}
+.sidetag::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--muted)}
+.sidetag.J::before{background:var(--clay)} .sidetag.N::before{background:var(--river)}
+.av{border-radius:50%;flex-shrink:0;background:var(--paper) center 25%/cover;display:inline-flex;align-items:center;justify-content:center;font-family:var(--sans);font-weight:600;color:var(--muted);border:1px solid var(--line)}
+
+/* home */
+.hero{display:grid;grid-template-columns:1fr 1.05fr;gap:44px;align-items:center;padding-top:10px}
+.hero h1{font-size:clamp(34px,5vw,58px);line-height:1.04;margin:0 0 18px;font-weight:600;letter-spacing:-.01em}
+.hero h1 .n{color:var(--river)} .hero h1 .j{color:var(--clay)}
+.hero p{margin:0 0 12px;color:var(--muted);max-width:34em}
+.cta{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+.slides{position:relative;border-radius:14px;overflow:hidden;background:#0e1312;aspect-ratio:4/3.3;box-shadow:var(--shadow);cursor:pointer}
+.slide{position:absolute;inset:0;opacity:0;transition:opacity 1.1s ease;display:flex;align-items:center;justify-content:center}
+.slide.on{opacity:1}
+.slide .bg{position:absolute;inset:-20px;background-size:cover;background-position:center;filter:blur(24px) brightness(.45);transform:scale(1.1)}
+.slide img{position:relative;max-width:100%;max-height:100%;object-fit:contain}
+.slidecap{display:flex;gap:14px;align-items:flex-start;justify-content:space-between;margin-top:12px;font-family:var(--sans);font-size:14px;color:var(--muted);min-height:42px}
+.dots{display:flex;gap:6px;flex-shrink:0;padding-top:5px}
+.dots button{width:9px;height:9px;border-radius:50%;border:0;background:var(--line);padding:0;cursor:pointer}
+.dots button.on{background:var(--ink)}
+@media (max-width:860px){.hero{grid-template-columns:1fr;gap:24px}}
+.sides{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.sidecard{border-radius:14px;padding:22px;text-decoration:none;display:block;border:1px solid var(--line)}
+.sidecard.N{background:var(--river-soft)} .sidecard.J{background:var(--clay-soft)}
+.sidecard h3{margin:0 0 4px;font-size:24px}
+.sidecard p{margin:0 0 12px;font-size:16px;color:var(--muted)}
+.sidecard .names{font-family:var(--sans);font-size:14px}
+@media (max-width:700px){.sides{grid-template-columns:1fr}}
+
+/* grandparents */
+.gp{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.gcard{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.gcard .ph{aspect-ratio:1/1;background:var(--paper) center 22%/cover;position:relative;display:flex;align-items:center;justify-content:center;font-family:var(--sans);font-size:52px;color:var(--muted);font-weight:600}
+.gcard .side{position:absolute;left:10px;top:10px;font-family:var(--sans);font-size:12px;padding:3px 9px;border-radius:999px;color:#fff}
+.gcard .bd{padding:14px 16px 16px;display:flex;flex-direction:column;flex:1}
+.gcard h3{margin:0;font-size:21px;line-height:1.15}
+.gcard .yrs{font-family:var(--sans);font-size:13.5px;color:var(--muted);margin:3px 0 8px}
+.gcard p{margin:0 0 12px;font-size:16px;line-height:1.5;flex:1}
+.gcard .acts{display:flex;gap:8px;flex-wrap:wrap}
+.gcard .acts .btn{padding:7px 11px;font-size:14px}
+@media (max-width:980px){.gp{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:520px){.gp{grid-template-columns:1fr}}
+
+/* story cards */
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media (max-width:980px){.cards{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:600px){.cards{grid-template-columns:1fr}}
+.scard{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;text-decoration:none;display:flex;flex-direction:column}
+.scard:hover{border-color:var(--ink)}
+.scard .im{height:170px;background:var(--paper) center 25%/cover;border-bottom:1px solid var(--line)}
+.scard .bd{padding:13px 16px 16px}
+.scard h3{margin:6px 0 6px;font-size:21px;line-height:1.15}
+.scard p{margin:0;font-size:16px;color:var(--muted);line-height:1.45}
+.meta{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.group{margin-bottom:30px}
+.group h3.gh{font-family:var(--sans);font-size:14px;font-weight:600;color:var(--muted);margin:0 0 10px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+.empty{color:var(--muted);font-family:var(--sans);font-size:15px;padding:20px 0}
+
+/* story page */
+.story{max-width:740px;margin:0 auto}
+.crumb{font-family:var(--sans);font-size:14px;color:var(--muted);margin-bottom:10px}
+.crumb a{color:var(--ink)}
+.story h1{font-size:clamp(32px,5vw,48px);line-height:1.06;margin:10px 0 10px;font-weight:600}
+.story .hook{font-size:21px;color:var(--muted);margin:0 0 16px;line-height:1.4}
+.story p{margin:0 0 1em}
+.story blockquote{margin:24px 0;padding:6px 0 6px 18px;border-left:3px solid var(--ink);font-style:italic;font-size:20px}
+.story blockquote cite{display:block;font-style:normal;font-family:var(--sans);font-size:13px;color:var(--muted);margin-top:6px}
+.story figure{margin:24px 0}
+.story figure img{max-width:100%;border-radius:8px;display:block;cursor:zoom-in;background:#fff;margin:0 auto}
+.story figcaption{font-family:var(--sans);font-size:13px;color:var(--muted);margin-top:6px;text-align:center;overflow-wrap:anywhere}
+.ppl{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 24px}
+.ppl button{display:inline-flex;align-items:center;gap:8px;font-family:var(--sans);font-size:14px;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 12px 4px 4px;cursor:pointer}
+.ppl button:hover{border-color:var(--ink)}
+.ppl .av{width:28px;height:28px;font-size:10px}
+.src{font-family:var(--sans);font-size:13.5px;color:var(--muted);border-top:1px solid var(--line);margin-top:30px;padding-top:12px}
+.src ul{padding-left:18px}
+.src li{margin-bottom:4px}
+.pager{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:30px}
+.pager a{display:block;border:1px solid var(--line);background:var(--card);border-radius:12px;padding:12px 14px;text-decoration:none;font-size:17px;line-height:1.3}
+.pager a:hover{border-color:var(--ink)}
+.pager small{display:block;font-family:var(--sans);font-size:12.5px;color:var(--muted);margin-bottom:3px}
+.pager .next{text-align:right}
+.related{margin-top:30px}
+.related h3{font-family:var(--sans);font-size:14px;color:var(--muted);font-weight:600}
+
+.stmark{display:inline-flex;align-items:center;justify-content:center;min-width:20px;height:18px;border-radius:999px;background:var(--ink);color:var(--paper);font-size:11px;padding:0 6px}
+
+/* people list */
+.plist{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+@media (max-width:1150px){.plist{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.plist{grid-template-columns:1fr}}
+.prow{display:flex;align-items:center;gap:10px;border:1px solid var(--line);background:var(--card);border-radius:12px;padding:8px 10px;cursor:pointer;text-align:left;font-family:var(--sans);position:relative}
+.prow:hover{border-color:var(--ink)}
+.prow .av{width:42px;height:42px;font-size:13px}
+.prow b{display:block;font-size:15px;line-height:1.2}
+.prow small{display:block;color:var(--muted);font-size:12.5px}
+.prow .stmark{margin-left:auto}
+
+/* panel */
+.scrim{position:fixed;inset:0;background:rgba(10,14,13,.35);z-index:40;opacity:0;pointer-events:none;transition:opacity .2s}
+.scrim.on{opacity:1;pointer-events:auto}
+.panel{position:fixed;top:0;right:0;bottom:0;width:min(460px,100%);background:var(--card);z-index:41;transform:translateX(104%);transition:transform .25s ease;overflow:auto;box-shadow:-10px 0 30px rgba(0,0,0,.15);overscroll-behavior:contain}
+.panel.on{transform:none}
+@media (max-width:640px){.panel{top:auto;height:88vh;width:100%;border-radius:16px 16px 0 0;transform:translateY(104%)}}
+.panel .pin{padding:20px 22px 40px}
+.x{position:sticky;top:0;float:right;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:var(--card);cursor:pointer;font-size:18px;font-family:var(--sans);z-index:2}
+.ptop{display:flex;gap:16px;align-items:center;margin:6px 0 12px}
+.ptop .av{width:84px;height:84px;font-size:24px}
+.ptop h3{margin:0;font-size:25px;line-height:1.15}
+.rel{font-family:var(--sans);font-size:14px;color:var(--muted);display:flex;align-items:center;gap:6px}
+.facts{font-family:var(--sans);font-size:14.5px;margin:10px 0;border-top:1px solid var(--line)}
+.facts div{display:grid;grid-template-columns:64px 1fr;gap:10px;padding:8px 0;border-bottom:1px solid var(--line)}
+.facts b{font-weight:500;color:var(--muted)}
+.note{font-size:15.5px;background:var(--paper);border-radius:10px;padding:10px 14px;margin:12px 0;line-height:1.5}
+.panel h4{font-family:var(--sans);font-size:13px;font-weight:600;color:var(--muted);margin:20px 0 8px}
+.fam{display:flex;flex-direction:column;gap:6px}
+.fam button{display:flex;align-items:center;gap:10px;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:7px 10px;cursor:pointer;text-align:left;font-family:var(--sans);font-size:14px}
+.fam button:hover{border-color:var(--ink)}
+.fam .av{width:32px;height:32px;font-size:11px}
+.fam small{color:var(--muted);display:block;font-size:12.5px}
+.thumbs{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.thumbs button{padding:0;border:0;border-radius:8px;overflow:hidden;cursor:zoom-in;aspect-ratio:1;background:var(--paper)}
+.thumbs img{width:100%;height:100%;object-fit:cover;display:block}
+.pstories{display:flex;flex-direction:column;gap:8px;margin:14px 0 4px}
+.pstories a{display:flex;gap:12px;align-items:center;border:1px solid var(--ink);border-radius:12px;padding:8px;text-decoration:none;background:var(--paper)}
+.pstories a:hover{background:var(--card)}
+.pstories .im{width:62px;height:62px;border-radius:8px;background:var(--line) center 25%/cover;flex-shrink:0}
+.pstories b{display:block;font-size:17px;line-height:1.2}
+.pstories span{font-family:var(--sans);font-size:12.5px;color:var(--muted)}
+.pactions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+
+/* photos */
+.pgrid{columns:5 180px;column-gap:10px}
+.pgrid button{display:block;width:100%;margin:0 0 12px;padding:0;border:0;background:none;cursor:zoom-in;break-inside:avoid;text-align:left}
+.pgrid img{width:100%;border-radius:8px;display:block;background:var(--card)}
+.pgrid span{display:block;font-family:var(--sans);font-size:12.5px;color:var(--muted);padding:4px 2px 0;line-height:1.35}
+.lightbox{position:fixed;inset:0;background:rgba(8,10,10,.93);z-index:60;display:none;align-items:center;justify-content:center;flex-direction:column;padding:20px}
+.lightbox.on{display:flex}
+.lightbox img{max-width:96vw;max-height:80vh;border-radius:6px;background:#fff}
+.lightbox p{color:#dfe5e2;font-family:var(--sans);font-size:14px;max-width:760px;text-align:center}
+.lightbox p a{color:#fff}
+.lightbox .x{position:absolute;top:14px;right:14px;float:none;background:#222;color:#fff;border-color:#444}
+
+/* about */
+.fixes{display:grid;gap:8px}
+.fixes div{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;font-size:16px}
+.fixes b{display:block;font-family:var(--sans);font-size:14px}
+.prose{max-width:46em}
+footer{padding:24px 0 40px;color:var(--muted);font-family:var(--sans);font-size:13px;border-top:1px solid var(--line)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+/* Reading and discovery */
+.skip{position:absolute;left:16px;top:-80px;z-index:100;background:var(--card);padding:10px}.skip:focus{top:8px}
+.hero h1 .n,.hero h1 .j{color:inherit}
+.readtools{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:20px 0 24px;font-family:var(--sans);font-size:14px}
+.readtools .reading-time{margin-right:auto;color:var(--muted)}
+.story.large p,.story.large blockquote{font-size:22px;line-height:1.75}
+.src li{overflow-wrap:anywhere;margin-bottom:10px}.src a{text-decoration:underline;text-underline-offset:3px;color:var(--river)}
+.story-count{font-family:var(--sans);font-size:14px;color:var(--muted);margin:12px 0}
+.load-status{padding:18px;border:1px solid var(--line);border-radius:10px;margin:24px 0;background:var(--card)}
+.photo-control{font-family:var(--sans);font-size:13px;padding:4px 10px;min-height:36px;border:1px solid var(--line);border-radius:8px;background:var(--card);cursor:pointer}
+.dots{gap:0;padding:0}.dots button{width:28px;height:36px;border-radius:0;background:transparent;position:relative}.dots button::after{content:'';display:block;width:8px;height:8px;border-radius:50%;background:var(--line);margin:auto}.dots button.on{background:transparent}.dots button.on::after{background:var(--ink)}
+.slidecap{flex-wrap:wrap;gap:8px}.slidecap>span{flex:1 1 220px}
+#reading-notice{color:var(--muted);font-family:var(--sans);font-size:14px}
+@media(max-width:520px){.bar{height:auto;min-height:58px;flex-wrap:wrap;gap:10px;padding-top:10px;padding-bottom:10px}.brand{font-size:19px}.search{flex:1 1 100%;margin:0}.search input{width:100%;min-height:44px}.results{left:0;right:auto;width:100%;top:48px}.tabs a{padding:10px 12px}.chips .filter{width:100%}.readtools .reading-time{flex-basis:100%}.wrap{padding-left:16px;padding-right:16px}.top .row2{padding-left:20px;padding-right:20px}.view{padding-top:24px}}
+@media print{header,footer,.readtools,.ppl,.related,.pager,.crumb,.panel,.lightbox,.scrim{display:none!important}body{background:white;color:black;font-size:12pt}.view{display:none!important}#v-story:not([hidden]){display:block!important}.story{max-width:none}.story figure{break-inside:avoid}.src{break-inside:avoid}.story p{orphans:3;widows:3}}
+
+.photo-tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:center;margin-bottom:10px;padding-right:28px;font-family:var(--sans)}
+.photo-tools button,.photo-tools a{background:#243330;color:#fff;border:1px solid #87948f;border-radius:8px;padding:8px 12px;font:inherit;font-size:14px;cursor:pointer;text-decoration:none;min-height:44px}
+.photo-tools button[aria-pressed="true"]{background:#f5f7f4;color:#16221c}
+.photo-frame{overflow:auto;max-width:96vw;width:100%;max-height:70vh;text-align:center;min-height:0}
+.lightbox .photo-frame img{max-width:100%;max-height:68vh;object-fit:contain}.lightbox .photo-frame.zoomed img{max-width:none;max-height:none}
+.lightbox p{margin:8px 0 0}.photo-note{color:#dfe5e2;font-family:var(--sans);font-size:13px;text-align:center;margin:4px 0}
+.photo-open{display:inline-block;margin-top:6px;background:none;border:0;text-decoration:underline;text-underline-offset:3px;color:var(--river);font:inherit;font-family:var(--sans);font-size:14px;cursor:pointer;min-height:44px;padding:4px 0}
+</style>
+<link rel="stylesheet" href="explore.css?v=20261102a">
+<link rel="stylesheet" href="gallery.css?v=20261102a">
+<link rel="stylesheet" href="home.css?v=20261102a">
+<link rel="stylesheet" href="archive.css?v=20261102d">
+<link rel="stylesheet" href="polish.css?v=20261102b">
+<script src="archive-ui.js?v=20261101g"></script>
+<script src="timeline.js?v=20261101g"></script>
+<script src="tree-view.js?v=20261101g"></script>
+<script src="archive-features.js?v=20261102c"></script>
+</head>
+<body class="rachel-site archive-site">
+<a class="skip" href="#main">Skip to family history</a>
+<header class="top">
+  <div class="wrap bar">
+    <a class="brand" href="#/"><span data-site-title>Family history</span><small data-text="brandSmall"></small></a>
+
+    <div class="search"><input id="q" type="search" placeholder="Search the family archive" aria-label="Search the archive" autocomplete="off"><div class="results" id="qres"></div></div>
+  </div>
+
+</header>
+<nav class="bottom-nav" aria-label="Quick navigation"><a href="#/" data-tab="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11 12 4l9 7M5 10v10h14V10M9 20v-6h6v6"/></svg>Home</a><a href="#/stories" data-tab="stories"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h6a3 3 0 0 1 2 1v14a3 3 0 0 0-2-1H4zM20 5h-6a3 3 0 0 0-2 1v14a3 3 0 0 1 2-1h6z"/></svg>Stories</a><a href="#/tree" data-tab="tree"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="10" width="6" height="4" rx="1"/><rect x="16" y="4" width="6" height="4" rx="1"/><rect x="16" y="16" width="6" height="4" rx="1"/><path d="M8 12h4M12 6v12M12 6h4M12 18h4"/></svg>Tree</a><a class="desktop-nav-item" href="#/people" data-tab="people"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 19a6 6 0 0 1 12 0M16 6a3 3 0 0 1 0 6M17 14a5 5 0 0 1 4 5"/></svg>People</a><a href="#/photos" data-tab="photos"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.5"/><path d="m4 17 5-4 4 3 3-2 4 3"/></svg>Photos</a><a href="#/records" data-tab="records"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6M9 15h6M9 18h4"/></svg>Records</a><a href="#/timeline" data-tab="timeline"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3v18M6 6h12M6 12h8M6 18h12"/><circle cx="6" cy="6" r="2"/><circle cx="6" cy="12" r="2"/></svg>Timeline</a><a class="desktop-nav-item" href="#/stories/saved" data-tab="saved"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12v18l-6-4-6 4z"/></svg>Saved</a></nav>
+
+<main class="wrap" id="main" tabindex="-1">
+  <div id="load-status" class="load-status" role="status">Loading family history…</div>
+  <noscript><p>This family tree needs JavaScript to show its people and stories.</p></noscript>
+  <!-- HOME -->
+  <section class="view" id="v-home">
+    <div class="hero">
+      <div>
+        <span class="archive-kicker">The family archive</span><h1 data-text="heroTitle"></h1>
+        <p data-text="heroIntro"></p><p class="hero-note" data-text="heroNote"></p>
+        <p class="collection-summary" id="collection-summary"></p>
+        <div class="cta"><a class="btn primary" href="#/families">Explore family branches</a><a class="btn" href="#/stories">Read the stories</a></div>
+      </div>
+      <div><div class="slides" id="slides" aria-label="Family photographs"></div><div class="slidecap"><span id="slidecap"></span></div><div class="photo-navigation"><button class="photo-control" id="previousPhoto" aria-label="Previous family photograph">Previous</button><div class="dots" id="dots"></div><button class="photo-control" id="nextPhoto" aria-label="Next family photograph">Next</button><button class="photo-control" id="pausePhotos" aria-pressed="false">Pause photos</button></div></div>
+    </div>
+    <div class="home-paths"><a href="#/families"><strong>Follow a family name</strong><span>Explore the people and stories along each branch.</span></a><a href="#/places"><strong>Explore their places</strong><span data-text="placesPath"></span></a><a href="#/photos"><strong>Open the photo collection</strong><span>Family photographs and restored editions.</span></a></div>
+    <div class="home-section-head"><h2 class="sec">A place to begin</h2><a href="#/people">All people</a></div><p class="section-intro" data-text="gpIntro"></p>
+    <div class="gp" id="gp"></div>
+    <div class="home-section-head"><h2 class="sec">Lives behind the names</h2><a href="#/stories">All stories</a></div>
+    <div class="cards" id="featured"></div>
+    <p style="margin-top:16px"><a class="btn" href="#/stories">See all stories</a></p>
+    <h2 class="sec">Read through their lives</h2><div class="reading-paths" id="reading-paths"></div>
+    <div class="home-section-head"><h2>Across the generations</h2><a href="#/timeline">Full timeline</a></div><div id="homeTimeline"></div>
+    <div class="home-places-wrap"><div class="home-section-head"><h2 class="sec">The places they knew</h2><a href="#/places">All places</a></div><div class="home-places" id="home-places"></div></div>
+    <h2 class="sec">Two sides of the family</h2>
+    <div class="sides">
+      <a class="sidecard N" href="#/stories/N"><h3>Mom's side</h3><p data-text="momBlurb"></p><div class="names" data-text="momNames"></div></a>
+      <a class="sidecard J" href="#/stories/J"><h3>Dad's side</h3><p data-text="dadBlurb"></p><div class="names" data-text="dadNames"></div></a>
+    </div>
+  </section>
+
+  <!-- TREE -->
+  <section class="view" id="v-tree" hidden>
+    <div class="head"><h1>Family tree</h1><p>Drag to move, pinch or use the buttons to zoom. Tap anyone to open their page. People with a number badge have stories.</p></div>
+    <div id="archiveTree"></div>
+  </section>
+
+  <!-- STORIES -->
+  <section class="view" id="v-stories" hidden>
+    <div class="head"><h1>Stories</h1><p>Grouped by generation. Each one is marked with how well the records support it.</p></div>
+    <div class="chips" id="sfilters">
+      <button class="chip" data-f="all" aria-pressed="true">All</button>
+      <button class="chip" data-f="N" aria-pressed="false">Mom's side</button>
+      <button class="chip" data-f="J" aria-pressed="false">Dad's side</button>
+      <button class="chip" data-f="saved" aria-pressed="false">Saved stories</button>
+      <input class="filter" id="sq" type="search" placeholder="Filter stories" aria-label="Filter stories">
+    </div>
+    <div class="story-options"><label>Read about <select id="story-topic" aria-label="Read about" class="filter"><option value="all">All subjects</option></select></label><label>Arrange stories <select id="story-sort" aria-label="Arrange stories" class="filter"><option value="generation">By generation</option><option value="title">By title</option><option value="short">Shortest first</option></select></label></div><div class="story-results-bar"><p class="story-count" id="story-count" role="status"></p><button class="photo-open" id="clearStories">Clear filters</button></div><div id="sgroups"></div>
+  </section>
+
+  <!-- STORY -->
+  <section class="view" id="v-story" hidden><article class="story" id="storyBody"></article></section>
+
+  <!-- PEOPLE -->
+  <section class="view" id="v-people" hidden>
+    <div class="head"><h1>People</h1><p>Walk back through each grandparent’s line, or browse everyone by generation. Tap a name to open their page.</p></div>
+    <div class="chips" id="pfilters">
+      <span class="chip-group" role="group" aria-label="Arrange people"><button class="chip" data-view="lines" aria-pressed="true">Family lines</button><button class="chip" data-view="all" aria-pressed="false">Everyone</button></span>
+      <button class="chip" data-f="all" aria-pressed="true">All</button>
+      <button class="chip" data-f="N" aria-pressed="false">Mom's side</button>
+      <button class="chip" data-f="J" aria-pressed="false">Dad's side</button>
+      <button class="chip" data-f="st" aria-pressed="false">With stories</button>
+      <input class="filter" id="pq" type="search" placeholder="Filter by name or place" aria-label="Filter people">
+    </div>
+    <div id="pgroups"></div>
+  </section>
+
+  <!-- PHOTOS -->
+  <section class="view" id="v-photos" hidden>
+    <div class="head"><h1>Photos</h1><p>Family photographs, restored editions and historic views. Open a photograph to compare available versions.</p></div>
+    <div class="chips" id="phfilters">
+      <button class="chip" data-f="all" aria-pressed="true">All</button>
+      <button class="chip" data-f="N" aria-pressed="false">Mom's side</button>
+      <button class="chip" data-f="J" aria-pressed="false">Dad's side</button>
+      <button class="chip" data-f="news" aria-pressed="false">Newspapers and records</button><button class="chip" data-f="restored" aria-pressed="false">Restored photographs</button>
+    </div>
+    <div class="pgrid" id="pgrid"></div>
+  </section>
+
+  <!-- TIMELINE -->
+  <section class="view" id="v-timeline" hidden>
+    <div class="head"><h1>Timeline</h1><p>Dated events from both sides. Tap an event to read its story.</p></div>
+    <div id="timelineBrowser"></div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="view" id="v-about" hidden>
+    <div class="head"><h1>About this site</h1></div>
+    <div class="prose">
+      <p data-text="aboutIntro"></p>
+      <p><span class="badge proven">proven</span> an original record names it. <span class="badge probable">probable</span> a good secondary source that agrees with the records. <span class="badge lead">lead</span> a family claim or copied-tree link no record has confirmed. People who may be living are shown by name only. This is a public website; search engines are asked not to index it.</p>
+      <p data-text="aboutCompare"></p>
+    </div>
+    <h2 class="sec" id="fixes-title" data-text="fixesTitle"></h2>
+    <div class="fixes" id="fixes"></div>
+    <h2 class="sec">Sources</h2>
+    <p class="prose sources-list" data-text="sources"></p><p class="prose sources-list" data-text="credits"></p>
+  </section>
+</main>
+<footer><div class="wrap footer-inner"><div><b data-site-title>Family history</b><p>A family history in people, photographs and records.</p><a href="#/about">Sources and corrections</a></div><nav aria-label="More ways to explore"><a href="#/people">People directory</a><a href="#/families">Family branches</a><a href="#/places">Family places</a><a href="#/stories/saved">Saved stories</a><a href="#/records">Records and clippings</a><a href="#/tree">Family tree</a><a href="#/timeline">Timeline</a></nav><div><label for="appearance">Appearance</label><select id="appearance"><option value="system">Use device setting</option><option value="light">Light</option><option value="dark">Dark</option></select><p id="appearance-status" role="status"></p></div></div><div class="wrap footer-bottom"><span>People, places and the records that connect them.</span><button class="to-top" type="button">Back to top ↑</button></div></footer>
+
+<div class="scrim" id="scrim"></div>
+<aside class="panel" id="panel" role="dialog" aria-label="Person" aria-modal="true" aria-hidden="true" inert><div class="pin" id="pin"></div></aside>
+<div class="lightbox" id="lb" role="dialog" aria-modal="true" aria-label="Family photograph"><button class="x" id="lbx" aria-label="Close photograph">✕</button><div class="photo-tools"><button id="restoredPhoto" aria-pressed="true" hidden>Restored</button><button id="colorizedPhoto" aria-pressed="false" hidden>Colorized</button><button id="originalPhoto" aria-pressed="false" hidden>Original</button><button id="comparePhoto" aria-pressed="false" hidden>Compare</button><button id="retryPhoto" hidden>Try image again</button><button id="zoomPhoto" aria-pressed="false">Zoom in</button><a id="openPhoto" target="_blank" rel="noopener noreferrer">Open full-size</a></div><div class="photo-frame" id="photoFrame"><img id="lbimg" alt=""><div class="photo-compare" id="photoCompare" hidden><img id="compareOriginal" alt="Original photograph"><img id="compareEdited" class="over" alt="Edited photograph"><span class="compare-line" aria-hidden="true"></span><span class="compare-handle" aria-hidden="true">↔</span><span class="compare-tag original">Original</span><span class="compare-tag edited" id="compareLabel">Edited</span><input id="compareRange" type="range" min="0" max="100" value="50" aria-label="Compare original and edited photograph"></div></div><p class="photo-note" id="photoNote" role="status"></p><p id="lbcap"></p></div>
+
+<script type="module" src="app.js?v=20261102i"></script>
+</body>
+</html>

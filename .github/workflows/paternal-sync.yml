@@ -1,0 +1,64 @@
+name: Sync paternal archive and publish
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: sloan-pages
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          path: site
+      - uses: actions/checkout@v4
+        with:
+          repository: srmcno/family
+          fetch-depth: 0
+          path: family
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Sync and validate
+        working-directory: site
+        run: |
+          node scripts/sync-paternal.mjs ../family --apply
+          PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
+          node --test tests/test_relationships.mjs
+      - name: Save validated update
+        working-directory: site
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add tree.json content.json img .paternal-revision
+            git commit -m 'Sync paternal family archive'
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Prepare public artifact
+        run: |
+          mkdir public
+          cp -R site/index.html site/*.js site/*.css site/tree.json site/content.json site/img site/.nojekyll site/robots.txt site/favicon.svg public/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

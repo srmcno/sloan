@@ -1,0 +1,70 @@
+/* Shared refinements for both family archives. Colors come from the site palette in archive.css. */
+
+/* Selected filter chips were pale text on a pale fill in the photo and record collections. */
+.gallery-collection .gallery-chip-row .chip[aria-pressed=true],
+.chip[aria-pressed=true]{background:var(--accent-soft);border-color:var(--accent);color:var(--accent);font-weight:600}
+.chip{min-height:38px}
+.chip-group{display:inline-flex;gap:6px;padding-right:10px;margin-right:4px;border-right:1px solid var(--line)}
+
+/* Gallery cards: even heights, readable captions, documents shown from the top. */
+.gallery-card h2{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.gallery-image img{object-position:center top}
+.gallery-card{display:flex;flex-direction:column}
+.gallery-card .gallery-open{flex:1}
+
+/* Story cards: consistent image area and clamped summaries. */
+.scard .im{background-position:center 20%}
+.scard p{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.scard h3{text-wrap:balance}
+.story-context{display:flex;flex-wrap:wrap;gap:4px 8px;font:600 12.5px/1.4 var(--sans);color:var(--accent);margin:8px 0 2px}
+.story-context span+span{color:var(--muted);font-weight:500}
+
+/* Story pages */
+.story h1{text-wrap:balance}
+.story .story-subject{font:600 14px/1.4 var(--sans);color:var(--accent);margin:0 0 6px}
+.story .keyrec,.story .research-note{margin:30px 0 0;padding:18px 20px;border:1px solid var(--line);border-radius:12px;background:var(--card)}
+.story .keyrec h2,.story .research-note h2{font:600 13px/1.3 var(--sans);letter-spacing:.02em;color:var(--muted);margin:0 0 10px;text-transform:none}
+.story .keyrec dl{margin:0;display:grid;gap:10px}
+.story .keyrec dl>div{display:grid;grid-template-columns:minmax(120px,30%) 1fr;gap:12px;font:14.5px/1.5 var(--sans)}
+.story .keyrec dt{font-weight:600;color:var(--ink)}
+.story .keyrec dd{margin:0;color:var(--soft)}
+.story .research-note p{font:14.5px/1.6 var(--sans);color:var(--soft);margin:0}
+@media(max-width:600px){.story .keyrec dl>div{grid-template-columns:1fr;gap:2px}}
+
+/* Home */
+.hero .hero-note{font:14px/1.5 var(--sans);color:var(--muted)}
+.collection-summary{display:flex;flex-wrap:wrap;gap:4px 10px;font:14px/1.5 var(--sans)}
+.collection-summary a{color:var(--ink);text-underline-offset:3px}
+.home-places-wrap[hidden]{display:none}
+.sources-list{font-size:16px;color:var(--soft)}
+
+/* People: grandparent lines */
+.line-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:4px 0 22px}
+.line-card{display:flex;flex-direction:column;gap:4px;text-align:left;padding:14px 16px;border:1px solid var(--line);border-top:4px solid var(--muted);border-radius:12px;background:var(--card);cursor:pointer;font-family:var(--sans);color:var(--ink);min-height:132px}
+.line-card.N{border-top-color:var(--river)}.line-card.J{border-top-color:var(--clay)}
+.line-card b{font:600 21px/1.15 var(--serif)}
+.line-card .line-side{font-size:12.5px;color:var(--muted)}
+.line-card .line-blurb{font-size:13.5px;line-height:1.4;color:var(--soft);flex:1}
+.line-card small{font-size:12.5px;color:var(--muted)}
+.line-card:hover{border-color:var(--accent)}
+.line-card[aria-pressed=true]{background:var(--accent-soft);border-color:var(--accent)}
+.line-gen{margin:0 0 22px}
+.line-gen h3{font:600 14px/1.3 var(--sans);color:var(--muted);margin:0 0 10px;padding-bottom:6px;border-bottom:1px solid var(--line)}
+@media(max-width:900px){.line-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.line-cards{grid-template-columns:1fr 1fr;gap:8px}.line-card{min-height:0;padding:10px 12px}.line-card .line-blurb{display:none}.line-card b{font-size:18px}}
+
+/* Person panel: research facts read as a table */
+.panel .facts>div{align-items:start}
+.panel .facts span{overflow-wrap:anywhere}
+
+/* Motion and focus */
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+:focus-visible{outline:3px solid var(--focus-ring,var(--accent));outline-offset:2px}
+
+/* Inline evidence tags inside story text use the site's evidence badges */
+.story .inline-ev{font-size:11.5px;padding:0 7px;margin:0 2px;vertical-align:2px;font-style:normal;cursor:help}
+/* No-image story cards show the family name on a soft panel */
+.scard .im.no-image{display:flex;align-items:center;justify-content:center;font:600 30px/1.1 var(--serif);color:var(--accent);background:linear-gradient(135deg,var(--accent-soft),var(--tint));text-align:center;padding:0 16px}
+/* Reading progress on story pages */
+.read-progress{position:fixed;top:0;left:0;right:0;height:3px;background:var(--accent);transform-origin:0 50%;transform:scaleX(0);z-index:60;pointer-events:none}
+@media print{.read-progress{display:none}}
