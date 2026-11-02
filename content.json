@@ -18031,7 +18031,8 @@
    "people": [
     "MAT_JULIA_ROBBINS",
     "MAT_WILLIAM_NELSON",
-    "MAT_AUDREY_NELSON"
+    "MAT_AUDREY_NELSON",
+    "MAT_NONA_MYERS_ALFORD"
    ],
    "subject": {
     "name": "Julia Robbins Nelson",
@@ -18053,7 +18054,8 @@
     "Arkansas marriage record, Julia Ann Stevens and Charles M. Ratcliff, both of Broken Bow, 19 August 1950, Sevier County, p. 249; original image examined: https://www.familysearch.org/ark:/61903/3:1:S3HT-DW19-QHH ; index: https://www.familysearch.org/ark:/61903/1:1:N972-6H3",
     "The Broken Bow News, 10 October 1929, p. 1, notice for Mrs. Gordon Kilgore (Hattie Myers); original page examined: https://www.newspapers.com/image/906077702/",
     "McCurtain Gazette, 29 September 1956, p. 5, obituary for Mrs. C. M. Ratcliff; original newspaper examined, including its conflicting age of 72 and 1873 birth date: https://www.newspapers.com/image/747635079/",
-    "Audrey Inez Nelson Sandridge memorial with reproduced obituary naming Julia Robbins: https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge"
+    "Audrey Inez Nelson Sandridge memorial with reproduced obituary naming Julia Robbins: https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge",
+    "The Broken Bow News, 7 March 1940, p. 1, explicitly naming Julia Stevens as Nona Alford’s mother and Mrs. L. L. Sandridge as Nona’s sister: https://www.newspapers.com/image/747637199/"
    ],
    "imgs": [
     {
@@ -18111,6 +18113,54 @@
     }
    ],
    "note": "Hattie’s relationship to Julia and Audrey is a probable identification using the census and original newspaper notice. Her father and exact birth date remain unresolved; the certificate’s unknown parent fields must not be filled from an unverified online tree."
+  },
+  {
+   "id": "camden-family-visit-1940",
+   "side": "N",
+   "gen": 4,
+   "ev": "probable",
+   "profile": false,
+   "title": "A Camden visit brought three generations together",
+   "hook": "In 1940, Nona Alford’s visit to Broken Bow ended with Audrey, young Larry and their mother Julia joining her in Arkansas.",
+   "people": [
+    "MAT_NONA_MYERS_ALFORD",
+    "MAT_WESLEY_E_ALFORD",
+    "MAT_MABEL_ALFORD_CHIDESTER",
+    "MAT_GERALDINE_ALFORD_FORKNER",
+    "MAT_JULIA_ROBBINS",
+    "MAT_AUDREY_NELSON",
+    "MAT_LARRY_SANDRIDGE"
+   ],
+   "subject": {
+    "name": "Nona Myers Alford",
+    "rel": "Maternal family",
+    "years": "born about 1902"
+   },
+   "body": [
+    "Nona Alford and her married daughter traveled from Camden, Arkansas, to visit friends and relatives in Broken Bow. When they went home, the visiting party grew: Nona’s sister Mrs. L. L. Sandridge, her son Larry, and their mother Julia Stevens accompanied them for several days. The Broken Bow News recorded the trip on 7 March 1940. Audrey Sandridge and young Larry belonged to this same family, connecting the brief newspaper item with the direct maternal line.",
+    "Nona already had a family of her own. An original Bowie County, Texas, register records Wesley E. Alford and Nona Myers marrying on 20 June 1919. The 1930 Broken Bow census lists their daughters Mable and Gerldene, names later recorded as Mabel and Geraldine. Both daughters’ Social Security entries name Nona A. Myers and Wesley E. Alford as their parents, preserving the Myers surname behind Nona’s married name.",
+    "The newspaper calls Nona’s daughter Mrs. Edwin Chidester. A 1940 Camden census names Mabel as Edwin Chidester’s wife, and her Social Security record uses the name Mabel Alford Chidester, making this a strong identification. Mabel later appears under Crowl; an obituary index for Geraldine Forkner names Mabel Crowl as her sister. These separate records help keep the two daughters connected as their surnames changed.",
+    "Julia was the older generation traveling with her daughters and grandchildren between Broken Bow and Camden. The visit preserves her Stevens surname alongside Audrey’s Sandridge and Nona’s Alford names. It also gives Nona a clear place beside Audrey in the maternal family."
+   ],
+   "quotes": [],
+   "src": [
+    "The Broken Bow News, 7 March 1940, p. 1, Nona Alford family visit; original newspaper examined: https://www.newspapers.com/image/747637199/",
+    "Bowie County, Texas, marriage register, p. 274, Wesley E. Alford and Nona Myers, married 20 June 1919 (license 19 June, recorded 25 June); original examined: https://www.familysearch.org/ark:/61903/3:1:33S7-9P3B-B3F",
+    "1930 U.S. census, Broken Bow, Wesley E. and Nona Alford household, indexed Mable and Gerldene; index, not an examined original in this pass: https://www.familysearch.org/ark:/61903/1:1:XCWW-1M3",
+    "U.S. Social Security NUMIDENT, Mabel Alford Chidester / Crowl, parents Nona A. Myers and Wesly E. Alford, birth 27 May 1920 and death 5 November 1999; derivative index: https://www.familysearch.org/ark:/61903/1:1:6K74-XDST",
+    "U.S. Social Security NUMIDENT, Geraldine Alford / Forkner, parents Nona A. Myers and Wesley E. Alford, birth 18 September 1925 and death 3 June 1992; derivative index: https://www.familysearch.org/ark:/61903/1:1:6K7W-J4R8",
+    "1940 U.S. census, Camden, Mabel Chidester, wife of Edwin; index: https://www.familysearch.org/ark:/61903/1:1:KQK2-XJH",
+    "Mabel Alford and E. R. Chidister, 8 September 1938, Arkansas marriage index: https://www.familysearch.org/ark:/61903/1:1:NMPQ-4HC ; original register examined: https://www.familysearch.org/ark:/61903/3:1:S3HT-DCBW-4SJ",
+    "Orlando Sentinel, 4 June 1992, Geraldine Forkner obituary index identifying Mabel A. Crowl as sister; original newspaper not examined: https://www.familysearch.org/ark:/61903/1:1:QKR2-J1MZ"
+   ],
+   "imgs": [
+    {
+     "s": "img/docs/myers_alford_1919_marriage_register.jpg",
+     "cap": "Original Bowie County marriage register, page 274, upper-left entry: Wesley E. Alford and Nona Myers, married 20 June 1919. The license was issued on 19 June and the return recorded on 25 June.",
+     "kind": "record"
+    }
+   ],
+   "note": "The 1940 newspaper directly names Nona’s mother and sister; identifying Mrs. L. L. Sandridge with Audrey and Mrs. Edwin Chidester with Mabel uses the corroborating family records. The records do not distinguish full from half sisters. Nona’s father remains unknown. Her proposed later Kinley identity has not been adopted. Mabel’s marriage age conflicts with her Social Security birth date."
   }
  ],
  "storyAliases": {
@@ -20071,6 +20121,12 @@
    "t": "Hattie Myers Kilgore, probably Audrey Nelson’s older sister, dies in Paris, Texas, on 8 October.",
    "side": "N",
    "story": "hattie-myers-kilgore"
+  },
+  {
+   "y": "1940",
+   "t": "Nona Alford visits Broken Bow; her mother Julia Stevens, sister Audrey Sandridge and young Larry return with her to Camden, Arkansas.",
+   "side": "N",
+   "story": "camden-family-visit-1940"
   }
  ],
  "fixes": [],
