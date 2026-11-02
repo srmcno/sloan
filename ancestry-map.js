@@ -2,7 +2,7 @@
 // Each location is an approximate community or county seat tied to a cited story.
 const places = [
  {id:'broken-bow',side:'maternal',name:'Broken Bow, Oklahoma',lat:34.0293,lng:-94.7391,detail:'Larry Sandridge grew up in Broken Bow; his family’s story includes Navy service and later generations in the area.',story:'sandridge-broken-bow-research-lead'},
- {id:'wheelock',side:'maternal',name:'Wheelock, Oklahoma',lat:33.999,lng:-94.881,detail:'Alfreda Whitfield was born at Wheelock. Family records trace her maternal family into the Choctaw Nation.',story:'alfreda-whitfield-sandridge'},
+ {id:'wheelock',side:'maternal',name:'Wheelock, Oklahoma',lat:33.999,lng:-94.881,detail:'Alfreda Whitfield was born at Wheelock. Family records trace her Whitfield family into the Choctaw Nation.',story:'alfreda-whitfield-sandridge'},
  {id:'mccurtain',side:'maternal',name:'McCurtain County, Oklahoma',lat:33.8957,lng:-94.8263,detail:'A 1930 census records Violet Box in the household of Tyro and Annie Box. The marker is placed at Idabel, the county seat.',story:'alfreda-whitfield-sandridge'},
  {id:'brazoria',side:'maternal',name:'Brazoria County, Texas',lat:29.1689,lng:-95.4319,detail:'Floyd and Alice Livesay’s family appears in the county’s 1900 census. The marker is placed at Angleton, the county seat.',story:'livesay-illinois-to-texas'},
  {id:'washington-il',side:'maternal',name:'Washington County, Illinois',lat:38.3437,lng:-89.3801,detail:'A boy named Floyd H. Livesay appears with Lydia and David Livesay in the 1860 census. The earlier relationship remains unproved.',story:'livesay-illinois-to-texas'},
@@ -29,6 +29,18 @@ const regions = [
 const branch = document.querySelector('#branch');
 const cards = document.querySelector('#places');
 const status = document.querySelector('#map-status');
+// Only these unambiguous town/state names are mapped automatically. The
+// marker is the town center, never an individual's address.
+const knownTowns = [
+ ['Houston, Texas',29.7604,-95.3698,/^Houston,\s*Texas(?:,|$)/i],
+ ['Pearland, Texas',29.5636,-95.2860,/^Pearland,\s*Texas(?:,|$)/i],
+ ['Paris, Texas',33.6609,-95.5555,/^Paris,\s*Texas(?:,|$)/i],
+ ['Idabel, Oklahoma',33.8957,-94.8263,/^Idabel,\s*Oklahoma(?:,|$)/i],
+ ['Millerton, Oklahoma',34.0015,-95.0028,/^Millerton,\s*Oklahoma(?:,|$)/i],
+ ['Golden, Oklahoma',33.949,-94.86,/^Golden,\s*Oklahoma(?:,|$)/i],
+ ['Nashville, Tennessee',36.1627,-86.7816,/^Nashville,\s*Tennessee(?:,|$)/i]
+];
+let recordedPlaces = [];
 let map, markers = [], detail;
 const label = side => side === 'dna' ? 'Dad’s DNA estimate' : side === 'maternal' ? 'Mom’s side' : 'Dad’s side';
 function selectPlace(place) {
@@ -37,17 +49,20 @@ function selectPlace(place) {
   detail.replaceChildren();
   const title=document.createElement('h3'); title.textContent=place.name;
   const text=document.createElement('p'); text.textContent=place.detail;
-  const link=document.createElement('a'); link.href=place.story ? './#/story/'+encodeURIComponent(place.story) : '#dna-results'; link.textContent=place.story ? 'Read the family story →' : 'Read about these estimates →';
+  const link=document.createElement('a');
+  link.href=place.person ? './#/person/'+encodeURIComponent(place.person) : place.story ? './#/story/'+encodeURIComponent(place.story) : '#dna-results';
+  link.textContent=place.person ? 'View a recorded person →' : place.story ? 'Read the family story →' : 'Read about these estimates →';
   detail.append(title,text,link);
   if(map) { map.setView([place.lat,place.lng],8); const item=markers.find(m=>m.place.id===place.id); if(item) item.marker.openPopup(); }
 }
 function render() {
- const shown=branch.value==='dna' ? regions : places.filter(p=>branch.value==='all'||p.side===branch.value);
+ const familyPlaces=places.concat(recordedPlaces);
+ const shown=branch.value==='all' ? familyPlaces.concat(regions) : branch.value==='dna' ? regions : familyPlaces.filter(p=>p.side===branch.value);
  cards.replaceChildren(); if(detail){detail.remove();detail=null;}
  if(map) { markers.forEach(m=>m.marker.remove()); markers=[]; }
  shown.forEach(place=>{
   const button=document.createElement('button'); button.type='button'; button.className='place '+place.side; button.dataset.id=place.id; button.setAttribute('aria-pressed','false');
-  const badge=document.createElement('span'); badge.textContent=label(place.side); const name=document.createElement('strong');name.textContent=place.name; const summary=document.createElement('small');summary.textContent=place.detail; button.append(badge,name,summary); button.addEventListener('click',()=>selectPlace(place));cards.append(button);
+  const badge=document.createElement('span'); badge.textContent=label(place.side); if(place.side==='dna') badge.style.color='#655895'; const name=document.createElement('strong');name.textContent=place.name; const summary=document.createElement('small');summary.textContent=place.detail; button.append(badge,name,summary); button.addEventListener('click',()=>selectPlace(place));cards.append(button);
   if(map) {const marker=L.circleMarker([place.lat,place.lng],{radius:9,color:'#fff',weight:2,fillColor:place.side==='dna'?'#655895':place.side==='maternal'?'#a66c23':'#22688b',fillOpacity:1}).addTo(map);marker.bindPopup('<strong>'+place.name+'</strong><br>'+label(place.side)); marker.on('click',()=>selectPlace(place)); markers.push({place,marker});}
  });
  if(map && shown.length) map.fitBounds(L.latLngBounds(shown.map(p=>[p.lat,p.lng])),{padding:[32,32],maxZoom:5});
@@ -58,3 +73,29 @@ if (typeof L !== 'undefined') {
  catch(e) { status.textContent='The map could not load. You can still explore each place below.'; }
 } else { status.textContent='The map could not load. You can still explore each place below.'; }
 render();
+// The published tree is the source of truth. Only deceased people with an
+// explicitly recorded place and branch are included; no geocoder guesses.
+fetch('tree.json', {cache:'no-store'}).then(response => {
+ if(!response.ok) throw new Error('Tree unavailable');
+ return response.json();
+}).then(tree => {
+ const groups=new Map();
+ for(const [id,person] of Object.entries(tree.people || {})) {
+  if(person.lv !== false || !['N','J'].includes(person.side) || !person.n) continue;
+  for(const field of ['bp','dp']) {
+   if(typeof person[field]!=='string') continue;
+   const town=knownTowns.find(item=>item[3].test(person[field].trim()));
+   if(!town) continue;
+   const side=person.side==='N'?'maternal':'paternal', key=town[0]+'|'+side;
+   if(!groups.has(key)) groups.set(key,{town,side,entries:new Map()});
+   const group=groups.get(key), existing=group.entries.get(id)||{name:person.n,types:new Set()};
+   existing.types.add(field==='bp'?'birth':'death'); group.entries.set(id,existing);
+  }
+ }
+ recordedPlaces=Array.from(groups.values()).map((group,index)=>{
+  const [person,entry]=group.entries.entries().next().value;
+  return {id:'recorded-'+index,side:group.side,name:group.town[0],lat:group.town[1],lng:group.town[2],person,
+   detail:'The current family tree records this as a birth or death place for '+group.entries.size+' '+(group.entries.size===1?'person':'people')+'. For example, '+entry.name+' has a recorded '+Array.from(entry.types).join(' and ')+' here. Select the profile for its sources.'};
+ });
+ render();
+}).catch(()=>{ status.textContent += ' Additional places from the tree could not be loaded; the curated places remain available.'; });
