@@ -87,6 +87,47 @@
  ],
  "stories": [
   {
+   "id": "alfreda-whitfield-sandridge",
+   "side": "N",
+   "gen": 3,
+   "ev": "probable",
+   "profile": false,
+   "title": "Alfreda Whitfield Sandridge and her Choctaw family",
+   "hook": "A family anniversary notice connects Alfreda’s story to Choctaw enrollment and her grandparents’ generation.",
+   "people": [
+    "MAT_ALFREDA_WHITFIELD",
+    "MAT_LEWIS_WHITFIELD",
+    "MAT_VIOLET_BOX",
+    "MAT_IDA_MERRY",
+    "MAT_OLIVER_C_WHITFIELD"
+   ],
+   "subject": {
+    "name": "Alfreda Whitfield Sandridge",
+    "rel": "Maternal great-grandmother",
+    "years": "1939–2013"
+   },
+   "body": [
+    "Alfreda Whitfield was born in 1939 at Wheelock, Oklahoma, to L. O. and Violet Box Whitfield. She married Larry Sandridge in 1958 at First Assembly of God in Broken Bow. Her family remembered her love of gardening, fishing and time with her grandchildren, and her work at the Choctaw Casino in Idabel.",
+    "Their 50th anniversary notice in the Choctaw Nation’s Biskinik identifies Alfreda’s grandmother as Ida Merry Whitfield and her great-grandmother as Bessie Durant, both original enrollees. This family notice identifies the relatives but does not specify the parent-child connection between Ida and Bessie; that link remains to be established from enrollment and family records.",
+    "The 1920 census lists a child named Oliver L. Whitfield in the McCurtain County household of Oliver C. and Ida M. Whitfield. His age and family context fit Lewis Oliver Whitfield, Alfreda’s father, but the reversed name order makes the identification probable rather than certain. A later Biskinik family notice names the late Lewis Whitfield and Ida Merry Whitfield among this branch’s elders."
+   ],
+   "quotes": [],
+   "src": [
+    "FamilySearch, Alfreda Whitfield Sandridge obituary: https://www.familysearch.org/ark:/61903/1:1:611X-8LLK",
+    "Choctaw Nation, Biskinik, December 2008, p. 6, 50th anniversary notice: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6",
+    "1920 U.S. census, Oliver C. and Ida M. Whitfield household: https://www.familysearch.org/ark:/61903/1:1:MNBY-3S2",
+    "Choctaw Nation, Biskinik, August 2009, p. 4, family announcement: https://www.choctawnation.com/wp-content/uploads/2022/08/aug-2009-biskinik.pdf#page=4"
+   ],
+   "imgs": [
+    {
+     "s": "img/p/larry_alfreda_sandridge_original.png",
+     "cap": "Alfreda and Larry Sandridge, 50th anniversary portrait in the 2008 Biskinik. The small, overexposed original limits what can be recovered; the restored facial details and colors are interpretations.",
+     "kind": "photo"
+    }
+   ],
+   "note": "The 1920 census identification of Oliver L. as Lewis Oliver is probable. The 2008 notice does not establish the intervening relationship to Bessie Durant."
+  },
+  {
    "id": "audrey-nelson-sandridge",
    "side": "N",
    "gen": 4,
@@ -113,9 +154,16 @@
    "src": [
     "1920 U.S. census, McCurtain County, Oklahoma, William Nelson household: https://www.familysearch.org/ark:/61903/1:1:MNBT-RFQ",
     "Audrey Inez Nelson Sandridge memorial with reproduced obituary, Find a Grave memorial 39759811: https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge",
-    "Larry Lamar Sandridge obituary index naming his parents: https://www.familysearch.org/ark:/61903/1:1:XMR9-K659"
+    "Larry Lamar Sandridge obituary index naming his parents: https://www.familysearch.org/ark:/61903/1:1:XMR9-K659",
+    "Audrey Sandridge portrait, contributed by JEF, Find a Grave memorial 39759811, photo 95617468: https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge#view-photo=95617468"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/p/audrey_nelson_sandridge_original.jpg",
+     "cap": "Audrey Inez Nelson Sandridge. Portrait contributed by JEF to Find a Grave memorial 39759811. The restored version interprets facial details from a small original.",
+     "kind": "photo"
+    }
+   ],
    "note": "The 1920 census documents the Nelson household. The obituary reproduced on the memorial is the source for Julia’s maiden name and Audrey’s work history; the original publication has not been examined."
   },
   {
@@ -174,6 +222,7 @@
    },
    "body": [
     "In 1900, Floyd and Alice Livesay lived in Brazoria County, Texas, with children born in Illinois and Texas. Their son Lester W. was listed as born in Illinois in November 1894. The census points to a family move from Illinois to Texas between the births of their Illinois-born children and their Texas-born daughter Ruth, about 1898; it does not reveal the reason for the move.",
+    "Floyd ran a grocery in Pearland. A 1932 Houston Chronicle notice places his move from Illinois to Pearland about 37 years earlier, suggesting the mid-1890s; the estimate fits the birthplaces in the 1900 household. The notice names a son L. W. Livesay among his survivors.",
     "The 1920 census places Lester W. and Sadah Livesay in Harris County, Texas, with their young children, including a son Lester Jr. The younger Lester’s obituary later identified his parents as Lester W. Sr. and Sadah McCormick. His railroad career and ranches carried the story into Pearland and East Texas.",
     "A Texas death record for Walter Livesay, also listed in the 1900 household, names his parents Floyd Livesay and Alice Walker. A 1932 death record identifies Floyd Hale Livesay, born in Illinois; it gives February 1857 as his birth, while the 1900 census gives February 1856. The 1900 entry for Lester gives a birth month and year that do not agree with his recorded age.",
     "An earlier 1870 census lists a fourteen-year-old Floyd H. Livesay in the Illinois household of David Livesay. The 1870 census did not state family relationships; additional evidence is needed to establish whether David was his father."
@@ -185,7 +234,8 @@
     "Texas death record, Walter Livesay, 1912, naming Floyd Livesay and Alice Walker: https://www.familysearch.org/ark:/61903/1:1:K3WG-LFQ",
     "Texas death record, Floyd Hale Livesay, 1932: https://www.familysearch.org/ark:/61903/1:1:K332-H5B",
     "1870 U.S. census, Washington County, Illinois, David Livesay household: https://www.familysearch.org/ark:/61903/1:1:M6WP-C5M",
-    "The Panola Watchman, 22 July 2001, Lester Woodrow Livesay Jr. obituary: https://www.txgenwebcounties.com/panola/obit/2001obit2.htm"
+    "The Panola Watchman, 22 July 2001, Lester Woodrow Livesay Jr. obituary: https://www.txgenwebcounties.com/panola/obit/2001obit2.htm",
+    "The Houston Chronicle, 5 May 1932, p. 16, F. H. Livesay funeral notice: https://www.newspapers.com/image/1198463593/"
    ],
    "imgs": [],
    "note": "The identity of Floyd in the 1870 household and any parentage for him need additional corroboration. Dates and ages differ across records."
@@ -210,7 +260,7 @@
    },
    "body": [
     "Larry Lamar Sandridge grew up in Broken Bow, Oklahoma, where he graduated from high school in 1956. His obituary says he served in the Army and Navy as an aviation electrician, including service aboard the helicopter carrier USS Thetis Bay. It names his parents as Lemuel Lamar Sandridge and Audrey Inez Nelson.",
-    "In 2008 Larry and his wife Alfreda Whitfield Sandridge celebrated their 50th wedding anniversary. Their anniversary notice appeared in the Choctaw Nation’s Biskinik along with a photograph. The notice identifies Alfreda’s Choctaw relatives; it does not name Larry’s daughter or establish her mother, so that connection remains under investigation.",
+    "In 2008 Larry and his wife Alfreda Whitfield Sandridge celebrated their 50th wedding anniversary. Their anniversary notice appeared in the Choctaw Nation’s Biskinik along with a photograph. Alfreda’s obituary names their daughter and her parents, connecting the Sandridge and Whitfield families.",
     "A 1961 McCurtain Gazette notice identifies Lemuel Sandridge of Broken Bow as a son of Clinton Lamar Sandridge. The notice says Clinton was born in Arkansas and moved to McCurtain County in 1919, where he farmed. These records offer a path into an earlier generation of a Sandridge family in the region.",
     "A funeral-home obituary index names a daughter whose identity was confirmed by the family. The 1930 census names Clinton and Maggie in Lemuel’s household; Clinton’s recorded age there differs from the birth year reported in his obituary, and Maggie’s maiden name needs more research."
    ],
@@ -220,7 +270,8 @@
     "McCurtain Gazette, 20 December 1961, p. 4, C. L. Sandridge obituary, Gateway to Oklahoma History: https://gateway.okhistory.org/ark:/67531/metadc2405029/m1/4/",
     "1930 United States census, Eagle Township, McCurtain County: https://www.familysearch.org/ark:/61903/1:1:XCWW-KCX",
     "Ancestry, funeral-home obituary index: https://www.ancestry.com/search/collections/2190/records/137405823",
-    "Choctaw Nation, Biskinik, December 2008, p. 6, Larry and Alfreda Sandridge anniversary: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6"
+    "Choctaw Nation, Biskinik, December 2008, p. 6, Larry and Alfreda Sandridge anniversary: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6",
+    "Alfreda Whitfield Sandridge obituary, FamilySearch: https://www.familysearch.org/ark:/61903/1:1:611X-8LLK"
    ],
    "imgs": [
     {
@@ -19674,6 +19725,24 @@
    "t": "Audrey and Lemuel Sandridge work at the Red River Arsenal plant; Audrey also works its switchboard.",
    "side": "N",
    "story": "audrey-nelson-sandridge"
+  },
+  {
+   "y": "about 1895",
+   "t": "Floyd Livesay moves from Illinois to Pearland, Texas, according to a later Houston newspaper notice; he becomes a grocer there.",
+   "side": "N",
+   "story": "livesay-illinois-to-texas"
+  },
+  {
+   "y": "1958",
+   "t": "Alfreda Whitfield and Larry Sandridge marry in Broken Bow, Oklahoma.",
+   "side": "N",
+   "story": "alfreda-whitfield-sandridge"
+  },
+  {
+   "y": "2008",
+   "t": "Alfreda and Larry Sandridge celebrate their 50th wedding anniversary; their family notice names Choctaw ancestors.",
+   "side": "N",
+   "story": "alfreda-whitfield-sandridge"
   }
  ],
  "fixes": [],
@@ -19939,6 +20008,16 @@
     "c": "Restored and colorized interpretation"
    },
    "edit_note": "The small, overexposed source preserves little facial detail. Facial features, colors and other fine details in the restored image are interpretations; view the original for comparison."
+  },
+  "img/p/audrey_nelson_sandridge_original.jpg": {
+   "colorized": "img/p/audrey_nelson_sandridge_restored.png",
+   "note": "Original portrait is a small color image.",
+   "source": "https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge#view-photo=95617468",
+   "method": "AI restoration",
+   "labels": {
+    "c": "Restored interpretation"
+   },
+   "edit_note": "The original is small; facial and clothing details in this restored version are interpreted. Compare with the original."
   }
  },
  "archivePhotos": [
@@ -20184,6 +20263,9 @@
   },
   "img/p/larry_alfreda_sandridge_original.png": {
    "url": "https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6"
+  },
+  "img/p/audrey_nelson_sandridge_original.jpg": {
+   "url": "https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge#view-photo=95617468"
   }
  }
 }
