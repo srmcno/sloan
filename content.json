@@ -87,6 +87,74 @@
  ],
  "stories": [
   {
+   "id": "audrey-nelson-sandridge",
+   "side": "N",
+   "gen": 4,
+   "ev": "probable",
+   "profile": false,
+   "title": "Audrey Sandridge: wartime work and a community switchboard",
+   "hook": "From a McCurtain County childhood to wartime work and the telephone office, Audrey Nelson Sandridge’s life connected work and community.",
+   "people": [
+    "MAT_AUDREY_NELSON",
+    "MAT_WILLIAM_NELSON",
+    "MAT_JULIA_ROBBINS"
+   ],
+   "subject": {
+    "name": "Audrey Inez Nelson Sandridge",
+    "rel": "Maternal ancestor",
+    "years": "1917–2014"
+   },
+   "body": [
+    "Audrey Inez Nelson was born in 1917 in the Redland area of McCurtain County, Oklahoma. The 1920 census lists two-year-old Audrey as a daughter in the household of William and Julia Nelson. A family memorial identifies her parents as William Nelson and Julia Robbins; the original obituary it reproduces has not yet been located.",
+    "During the 1940s, Audrey and her husband Lemuel Sandridge worked at the Red River Arsenal plant making ammunition. Audrey also worked the switchboard there. After they returned to Broken Bow, she worked as one of the early telephone operators at Pine Telephone Company.",
+    "Her community life included service at Broken Bow First Assembly of God: the reproduced obituary describes work with young people, Sunday school and fellowship meals. Audrey and Lemuel’s son Larry carried the family story into another generation in McCurtain County."
+   ],
+   "quotes": [],
+   "src": [
+    "1920 U.S. census, McCurtain County, Oklahoma, William Nelson household: https://www.familysearch.org/ark:/61903/1:1:MNBT-RFQ",
+    "Audrey Inez Nelson Sandridge memorial with reproduced obituary, Find a Grave memorial 39759811: https://www.findagrave.com/memorial/39759811/audrey-inez-sandridge",
+    "Larry Lamar Sandridge obituary index naming his parents: https://www.familysearch.org/ark:/61903/1:1:XMR9-K659"
+   ],
+   "imgs": [],
+   "note": "The 1920 census documents the Nelson household. The obituary reproduced on the memorial is the source for Julia’s maiden name and Audrey’s work history; the original publication has not been examined."
+  },
+  {
+   "id": "alice-walker-illinois-records",
+   "side": "N",
+   "gen": 6,
+   "ev": "probable",
+   "profile": false,
+   "title": "Alice Walker’s Illinois beginnings",
+   "hook": "Census households and a Texas death certificate offer a path back to the Walker family, with one important disagreement to resolve.",
+   "people": [
+    "MAT_ALICE_WALKER",
+    "MAT_WILLIAM_P_WALKER"
+   ],
+   "subject": {
+    "name": "Alice M. Walker Livesay",
+    "rel": "Maternal ancestor",
+    "years": "about 1859–1922"
+   },
+   "body": [
+    "The 1860 and 1870 censuses list an Alice M. Walker in the Illinois household of Wm P. and Abigail Walker. The records place the family in Washington County, Illinois; those censuses did not identify the relationships between people in a household.",
+    "By 1900 Floyd and Alice Livesay were living in Brazoria County, Texas, with children who included Lester W. Livesay. A 1912 Texas death record for their son Walter names Floyd Livesay and Alice Walker as his parents. In 1920, Floyd H. and Alice M. Livesay were recorded together in Houston.",
+    "A 1922 Houston death certificate for Alice May Livesay identifies her father as Wm P. Walker. F. H. Livesay gave the information, and the couple’s 1920 household and Floyd’s later record as a widower make this a plausible match. The certificate’s stated age and birth year do not agree, so the identification remains probable rather than certain.",
+    "The records leave a question about Alice’s mother. The census household includes Abigail Walker, but the death certificate gives the mother as Addie Brace or Bruce in its index. Without a record resolving that difference, no mother has been attached to Alice’s profile."
+   ],
+   "quotes": [],
+   "src": [
+    "1860 U.S. census, Washington County, Illinois, Wm P. Walker household: https://www.familysearch.org/ark:/61903/1:1:MXHP-6Z1",
+    "1870 U.S. census, Washington County, Illinois, Wm P. Walker household: https://www.familysearch.org/ark:/61903/1:1:M6W5-SLW",
+    "1900 U.S. census, Brazoria County, Texas, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-JSM",
+    "Texas death record, Walter Livesay, 1912: https://www.familysearch.org/ark:/61903/1:1:K3WG-LFQ",
+    "1920 U.S. census, Houston, Floyd H. and Alice M. Livesay: https://www.familysearch.org/ark:/61903/1:1:MHY4-98M",
+    "Texas death certificate, Alice May Livesay, 1922: https://www.familysearch.org/ark:/61903/1:1:KS1T-6MG",
+    "Texas death certificate, Floyd Hale Livesay, 1932: https://www.familysearch.org/ark:/61903/1:1:K332-H5B"
+   ],
+   "imgs": [],
+   "note": "The mother’s name conflicts across the household and death records. The Alice in each census and the woman in the 1922 certificate are treated as a probable match."
+  },
+  {
    "id": "livesay-illinois-to-texas",
    "side": "N",
    "gen": 6,
@@ -19588,6 +19656,24 @@
    "t": "The Choctaw General Council approves an orphan boys' school at Armstrong Academy, where William Harrison Pisachubbe later appears on an 1899 student list.",
    "side": "J",
    "story": "armstrong-choctaw-schools"
+  },
+  {
+   "y": "1860",
+   "t": "An Alice M. Walker is recorded in the Wm P. and Abigail Walker household in Washington County, Illinois; the identification with the later Alice Livesay is probable.",
+   "side": "N",
+   "story": "alice-walker-illinois-records"
+  },
+  {
+   "y": "1917",
+   "t": "Audrey Inez Nelson is born in the Redland area of McCurtain County, Oklahoma.",
+   "side": "N",
+   "story": "audrey-nelson-sandridge"
+  },
+  {
+   "y": "1940s",
+   "t": "Audrey and Lemuel Sandridge work at the Red River Arsenal plant; Audrey also works its switchboard.",
+   "side": "N",
+   "story": "audrey-nelson-sandridge"
   }
  ],
  "fixes": [],
