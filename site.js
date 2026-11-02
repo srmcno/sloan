@@ -10,7 +10,7 @@ window.SITE = {
   text: {
     ancestryLink: '<a href="ancestry.html">Ancestry &amp; DNA</a>',
     otherArchive: '<a href="https://srmcno.github.io/family/">Moffitt &amp; Thompson family archive</a>',
-    brandSmall: 'Thompson · Hulsey · Moffitt · Smith',
+    brandSmall: 'Moffitt · Livesay · Sandridge · Whitfield',
     heroTitle: 'Family history and stories.',
     heroIntro: 'From the Choctaw Nation to Quaker North Carolina, explore the stories, records and photographs of our ancestors. Open any story or person to read more, see the original records, and check the sources.',
     heroNote: 'Relationships are shown from the family member at the center of this tree. Explore both sides of the family.',
