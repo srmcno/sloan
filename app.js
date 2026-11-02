@@ -16,8 +16,7 @@ const relations=createRelationships(P,ROOT,SITE.rootName||'You');
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const EVT={proven:'An original record names it',probable:'A good secondary source that agrees with the records',lead:'Not proven; treat with care'};
 const prose=t=>esc(t).replace(/\((lead|probable|proven)\)/g,(m,k)=>`<span class="badge ${k} inline-ev" title="${EVT[k]}">${k}</span>`);
-const yr=s=>{const m=String(s||'').match(/\d{4}/);return m?m[0]:''};
-const years=p=>{if(p.label)return p.label;if(p.lv)return 'Living';const b=yr(p.b),d=yr(p.d);return b&&d?b+'–'+d:b?'Born '+b:d?'Died '+d:'Dates not recorded'};
+const {personYears:years}=await import('./archive-dates.js?v=20261102l');
 const initials=p=>(p.n||'?').replace(/["“”(].*?["”)]/g,'').split(/\s+/).filter(Boolean).map(w=>w[0]).filter(c=>/[A-Za-z]/.test(c)).slice(0,2).join('').toUpperCase();
 const SIDE={N:"Mom's side",J:"Dad's side"};
 const STORIES=C.stories.filter(s=>s&&s.id&&s.title), SBY=Object.fromEntries(STORIES.map(s=>[s.id,s]));
@@ -80,7 +79,7 @@ $('#pausePhotos').hidden=slides.length<2;syncPhotoControl();show(0);restart();$(
 $('#slides').onmouseenter=()=>clearInterval(timer);$('#slides').onmouseleave=restart;$('#slides').onclick=()=>{const s=slides[si];lightbox(s.s,s.cap,s.story&&SBY[s.story]?'#/story/'+s.story:'')};$('#slides').setAttribute('role','button');$('#slides').tabIndex=0;$('#slides').setAttribute('aria-label','Open family photograph and compare versions');$('#slides').onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();$('#slides').click()}};document.addEventListener('visibilitychange',()=>{if(document.hidden)clearInterval(timer);else restart()});
 $('#gp').innerHTML=C.grandparents.map(g=>{const p=P[g.id];const img=restored(g.img||photo(p));const n=storiesFor(g.id).length;
   return `<article class="gcard"><div class="ph" style="${img?`background-image:url('${img}');background-position:${g.pos||'center 22%'}`:''}">${img?'':esc(initials(p))}<span class="side" style="background:var(--${g.side==='N'?'river':'clay'})">${SIDE[g.side]}</span></div>
-  <div class="bd"><h3>${esc(p.n)}</h3><div class="yrs">${esc(g.role)} · ${years(p)}</div><p>${esc(g.lede)}</p>
+  <div class="bd"><h3>${esc(p.n)}</h3><div class="yrs">${esc(g.role)} · ${esc(years(p))}</div><p>${esc(g.lede)}</p>
   <div class="acts">${g.story&&SBY[g.story]?`<a class="btn primary" href="#/story/${g.story}">Read the story</a>`:''}<a class="btn" href="#/person/${g.id}">${n>1?n+' stories · ':''}Family</a></div></div></article>`}).join('');
 const FEAT=(SITE.featured&&SITE.featured.length?SITE.featured.filter(id=>SBY[id]):LIST.filter(s=>cardImg(s)&&!isStone(cardImg(s))&&s.gen<=5).slice(0,6).map(s=>s.id));
 $('#featured').innerHTML=FEAT.filter(id=>SBY[id]).map(id=>storyCard(SBY[id])).join('');
@@ -137,7 +136,7 @@ function refocus(id){treeView.refocus(id)}
 
 /* ---------- person panel ---------- */
 function siblings(id){const p=P[id];if(!p.f&&!p.m)return[];return Object.keys(P).filter(k=>k!==id&&((p.f&&P[k].f===p.f)||(p.m&&P[k].m===p.m)))}
-const famBtn=(id,label)=>{const p=P[id];return `<button data-open="${id}">${av(p)}<span><b>${esc(p.n)}</b><small>${label?label+' · ':''}${years(p)}${storiesFor(id).length?' · '+storiesFor(id).length+' '+(storiesFor(id).length>1?'stories':'story'):''}</small></span></button>`};
+const famBtn=(id,label)=>{const p=P[id];return `<button data-open="${id}">${av(p)}<span><b>${esc(p.n)}</b><small>${label?label+' · ':''}${esc(years(p))}${storiesFor(id).length?' · '+storiesFor(id).length+' '+(storiesFor(id).length>1?'stories':'story'):''}</small></span></button>`};
 let personFocus=null;
 function openPerson(id){const p=P[id];if(!p)return;if(!$('#panel').classList.contains('on'))personFocus=document.activeElement;$('#panel').inert=false;$('#panel').setAttribute('aria-hidden','false');sel=id;treeView.select(id);
   const facts=[];if(p.virtual)facts.push(['','The starting point for every relationship on this site.']);else if(!p.lv){if(p.b||p.bp)facts.push(['Born',[p.b,p.bp].filter(Boolean).join(', ')]);if(p.d||p.dp)facts.push(['Died',[p.d,p.dp].filter(Boolean).join(', ')])}else facts.push(['','Details are private for living people.']);
@@ -175,11 +174,11 @@ let line=0;
 function renderLines(){const q=($('#pq').value||'').toLowerCase();
   $('#pgroups').innerHTML=`<div class="line-cards">${GP.map(([id,side],i)=>{const p=P[id];if(!p)return '';const n=lineOf(id).size;return `<button class="line-card ${side}" data-line="${i}" aria-pressed="${i===line}"><span class="line-side">${side==='N'?"Mom's":"Dad's"} ${p.x==='F'?'mother':'father'}</span><b>${esc((p.s||p.n.split(' ').at(-1)))} line</b><span class="line-blurb">${esc((SITE.lineBlurbs||[])[i]||'')}</span><small>${n} people</small></button>`}).join('')}</div>`+
   (()=>{const [id]=GP[line]||[];if(!P[id])return '';const m=lineOf(id);const gens=[...new Set(m.values())].sort((a,b)=>a-b);
-    return gens.map(g=>{const ids=[...m].filter(([x,gg])=>gg===g&&(!q||(P[x].n+' '+(P[x].bp||'')+' '+(P[x].dp||'')).toLowerCase().includes(q))).map(([x])=>x);return ids.length?`<div class="line-gen"><h3>${GEN_NAME(g)}</h3><div class="plist">${ids.map(x=>{const p=P[x],n=storiesFor(x).length;return `<button class="prow" data-open="${x}">${av(p)}<span><b>${esc(p.n)}</b><small>${years(p)}${p.bp&&!p.lv?' · '+esc(p.bp.split(',')[0]):''}</small></span>${n?`<span class="stmark" title="${n} stories">${n}</span>`:''}</button>`}).join('')}</div></div>`:''}).join('')})();}
+    return gens.map(g=>{const ids=[...m].filter(([x,gg])=>gg===g&&(!q||(P[x].n+' '+(P[x].bp||'')+' '+(P[x].dp||'')).toLowerCase().includes(q))).map(([x])=>x);return ids.length?`<div class="line-gen"><h3>${GEN_NAME(g)}</h3><div class="plist">${ids.map(x=>{const p=P[x],n=storiesFor(x).length;return `<button class="prow" data-open="${x}">${av(p)}<span><b>${esc(p.n)}</b><small>${esc(years(p))}${p.bp&&!p.lv?' · '+esc(p.bp.split(',')[0]):''}</small></span>${n?`<span class="stmark" title="${n} stories">${n}</span>`:''}</button>`}).join('')}</div></div>`:''}).join('')})();}
 function renderPeople(){if(pview==='lines'){renderLines();return}const q=($('#pq').value||'').toLowerCase();
   const list=Object.entries(P).filter(([id,p])=>!p.virtual&&(pf==='all'||(pf==='st'?storiesFor(id).length:photoSide(id)===pf))&&(!q||(p.n+' '+p.bp+' '+p.dp).toLowerCase().includes(q)))
     .sort((a,b)=>(a[1].s||'').localeCompare(b[1].s||'')||(a[1].n).localeCompare(b[1].n));
-  const html=PGROUPS.map(([f,label])=>{const g=list.filter(([id,p])=>f(p.gen==null?99:p.gen));return g.length?`<div class="group"><h3 class="gh">${label} · ${g.length}</h3><div class="plist">${g.map(([id,p])=>{const n=storiesFor(id).length;return `<button class="prow" data-open="${id}">${av(p)}<span><b>${esc(p.n)}</b><small>${years(p)}${p.bp&&!p.lv?' · '+esc(p.bp.split(',')[0]):''}</small></span>${n?`<span class="stmark" title="${n} stories">${n}</span>`:''}</button>`}).join('')}</div></div>`:''}).join('');
+  const html=PGROUPS.map(([f,label])=>{const g=list.filter(([id,p])=>f(p.gen==null?99:p.gen));return g.length?`<div class="group"><h3 class="gh">${label} · ${g.length}</h3><div class="plist">${g.map(([id,p])=>{const n=storiesFor(id).length;return `<button class="prow" data-open="${id}">${av(p)}<span><b>${esc(p.n)}</b><small>${esc(years(p))}${p.bp&&!p.lv?' · '+esc(p.bp.split(',')[0]):''}</small></span>${n?`<span class="stmark" title="${n} stories">${n}</span>`:''}</button>`}).join('')}</div></div>`:''}).join('');
   $('#pgroups').innerHTML=html||'<p class="empty">Nobody matches. Clear the filter to see everyone.</p>'}
 $('#pfilters').onclick=e=>{const v=e.target.closest('[data-view]');if(v){pview=v.dataset.view;$$('#pfilters [data-view]').forEach(x=>x.setAttribute('aria-pressed',String(x===v)));$$('#pfilters [data-f]').forEach(x=>x.hidden=pview==='lines');renderPeople();return}const b=e.target.closest('[data-f]');if(!b)return;pf=b.dataset.f;syncChips('#pfilters',pf);renderPeople()};
 $$('#pfilters [data-f]').forEach(x=>x.hidden=true);

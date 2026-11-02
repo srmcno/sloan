@@ -34,7 +34,7 @@ jobs:
         run: |
           node scripts/sync-paternal.mjs ../family --apply
           PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
-          node --test tests/test_relationships.mjs
+          node --test tests/*.mjs
       - name: Save validated update
         working-directory: site
         run: |
