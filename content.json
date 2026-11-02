@@ -10845,25 +10845,26 @@
    "gen": 7,
    "ev": "probable",
    "title": "The Clarks of Brooklyn, Kentucky",
-   "hook": "Melvina's parents married in Butler County in January 1839 and are buried at a family cemetery that bears their name.",
+   "hook": "Newton’s 1850 household includes Polly; Melvina’s later death certificate names her parents as Newton Clark and Mary Dunn.",
    "profile": false,
    "people": [
     "I352820878327",
     "I352820878334"
    ],
    "subject": {
-    "name": "Newton Jasper Clark & Mary Dunn \"Polly\" (Elms)",
+    "name": "Newton Jasper Clark & Polly Clark (maiden name unresolved)",
     "rel": "Paternal family history",
     "years": "1817-1878 · 1818-1888"
    },
    "body": [
-    "Newton Jasper Clark was born on 6 August 1817 and died on 3 April 1878 in Butler County. His parents were William Clark (1785-1856), born in Granville County, North Carolina, and Levina Willis (1785-1877). WikiTree credits William with service in the War of 1812; that is not checked.",
-    "He married Mary Dunn \"Polly\" Elms, born in 1818 in Ohio County, Kentucky, on 20 January 1839 (the Butler County marriage register is on FHL film 928,314 per WikiTree). In 1850 they were in Butler County and in 1860 in Edmonson County.",
-    "Newton died in 1878 and is buried at Newton Clark Cemetery, Brooklyn, in Butler County. Polly died on 16 February 1888 and is buried at Clark Cemetery, Morgantown. Four children are linked: Martha J. (1839-1923), Stanford C. (1844-1913), Beverly L. \"Belva\" (1850-1939) and Melvina (1851-1929)."
+    "Newton Jasper Clark was born on 6 August 1817 and died on 3 April 1878 in Butler County. Compiled profiles identify his parents as William Clark (1785-1856), born in Granville County, North Carolina, and Levina Willis (1785-1877). WikiTree credits William with service in the War of 1812; that is not checked.",
+    "WikiTree reports a marriage to Polly Elms on 20 January 1839 in Butler County and cites the county marriage register on FHL film 928,314; that original marriage entry has not been examined here. Her compiled dates are 1818–1888. The original 1850 census lists Newton and Polly Clark, both 32, in Butler County, household 629. It gives no maiden name and no relationships.",
+    "Melvina’s 1929 death certificate names Newton Clark and Mary Dunn as her parents. Dunn and Elms are not established alternative names for the same woman. Identifying Mary Dunn with Newton’s census companion Polly remains probable; the marriage original and further records are needed to resolve the mother’s identity. The existing maternal tree link is retained with that qualification.",
+    "Family memorials place Newton’s burial at Newton Clark Cemetery, Brooklyn, and give Polly’s death as 16 February 1888 and burial at Clark Cemetery, Morgantown. They link Martha J., Stanford C., Beverly L. \"Belva\" and Melvina as children. These compiled links are not independently proved by the relationship-free 1850 schedule; Stanford’s census age of 8 also conflicts with the later 1844 birth date attributed to him."
    ],
    "quotes": [],
    "src": [
-    "Find a Grave memorial 87367153 (Newton Jasper Clark) and 200880774 (Mary Dunn Elms Clark); WikiTree Clark-75982 citing Butler Co. marriage register"
+    "Find a Grave memorial 87367153 (Newton Jasper Clark) and 200880774 (Mary Dunn Elms Clark); WikiTree Clark-75982 citing Butler Co. marriage register; Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481; 1850 U.S. census, Butler County, Kentucky, p. 259b, dwelling/family 629, lines 1–9, 9 September 1850; NARA M432 roll 194, Ancestry collection 8054, image 4193960-00096: https://www.ancestry.com/imageviewer/collections/8054/images/4193960-00096?pId=16938681"
    ],
    "imgs": [],
    "tags": [],
@@ -10874,7 +10875,7 @@
     ],
     [
      "Married",
-     "20 Jan 1839, Butler Co., Ky."
+     "20 Jan 1839, Butler Co., Ky. (reported by WikiTree; original not examined)"
     ],
     [
      "Newton died",
@@ -10885,7 +10886,7 @@
      "16 Feb 1888, Butler Co., Ky."
     ]
    ],
-   "note": "",
+   "note": "Mary Dunn in Melvina’s death certificate and Polly Elms in compiled profiles have not been reconciled. Do not treat Dunn as an additional given name or infer an earlier marriage from the surname difference.",
    "place": "Brooklyn, Butler County, Kentucky",
    "rank": 183
   },
@@ -10904,12 +10905,12 @@
     "years": "1844-1913"
    },
    "body": [
-    "Stanford C. Clark was born on 6 June 1844 in Kentucky, a son of Newton Jasper Clark and Polly Elms. His headstone at Belmont General Baptist Church Cemetery, Morgantown, is marked \"PVT TRP A 12 REGT KY CAV CIVIL WAR.\" The 12th Kentucky Cavalry was a Union regiment.",
+    "Stanford C. Clark was born on 6 June 1844 in Kentucky, identified in compiled family profiles as a son of Newton Jasper Clark and Polly Elms. His headstone at Belmont General Baptist Church Cemetery, Morgantown, is marked \"PVT TRP A 12 REGT KY CAV CIVIL WAR.\" The 12th Kentucky Cavalry was a Union regiment.",
     "On 9 February 1867 he married Serenia Hunt (1851-1918) in Butler County. He died on 12 June 1913 at age 69. By then his niece Samantha and her husband John C. Satterfield had left Butler County for Texas."
    ],
    "quotes": [],
    "src": [
-    "Find a Grave memorial 161043736 (Stanford C. Clark)"
+    "Find a Grave memorial 161043736 (Stanford C. Clark); Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481"
    ],
    "imgs": [],
    "tags": [
@@ -10933,7 +10934,7 @@
      "12 Jun 1913, Butler Co., Ky."
     ]
    ],
-   "note": "Service is from the headstone inscription; no muster roll seen.",
+   "note": "Service is from the headstone inscription; no muster roll seen. The maternal surname is unresolved: Melvina’s death certificate records Mary Dunn, while compiled profiles use Polly Elms; no examined record reconciles them.",
    "place": "Butler County, Kentucky",
    "rank": 184
   },
@@ -10943,7 +10944,7 @@
    "gen": 6,
    "ev": "probable",
    "title": "The Clark brother who went to Oklahoma",
-   "hook": "Melvina's youngest brother Belva Clark died at Cushing, Oklahoma, at 88, with eight children behind him.",
+   "hook": "Melvina’s reported brother Belva Clark died at Cushing, Oklahoma, at 88, with eight children behind him.",
    "profile": false,
    "people": [],
    "subject": {
@@ -10952,13 +10953,13 @@
     "years": "1850-1939"
    },
    "body": [
-    "Beverly L. \"Belva\" Clark was born on 2 October 1850 in Butler County, Kentucky, a son of Newton Jasper Clark and Polly Elms. In 1877 he married Margaret Ann Coots (1861-1944).",
+    "Beverly L. \"Belva\" Clark was born on 2 October 1850 in Butler County, Kentucky, identified in compiled family profiles as a son of Newton Jasper Clark and Polly Elms. In 1877 he married Margaret Ann Coots (1861-1944).",
     "Find a Grave lists eight children: Palvena (Smith), Sardena (Flener), William Pearl, Fannie Ellen (Coots), Purnie Dee (Noteware), Carrie (born and died in 1891), Martha D. (Fulkerson) and David Carl. Most were born in Kentucky; the Clark family was in Oklahoma by the time he died.",
     "He died on 18 February 1939 at Cushing in Payne County, Oklahoma, and is buried at Fairlawn Cemetery there."
    ],
    "quotes": [],
    "src": [
-    "Find a Grave memorial 63240768 (Beverly L. Clark)"
+    "Find a Grave memorial 63240768 (Beverly L. Clark); Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481"
    ],
    "imgs": [],
    "tags": [],
@@ -10980,7 +10981,7 @@
      "Fairlawn Cemetery, Cushing"
     ]
    ],
-   "note": "The date the Clarks reached Oklahoma is not given on the memorial.",
+   "note": "The date the Clarks reached Oklahoma is not given on the memorial. The maternal surname is unresolved: Melvina’s death certificate records Mary Dunn, while compiled profiles use Polly Elms; no examined record reconciles them.",
    "place": "Born in Butler County, Kentucky; died at Cushing, Payne County, Oklahoma",
    "rank": 185
   },
@@ -10999,13 +11000,13 @@
     "years": "1839-1923 · 1840-1884"
    },
    "body": [
-    "Martha J. Clark was born on 1 February 1839 in Butler County, the eldest child of Newton Jasper Clark and Polly Elms. She married James P. Johnson (7 January 1840 - 30 June 1884). Find a Grave names three of their children: Mary Isabella \"Isey\" (Phelps), 1868-1936; Eliza \"Ancie\" (Satterfield), 1871-1951; and William Miligan Johnson, 1875-1950. The memorial notes two more, Oliver P. and Drucilla.",
+    "Martha J. Clark was born on 1 February 1839 in Butler County, identified in compiled family profiles as the eldest child of Newton Jasper Clark and Polly Elms. She married James P. Johnson (7 January 1840 - 30 June 1884). Find a Grave names three of their children: Mary Isabella \"Isey\" (Phelps), 1868-1936; Eliza \"Ancie\" (Satterfield), 1871-1951; and William Miligan Johnson, 1875-1950. The memorial notes two more, Oliver P. and Drucilla.",
     "James died in 1884 and Martha lived on as a widow for 39 years. She died on 13 February 1923 in Butler County. Both are buried at Satterfield Cemetery near Jetson.",
     "James P. and Melvina's husband, who is not named in the records seen, shared the surname Johnson. Whether the two husbands were brothers or cousins is unchecked."
    ],
    "quotes": [],
    "src": [
-    "Find a Grave memorial 19786592 (Martha J. Clark Johnson) and 19786602 (James P. Johnson)"
+    "Find a Grave memorial 19786592 (Martha J. Clark Johnson) and 19786602 (James P. Johnson); Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481"
    ],
    "imgs": [],
    "tags": [],
@@ -11027,7 +11028,7 @@
      "Satterfield Cemetery, Jetson"
     ]
    ],
-   "note": "Relationship of the two Johnson husbands is a lead.",
+   "note": "Relationship of the two Johnson husbands is a lead. The maternal surname is unresolved: Melvina’s death certificate records Mary Dunn, while compiled profiles use Polly Elms; no examined record reconciles them.",
    "place": "Butler County, Kentucky; buried at Satterfield Cemetery, Jetson",
    "rank": 186
   },
@@ -14260,11 +14261,11 @@
     "A WikiTree profile for William Clark, built from the Kentucky War of 1812 soldiers list, the censuses of 1840 and 1850 for Butler County, and the 1856 Kentucky death register, gives his birth as 13 October 1785 in Granville County, North Carolina, and his death as 6 January 1856 in Butler County. His wife appears in the 1850 census as 'Vina Clarke' in his household and in the 1860 census as 'Luvina Clark.'",
     "They married in 1808 in Pulaski County, Kentucky. The county marriage book (Book 1, 1799-1850, p. 28) has the couple's names in the wrong places in the index: 'William Willis & Livina Clark.' The Kentucky marriage index files the same record under 'Viny Willis' and 'William Clark,' 1808. A discussion on WikiTree's Henry Willis page says William Clark and Henry Willis stood as bondsmen.",
     "Their first child, Lewis, was born in Pulaski County on 16 April 1809. The family moved to what became Butler County, where Mary (1815), Newton Jasper (6 August 1817), and Emeline (1820) were born, and then to what became Edmonson County, where Harvey was born in 1826. Lewis and Emeline died in Edmonson County and Mary and Harvey in Butler.",
-    "Newton, the third child, married Polly Elms in Butler County in January 1839; their daughter Melvina Clark married a Johnson, and her daughter Samantha married John C. Satterfield, who is our line."
+    "Compiled profiles report that Newton married Polly Elms in Butler County in January 1839. Melvina’s death certificate names Newton Clark and Mary Dunn as her parents; identifying her mother with Polly Elms remains probable and the surname difference is unresolved. Melvina married a Johnson, and her daughter Samantha married John C. Satterfield, who is our line."
    ],
    "quotes": [],
    "src": [
-    "WikiTree Clark-53993, Willis-1450 and Clark-75982, citing Pulaski Co., Ky. Marriage Book 1 (1799-1850), p. 28; Kentucky Marriages, 1785-1979 (1808); 1840 and 1850 censuses, Butler Co.; Kentucky Soldiers of the War of 1812; Kentucky Vital Statistics, deaths for 1856; WikiTree Willis-11599 (discussion of the Willis family)"
+    "WikiTree Clark-53993, Willis-1450 and Clark-75982, citing Pulaski Co., Ky. Marriage Book 1 (1799-1850), p. 28; Kentucky Marriages, 1785-1979 (1808); 1840 and 1850 censuses, Butler Co.; Kentucky Soldiers of the War of 1812; Kentucky Vital Statistics, deaths for 1856; WikiTree Willis-11599 (discussion of the Willis family); Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481"
    ],
    "imgs": [],
    "tags": [],
@@ -17591,8 +17592,8 @@
    "side": "J",
    "gen": 6,
    "ev": "lead",
-   "title": "Melvina Clark, whose census age and gravestone disagree by four years",
-   "hook": "She buried her daughter Samantha in Oklahoma in the fall of 1928 and followed her to the grave in Kentucky that winter.",
+   "title": "Melvina Clark: a birth date and age that disagree",
+   "hook": "Her 1929 death certificate names both parents, but its birth date and recorded age disagree.",
    "profile": false,
    "people": [
     "I352820878275"
@@ -17603,20 +17604,34 @@
     "years": "c.1851–1929"
    },
    "body": [
-    "Melvina Clark was a daughter of Newton Jasper Clark and Mary Dunn \"Polly\" Elms, who married in Butler County, Kentucky, in January 1839 and lived at Brooklyn. Her grandparents were William and Lavina (Willis) Clark, who had married in Pulaski County in 1808 and farmed in what became Butler County. Her grave memorial gives her birth as 10 November 1851; the 1850 census lists her at age 3, which would make her born about 1847. The census, made at the time, carries more weight than a later memorial. Her siblings were Martha J. (1839-1923), Stanford C. (1844-1913), who was a Union cavalry private, and Beverly L. \"Belva\" (1850-1939), who went to Oklahoma.",
+    "Melvina’s original Kentucky death certificate uses the married spelling Johnston. It records her death at Big Reedy in Edmonson County on 17 January 1929, describes her as a widow, and names her father as Newton Clark, born in Kentucky, and her mother as Mary Dunn. Polly Nash of Big Reedy supplied the information. The space for her husband’s name is blank; this record does not identify him.",
+    "The certificate’s birth date is read and indexed as 10 November 1851, although the final year digits are not perfectly clear. It also records an age of 78 years, 2 months, 6 days. That age is inconsistent with the written birth and death dates. Both fields are preserved here without choosing a corrected birth year.",
+    "The original 1850 census for Newton Clark’s Butler County household lists Newton, 32; Polly, 32; Martha, 10; Granville, 9; Stanford, 8; Hester, 6; William, 5; a girl aged 3 indexed as Vina; and Mary, 11 months. The handwriting of the age-three girl’s name does not unambiguously identify her as Melvina. The former claim that this census establishes Melvina’s birth about 1847 is therefore withdrawn. The census has no relationship column, and the identification of Vina with Melvina remains open.",
+    "Compiled family profiles identify Newton’s wife as Polly Elms and link the family to William and Lavina (Willis) Clark. Melvina’s death certificate instead gives her mother’s maiden name as Dunn. No examined marriage record reconciles Dunn and Elms or proves that the same woman bore both names. The identification of the mother named in 1929 with Polly in Newton’s 1850 household remains probable, rather than an established maiden-name sequence.",
     "Her married name was Johnson; her husband's first name is not recorded on the memorials. Samantha D. was born on 28 March 1872 and Charlie in 1885. Samantha married John C. Satterfield in 1892, moved with him to Hagansport, Texas, about 1907, and crossed the Red River to Choctaw County, Oklahoma, after marrying Bird Alexander Stephens in 1917. She died on 1 October 1928 and is buried at Soper Cemetery.",
-    "Melvina died on 17 January 1929 in Edmonson County, Kentucky, three and a half months after her daughter, and is buried at Mount Pleasant Cemetery at Big Reedy. Charlie, who stayed in Butler County, died in 1959. Melvina's older sister Martha's daughter Ancie married Samantha's brother-in-law Sidney Satterfield, so two Satterfield brothers married into the one Clark family."
+    "The death certificate records burial at Mount Pleasant on 18 January 1929. The family memorial identifies this as Mount Pleasant Cemetery at Big Reedy. Samantha had died on 1 October 1928; the records examined do not establish that Melvina attended her Oklahoma burial. Charlie remained in Butler County and died in 1959."
    ],
    "quotes": [],
    "src": [
-    "Find a Grave memorials 269080605, 82285257 and 87367153. 1850 U.S. census, Butler Co., Ky.; Find a Grave (Samantha D. Stephens, Soper Cemetery)."
+    "Kentucky death certificate 5570 (1929), Melvina Johnston, Edmonson County, Big Reedy precinct, died 17 January 1929; Kentucky Department for Libraries and Archives, Ancestry collection 1222, film 7017537, image 2275: https://www.ancestry.com/imageviewer/collections/1222/images/KYVR_7017537-2275?pId=1214481; 1850 U.S. census, Butler County, Kentucky, p. 259b, dwelling/family 629, lines 1–9, 9 September 1850; NARA M432 roll 194, Ancestry collection 8054, image 4193960-00096: https://www.ancestry.com/imageviewer/collections/8054/images/4193960-00096?pId=16938681; Find a Grave memorials 269080605, 82285257 and 87367153 (compiled family links)."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/rec/melvina-johnston-1929-death-original.jpg",
+     "cap": "Original Kentucky death certificate 5570 (1929): Melvina Johnston, father Newton Clark, mother Mary Dunn; contradictory birth date and age retained. Kentucky Department for Libraries and Archives, accessed through Ancestry.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/newton-clark-1850-butler-original.jpg",
+     "cap": "Original 1850 census, Butler County, Kentucky, p. 259b, household 629, lines 1–9. Age-three girl indexed as Vina; identification with Melvina unresolved. NARA M432 roll 194; image reproduced by FamilySearch, accessed through Ancestry.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
-     "Born",
-     "10 Nov 1851, Kentucky"
+     "Birth date / age recorded",
+     "10 Nov 1851 (year reading uncertain); 78 years, 2 months, 6 days at death — conflicting fields"
     ],
     [
      "Died",
@@ -17627,12 +17642,12 @@
      "Samantha D. (1872-1928); Charlie (1885-1959)"
     ],
     [
-     "Siblings",
-     "Martha J. Johnson (1839-1923), Stanford C. Clark (1844-1913), Beverly L. Belva Clark (1850-1939)"
+     "Parents recorded",
+     "Newton Clark and Mary Dunn; identification with Polly Elms unresolved"
     ]
    ],
-   "note": "Linked by family memorials on Find a Grave. The memorial notes an 1850 census age of 3, which conflicts with a November 1851 birth. No husband is named on the memorials seen.",
-   "place": "Mother of Samantha \"Mantha\" Johnson, who married John C. Satterfield in 1892. Daughter of Newton Jasper Clark and Mary \"Polly\" Elms.",
+   "note": "The original death certificate records a birth date read and indexed as 10 November 1851 and an age of 78 years, 2 months, 6 days; these do not agree. Its informant was Polly Nash. The mother is recorded as Mary Dunn; identification with the Polly Clark of 1850 or the Polly Elms of compiled profiles remains unresolved. The age-three girl in Newton’s 1850 household is indexed as Vina, not explicitly named Melvina.",
+   "place": "Mother of Samantha \"Mantha\" Johnson, who married John C. Satterfield in 1892. Her death certificate names Newton Clark and Mary Dunn as her parents.",
    "rank": 9999
   },
   {
