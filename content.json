@@ -8619,8 +8619,8 @@
    "side": "J",
    "gen": 12,
    "ev": "probable",
-   "title": "A land grant for five transported servants",
-   "hook": "WikiTree flags John Johnson's parentage and his first wife as disputed; the land papers, though, are plain.",
+   "title": "John Johnson’s land on Black Creek",
+   "hook": "A 1705 patent traces 252 acres beside Black Creek and credits John Johnson with the importation of five named people.",
    "profile": false,
    "people": [],
    "subject": {
@@ -8629,13 +8629,14 @@
     "years": "c.1680–1737"
    },
    "body": [
-    "John Johnson first appears in the records of St Peter's Parish on 22 November 1702, when his son John was baptized. On 2 November 1705 he was granted 252 acres on Black Creek, land formerly patented by Thomas Reynolds and then abandoned; the grant was earned by transporting five people into the colony.",
-    "On 9 February 1727/8 he was granted 200 acres on the south side of Chickahominy Swamp in Henrico County, and he and his wife Elizabeth sold it on 1 November 1736. He died on 5 September 1737 in St Paul's Parish, Hanover County.",
+    "John Johnson first appears in the family’s St Peter’s Parish record references on 22 November 1702, when a son John was baptized. An original Virginia patent dated 2 November 1705 grants John Johnson 252 acres in St Peter’s Parish, New Kent County, on the north side of Black Creek. It credits him with the importation of five people into the colony; it does not identify them as relatives or state their terms of service.",
+    "The five names written beside the grant appear to read Wm Davies, Saml Mitchel, Joan Hillard, Dan Gibbs and George Abraham. Their spellings are tentative readings of the handwriting. The boundary runs between marked trees and along the creek: a pine, a white oak, a maple at a small branch and Thomas Snead’s line. The tract had first been granted to Thomas Reynolds on 25 October 1695, then deserted and granted again to Johnson under a General Court order of 17 October 1705.",
+    "A separate original patent, dated 9 February 1727/8, names John Johnson of Hanover County and grants him 200 acres in Henrico County on the south side of Chickahominy Swamp. This time the instrument records a payment of twenty shillings. Later deed references say John and his wife Elizabeth sold that land on 1 November 1736. Those deed and death details still require independent original review; the reported death date is 5 September 1737.",
     "Hinshaw's Quaker abstract names Ashley Johnson's mother as Lucretia Massie, but WikiTree notes that Friends' records call John's wife Elizabeth and treats Lucretia as 'purported' and unsourced; her claimed Massie parentage rests on uncited published histories. John's own parents are also marked disputed."
    ],
    "quotes": [],
    "src": [
-    "Virginia Land Office Patents and Grants 1697-1706, pp. 703-704, and 1725-1730 (Library of Virginia); Henrico County deed of 1 Nov 1736; Hinshaw, Encyclopedia of American Quaker Genealogy vol. 6; WikiTree Johnson-2045 (https://www.wikitree.com/wiki/Johnson-2045) and WikiTree Massie-73 (https://www.wikitree.com/wiki/Massie-73)"
+    "Virginia Land Office Patents and Grants 1697-1706, pp. 703-704, and 1725-1730 (Library of Virginia); Henrico County deed of 1 Nov 1736; Hinshaw, Encyclopedia of American Quaker Genealogy vol. 6; WikiTree Johnson-2045 (https://www.wikitree.com/wiki/Johnson-2045) and WikiTree Massie-73 (https://www.wikitree.com/wiki/Massie-73); Library of Virginia, Virginia Land Office Patents, Patent Book 9 (1697–1706), pp. 703–704, John Johnson, 252 acres, New Kent County, 2 November 1705; original manuscript images independently examined: https://image.lva.virginia.gov/LONN/LO-1/009/009_0725.tif and https://image.lva.virginia.gov/LONN/LO-1/009/009_0726.tif; Patent Book 12 (1725–1730), p. 201, John Johnson of Hanover County, 200 acres in Henrico County, 9 February 1727/8; original manuscript image independently examined: https://image.lva.virginia.gov/LONN/LO-1/012/012_0217.tif."
    ],
    "imgs": [],
    "tags": [
@@ -8657,9 +8658,17 @@
     [
      "Died",
      "5 Sep 1737, St Paul's Parish, Hanover Co."
+    ],
+    [
+     "Original 1705 patent",
+     "252 acres; earlier Reynolds patent dated 25 Oct 1695; regrant under General Court order of 17 Oct 1705"
+    ],
+    [
+     "Original 1727/8 patent",
+     "200 acres in Henrico County; grantee of Hanover County; consideration twenty shillings"
     ]
    ],
-   "note": "Land records are original; the first wife and John's parents are unresolved on WikiTree.",
+   "note": "The 1705 and 1727/8 patent manuscripts have been independently examined. The five people’s names are tentative readings; the patent says persons, not servants, and gives no ship, arrival dates, kinship or service terms. These patents document land grants and do not establish Ashley Johnson’s parentage, the identity of John’s first wife, or his earlier ancestry. The 1736 sale and reported 1737 death remain based on the separately cited references. This proposed ancestral connection remains probable.",
    "place": "St Peter's Parish, New Kent County, later St Paul's Parish, Hanover County, Virginia. A Friend of the Cedar Creek and Henrico meetings.",
    "rank": 135
   },
