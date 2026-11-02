@@ -92,12 +92,15 @@
    "gen": 5,
    "ev": "probable",
    "profile": false,
-   "title": "Ida May Merry and her family’s enrollment record",
-   "hook": "A mother’s 1899 affidavit records Ida May Merry’s birth and preserves the names of both her parents.",
+   "title": "Ida May Merry: enrollment and the Golden post office",
+   "hook": "Her mother’s affidavit records her birth; a later obituary follows Ida’s work serving the community of Golden.",
    "people": [
     "MAT_IDA_MERRY",
     "MAT_BESSIE_DURANT",
-    "MAT_LEWIS_MERRY"
+    "MAT_LEWIS_MERRY",
+    "MAT_OLIVER_C_WHITFIELD",
+    "MAT_LEWIS_WHITFIELD",
+    "MAT_CATHERINE_OUIDA_WHITFIELD_CARROLL"
    ],
    "subject": {
     "name": "Ida May Merry Whitfield",
@@ -106,24 +109,39 @@
    },
    "body": [
     "On 27 April 1899, Bessie Merry signed an affidavit in an application to the Commission to the Five Civilized Tribes. She gave her age as 19, named her husband Lewis Merry and their daughter Ida May Merry, and identified herself as a Choctaw citizen by blood and Lewis as a citizen by marriage. The record gives Ida’s birth as 12 June 1898. Midwife Eliza Jones signed a separate affidavit on the same page confirming that she had attended the birth.",
-    "More than a century later, Alfreda Whitfield Sandridge’s family anniversary notice in the Choctaw Nation’s Biskinik named Ida Merry Whitfield as Alfreda’s grandmother and Bessie Durant as her great-grandmother, describing both as original enrollees. The affidavit and family notice point to Bessie Merry and Bessie Durant as the same woman; that identification remains probable pending a fuller examination of enrollment records.",
-    "A 1920 census lists Ida M. Whitfield with Oliver C. Whitfield and a son recorded as Oliver L. The boy’s age and family context fit Lewis Oliver Whitfield, Alfreda’s father, but his reversed name order leaves the identification probable. Together the records give a path from the enrollment generation to the family’s later years in McCurtain County."
+    "On 6 October 1902, the Commission replied to J. L. Merry at Glover about bringing his family and witnesses to support their enrollment application. The letter bears the reference Choctaw D 128. The next year’s response to Lewis Merry at the same place bears 7-D 128 and names Louis, Bessie and Ida May. The shared case reference, address and subject support a probable identification of J. L. with Lewis/Louis; they do not prove it or establish a full first name for the initials.",
+    "A commissioner’s letter dated 24 October 1903 answered the family’s question about why enrollment was still pending. The commissioner stated that the application had not yet been decided; this letter is not a final enrollment decision. Addressed to Lewis Merry at Glover, Indian Territory, it describes the application of Louis Merry, his wife Bessie and their minor child Ida May. The same original document therefore uses both Lewis and Louis for the applicant, strengthening the connection between those spellings. A letter of 18 January 1908, addressed to Louis, records the return of his and Bessie’s marriage license and certificate after a copy was retained; it does not supply their wedding date.",
+    "Ida’s own obituary in the February 1993 Bishinik names her parents as J. L. and Bessie Durant Merry and repeats the birth date of 12 June 1898. This directly supplies her mother’s Durant surname, strengthening the connection between the Bessie Merry of the affidavit and Bessie Durant in the 2008 family notice. The father’s initials differ from Lewis in the affidavit, but the 1902–1903 correspondence provides a probable connection between those names.",
+    "The obituary remembers Ida as a former postmaster at Golden. After her husband died in 1941, she worked as assistant postmaster and then postmaster, retiring at 72. It names a surviving son Lewis O. Whitfield, supporting the later family connection, and calls her husband Clinton O. C. Whitfield. The 1920 census instead lists Oliver C. Whitfield, Ida M. and a son Oliver L.; those variations remain explicit rather than being silently standardized.",
+    "A second obituary, for Ida’s daughter Catherine Ouida Carroll in May 2007, gives the parents’ names as Oliver Clinton and Ida May Merry Whitfield. It names her deceased brothers as Omagene Clinton and Oliver Lewis Whitfield. This supplies fuller names that help explain the census initials, although Lewis Oliver and Oliver Lewis still appear in different orders. Catherine continued the family’s postal work, serving as Golden’s postmaster for 22 years before retiring in 1990.",
+    "The Oklahoma Historical Society’s official final-roll index places Louis Merry, Bessie Merry and Ida May Merry together on Choctaw card 5754. It records Bessie under roll 15526 and Ida May under roll 15527. These are historical enrollment records; they do not measure Sloan’s DNA or establish present-day tribal citizenship."
    ],
    "quotes": [],
    "src": [
     "Choctaw enrollment application, Ida May Merry, mother’s affidavit, 27 April 1899: https://www.familysearch.org/ark:/61903/3:1:3QS7-997J-Y43J",
     "Choctaw Nation, Biskinik, December 2008, p. 6, Sandridge anniversary notice: https://www.choctawnation.com/wp-content/uploads/2022/08/dec-2008-biskinik.pdf#page=6",
     "1920 U.S. census, Oliver C. and Ida M. Whitfield household: https://www.familysearch.org/ark:/61903/1:1:MNBY-3S2",
-    "Alfreda Whitfield Sandridge obituary, FamilySearch: https://www.familysearch.org/ark:/61903/1:1:611X-8LLK"
+    "Alfreda Whitfield Sandridge obituary, FamilySearch: https://www.familysearch.org/ark:/61903/1:1:611X-8LLK",
+    "Bishinik, February 1993, p. 8, Ida May Merry Whitfield obituary; original newspaper page examined, Gateway to Oklahoma History, Oklahoma Historical Society: https://gateway.okhistory.org/ark:/67531/metadc2584485/m1/8/",
+    "Oklahoma Historical Society, Dawes Rolls final-roll index, Choctaw (by Blood), card 5754, Louis Merry, Bessie Merry and Ida May Merry; index examined, original card not yet examined: https://www.okhistory.org/research/dawesresults?cardgroup=by+Blood&cardnum=5754&tribe=Choctaw",
+    "Choctaw Nation, Bishinik, May 2007, p. 11, Catherine Ouida Carroll obituary; original newspaper page examined: https://www.choctawnation.com/wp-content/uploads/2022/08/may-2007-biskinik.pdf#page=11",
+    "Commission to the Five Civilized Tribes, letter to Lewis Merry, 24 October 1903, enrollment application of Louis Merry, Bessie and Ida May; original examined, FamilySearch image 2222: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G97J-Y4QP",
+    "Commissioner, letter to Louis Merry returning marriage license and certificate, 18 January 1908; original examined, FamilySearch image 2227: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G97J-Y4MR",
+    "Commission to the Five Civilized Tribes, Acting Chairman’s letter to J. L. Merry, Glover, 6 October 1902, reference Choctaw D 128; original examined, FamilySearch image 2221: https://www.familysearch.org/ark:/61903/3:1:3QS7-L97J-YW17"
    ],
    "imgs": [
     {
      "s": "img/docs/ida_merry_1899_affidavit.jpg",
      "cap": "The 1899 application for Ida May Merry, including Bessie Merry’s affidavit and midwife Eliza Jones’s statement. National Archives record, via FamilySearch.",
      "kind": "record"
+    },
+    {
+     "s": "img/docs/merry_1903_commissioner_letter.jpg",
+     "cap": "Original letter from the Commissioner in Charge, Muskogee, Indian Territory, to Lewis Merry at Glover, 24 October 1903. It names Louis Merry, wife Bessie and minor child Ida May and states that their enrollment application had not yet been decided. Choctaw enrollment application packet, FamilySearch image 2222; unmodified original: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G97J-Y4QP",
+     "kind": "record"
     }
    ],
-   "note": "Bessie Merry and Bessie Durant are treated as a probable match. The later identification of Oliver L. as Lewis Oliver Whitfield is also probable."
+   "note": "The 1993 original obituary directly names Bessie Durant Merry as Ida’s mother and Lewis O. Whitfield as her son. Her father is J. L. in that obituary, Lewis in the 1899 affidavit and Louis in the final-roll index; the 1903 letter supports Lewis/Louis as variants for the same applicant, while the 1902 J. L. letter shares the case reference and Glover address with the 1903 response. This supports a probable identification, not proof or a full first-name expansion. Her husband appears as Clinton O. C. in the obituary and Oliver C. in the census. The 1920 son Oliver L. is a probable match to Lewis Oliver. The final-roll index has been checked; the original card still needs examination, while several original application letters have now been reviewed. No precise death date is inferred from the obituary’s undated reference to Thursday. Catherine’s 2007 obituary supplies Oliver Clinton for her father and Oliver Lewis for her brother; the earlier recorded variants are retained."
   },
   {
    "id": "alfreda-whitfield-sandridge",
@@ -20517,6 +20535,9 @@
   },
   "img/p/larry_sandridge_young_adult_original.jpg": {
    "url": "https://www.familysearch.org/en/tree/person/memories/GVR8-1DZ"
+  },
+  "img/docs/merry_1903_commissioner_letter.jpg": {
+   "url": "https://www.familysearch.org/ark:/61903/3:1:3QSQ-G97J-Y4QP"
   }
  }
 }

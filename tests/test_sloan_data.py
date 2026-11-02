@@ -58,6 +58,22 @@ class SloanArchiveTests(unittest.TestCase):
         self.assertTrue(any(i['s'] == original and i['kind'] == 'record' for i in story['imgs']))
         self.assertTrue(any('3:1:33SQ-GB98-SW27' in source for source in story['src']))
 
+    def test_merry_correspondence_keeps_identity_inference_qualified(self):
+        merry = PEOPLE['MAT_LEWIS_MERRY']
+        self.assertEqual(merry['n'], 'Lewis Merry')
+        self.assertEqual(merry['ev'], 'probable')
+        self.assertIsNone(merry.get('f'))
+        self.assertIsNone(merry.get('m'))
+        story = next(s for s in CONTENT['stories'] if s['id'] == 'ida-merry-enrollment')
+        narrative = ' '.join(story['body'])
+        for reference in ('Choctaw D 128', '7-D 128', 'J. L.', 'Lewis', 'Louis'):
+            self.assertIn(reference, narrative)
+        self.assertIn('probable identification', narrative)
+        self.assertIn('not proof or a full first-name expansion', merry['note'])
+        self.assertIn('not a final enrollment decision', narrative)
+        for ark in ('3QS7-L97J-YW17', '3QSQ-G97J-Y4QP'):
+            self.assertTrue(any(ark in source for source in story['src']))
+
     def test_alice_walker_does_not_merge_conflicting_mothers_or_birth_years(self):
         alice = PEOPLE['MAT_ALICE_WALKER']
         self.assertIsNone(alice.get('m'))
