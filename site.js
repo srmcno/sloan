@@ -8,7 +8,7 @@ window.SITE = {
   rootName: 'You',
   rootPossessive: 'Our',
   text: {
-    ancestryLink: '<a href="ancestry.html">Ancestry &amp; DNA</a>',
+    ancestryLink: '<a href="ancestry.html" aria-label="Ancestry and DNA"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 3c0 4.5 8 4.5 8 9s-8 4.5-8 9M16 3c0 4.5-8 4.5-8 9s8 4.5 8 9M9.6 6.5h4.8M9.6 17.5h4.8"/></svg><span class="al-long">Ancestry &amp;&nbsp;</span>DNA</a>',
     otherArchive: '<a href="https://srmcno.github.io/family/">Moffitt &amp; Thompson family archive</a>',
     brandSmall: 'Moffitt · Livesay · Sandridge · Whitfield',
     heroTitle: 'Family history and stories.',
