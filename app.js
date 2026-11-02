@@ -68,7 +68,8 @@ addEventListener('hashchange',()=>{if(appReady)route()});
 function syncChips(sel,v){$$(sel+' [data-f]').forEach(x=>x.setAttribute('aria-pressed',x.dataset.f===v))}
 
 /* ---------- home ---------- */
-const slides=C.hero;const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;let si=0,timer=null,photosPaused=reduce;
+const extraSlides=Array.isArray(SITE.heroExtras)?SITE.heroExtras:[];
+const slides=C.hero.flatMap((slide,index)=>extraSlides[index]?[slide,extraSlides[index]]:[slide]).concat(extraSlides.slice(C.hero.length));const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;let si=0,timer=null,photosPaused=reduce;
 $('#slides').innerHTML=slides.map((s,i)=>`<div class="slide${i?'':' on'}"><div class="bg" style="background-image:url('${s.s}')"></div><img src="${restored(s.s)}" alt="${esc(s.cap)}" ${i?'loading="lazy"':''}></div>`).join('');
 $('#dots').innerHTML=slides.length>10?'<span class="hero-count" aria-live="polite"></span>':slides.map((s,i)=>`<button aria-label="Photo ${i+1}"></button>`).join('');
 function show(i){si=(i+slides.length)%slides.length;$$('.slide').forEach((e,k)=>{e.classList.toggle('on',k===si);e.setAttribute('aria-hidden',String(k!==si))});$$('#dots button').forEach((e,k)=>e.classList.toggle('on',k===si));if($('#dots .hero-count'))$('#dots .hero-count').textContent=(si+1)+' / '+slides.length;const s=slides[si];$('#slidecap').innerHTML=esc(s.cap)+`<br><button class="photo-open" data-view-photo="${s.s}">View photograph${restored(s.s)!==s.s?' · restored and original':''}</button>`+(s.story&&SBY[s.story]?` · <a href="#/story/${s.story}">Read the story</a>`:'')}

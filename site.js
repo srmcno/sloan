@@ -28,6 +28,11 @@ window.SITE = {
     credits: 'Family photographs come from the Moffitt Family Tree on Ancestry. Some have been restored or colorized with AI; colors and reconstructed details are interpretations. The originals are available for comparison. Marmon Wasp photo by OctaviaCombi and Alamance plaque photo by Hallcp, CC BY-SA 4.0 via Wikimedia Commons; USS Chief photo, U.S. Navy (NH 96996); 1919 code letter, U.S. Army. Hugo (1910 street view and 1912 Frisco shops postcard), Butler County, Allen County and Gibson County photographs: Wikimedia Commons, public domain. Mountain View courthouse photo by Sgerbic, CC BY-SA 4.0, via Wikimedia Commons.'
   },
   lineBlurbs: ['Moffitt and Smith family branches', 'Thompson and Hulsey family branches', 'Livesay family branches', 'Sandridge family branches'],
+  heroExtras: [
+    {s:'img/p/larry_alfreda_sandridge_original.png',cap:'Larry and Alfreda Sandridge, 50th anniversary portrait, 2008',story:'sandridge-broken-bow-research-lead'},
+    {s:'img/p/audrey_nelson_sandridge_original.jpg',cap:'Audrey Inez Nelson Sandridge; original portrait contributed by JEF',story:'audrey-nelson-sandridge'},
+    {s:'img/p/larry_sandridge_young_adult_original.jpg',cap:'Portrait attributed to Larry Sandridge by FamilySearch contributor JNR12; date unknown',story:'sandridge-broken-bow-research-lead'}
+  ],
   heroKeys: ['henry_hannah', 'gilbert_parsis', 'daniel_oneal', 'vashti_framed', 'joel_ira', 'mary_tinsley', 'rebecca_graves', 'parsis_portrait', 'william_junior', 'faye_moffitt'],
   featured: [],
   topics: {
