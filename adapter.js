@@ -34,7 +34,7 @@ export function adaptFamily(D, tree) {
       n: p.n, g: p.g, s: p.s, x: p.x, b: p.b || '', bp: p.bp || '', d: p.d || '', dp: p.dp || '', lv: !!p.lv,
       f: p.f || null, m: p.m || null, sp: [], ch: [], gen: p.gen == null ? null : p.gen + 1,
       ph: [], ev: p.ev || e?.ev || 'tree', note: p.note || '', source_urls: p.source_urls || [],
-      img: e ? portraitOf(e) : '', entry: e?.id || null, kv: e?.kv || []
+      img: e && !p.noPortrait ? portraitOf(e) : '', noPortrait: !!p.noPortrait, entry: e?.id || null, kv: e?.kv || []
     };
   }
   const roots = tree?.roots || {};
@@ -66,7 +66,7 @@ export function adaptFamily(D, tree) {
   (D.ORDER || []).forEach((id, index) => { const key = canonical(id); if (!ranks.has(key)) ranks.set(key, index); });
   const rank = id => ranks.get(id) ?? 9999;
   const isRecordImg = (s, cap = '', kind = '') => kind === 'record' || /img\/(rec|docs|news|books|stones)\/|dawes|draft|census|codetalker|wpa_|hinshaw|nordyke_perkins|pension|headstone|gravestone|(?:^|[\/_-])grave(?:[\/_\-.]|$)/i.test(s) || /\b(?:map|maps|plat)\b/i.test(cap);
-  const isPlaceImg = (s, cap = '', kind = '') => !isRecordImg(s, cap, kind) && !/\bportrait\b/i.test(cap) && /courthouse|plaque|battleground|battlefield|hugo_|frisco|uss_|ship|wasp|street|depot|church|mill|school|town|capitol|meeting ?house|marker/i.test(s + ' ' + cap);
+  const isPlaceImg = (s, cap = '', kind = '') => !isRecordImg(s, cap, kind) && !/\bportrait\b/i.test(cap) && /img\/places\/|courthouse|plaque|battleground|battlefield|hugo_|frisco|uss[_-]|ship|wasp|street|depot|church|mill|school|town|capitol|meeting ?house|marker/i.test(s + ' ' + cap);
   const archivePhotos = [];
   const stories = ALL.filter(e => !storyAliases[e.id]).map(e => {
     const ids = linked[e.id] || [];
@@ -87,7 +87,7 @@ export function adaptFamily(D, tree) {
   }).sort((a, b) => a.rank - b.rank);
   for (const s of stories) for (const id of s.people) {
     const p = people[id];
-    if (!p.img) { const im = s.imgs.find(i => !isRecordImg(i.s, i.cap, i.kind) && !isPlaceImg(i.s, i.cap, i.kind)); if (im) p.img = im.s; }
+    if (!p.img && !p.noPortrait) { const im = s.imgs.find(i => !isRecordImg(i.s, i.cap, i.kind) && !isPlaceImg(i.s, i.cap, i.kind)); if (im) p.img = im.s; }
   }
 
   /* ---------- home page ---------- */
