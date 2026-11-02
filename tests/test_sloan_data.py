@@ -58,6 +58,17 @@ class SloanArchiveTests(unittest.TestCase):
         self.assertTrue(any(i['s'] == original and i['kind'] == 'record' for i in story['imgs']))
         self.assertTrue(any('3:1:33SQ-GB98-SW27' in source for source in story['src']))
 
+    def test_whitfield_full_name_preserves_household_uncertainty(self):
+        whitfield = PEOPLE['MAT_OLIVER_C_WHITFIELD']
+        self.assertEqual(whitfield['n'], 'Oliver Clinton Whitfield')
+        self.assertEqual(whitfield['ev'], 'probable')
+        self.assertIsNone(whitfield.get('f'))
+        self.assertIsNone(whitfield.get('m'))
+        self.assertIn('Clinton O. C.', whitfield['note'])
+        self.assertIn('remains probable', whitfield['note'])
+        for source in ('may-2007-biskinik.pdf#page=11', 'dec-2011-biskinik.pdf#page=15'):
+            self.assertTrue(any(source in url for url in whitfield['source_urls']))
+
     def test_merry_correspondence_keeps_identity_inference_qualified(self):
         merry = PEOPLE['MAT_LEWIS_MERRY']
         self.assertEqual(merry['n'], 'Lewis Merry')
