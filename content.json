@@ -3233,7 +3233,7 @@
     "years": "1847–1924"
    },
    "body": [
-    "The Hulsey family accounts trace Benjamin Franklin Hulsey to the mountains of Union County, Georgia, and a household headed by the blacksmith Salathiel Hulsey and his wife Elizabeth. The published 1850 census transcription lists a Benjamin aged six, while the family date of 2 February 1847 would make him three. Those two versions cannot both describe his age correctly, and the identity of this child with the later Arkansas man has not been established.",
+    "The Hulsey family accounts trace Benjamin Franklin Hulsey to the mountains of Union County, Georgia, and a household headed by the blacksmith Salathiel Hulsey and Elizabeth. The original census of 11 November 1850 lists Benjamin as three, with a six-year-old girl immediately above him. The San Diego society’s published transcription reversed those two ages. Three fits the family birth date of 2 February 1847, but the census supplies no exact birthday and does not establish this child’s identity with the later Arkansas man.",
     "Company D of the 4th Arkansas Cavalry, a Union regiment recruited during the winter of 1863–64, lists a private Benjamin F. Hulsey. A grave account instead attributes Confederate cavalry service to Benjamin. The similar unit names can obscure the distinction between opposing armies; without an identifying service or pension file, his military service remains a lead.",
     "Family accounts name Sylvania Susane Partin as a wife, while a 1977 Hulsey query names Margaret Partain. The 1880 Montgomery County household that probably includes young George Washington Hulsey gives the wife’s name as Sarah G. None of those women has been securely identified with another, and Sylvania has not been established as George’s mother.",
     "In Garland County, a September 1893 marriage bond names Benjamin F. Hulsley and Lucy Morgan. The license is dated 25 September and gives Lucy’s age as fifteen. The printed century on the bond was altered by hand to 1893. The return does not supply a readable completed ceremony date, so the license date should not automatically become their wedding date. This couple’s connection to the 1880 household remains unresolved.",
@@ -3247,7 +3247,7 @@
     }
    ],
    "src": [
-    "1850 U.S. Census, Union Co., Ga.; Index to Compiled Service Records of Union Soldiers from Arkansas (NARA M383), Co. D, 4th Arkansas Cavalry (ARGenWeb roster); Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); The Sentinel-Record (Hot Springs, Ark.), 13 Feb 1910, p. 4 (http://www.loc.gov/resource/sn89051285/1910-02-13/ed-1/?sp=4); San Diego Genealogical Society, Hulsey Families (2000), 1850 Union Co., Ga; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); Garland County marriage bond and license, Benjamin F. Hulsley and Lucy Morgan, Sep 1893, https://www.familysearch.org/ark:/61903/3:1:S3HT-65TS-YYW?i=615&groupId=1417439&lang=en; indexed record https://www.familysearch.org/ark:/61903/1:1:F7SC-WLQ; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (Dec 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26."
+    "1850 U.S. Census, Union Co., Ga.; Index to Compiled Service Records of Union Soldiers from Arkansas (NARA M383), Co. D, 4th Arkansas Cavalry (ARGenWeb roster); Find a Grave (Breashears Cemetery, Montgomery Co., Ark.); The Sentinel-Record (Hot Springs, Ark.), 13 Feb 1910, p. 4 (http://www.loc.gov/resource/sn89051285/1910-02-13/ed-1/?sp=4); San Diego Genealogical Society, Hulsey Families (2000), 1850 Union Co., Ga; Montgomery County ARGenWeb, 'Breashears Cemetery, Story' (argenweb.net/montgomery/breashears_cemetery.htm; photo study, June 2020); Garland County marriage bond and license, Benjamin F. Hulsley and Lucy Morgan, Sep 1893, https://www.familysearch.org/ark:/61903/3:1:S3HT-65TS-YYW?i=615&groupId=1417439&lang=en; indexed record https://www.familysearch.org/ark:/61903/1:1:F7SC-WLQ; Franklin L. Hulsey family query, Arkansas Family Historian 15:4 (Dec 1977), p. 218, https://argensoc.org/wp-content/uploads/afh/AFH154Dec1977.pdf#page=26. Original 1850 U.S. census, District 85, Union County, Georgia, 11 Nov 1850, p. 273B (handwritten p. 145), dwelling/family 998, lines 26–37, NARA M432 roll 84, RG 29; indexed as Salathel Halsey: https://www.ancestry.com/search/collections/8054/records/18983349 ; image 148 of 170, https://www.ancestry.com/imageviewer/collections/8054/images/4191561_00433?pId=18983349 . Original downloaded and independently read; Benjamin is 3 on line 34, girl immediately above him is 6 on line 33."
    ],
    "imgs": [
     {
@@ -3271,6 +3271,11 @@
     {
      "s": "img/places/hot_springs_sanborn_1886.jpg",
      "cap": "Hot Springs, Garland County, Arkansas, Sanborn fire insurance map, June 1886 (Library of Congress). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Sanborn_Fire_Insurance_Map_from_Hot_Springs,_Garland_County,_Arkansas._LOC_sanborn00269_001-3.jpg"
+    },
+    {
+     "s": "img/rec/hulsey-1850-union-household-original.jpg",
+     "cap": "Original 1850 census, District 85, Union County, Georgia, 11 November: Salathiel’s household, lines 26–37. Benjamin is three on line 34; the girl above him is six. NARA M432 roll 84, p. 273B; image reproduced by FamilySearch and accessed through Ancestry.",
+     "kind": "record"
     }
    ],
    "tags": [
@@ -3286,15 +3291,15 @@
      "Robert R., Jesse, Jennings"
     ],
     [
-     "Age conflict",
-     "1850 census transcription: age 6 (b. c.1844); family record: b. 2 Feb 1847"
+     "1850 original census",
+     "Benjamin, 3; the girl above him, transcribed Lillean, 6. The published extract reversed their ages. This fits about 1847 but does not prove the later Arkansas identity."
     ],
     [
      "Breashears Cemetery",
      "In a graveyard with 117 names in the 1986 county book and 106 unmarked graves; Hulsey (4) stones; his own is not named in the posted photo study"
     ]
    ],
-   "note": "This profile preserves a family-account lead separately from the B. F. Hulsey household recorded in 1880. Their identity, Benjamin’s parents, his military service and the identity of George Washington’s mother remain unconfirmed. The competing 1850 ages, wife names and death years are retained rather than silently reconciled.",
+   "note": "This profile preserves a family-account lead separately from the B. F. Hulsey household recorded in 1880. Their identity, Benjamin’s parents, his military service and the identity of George Washington’s mother remain unconfirmed. The original 1850 census resolves the copied age discrepancy in favor of three; the competing wife names and death years remain unresolved.",
    "place": "",
    "rank": 39
   },
@@ -9454,8 +9459,8 @@
    "side": "J",
    "gen": 10,
    "ev": "lead",
-   "title": "The brother who went to Arkansas first",
-   "hook": "A son of Salathiel Hulsey is in southwest Arkansas by 1860, with a baby named for his father.",
+   "title": "A possible route from Georgia to Arkansas",
+   "hook": "Robert in Salathiel’s Georgia household may be the Robert R. Hulsey recorded with an infant Salathel G. in Arkansas in 1860.",
    "profile": false,
    "people": [],
    "subject": {
@@ -9464,28 +9469,28 @@
     "years": "c.1833-?"
    },
    "body": [
-    "The 1850 Union County, Georgia transcription lists Salathiel Hulsey, 43, born Georgia, with Elizabeth, 35, and children Maryann 19, Robert R. 17, Elizabeth 12, Jesse 10, Jennings 8, Benjamin 6, Lillean 3 and Nancy 1, with Arminda Burnet 20 and J. C. Bell 23 in the house.",
-    "Robert R. Hulsey, age 27, is in the 1860 Hempstead County, Arkansas census with Sarah A., 20, born Mississippi, and a son Salathel G., 1, born Arkansas. The son's name, Salathel, matches his probable father's, and the 1860 age fits Robert R. of 1850.",
-    "If this is the same man, he was in Arkansas several years before Benjamin F. Hulsey first appears there, on the 1864 Union roster, and may be one reason Benjamin came to Arkansas. That is lead only: no record says the two Roberts are one man, and only the shared 1850 household suggests he was Benjamin's brother."
+    "The original 1850 Union County, Georgia census lists Robert, 17, in the household of Salathiel, 43, and Elizabeth, 35. The other young Hulseys include Maryan, 19; Elizabeth, 12; Jesse, 10; Jennings, 8; a girl transcribed Lillean, 6; Benjamin, 3; and Nancy, 1. The published San Diego extract gives Robert a middle initial R. and reverses the ages of Benjamin and the girl above him.",
+    "The published extract lists Robert R. Hulsey, 27, in the 1860 Hempstead County, Arkansas census with Sarah A., 20, born Mississippi, and Salathel G., 1, born Arkansas. Robert’s age and the infant’s unusual given name support a possible connection to the Georgia household. They do not prove that the two Roberts were the same person, that Salathiel was Robert’s father, or that the infant was named for him.",
+    "If this is the same Robert, he was in Arkansas by 1860. The shared 1850 household suggests that he and Benjamin may have been brothers, but it does not state their relationship. The identity of the Benjamin F. Hulsey on the 1864 Union roster also remains unconfirmed."
    ],
    "quotes": [],
    "src": [
-    "1850 U.S. Census, Union Co., Ga., and 1860 U.S. Census, Hempstead Co., Ark., as transcribed in San Diego Genealogical Society Families: Hulsey (archive.org item sdgsfamilies64)"
+    "1850 U.S. Census, Union Co., Ga., and 1860 U.S. Census, Hempstead Co., Ark., as transcribed in San Diego Genealogical Society Families: Hulsey (archive.org item sdgsfamilies64) Original 1850 U.S. census, District 85, Union County, Georgia, 11 Nov 1850, p. 273B (handwritten p. 145), dwelling/family 998, lines 26–37, NARA M432 roll 84, RG 29; indexed as Salathel Halsey: https://www.ancestry.com/search/collections/8054/records/18983349 ; image 148 of 170, https://www.ancestry.com/imageviewer/collections/8054/images/4191561_00433?pId=18983349 . Original downloaded and independently read; Benjamin is 3 on line 34, girl immediately above him is 6 on line 33."
    ],
    "imgs": [],
    "tags": [],
    "kv": [
     [
-     "1850",
-     "Age 17, Union Co., Ga., in the household of Salathiel Hulsey (as transcribed)"
+     "1850 original",
+     "Robert, 17, in Salathiel’s Union County household; no middle initial or relationship recorded on the original page."
     ],
     [
-     "1860",
-     "Robert R. Hulsey, 27, Hempstead Co., Ark., with Sarah A., 20, born Miss., and a son Salathel G., 1, born Ark."
+     "1860 (published extract; possible match)",
+     "Robert R. Hulsey, 27, Hempstead Co., Ark., with Sarah A., 20, born Miss., and Salathel G., 1, born Ark.; relationships not stated by the census."
     ]
    ],
-   "note": "In this transcription Benjamin is 6 in 1850, which gives a birth about 1844; the family record and the entry for Benjamin say 2 February 1847, and the census would then have said 3.",
-   "place": "Union Co., Georgia; Hempstead Co., Arkansas",
+   "note": "The original 1850 page gives Benjamin’s age as three, consistent with about 1847; it does not record relationships or Robert’s middle initial. The proposed identification with Robert R. in Arkansas remains a lead.",
+   "place": "Union County, Georgia; possible later match in Hempstead County, Arkansas.",
    "rank": 153
   },
   {
@@ -9904,7 +9909,7 @@
    "gen": 7,
    "ev": "probable",
    "title": "Ten Hulseys in one house: Union County, Georgia, 1850",
-   "hook": "A compiled Hulsey census list names Benjamin's brothers and sisters, and puts Benjamin at 6 instead of 3.",
+   "hook": "The original census puts Benjamin at three, with a six-year-old girl above him; a published extract had reversed their ages.",
    "profile": false,
    "people": [],
    "subject": {
@@ -9913,19 +9918,25 @@
     "years": "1850"
    },
    "body": [
-    "A volume of Hulsey census extracts compiled for the San Diego Genealogical Society copies the 1850 census of Union County, Georgia, for the household of \"Salatheil Hulsey 43 GA\": Elizabeth, 35; Maryann, 19; Robert R., 17; Elizabeth, 12; Jesse, 10; Jennings, 8; Benjamin, 6; Lillean, 3; and Nancy, 1. Listed in the same dwelling are Arminda Burnet, 20, and J. C. Bell, 23.",
-    "The ages matter. The wife Elizabeth is 35, only sixteen years older than the eldest daughter Maryann, so Maryann may be an older stepchild, or one of the ages is off. And Benjamin is 6, which would put his birth about 1844, not the 2 February 1847 on his grave memorial. The existing note that he was \"3\" in 1850 does not match this transcription; one of the two readings, or the grave date, needs checking against the film.",
-    "The compiler added a note to the eldest son: \"Robert R. Hulsey, age 27, is in 1860 Hempstead Co., AR\" with \"Sarah A. 20 MS, & Salathel G. 1, AR.\" So an older brother of Benjamin was also in Arkansas by 1860, and he named a son for the father, as Benjamin did with Martin Salatheil.",
+    "On 11 November 1850 the census taker recorded the household of a Georgia-born blacksmith, Salathiel Hulsey (indexed as Salathel Halsey), 43, in District 85, Union County, Georgia. The household included Elizabeth, 35; Maryan, 19; Robert, 17; Elizabeth, 12; Jesse, 10; Jennings, 8; a girl transcribed Lillean, 6; Benjamin, 3; and Nancy, 1. Arminda Burnett and J. C. Bell were also listed in dwelling and family 998.",
+    "The original resolves an age discrepancy in the published San Diego Genealogical Society extract: Benjamin is three on line 34, and the girl immediately above him is six on line 33. Those ages had been reversed in the extract. Three is consistent with the family’s 1847 birth year for Benjamin, although the census does not give his exact birthday. It also contains no relationship column, so it cannot establish that Elizabeth was each child’s biological mother or prove this child became the later Arkansas Benjamin.",
+    "The compiler of the San Diego extract also suggested that Robert R. Hulsey, 27, in the 1860 Hempstead County, Arkansas census was the Robert in this household. The reported wife Sarah A., 20, and son Salathel G., 1, offer a possible route west to investigate. That identification, like Benjamin’s connection to Arkansas, still needs evidence beyond similar ages and family names.",
     "In 1840 Salathiel was counted in Hall County, and in the 1830 Hall County Hulsey list he is one of seventeen men named Hulsey, living among the Hulseys of Charles and Adler."
    ],
    "quotes": [],
    "src": [
-    "San Diego Genealogical Society, Hulsey Families (2000), \"1850 Union Co., GA\" and \"1860 Hempstead Co., AR\" census extracts (archive.org, sdgsfamilies64); 1850 U.S. Census, Union Co., Ga."
+    "San Diego Genealogical Society, Hulsey Families (2000), \"1850 Union Co., GA\" and \"1860 Hempstead Co., AR\" census extracts (archive.org, sdgsfamilies64); 1850 U.S. Census, Union Co., Ga. Original 1850 U.S. census, District 85, Union County, Georgia, 11 Nov 1850, p. 273B (handwritten p. 145), dwelling/family 998, lines 26–37, NARA M432 roll 84, RG 29; indexed as Salathel Halsey: https://www.ancestry.com/search/collections/8054/records/18983349 ; image 148 of 170, https://www.ancestry.com/imageviewer/collections/8054/images/4191561_00433?pId=18983349 . Original downloaded and independently read; Benjamin is 3 on line 34, girl immediately above him is 6 on line 33."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/rec/hulsey-1850-union-household-original.jpg",
+     "cap": "Original 1850 census, District 85, Union County, Georgia, 11 November: Salathiel’s household, lines 26–37. Benjamin is three on line 34; the girl above him is six. NARA M432 roll 84, p. 273B; image reproduced by FamilySearch and accessed through Ancestry.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [],
-   "note": "This is a transcription of a transcription; the original census page has not been seen. The ages of Benjamin disagree with the grave and with the earlier text.",
+   "note": "The original page has now been independently examined and preserved. Benjamin’s age is three, not six. The household relationships and its proposed connection to the later Arkansas family remain inferred.",
    "place": "Union County, Georgia",
    "rank": 164
   },
@@ -15929,7 +15940,7 @@
    "gen": 7,
    "ev": "probable",
    "title": "A blacksmith in the old Cherokee gold country",
-   "hook": "Salathiel Hulsey was a blacksmith in Hall County and then Union County, Georgia, with a house of eight children in 1850, and his sons took the name to Arkansas.",
+   "hook": "The 1850 census records a Georgia blacksmith and a household that may connect to the Hulseys later recorded in Arkansas.",
    "profile": false,
    "people": [],
    "subject": {
@@ -15938,25 +15949,35 @@
     "years": "c.1807–1850s"
    },
    "body": [
-    "The 1850 census of Union County, Georgia, as copied in the San Diego Genealogical Society's Hulsey volume, lists \"Salatheil Hulsey 43 GA,\" a blacksmith, with Elizabeth, 35, and children Maryann, 19, Robert R., 17, Elizabeth, 12, Jesse, 10, Jennings, 8, Benjamin, 6, Lillean, 3 and Nancy, 1, with Arminda Burnet, 20, and J. C. Bell, 23, in the same dwelling. That is ten Hulseys in one house (\"Ten Hulseys in one house\"). In 1840 he was counted in Hall County, where seventeen men named Hulsey were on the 1830 list (\"Seventeen Hulsey households in Hall County, 1830\").",
-    "Union County, in the northern mountains, was formed in 1832 from the country the Cherokee had held until their removal in 1836-39, once a gold-rush district; settlers there were hardscrabble farmers, mostly from Virginia and North Carolina, and few kept slaves. A blacksmith in such a place shod horses and mended plows. The census gives Salathiel's birth about 1807 and his wife's about 1815, so Maryann, 19, may be an older stepchild or one of the ages is off. He is gone by the early 1850s.",
-    "His sons went west. Robert R. was in Hempstead County, Arkansas, by 1860, 27, with a wife Sarah and a son Salathel G., 1; and Benjamin, whose own son was named Martin Salatheil for him, ended in the hills of Story, Montgomery County (\"From the Georgia mountains to Story, Arkansas\"). Benjamin is shown as 6 in the 1850 transcription, which makes him born about 1844, not the 2 February 1847 on his grave memorial; whether he was the father of George Washington Hulsey is the link on which this line depends.",
+    "The original 1850 census of Union County, Georgia, records Salathiel (indexed as Salathel Halsey), 43, a Georgia-born blacksmith with $50 in real estate. In dwelling and family 998 are Elizabeth, 35; Maryan, 19; Robert, 17; Elizabeth, 12; Jesse, 10; Jennings, 8; a girl transcribed as Lillean, 6; Benjamin, 3; and Nancy, 1. Arminda Burnett and J. C. Bell are listed in the same household. The page was enumerated on 11 November. The census did not record family relationships, so the apparent spouse and child relationships are inferred. In 1840 Salathiel was counted in Hall County.",
+    "Union County, in the northern mountains, was formed in 1832 from the country the Cherokee had held until their removal in 1836-39, once a gold-rush district; settlers there were hardscrabble farmers, mostly from Virginia and North Carolina, and few kept slaves. A blacksmith in such a place shod horses and mended plows. The census gives Salathiel's birth about 1807 and Elizabeth's about 1815, but it does not establish how Elizabeth and Maryan were related. He is gone by the early 1850s.",
+    "A published census extract places Robert R. Hulsey, 27, in Hempstead County, Arkansas, in 1860 with Sarah and an infant Salathel G. The age and unusual name make this a plausible continuation of Robert in the Georgia household. Family accounts also place Benjamin in Story, Arkansas, with a son named Martin Salatheil. The original 1850 age of three removes the apparent conflict with Benjamin’s reported 1847 birth, but neither his identity with the Arkansas man nor his relationship to George Washington Hulsey is established.",
     "Salathiel's father may be Jesse Hulsey, the wounded Revolutionary pensioner of Hall County; online trees say so, but they also name Jesse Hamilton Hulsey and Mary Tharp, and no record supports either (lead)."
    ],
    "quotes": [],
    "src": [
-    "1840 U.S. Census, Hall Co., Ga.; 1850 U.S. Census, Union Co., Ga. (as cited on Find a Grave and WikiTree); 1850 U.S. Census, Union Co., Ga., as transcribed in San Diego Genealogical Society, Families: Hulsey (archive.org sdgsfamilies64); San Diego Genealogical Society, Hulsey Families (2000). Wikipedia, 'Union County, Georgia' (county formed 1832; Cherokee removal 1836-39)."
+    "1840 U.S. Census, Hall Co., Ga.; 1850 U.S. Census, Union Co., Ga. (as cited on Find a Grave and WikiTree); 1850 U.S. Census, Union Co., Ga., as transcribed in San Diego Genealogical Society, Families: Hulsey (archive.org sdgsfamilies64); San Diego Genealogical Society, Hulsey Families (2000). Wikipedia, 'Union County, Georgia' (county formed 1832; Cherokee removal 1836-39). Original 1850 U.S. census, District 85, Union County, Georgia, 11 Nov 1850, p. 273B (handwritten p. 145), dwelling/family 998, lines 26–37, NARA M432 roll 84, RG 29; indexed as Salathel Halsey: https://www.ancestry.com/search/collections/8054/records/18983349 ; image 148 of 170, https://www.ancestry.com/imageviewer/collections/8054/images/4191561_00433?pId=18983349 . Original downloaded and independently read; Benjamin is 3 on line 34, girl immediately above him is 6 on line 33."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/rec/hulsey-1850-union-household-original.jpg",
+     "cap": "Original 1850 census, District 85, Union County, Georgia, 11 November: Salathiel’s household, lines 26–37. Benjamin is three on line 34; the girl above him is six. NARA M432 roll 84, p. 273B; image reproduced by FamilySearch and accessed through Ancestry.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
-     "1850 household (transcribed)",
-     "Salatheil 43, Elizabeth 35, Maryann 19, Robert R. 17, Elizabeth 12, Jesse 10, Jennings 8, Benjamin 6, Lillean 3, Nancy 1 (Union Co., Ga.)"
+     "1850 household (original)",
+     "Salathiel 43, Elizabeth 35, Maryan 19, Robert 17, Elizabeth 12, Jesse 10, Jennings 8, girl transcribed Lillean 6, Benjamin 3, Nancy 1; dwelling/family 998."
+    ],
+    [
+     "Occupation and property",
+     "Blacksmith; $50 real estate, original 1850 census."
     ]
    ],
-   "note": "The transcription gives Salathiel's age as 43 in 1850, about 1807, and Elizabeth's as 35; the household has eight children including Benjamin. Trees naming his parents as Jesse Hamilton Hulsey and Mary Tharp are unsupported. Benjamin's age conflicts inside the sources: the first paragraph says a three-year-old Benjamin (b. 2 Feb 1847, family record), the 1850 transcription says 6 (b. c.1844).",
-   "place": "A blacksmith in Hall County, Georgia, in 1840 and Union County in 1850, with his wife Elizabeth (maiden name given as Estel) and son Benjamin, 3. Their place in our line depends on Benjamin being G. W. Hulsey's father, which is not yet proven.",
+   "note": "The original census gives Salathiel’s age as 43, Elizabeth’s as 35, the girl transcribed Lillean as 6, and Benjamin as 3. The published San Diego extract reversed the last two ages. The census does not state relationships or Elizabeth’s maiden name. Jesse Hulsey and Mary Tharp remain unsupported as Salathiel’s parents, and the connection from this household to George Washington Hulsey remains a lead.",
+   "place": "A blacksmith recorded in Hall County, Georgia, in 1840 and Union County in 1850. The 1850 household includes Elizabeth, 35, and Benjamin, 3; their relationships to Salathiel are inferred. Elizabeth’s proposed maiden name Estel and the connection to G. W. Hulsey remain unconfirmed.",
    "rank": 9999
   },
   {
