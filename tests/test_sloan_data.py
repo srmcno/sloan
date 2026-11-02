@@ -85,6 +85,21 @@ class SloanArchiveTests(unittest.TestCase):
         for ark in ('3QS7-L97J-YW17', '3QSQ-G97J-Y4QP'):
             self.assertTrue(any(ark in source for source in story['src']))
 
+    def test_sadah_certificate_does_not_promote_candidate_parents(self):
+        sadah = PEOPLE['MAT_SADAH_MCCORMICK']
+        self.assertEqual(sadah['ev'], 'probable')
+        self.assertEqual(sadah['b'], '13 Aug 1893')
+        self.assertEqual(sadah['d'], '29 Apr 1978')
+        self.assertIsNone(sadah['f'])
+        self.assertIsNone(sadah['m'])
+        story = next(s for s in CONTENT['stories'] if s['id'] == sadah['entry'])
+        narrative = ' '.join(story['body'])
+        for wording in ('J. T. McCormack', 'Unknown', 'Sarah', 'Sadah', 'Sadie',
+                        'unattached research leads', 'no maiden surname'):
+            self.assertIn(wording, narrative)
+        for ark in ('33SQ-G5TQ-D8Y', '33SQ-GYBC-97G8'):
+            self.assertTrue(any(ark in source for source in story['src']))
+
     def test_alice_walker_does_not_merge_conflicting_mothers_or_birth_years(self):
         alice = PEOPLE['MAT_ALICE_WALKER']
         self.assertIsNone(alice.get('m'))

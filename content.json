@@ -18196,6 +18196,40 @@
     }
    ],
    "note": "The 1940 newspaper directly names Nona’s mother and sister; identifying Mrs. L. L. Sandridge with Audrey and Mrs. Edwin Chidester with Mabel uses the corroborating family records. The records do not distinguish full from half sisters. Nona’s father remains unknown. Her proposed later Kinley identity has not been adopted. Mabel’s marriage age conflicts with her Social Security birth date."
+  },
+  {
+   "id": "sadah-mccormick-records",
+   "side": "N",
+   "gen": 5,
+   "ev": "probable",
+   "profile": false,
+   "title": "Sadah’s Indiana beginnings",
+   "hook": "A Texas death certificate supplies dates and a father’s initials, while an earlier census offers a household to investigate.",
+   "people": [
+    "MAT_SADAH_MCCORMICK"
+   ],
+   "subject": {
+    "name": "Sadah McCormick Livesay",
+    "rel": "Maternal ancestor",
+    "years": "1893–1978"
+   },
+   "body": [
+    "The 1920 census places Sadah and Lester W. Livesay in Harris County with their children. Their son Lester’s 2001 obituary names his mother as Sadah McCormick. A Harris County marriage index records Lester W. Livesay and Sadah H. Mc.Cormick in 1911, volume 4, page 402, certificate 22072; this is an index entry, not an examined marriage license.",
+    "An original Texas certificate records Sadah Livesay Vaughan’s death in Houston on 29 April 1978, aged 84. It gives her birth as 13 August 1893 in Anderson, Indiana, and names the informant as Alice Livesay Kauitzsch. The combination of the unusual given name, Livesay surname and informant supports the probable identification with Lester’s wife. Alice’s Social Security NUMIDENT index names her parents as Lester W. Livesay and Sarah H. McCormack and includes the Kauitzsch surname; Sarah and Sadah remain recorded variants rather than a silently corrected name.",
+    "The certificate names Sadah’s father as J. T. McCormack and gives her mother’s maiden name as Unknown. It does not expand his initials. The dates now shown in the tree come from this certificate, whose birth information was reported many decades after the event.",
+    "An earlier original census offers a possible family connection. On 18 April 1910, in Brazoria County’s Justice Precinct 5, Jay T. McCormick, 41, and his wife Frances, 40, were listed with a daughter Sadie, 17, born in Indiana. The father’s initials, daughter’s age and birthplace fit the later certificate, but no examined record yet establishes that Sadie and Sadah are the same person. Jay T. and Frances remain unattached research leads. The census supplies no maiden surname for Frances."
+   ],
+   "quotes": [],
+   "src": [
+    "1920 U.S. census, Harris County, Lester and Sadah Livesay household: https://www.familysearch.org/ark:/61903/1:1:MHY4-98J",
+    "The Panola Watchman, 22 July 2001, Lester Woodrow Livesay Jr. obituary: https://www.txgenwebcounties.com/panola/obit/2001obit2.htm",
+    "Texas, County Marriage Index, 1837–1977, Sadah H. Mc.Cormick and Lester W. Livesay, Harris County, 1911, vol. 4, p. 402, certificate 22072; index only: https://www.familysearch.org/ark:/61903/1:1:FXM9-1ZK",
+    "Texas Department of Health, death certificate state file 37586, Sadah Livesay Vaughan, Houston, 29 April 1978; original image 100 of 550, Texas Death Certificates, May 1978, via FamilySearch: https://www.familysearch.org/ark:/61903/3:1:33SQ-G5TQ-D8Y",
+    "United States, Social Security Numerical Identification Files (NUMIDENT), 1936–2007, Sarah H. McCormack in daughter Alice’s record; index only: https://www.familysearch.org/ark:/61903/1:1:6K76-8JJB",
+    "1910 U.S. census, Brazoria County, Texas, Justice Precinct 5, enumeration district 10, sheet 1B, household 26, lines 89–96, Jay T. McCormick household; original image 777 of 1193, via FamilySearch: https://www.familysearch.org/ark:/61903/3:1:33SQ-GYBC-97G8"
+   ],
+   "imgs": [],
+   "note": "The Sadah/Sarah identification remains probable; the Sadie census household is a research lead. J. T. McCormack is the father’s recorded name on the death certificate. His full identity and Sadah’s mother remain unresolved, and no candidate parents are linked."
   }
  ],
  "storyAliases": {
