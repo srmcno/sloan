@@ -10,6 +10,7 @@ permissions:
   contents: write
   pages: write
   id-token: write
+  deployments: read
 concurrency:
   group: sloan-pages
   cancel-in-progress: false
@@ -26,12 +27,22 @@ jobs:
       - name: Check for family archive updates
         id: check
         working-directory: site
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
+          # A scheduled run stops early only when the family archive is unchanged AND this
+          # commit's Pages deployment succeeded; any doubt (API error, failed deploy) publishes.
           latest=$(git ls-remote https://github.com/srmcno/family refs/heads/main | cut -f1)
-          if [ "${{ github.event_name }}" = "schedule" ] && [ -n "$latest" ] && [ "$latest" = "$(cat .paternal-revision)" ]; then
-            echo "Family archive unchanged at ${latest:0:7}; nothing to publish."
+          dep=$(gh api "repos/$GITHUB_REPOSITORY/deployments?environment=github-pages&per_page=1" --jq '.[0] | "\(.id) \(.sha)"' 2>/dev/null || true)
+          state=""
+          if [ -n "$dep" ] && [ "${dep#* }" = "$(git rev-parse HEAD)" ]; then
+            state=$(gh api "repos/$GITHUB_REPOSITORY/deployments/${dep%% *}/statuses?per_page=1" --jq '.[0].state' 2>/dev/null || true)
+          fi
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -n "$latest" ] && [ "$latest" = "$(cat .paternal-revision)" ] && [ "$state" = "success" ]; then
+            echo "Family archive unchanged at ${latest:0:7} and this commit is published; nothing to do."
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
+            echo "Publishing (family ${latest:0:7}, recorded $(cut -c1-7 .paternal-revision), last deployment: ${state:-not this commit})."
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
       - uses: actions/checkout@v4
