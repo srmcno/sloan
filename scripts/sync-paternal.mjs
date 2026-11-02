@@ -87,9 +87,13 @@ for(const [id,p] of Object.entries(sourceNew.people)){
  tree.people[id]=result;
 }
 // Rebuild relationships for the full tree, retaining the child's parents and maternal branch.
+// Marriages recorded outside the paternal side (a couple with no child in the tree) cannot be
+// rebuilt from parent links, so keep those spouse links and restore them after the rebuild.
+const keptSpouses=[];for(const [id,p] of Object.entries(tree.people))for(const s of p.sp||[])if(tree.people[s]&&(p.side!=='J'||tree.people[s].side!=='J'))keptSpouses.push([id,s]);
 for(const p of Object.values(tree.people)){p.ch=[];p.sp=[];}
 for(const [id,p] of Object.entries(tree.people))for(const parent of [p.f,p.m]){if(!parent)continue;if(!tree.people[parent])throw Error(`Missing parent ${parent}`);tree.people[parent].ch.push(id);}
 for(const p of Object.values(tree.people))if(p.f&&p.m){if(!tree.people[p.f].sp.includes(p.m))tree.people[p.f].sp.push(p.m);if(!tree.people[p.m].sp.includes(p.f))tree.people[p.m].sp.push(p.f);}
+for(const [a,b] of keptSpouses){if(!tree.people[a].sp.includes(b))tree.people[a].sp.push(b);if(!tree.people[b].sp.includes(a))tree.people[b].sp.push(a);}
 // Copy only referenced, safe relative media from the committed source revision.
 const paths=new Set();function collect(x){if(typeof x==='string'&&x.startsWith('img/'))paths.add(x);else if(Array.isArray(x))x.forEach(collect);else if(x&&typeof x==='object')Object.entries(x).forEach(([k,v])=>{collect(k);collect(v);});} collect(target);collect(tree);
 const files=[];for(const rel of paths){if(!/^img\/[A-Za-z0-9_./-]+\.(?:jpg|jpeg|png|webp|gif|pdf)$/i.test(rel)||rel.split('/').includes('..'))throw Error(`Unsafe media path: ${rel}`);
