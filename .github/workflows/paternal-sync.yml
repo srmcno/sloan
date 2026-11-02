@@ -1,7 +1,8 @@
 name: Sync paternal archive and publish
 on:
   schedule:
-    - cron: '17 * * * *'
+    # Every 10 minutes; a run that finds the family archive unchanged stops after one quick check.
+    - cron: '7-59/10 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -15,27 +16,44 @@ concurrency:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.check.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           path: site
+      - name: Check for family archive updates
+        id: check
+        working-directory: site
+        run: |
+          latest=$(git ls-remote https://github.com/srmcno/family refs/heads/main | cut -f1)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -n "$latest" ] && [ "$latest" = "$(cat .paternal-revision)" ]; then
+            echo "Family archive unchanged at ${latest:0:7}; nothing to publish."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v4
+        if: steps.check.outputs.changed == 'true'
         with:
           repository: srmcno/family
           fetch-depth: 0
           path: family
           persist-credentials: false
       - uses: actions/setup-node@v4
+        if: steps.check.outputs.changed == 'true'
         with:
           node-version: 22
       - name: Sync and validate
+        if: steps.check.outputs.changed == 'true'
         working-directory: site
         run: |
           node scripts/sync-paternal.mjs ../family --apply
           PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
           node --test tests/*.mjs
       - name: Save validated update
+        if: steps.check.outputs.changed == 'true'
         working-directory: site
         run: |
           if [ -n "$(git status --porcelain)" ]; then
@@ -46,15 +64,19 @@ jobs:
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
+        if: steps.check.outputs.changed == 'true'
       - name: Prepare public artifact
+        if: steps.check.outputs.changed == 'true'
         run: |
           mkdir public
           cp -R site/index.html site/ancestry.html site/*.js site/*.css site/tree.json site/content.json site/img site/.nojekyll site/robots.txt site/favicon.svg public/
       - uses: actions/upload-pages-artifact@v3
+        if: steps.check.outputs.changed == 'true'
         with:
           path: public
   deploy:
     needs: sync
+    if: needs.sync.outputs.changed == 'true'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
