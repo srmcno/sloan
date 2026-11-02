@@ -5,9 +5,11 @@
  */
 export function createRelationships(P, ROOT, rootLabel = 'Rachel') {
   const has = id => typeof id === 'string' && Object.hasOwn(P, id) && P[id] != null;
-  const parents = new Map(), spouses = new Map();
+  const parents = new Map(), parentKinds = new Map(), spouses = new Map();
   for (const [id, person] of Object.entries(P)) {
-    parents.set(id, [...new Set([person?.f, person?.m].filter(parent => has(parent) && parent !== id))]);
+    const links=[{id:person?.f,kind:person?.parentKinds?.f},{id:person?.m,kind:person?.parentKinds?.m},...(Array.isArray(person?.otherParents)?person.otherParents:[])], kinds=new Map();
+    for(const link of links)if(has(link?.id)&&link.id!==id&&!kinds.has(link.id))kinds.set(link.id,link.kind);
+    parentKinds.set(id,kinds); parents.set(id,[...kinds.keys()]);
     spouses.set(id, new Set());
   }
   // A recorded spouse link is symmetric. Sharing a child does not imply marriage.
@@ -35,22 +37,25 @@ export function createRelationships(P, ROOT, rootLabel = 'Rachel') {
   }
   removeCycles(ROOT);
   for (const id of [...parents.keys()].sort()) removeCycles(id);
-  const ancestryCache = new Map(), bloodCache = new Map(), resultCache = new Map();
+  const ancestryCache = new Map(), pathKindsCache = new Map(), bloodCache = new Map(), resultCache = new Map();
   function ancestors(id) {
     if (ancestryCache.has(id)) return ancestryCache.get(id);
-    const distances = new Map();
+    const distances = new Map(), pathKinds = new Map();
     if (has(id)) {
-      distances.set(id, 0);
+      distances.set(id, 0); pathKinds.set(id,{birth:false,adoptive:false});
       const queue = [id];
       for (let cursor = 0; cursor < queue.length; cursor++) {
         const child = queue[cursor];
         for (const parent of parents.get(child) || []) {
           if (distances.has(parent)) continue;
-          distances.set(parent, distances.get(child) + 1); queue.push(parent);
+          const path=pathKinds.get(child), kind=parentKinds.get(child)?.get(parent);
+          distances.set(parent, distances.get(child) + 1);
+          pathKinds.set(parent,{birth:path.birth||kind==='birth',adoptive:path.adoptive||kind==='adoptive'});
+          queue.push(parent);
         }
       }
     }
-    ancestryCache.set(id, distances); return distances;
+    ancestryCache.set(id, distances); pathKindsCache.set(id,pathKinds); return distances;
   }
   const ordinal = n => `${n}${n % 100 >= 11 && n % 100 <= 13 ? 'th' : ({1:'st',2:'nd',3:'rd'}[n % 10] || 'th')}`;
   const gender = (id, male, female, neutral) => P[id]?.x === 'M' ? male : P[id]?.x === 'F' ? female : neutral;
@@ -116,7 +121,11 @@ export function createRelationships(P, ROOT, rootLabel = 'Rachel') {
     if (!has(id) || !has(ROOT)) return {label:'Relationship not determined',kind:'unknown'};
     if (spouses.get(ROOT)?.has(id)) return {label:gender(id,'Husband','Wife','Spouse'),kind:'spouse',distance:1};
     const direct = blood(ROOT,id);
-    if (direct) return {...direct,label:direct.text};
+    if (direct) {
+      const path=pathKindsCache.get(ROOT)?.get(id);
+      const prefix=direct.kind==='ancestor'?(path?.adoptive?'Adoptive ':path?.birth?'Birth ':''):'';
+      return {...direct,label:prefix?prefix+direct.text.toLowerCase():direct.text};
+    }
     const candidates = [];
     for (const spouse of spouses.get(id) || []) {
       const relative = blood(ROOT,spouse);

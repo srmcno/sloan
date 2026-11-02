@@ -48,12 +48,13 @@ window.ArchiveTree = (() => {
       function place(id,g,path){
         if(!people[id]||path.has(id))return null;
         const next=new Set([...path,id]),p=people[id];
-        const parents=g<generations-1?[p.f,p.m].filter(id=>id&&people[id]&&!next.has(id)):[];
-        const ancestors=parents.map(id=>place(id,g+1,next)).filter(Boolean);
+        const parentLinks=[{id:p.f,kind:p.parentKinds?.f},{id:p.m,kind:p.parentKinds?.m},...(Array.isArray(p.otherParents)?p.otherParents:[])].filter(link=>link.id&&people[link.id]&&!next.has(link.id));
+        const parents=g<generations-1?parentLinks:[];
+        const ancestors=parents.map(link=>{const node=place(link.id,g+1,next);if(node)node.parentKind=link.kind;return node;}).filter(Boolean);
         const y=ancestors.length?(ancestors[0].y+ancestors.at(-1).y)/2:leaves++*(CH+GAP)+16;
         const node={id,x:g*GX+16,y};items.push(node);maxGeneration=Math.max(maxGeneration,g);
         ancestors.forEach(parent=>links.push(`M${node.x+CW} ${y+CH/2} C${node.x+CW+28} ${y+CH/2},${parent.x-28} ${parent.y+CH/2},${parent.x} ${parent.y+CH/2}`));
-        if(!parents.length&&(p.f||p.m)&&g===generations-1)more.push(node);
+        if(!parents.length&&parentLinks.length&&g===generations-1)more.push(node);
         return node;
       }
       place(focus,0,new Set());
@@ -61,7 +62,8 @@ window.ArchiveTree = (() => {
       stage.style.width=dims.W+'px';stage.style.height=dims.H+'px';
       stage.innerHTML=`<svg width="${dims.W}" height="${dims.H}" aria-hidden="true"><path d="${links.join(' ')}"/></svg>`+items.map(node=>{
         const info=getCard(node.id),initials=info.name.split(/\s+/).map(w=>w[0]).slice(0,2).join('');
-        return `<button type="button" class="pc${node.id===focus?' focus':''}${node.id===selected?' sel':''}${info.evidence==='lead'?' lead':''}" style="left:${node.x}px;top:${node.y}px;--person-color:${esc(info.color||'var(--accent)')}" data-id="${esc(node.id)}"${info.selectable===false?' disabled':''}>${info.image?`<img class="tree-avatar" src="${esc(info.image)}" alt="" loading="lazy">`:`<span class="tree-avatar">${esc(initials)}</span>`}<span class="tree-card-copy"><span class="tree-name">${esc(info.name)}</span><span class="tree-years"><i class="tree-evidence ${esc(info.evidence||'')}"></i>${esc(info.years||'Dates not recorded')}</span></span>${info.stories?`<span class="tree-story-count" aria-label="${info.stories} linked ${info.stories===1?'story':'stories'}">${info.stories}</span>`:''}</button>`;
+        const role=node.parentKind==='adoptive'?'Adoptive parent':node.parentKind==='birth'?'Birth parent · family reported':'';
+        return `<button type="button" class="pc${node.id===focus?' focus':''}${node.id===selected?' sel':''}${info.evidence==='lead'?' lead':''}" style="left:${node.x}px;top:${node.y}px;--person-color:${esc(info.color||'var(--accent)')}" data-id="${esc(node.id)}"${info.selectable===false?' disabled':''}>${info.image?`<img class="tree-avatar" src="${esc(info.image)}" alt="" loading="lazy">`:`<span class="tree-avatar">${esc(initials)}</span>`}<span class="tree-card-copy"><span class="tree-name">${esc(info.name)}</span><span class="tree-years"><i class="tree-evidence ${esc(info.evidence||'')}"></i>${esc(role||info.years||'Dates not recorded')}</span></span>${info.stories?`<span class="tree-story-count" aria-label="${info.stories} linked ${info.stories===1?'story':'stories'}">${info.stories}</span>`:''}</button>`;
       }).join('')+more.map(node=>`<button type="button" class="archive-tree-more" style="left:${node.x+CW+8}px;top:${node.y+CH/2-22}px" data-earlier="${esc(node.id)}" aria-label="Show ${esc(getCard(node.id).name)}'s parents">›</button>`).join('');
       container.querySelector('.archive-tree-trail').innerHTML=trail.map((id,i)=>i===trail.length-1?`<span aria-current="location">${esc(getCard(id).name)}</span>`:`<button type="button" data-trail="${i}">${esc(getCard(id).name)}</button><span aria-hidden="true">›</span>`).join('');
       container.querySelector('.archive-tree-depth select').value=String(generations);

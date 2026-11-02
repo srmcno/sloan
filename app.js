@@ -11,7 +11,7 @@ document.querySelectorAll('[data-site-title]').forEach(el=>el.textContent=SITE.t
 document.querySelector('.skip').onclick=e=>{e.preventDefault();document.querySelector('#main').focus()};
 let features=null;
 const P=T.people, ROOT=T.root, $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const {createRelationships}=await import('./relationships.js?v=20261102b');
+const {createRelationships}=await import('./relationships.js?v=20261102d');
 const relations=createRelationships(P,ROOT,SITE.rootName||'You');
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const EVT={proven:'An original record names it',probable:'A good secondary source that agrees with the records',lead:'Not proven; treat with care'};
@@ -142,7 +142,7 @@ let personFocus=null;
 function openPerson(id){const p=P[id];if(!p)return;if(!$('#panel').classList.contains('on'))personFocus=document.activeElement;$('#panel').inert=false;$('#panel').setAttribute('aria-hidden','false');sel=id;treeView.select(id);
   const facts=[];if(p.virtual)facts.push(['','The starting point for every relationship on this site.']);else if(!p.lv){if(p.b||p.bp)facts.push(['Born',[p.b,p.bp].filter(Boolean).join(', ')]);if(p.d||p.dp)facts.push(['Died',[p.d,p.dp].filter(Boolean).join(', ')])}else facts.push(['','Details are private for living people.']);
   const evTxt={proven:'Proven in records',probable:'Probable',lead:'Lead: not proven',tree:'From the Ancestry tree, not yet checked'}[p.ev||'tree'];
-  const parents=[p.f,p.m].filter(Boolean),sps=p.sp||[],kids=p.ch||[],sibs=siblings(id),sts=storiesFor(id);
+  const parents=[{id:p.f,kind:p.parentKinds?.f},{id:p.m,kind:p.parentKinds?.m},...(Array.isArray(p.otherParents)?p.otherParents:[])].filter(link=>link.id&&P[link.id]),sps=p.sp||[],kids=p.ch||[],sibs=siblings(id),sts=storiesFor(id);
   $('#pin').innerHTML=`<button class="x" id="px" aria-label="Close">✕</button>
    <div class="ptop">${av(p)}<div><h3>${esc(p.n)}</h3><div class="rel">${esc(relName(id))}</div><div class="rel"><i class="ev ${p.ev}"></i>${evTxt}</div></div></div>
    ${sts.length?`<div class="pstories">${sts.map(s=>`<a href="#/story/${s.id}"><span class="im" style="${cardImg(s)?`background-image:url('${restored(cardImg(s))}')`:''}"></span><span><b>${esc(s.title)}</b><span>${s.profile?'Read the family profile':'Read the story'} · ${s.ev}</span></span></a>`).join('')}</div>`:''}
@@ -153,7 +153,7 @@ function openPerson(id){const p=P[id];if(!p)return;if(!$('#panel').classList.con
    ${features?.relationship(id)||''}
    <div class="pactions"><button class="btn" data-copy-link="${esc(new URL('#/person/'+encodeURIComponent(id),location.href).href)}">Copy profile link</button><p class="link-status" role="status"></p><a class="btn" href="#/tree/${id}">Show tree from ${esc((p.g||p.n).split(' ')[0])}</a></div>
    ${(p.ph||[]).length?`<h4>Photos and records</h4><div class="thumbs">${p.ph.map(ph=>`<button data-lb="${phSrc(ph)}" data-cap="${esc(ph.c||p.n)}"><img src="${phThumb(ph)}" alt="${esc(ph.c||p.n)}" loading="lazy"></button>`).join('')}</div>`:''}
-   ${parents.length?`<h4>Parents</h4><div class="fam">${parents.map(x=>famBtn(x)).join('')}</div>`:''}
+   ${parents.length?`<h4>Parents</h4><div class="fam">${parents.map(x=>famBtn(x.id,x.kind==='adoptive'?'Adoptive parent':x.kind==='birth'?'Birth parent · family reported':'')).join('')}</div>`:''}
    ${sps.length?`<h4>Spouses</h4><div class="fam">${sps.map(x=>famBtn(x)).join('')}</div>`:''}
    ${kids.length?`<h4>Children</h4><div class="fam">${kids.map(x=>famBtn(x)).join('')}</div>`:''}
    ${sibs.length?`<h4>Brothers and sisters</h4><div class="fam">${sibs.map(x=>famBtn(x,(P[x].f===p.f&&P[x].m===p.m)?'':'half-sibling')).join('')}</div>`:''}`;

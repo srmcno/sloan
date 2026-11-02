@@ -43,7 +43,7 @@ window.ArchiveFeatures = (() => {
     const graph=new Map(Object.keys(people).map(id=>[id,[]]));
     function edge(a,b,label){if(graph.has(a)&&graph.has(b)&&a!==b)graph.get(a).push({id:b,label});}
     for(const [id,p] of Object.entries(people)){
-      for(const [parent,label] of [[p.f,'Father'],[p.m,'Mother']])if(parent){edge(id,parent,label);edge(parent,id,p.x==='M'?'Son':p.x==='F'?'Daughter':'Child');}
+      for(const [parent,label,kind] of [[p.f,'Father',p.parentKinds?.f],[p.m,'Mother',p.parentKinds?.m],...(Array.isArray(p.otherParents)?p.otherParents.map(link=>[link.id,'Parent',link.kind]):[])])if(parent){const prefix=kind==='adoptive'?'Adoptive ':kind==='birth'?'Birth ':'';const child=p.x==='M'?'Son':p.x==='F'?'Daughter':'Child';edge(id,parent,prefix?prefix+label.toLowerCase():label);edge(parent,id,prefix?prefix+child.toLowerCase():child);}
       for(const spouse of p.sp||[]){edge(id,spouse,'Spouse');edge(spouse,id,'Spouse');}
     }
     function relationship(target){
@@ -52,7 +52,7 @@ window.ArchiveFeatures = (() => {
       while(at<queue.length&&!previous.has(target)){const id=queue[at++];for(const next of graph.get(id)||[])if(!previous.has(next.id)){previous.set(next.id,{from:id,label:next.label});queue.push(next.id);}}
       if(!previous.has(target))return '<p class="archive-path-note">No connecting relationship path is recorded in this tree.</p>';
       const chain=[];let id=target;while(id!==root){const step=previous.get(id);chain.unshift({id,label:step.label});id=step.from;}chain.unshift({id:root,label:'Starting family'});
-      return `<details class="archive-relationship"><summary>How this person connects to ${esc(personInfo(root).name)}</summary><ol>${chain.map(step=>`<li><span>${esc(step.label)}</span><strong>${esc(personInfo(step.id).name)}</strong></li>`).join('')}</ol><p>Follows the relationships recorded in this tree; evidence labels still apply.</p></details>`;
+      return `<details class="archive-relationship"><summary>How this person connects to ${esc(personInfo(root).name)}</summary><ol>${chain.map(step=>`<li><span>${esc(step.label)}</span><strong>${esc(personInfo(step.id).name)}</strong></li>`).join('')}</ol><p>Follows recorded family relationships, which may include adoption; a family connection does not by itself establish shared DNA. Evidence labels still apply.</p></details>`;
     }
 
     // One searchable index; profile details for living people come from the site's safe display adapter.
