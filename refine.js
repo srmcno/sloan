@@ -4,6 +4,8 @@
 (() => {
   const icon = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>';
   let uid = 0;
+  const updaters = [];
+  const updateAll = () => updaters.forEach(u => u());
 
   function activeCount(scope) {
     let n = 0;
@@ -31,8 +33,7 @@
       const open = target.classList.toggle(collapsedClass) === false;
       b.setAttribute('aria-expanded', String(open));
     });
-    countScope().addEventListener('click', () => setTimeout(update, 0));
-    countScope().addEventListener('change', update);
+    updaters.push(update);
     target.classList.add(collapsedClass);
     update();
     return b;
@@ -65,10 +66,20 @@
     }
   }
 
+  // Filters also change outside their panels (Clear filters, links that open a topic),
+  // so recount every badge after any click, change or navigation.
+  const later = () => setTimeout(updateAll, 60);
+  document.addEventListener('click', later, true);
+  document.addEventListener('change', later, true);
+  window.addEventListener('hashchange', later);
+
   const start = () => {
     enhance();
     new MutationObserver(() => enhance()).observe(document.body, { childList: true, subtree: true });
+    // The app may apply a filter from the address after the controls exist.
+    [300, 1200].forEach(ms => setTimeout(updateAll, ms));
   };
+  window.addEventListener('load', later);
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);
   else start();
 })();
