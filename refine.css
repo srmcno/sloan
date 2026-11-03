@@ -1,0 +1,50 @@
+/* Refinements shared by all three archives: lighter hero framing, compact cards and
+   collapsible filters on phones, a one-row reading toolbar. Loaded last. */
+
+/* Hero: show the blurred photograph behind the picture instead of near-black bars. */
+.slide .bg{filter:blur(26px) brightness(.82) saturate(1.08)}
+.slide img{filter:drop-shadow(0 6px 18px rgba(0,0,0,.18))}
+
+/* Images settle in instead of popping. */
+@media (prefers-reduced-motion:no-preference){
+  .gallery-image img,.card .ph,.gcard .ph,.scard .im{animation:refine-fade .45s ease both}
+  @keyframes refine-fade{from{opacity:0}to{opacity:1}}
+}
+
+/* Filter toggle (phones only; hidden on wider screens). */
+.filter-toggle{display:none}
+@media (max-width:700px){
+  .filter-toggle{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:9px 14px;border:1px solid var(--rule);border-radius:999px;background:var(--sheet);color:var(--ink);font:500 14px/1.2 var(--sans);cursor:pointer}
+  .filter-toggle svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round}
+  .filter-toggle .count{min-width:20px;height:20px;padding:0 6px;border-radius:999px;background:var(--accent);color:var(--sheet);font-size:12px;font-weight:600;display:inline-flex;align-items:center;justify-content:center}
+  .filter-toggle .count:empty{display:none}
+  .filter-toggle[aria-expanded=true]{border-color:var(--accent);color:var(--accent)}
+  .refine-collapsed .gallery-filter-group,
+  .timeline-tools.refine-collapsed>label:not(:first-child),
+  .refine-stories-collapsed .story-options{display:none!important}
+  .gallery-controls .filter-toggle{margin:10px 0 2px}
+  .refine-toggle-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:10px 0 4px}
+}
+
+/* Grandparent cards: side-by-side portrait and text on phones (was a full-width square). */
+@media (max-width:520px){
+  .gcard{flex-direction:row;align-items:stretch}
+  .gcard .ph{flex:0 0 116px;aspect-ratio:auto;min-height:150px;font-size:30px;background-position:center 20%}
+  .gcard .side{left:6px;top:6px;font-size:10.5px;padding:2px 7px}
+  .gcard .bd{padding:12px 14px 14px}
+  .gcard h3{font-size:19px}
+  .gcard p{font-size:15px;margin-bottom:10px;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+  .gcard .acts .btn{padding:6px 10px;font-size:13.5px;min-height:38px}
+}
+
+/* Story reading toolbar: one tidy row of actions on phones; printing is a desktop task. */
+@media (max-width:600px){
+  .readtools{gap:6px}
+  .readtools .btn{padding:8px 11px;font-size:13.5px;min-height:40px;white-space:nowrap}
+  #printStory{display:none}
+}
+
+/* Comfortable reading measure and rhythm in story bodies. */
+.story .bd p,.story>p{text-wrap:pretty}
+.story h1,.story h2{text-wrap:balance}
+.home-section-head h2,.lede h2,.head h1{text-wrap:balance}
