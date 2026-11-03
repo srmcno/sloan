@@ -1551,12 +1551,14 @@
   {
    "id": "edmond",
    "side": "J",
-   "gen": 10,
+   "gen": 5,
    "ev": "proven",
    "title": "Killed in France, 1918",
    "hook": "A runner in the Choctaw Code Talkers' regiment, awarded the Croix de Guerre.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-012"
+   ],
    "subject": {
     "name": "Pvt. Edmond Tims",
     "rel": "Paternal family history",
@@ -2710,7 +2712,7 @@
     "On 29 May 1847 he bought the Dancing Rabbit Creek treaty allotment of Henry Graves, \"son of Chief Netachachie,\" one of the three district chiefs whose marks appear on the 1837 treaty. That December the Washington (Arkansas) Telegraph reported that \"Jos. R. Berthelet and Vincent B. Tims of the Choctaw Nation\" were invited within the bar at the Red River Raft Convention, which pressed Congress to clear the great logjam that blocked steamboats on the Red River.",
     "He and his full-blood Choctaw wife stayed at Doaksville the rest of their lives. Family accounts say Vincent died at Doaksville in June 1864, while Confederate troops held Fort Towson a mile away, but he was still signing letters as the Confederate postmaster there on 9 September and 1 November 1864 (see \"A postmaster's letters, August to November 1864\").",
     "The trader's origins, in the one local history that traces him, are modest: 'Born in South Carolina, V.B. Tims is said to be of Irish descent.' He came to the Doaksville area with Josiah Doak in the early 1830s. In March 1843 he ran an office there for letters to the Agent for Claims, and in February 1844 the partnership with Doak was dissolved 'by mutual agreement,' after which he kept the business on his own. One of the firm’s unpaid store accounts, for 1840 to 1844, was still being pursued in 1848 and reached the Supreme Court of Texas; that case is told in “Doak & Tims in the Texas Supreme Court, 1849.”",
-    "Three of his children are known by name: Vinson W. (born 1838), Edward Ward (born 1842) and a daughter, Phoebe, who died before final enrollment. His grandson Joel said that 'Venson Brown Tims' was the first postmaster at Doaksville and that Edward succeeded him on his death. The postmaster rolls show Edward appointed on 24 October 1887 and a 'V. B. Tims' on 17 May 1871, seven years after the family date of Vincent's death. Local history says that in 1861 he was 'designated' to be Indian Agent for the Choctaws had the Confederacy won, but this rests on one source.",
+    "Three of his children are known by name: Vinson W. (born 1838), Edward Ward (born 1842) and a daughter, Phoebe, who died before final enrollment. His great-grandson Joel Thompson said that 'Venson Brown Tims' was the first postmaster at Doaksville and that Edward succeeded him on his death. The postmaster rolls show Edward appointed on 24 October 1887 and a 'V. B. Tims' on 17 May 1871, seven years after the family date of Vincent's death. Local history says that in 1861 he was 'designated' to be Indian Agent for the Choctaws had the Confederacy won, but this rests on one source.",
     "An 1891 sketch of William Gardner, a Choctaw merchant born in 1830, says that \"after he had been to work for E. B. Tims, the sutler at Doaksville,\" he opened his own store at Hamilton, in Blue County (O'Beirne, Leaders and Leading Men of the Indian Territory, p. 124). The book prints the initials \"E. B.\" rather than \"V. B.,\" but the trade and the town point to the Doaksville trader, so this is probably Vincent.",
     "Two more records show him as a man of business. A New Orleans commission house advertising in the Washington (Arkansas) Telegraph of 10 December 1845 named \"Doak & Tims, Doaksville, C. Nation\" among its references, next to Maj. William Armstrong of the Choctaw Agency. And a list of stockholders in the Cairo & Fulton Railroad Company of Arkansas, to June 1854, includes \"V. B. Tims, Choctaw Nation,\" with 10 shares at $25 each, among other Choctaw Nation stockholders; the road was chartered to link Cairo, on the Mississippi, with Fulton on the Red River.",
     "The signed army contracts behind the thirteen-cents-a-ration figure are printed in House Report No. 271 (1843): contracts nos. 41 and 42 of 1 January 1838 and no. 44 of 1 January 1839, each naming \"Doak & Tims.\" They are told under \"Thirteen cents a ration.\"",
@@ -3103,7 +3105,9 @@
    "title": "Postmaster and judge of Doaksville",
    "hook": "Vinson's brother was a Towson County judge and Doaksville's postmaster, and he was considered for Principal Chief.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-010"
+   ],
    "subject": {
     "name": "Judge Edward Ward Tims",
     "rel": "Paternal family history",
@@ -4826,7 +4830,9 @@
    "title": "Betsy's brother on Merchants Row",
    "hook": "Betsy's brother sat in the Choctaw Council, and in 1937 he described his grandfather's store at Doaksville, in front of the old rock jail.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-005"
+   ],
    "subject": {
     "name": "James Brown \"Jimmie\" Tims",
     "rel": "Paternal family history",
@@ -5582,7 +5588,9 @@
    "title": "A circuit preacher near Idabel",
    "hook": "Betsy's brother preached for forty years in the Choctaw country, and a memoir written by his nephew in 1944 names his parents as Vincent and Emiline Tims.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-009"
+   ],
    "subject": {
     "name": "Rev. Robert James Tims",
     "rel": "Paternal family history",
@@ -6080,7 +6088,9 @@
    "title": "Sworn at Tuskahoma: Willie Tims on her marriage, 1902",
    "hook": "In December 1902 Willie J. Tims told the Dawes Commission she had lived sixteen years in the Choctaw Nation and had married Edward Tims near Doaksville in 1888.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-011"
+   ],
    "subject": {
     "name": "Willie Jane (Maxwell) Tims",
     "rel": "Paternal family history",
@@ -6179,7 +6189,9 @@
    "title": "Mitchell and Mildred Tims: a card with a red line",
    "hook": "Betsy's brother Mitchell and his full-blood wife Mildred are on Dawes Card 850, where a red line runs through the name of their baby daughter Else.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-006"
+   ],
    "subject": {
     "name": "Mitchell Tims",
     "rel": "Paternal family history",
@@ -6253,7 +6265,9 @@
    "title": "A letter to the Principal Chief about a baby who had died",
    "hook": "Willie Tims, Betsy's brother, was enrolled with his wife Mary and a baby son in 1901; in 1905 he had to correct the rolls for a second baby who had died.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-007"
+   ],
    "subject": {
     "name": "Willie Tims and Mary (Lewis) Tims",
     "rel": "Paternal family history",
@@ -6376,7 +6390,9 @@
    "title": "Joseph W.: a sworn birth in 1905, and Emeline the midwife again",
    "hook": "Joseph and Betsy's son Joseph W. was born on 5 March 1903 and enrolled under the 1905 act; his grandmother Emeline Tims swore to his birth, as she had for Simon.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-001"
+   ],
    "subject": {
     "name": "Joseph W. Thompson",
     "rel": "Paternal family history",
@@ -6439,7 +6455,9 @@
    "title": "One man, two names: William Harrison Pisachubbe enrolled twice",
    "hook": "A boys' school list in 1899 put \"Harrison Pisachubbe\" on the Choctaw rolls, and he was already there as William H. In 1911 the Interior Department sorted it out.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-013"
+   ],
    "subject": {
     "name": "William Harrison Pisachubbe",
     "rel": "Paternal family history",
@@ -6685,7 +6703,9 @@
    "title": "\"Rosey Ann Tims\": a notary's letter and a grandmother who delivered the babies",
    "hook": "Betsy's sister Rosie married James Wilson. In October 1900 a Doaksville notary wrote to the Dawes Commission to say who she was, and her mother Emeline attended her children's births.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-008"
+   ],
    "subject": {
     "name": "Rosanna \"Rosie\" (Tims) Wilson",
     "rel": "Paternal family history",
@@ -6756,12 +6776,14 @@
   {
    "id": "choc-james-austin",
    "side": "J",
-   "gen": 10,
+   "gen": 5,
    "ev": "proven",
    "title": "The boy who died before the roll was taken",
    "hook": "Born 15 November 1898, dead by April 1899, and still on a federal roll until 1904 when the Department struck him off.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-015"
+   ],
    "subject": {
     "name": "James Austin",
     "rel": "Paternal family history",
@@ -6815,12 +6837,14 @@
   {
    "id": "choc-adline-austin",
    "side": "J",
-   "gen": 10,
+   "gen": 5,
    "ev": "proven",
    "title": "A baby on a card that was nearly closed",
    "hook": "Born 5 August 1900, a year after her family applied, and added by a letter and an affidavit signed with two marks.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-014"
+   ],
    "subject": {
     "name": "Adline (Austin) Pisachubbe",
     "rel": "Paternal family history",
@@ -8389,7 +8413,9 @@
    "title": "The oldest of the ten Hulsey children",
    "hook": "Eldest of ten, he was about six at the 1910 census and about thirty when his father died.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-016"
+   ],
    "subject": {
     "name": "William Roy Hulsey",
     "rel": "Paternal family history",
@@ -8436,7 +8462,9 @@
    "title": "John Wesley, the second son",
    "hook": "The second son, three years old at the 1910 census in Garland County.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-017"
+   ],
    "subject": {
     "name": "John Wesley Hulsey",
     "rel": "Paternal family history",
@@ -8479,7 +8507,9 @@
    "title": "Noah, the brother between Wesley and Oscar",
    "hook": "Third of ten, born 1908, the baby of the 1910 census household.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-018"
+   ],
    "subject": {
     "name": "Noah Hulsey",
     "rel": "Paternal family history",
@@ -8522,7 +8552,9 @@
    "title": "Fred, the brother born in 1913",
    "hook": "Born in 1913, he was seven when the family counted six children at home in Oklahoma.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-019"
+   ],
    "subject": {
     "name": "Fred Hulsey",
     "rel": "Paternal family history",
@@ -8561,7 +8593,9 @@
    "title": "Ruby Ellen, who became a Stipe",
    "hook": "The first Hulsey daughter, born 1915 and married to a Stipe.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-020"
+   ],
    "subject": {
     "name": "Ruby Ellen (Hulsey) Stipe",
     "rel": "Paternal family history",
@@ -8600,7 +8634,9 @@
    "title": "Grady, born the year of the draft card",
    "hook": "Born in 1918, the year his father was building Camp Pike.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-021"
+   ],
    "subject": {
     "name": "Grady Hulsey",
     "rel": "Paternal family history",
@@ -8635,7 +8671,9 @@
    "title": "A gunshot near his mother's farm, January 1948",
    "hook": "Louis Daniel Hulsey, 27, a World War II veteran and timber worker, was found dead near Mena, Arkansas, on 13 January 1948; the certificate gives suicide.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-022"
+   ],
    "subject": {
     "name": "Louis Daniel Hulsey",
     "rel": "Paternal family history",
@@ -8687,7 +8725,9 @@
    "title": "Grace Irene, who became a Dunagan",
    "hook": "Born 1923 and married a Dunagan; one of the two sisters in her brother's 1982 obituary, unless she had died.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-023"
+   ],
    "subject": {
     "name": "Grace Irene (Hulsey) Dunagan",
     "rel": "Paternal family history",
@@ -8726,7 +8766,9 @@
    "title": "George Paul, the last child",
    "hook": "The youngest of the ten, nine or ten when his father died.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-024"
+   ],
    "subject": {
     "name": "George Paul Hulsey",
     "rel": "Paternal family history",
@@ -12496,7 +12538,14 @@
    "title": "Parsis's brothers stayed home",
    "hook": "Five of Daniel and Vashti O'Neal's sons and their youngest daughter lived out their lives in or near Gibson County, Indiana, while Parsis and Mary went west.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-033",
+    "xf2-034",
+    "xf2-035",
+    "xf2-036",
+    "xf2-037",
+    "xf2-038"
+   ],
    "subject": {
     "name": "The O'Neal brothers of Gibson County",
     "rel": "Paternal family history",
@@ -12526,7 +12575,9 @@
    "title": "A hundred years from Indiana to Oklahoma",
    "hook": "Parsis's oldest sister married three times, raised her children in Arkansas, and was feted at 100 by the Tuttle Times.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-032"
+   ],
    "subject": {
     "name": "Mary Elizabeth (O'Neal) Farris Rinker Wilson",
     "rel": "Paternal family history",
@@ -12557,12 +12608,19 @@
   {
    "id": "sd-katie-siblings",
    "side": "J",
-   "gen": 10,
+   "gen": 4,
    "ev": "probable",
    "title": "Seven children in the 1910 census",
    "hook": "The 1910 census at Danville, Arkansas, lists Katie, the baby, with six older brothers and sisters born in Indiana, Texas and Oklahoma.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-026",
+    "xf2-027",
+    "xf2-028",
+    "xf2-029",
+    "xf2-030",
+    "xf2-031"
+   ],
    "subject": {
     "name": "Katie Stevenson's brothers and sisters",
     "rel": "Paternal family history",
@@ -13499,12 +13557,14 @@
   {
    "id": "bennie-1947",
    "side": "J",
-   "gen": 10,
+   "gen": 3,
    "ev": "probable",
    "title": "Killed on his bicycle, July 1947",
    "hook": "Bennie George Hulsey, 13, turned in front of a pickup truck west of Hugo and died within the hour.",
    "profile": false,
-   "people": [],
+   "people": [
+    "xf2-025"
+   ],
    "subject": {
     "name": "Bennie George Hulsey and the pickup truck",
     "rel": "Paternal family history",
@@ -18468,6 +18528,245 @@
    ],
    "imgs": [],
    "note": "Mrs. Alfred is identified with Nona Alford only by inference from place and the later spelling. Mrs. Joe Harrison and Gordon Kilgore are named in one notice each and are otherwise unidentified; Mrs. Harrison is not entered in the tree. The son named in the notice is not named here."
+  },
+  {
+   "id": "gardner-blue-county-1891",
+   "side": "J",
+   "gen": 10,
+   "ev": "lead",
+   "title": "Which Gardner was Eunice's brother? Five sketches from 1891",
+   "hook": "An 1891 book prints sketches of five Choctaw men named Gardner. Only one names his father as Jackson Gardner, the name on Eunice Pisachubbe's Dawes card, and the book never connects him to her.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "Gardner men of Blue County in the 1891 sketches",
+    "rel": "Paternal family history",
+    "years": "b. 1830–1851 · sketches of 1891"
+   },
+   "body": [
+    "Eunice Pisachubbe's Dawes card, made out at Goodland on 10 May 1899, names her parents as Jackson and Viney Gardner, both dead, of Blue County. No other record of them has turned up. One place to look is H. F. O'Beirne's Leaders and Leading Men of the Indian Territory (1891), the same volume that prints Joseph P. Thompson's sketch on page 162. Its first volume has sketches of five Choctaw men named Gardner, and they do not share a father.",
+    "Josiah Gardner (page 67) was born at Wheelock in 1851, went to neighborhood schools until he was fifteen and lived with his parents until 1871, when he began farming for himself. At twenty-one he married Elizabeth Beajis, who was part Cherokee and lived three years. In 1877 he married Sallie Thunley, a Choctaw, and had no family by her. The sketch calls him \"a fourth son of Jackson Gardner, of the Oklafalaya clan\" and says he was a lawyer who practiced in the Choctaw courts. Eunice's card puts her birth about 1850, a year before Josiah's. If the two Jacksons are one man, Josiah would be her brother or half-brother.",
+    "James W. Gardner (page 93) was born in Blue County, Choctaw Nation, in 1849, if the scan's \"18i9\" is read that way, which is the reading that fits his 1870 marriage. His father died while James was a child, so he stayed home to look after his widowed mother and never had schooling. In 1870 he married Emily Cornwell, the widow of Wm. Lawson, and by 1891 he had a four-hundred-acre farm near Wynne Wood (now Wynnewood), about thirteen hundred head of cattle, part of the town site and four children. His father is not named. A Blue County birth, a father dead early and a widowed mother are all consistent with a Gardner household whose parents were both dead by 1899, but they are consistent with many households.",
+    "The other three can be set aside as sons of Jackson. William Gardner (page 124), born in 1830 on the Tombigbee River in Mississippi (the scan prints \"Tom Bigby\"), names his father as Jeremiah Gardner and his mother as Clarissa La Flore, and says the family reached Towson County in 1833. Judge G. W. (Green) Gardner (page 141), born at Little River in January 1844 (the scan reads \"18-14\"), was also a son of Jeremiah, \"who came to the Indian Territory in 1833.\" Judge Jeff. Gardner (page 174 by the book's index), born near Wheelock, was the eldest son of \"Noll Gardner,\" at one time an interpreter for the missionaries; John Bartlett Meserve's 1941 life of him, as Principal Chief from October 1894, names his parents as Noel and Hannah Gardner, mixed-blood Choctaws from Mississippi, and gives his birth near Wheelock on 12 July 1847 from his tombstone. Wheelock thus had at least two Gardner households in these years, Noel's and Jackson's. William's sketch also mentions a Tims: before he opened his own store at Hamilton, in Blue County, he worked for \"E. B. Tims, the sutler at Doaksville,\" probably Vincent B. Tims (see his story).",
+    "What this does not show matters as much. The book is the only source here, every sketch is the man's own account, and it never links Jackson Gardner to Viney, to Blue County or to a daughter Eunice. Wheelock was a mission and academy, and the sketch does not say which county it lay in. A. D. Hefley's account of the Tobucksy County courthouse at McAlester, in the Chronicles of Oklahoma, also names a Josiah Gardner, a full-blood Choctaw lawyer who could neither read nor write; nothing seen shows whether he is the Wheelock-born Josiah. To test the lead, the next records to find are Josiah Gardner's own entries on the 1896 census and any Dawes card or probate that names his parents, and a card or probate for a Jackson Gardner of Blue County."
+   ],
+   "quotes": [
+    {
+     "t": "a fourth son of Jackson Gardner, of the Oklafalaya clan",
+     "c": "H. F. O'Beirne, Leaders and Leading Men of the Indian Territory (1891), sketch of Josiah Gardner, p. 67"
+    }
+   ],
+   "src": [
+    "H. F. O'Beirne, Leaders and Leading Men of the Indian Territory, vol. 1 (Chicago, 1891), sketches of Josiah Gardner (p. 67), James W. Gardner (p. 93), William Gardner (p. 124), Judge G. W. Gardner (p. 141) and Judge Jeff. Gardner (p. 174, by the index), read in the Internet Archive text: https://archive.org/details/leadersleadingme01obei (opened 2 Nov 2026); John Bartlett Meserve, 'Chief Benjamin Franklin Smallwood and Chief Jefferson Gardner,' Chronicles of Oklahoma 19 (1941), pp. 213-222, Gardner at pp. 216-217: https://archive.org/details/chroniclesofokla1919okla (opened 2 Nov 2026); A. D. Hefley, 'Tobucksy County Courthouse,' Chronicles of Oklahoma 48 (1970/71), p. 31: https://archive.org/details/chroniclesofokla4819okla (opened 2 Nov 2026); Dawes Card 1580 (Eunice Pisachubbe), as described in this site's story on Jackson and Viney Gardner; Oklahoma Historical Society Dawes final roll index, card 1580, index only: https://www.okhistory.org/research/dawesresults?fname=&lname=&tribe=Choctaw&rollnum=&cardnum=1580 (searched 2 Nov 2026)."
+   ],
+   "imgs": [],
+   "tags": [
+    "choctaw"
+   ],
+   "kv": [
+    [
+     "Eunice's card",
+     "Parents named as Jackson and Viney Gardner, both dead, of Blue County (Dawes Card 1580, 1899, as described in this site's Gardner story)"
+    ],
+    [
+     "Josiah Gardner",
+     "Born Wheelock, 1851; \"fourth son of Jackson Gardner\"; lawyer in the Choctaw courts (O'Beirne, p. 67)"
+    ],
+    [
+     "James W. Gardner",
+     "Born Blue County, 1849 (scan reads 18i9); father died when he was a child (O'Beirne, p. 93)"
+    ],
+    [
+     "William and Green W. Gardner",
+     "Sons of Jeremiah Gardner, not of Jackson (O'Beirne, pp. 124 and 141)"
+    ],
+    [
+     "Status",
+     "Lead: a same-name, same-region match, not a documented relationship"
+    ]
+   ],
+   "note": "Lead only. O'Beirne names a Jackson Gardner once, as the father of Josiah; no record seen connects that Jackson to Eunice's parents. Several figures in the scanned text are uncertain: James W.'s birth year, Green W.'s birth year, and the page number for Jeff. Gardner, which the book's index gives as 174 while the scanned page header reads 177. Other page numbers follow the printed headers and the index.",
+   "place": "Blue County and Wheelock, Choctaw Nation",
+   "rank": 273
+  },
+  {
+   "id": "roanoke-choctaw-students-1891",
+   "side": "J",
+   "gen": 5,
+   "ev": "probable",
+   "title": "Spencer Academy to Salem, Virginia: Joseph Thompson in company",
+   "hook": "Joseph Thompson's 1891 sketch has him at Roanoke College until 1886. Five other Choctaw men in the same book name the same college, and three of the six went there from Spencer Academy.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "Joseph Thompson and the Choctaw men who went to Roanoke",
+    "rel": "Paternal family history",
+    "years": "1870–1886"
+   },
+   "body": [
+    "Joseph Thompson's sketch in O'Beirne's Leaders and Leading Men of the Indian Territory (1891, page 162) says he was educated at Spencer Academy and at \"Mount Harmon Institute, Northfield,\" and completed his education at Roanoke College in Salem, Virginia, \"where he remained until 1886.\" He then taught school, was appointed county clerk of Cedar County in 1889 and was elected to the lower house of the Choctaw Council the next year. The only other accounts of his college years are his son Joel's memory, which gives a different order, and the 1881-82 Roanoke catalogue, which does not list him. A registrar's list from the right years has not been found.",
+    "The same volume shows he was not alone in making the trip. Jacob Jackson (page 207) was born about 1845, went to Fort Coffee Academy and, after the Civil War, to an academy at Little Rock and King's College in Tennessee, and in 1870 to Roanoke College, \"where he spent four years.\" He began practicing law in 1874, served as senator for Skullyville County and was National Secretary of the Choctaw Nation by 1889. Napoleon B. Ainsworth (page 106), born at Skullyville in 1856, entered Roanoke at fifteen, \"graduated after four years, in June, 1880,\" and won the orator's medal that year; the dates do not quite agree with each other, since four years from fifteen would be 1875. He went on to law school at the University of Virginia, served the Nation as auditor and in 1883 married Miss Emily K. Thompson at Roanoke, Virginia. Nothing in the sketch ties her to this Thompson family.",
+    "Three more followed the Spencer-to-Salem route Joseph took. Solomon E. Hotema (page 135), born near Grant in 1854, went to Spencer Academy and had his education \"completed at Roanoke College\"; he was elected Kiamichi County clerk in 1881, county judge in 1884, 1885 and 1886, representative in 1887 and senator in 1890. The Rev. William H. McKinney (pages 192-193), born in January 1861, was at Spencer until 1877, then spent five years at Roanoke, took his A.B. in 1883, went on to a divinity degree at Yale in 1886 and became a district school trustee and a Presbyterian minister. Don Juan Folsom (page 71), born in August 1866 in Atoka County, spent three years at Roanoke after Denison High School, returned to Atoka in 1884, and was elected Clerk of the House that year. His mother's maiden name was Thompson; no link to this family is known.",
+    "The pattern is the point. By 1891 a Spencer Academy education followed by college in Virginia was a recognized road to Choctaw office, and county clerk and then the House was a common first step; Hotema and Joseph both followed it. That makes Joseph's own sketch more believable. It does not confirm his years at Roanoke, which still rest on a sketch that Joseph supplied himself and on his son's memory, and the sketches of the other five are the same kind of source."
+   ],
+   "quotes": [
+    {
+     "t": "where he remained until 1886",
+     "c": "H. F. O'Beirne, Leaders and Leading Men of the Indian Territory (1891), sketch of Joseph B. Thompson, p. 162"
+    }
+   ],
+   "src": [
+    "H. F. O'Beirne, Leaders and Leading Men of the Indian Territory, vol. 1 (Chicago, 1891), sketches of Joseph B. Thompson (p. 162), Jacob Jackson (p. 207), Napoleon B. Ainsworth (p. 106), Solomon E. Hotema (p. 135), Rev. William H. McKinney (pp. 192-193) and Don Juan Folsom (p. 71), read in the Internet Archive text: https://archive.org/details/leadersleadingme01obei (opened 2 Nov 2026); Joel J. Thompson's Indian-Pioneer interview and the 1881-82 catalogue, as reported in this site's story on Joseph Perry Thompson."
+   ],
+   "imgs": [],
+   "tags": [
+    "choctaw"
+   ],
+   "kv": [
+    [
+     "Joseph Thompson",
+     "Spencer Academy; Mount Hermon (printed Mount Harmon); Roanoke College until 1886 (p. 162)"
+    ],
+    [
+     "Jacob Jackson",
+     "Roanoke College from 1870, four years (p. 207)"
+    ],
+    [
+     "Napoleon B. Ainsworth",
+     "Roanoke College, graduated June 1880 (p. 106)"
+    ],
+    [
+     "Solomon E. Hotema",
+     "Spencer Academy, then Roanoke College; Kiamichi County clerk 1881 (p. 135)"
+    ],
+    [
+     "Rev. William H. McKinney",
+     "Spencer Academy to 1877; Roanoke College, A.B. 1883 (pp. 192-193)"
+    ],
+    [
+     "Don Juan Folsom",
+     "Roanoke College three years, home in 1884 (p. 71)"
+    ]
+   ],
+   "note": "Context story. Each sketch is the man's own account printed in 1891, and the page numbers follow the book's index and printed headers. The Ainsworth dates are internally inconsistent in the text. Whether Joseph appears in a Roanoke College register for 1882-86 is still unchecked.",
+   "place": "Salem, Virginia, and the Choctaw Nation",
+   "rank": 274
+  },
+  {
+   "id": "hulsey-john-washington-mount-ida",
+   "side": "J",
+   "gen": 10,
+   "ev": "lead",
+   "title": "A Hulsey pastor at Mount Ida",
+   "hook": "A Baptist minister named Hulsey served the Mount Ida church for twenty-two years while George Washington Hulsey lived and worked in the same county. No record seen ties the two families together.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "Rev. John Washington Hulsey (1864–1944)",
+    "rel": "Paternal family history",
+    "years": "1864–1944"
+   },
+   "body": [
+    "The Chronicles of Oklahoma printed a short life of the Rev. John Washington Hulsey in 1952, in Herbert Miner Pierce's \"Baptist Pioneers in Eastern Oklahoma.\" He was born on 17 March 1864 at Arkadelphia, Arkansas, the son of Lucretia Overall Hulsey and Dr. James Carroll Hulsey, a country doctor who practiced around Cameron, Williams, Spiro, Hartshorne and Wilburton in what became Oklahoma. John had little schooling. He was converted in the summer of 1889, at twenty-five, near Bengal in Latimer County, and was ordained by the Harlan's Chapel Baptist Church on 1 September 1889. The article says he could hardly read when he began to preach.",
+    "His pastorates run through two states. In Indian Territory and Oklahoma he served Bengal, Cameron and Poteau, organized the First Baptist Church of Wilburton in 1898 and was moderator of the Short Mountain Baptist Association in 1895, 1896 and 1898. In Arkansas he served Waldron, Parks, West Hartford and Mansfield from 1908 to 1913, then Norman, Caddo Gap and Mount Ida in 1914-1917. From 1922 to 1944 he was pastor at Big Fork, Cherry Hill, Antioch and Mount Ida, and his second term at Mount Ida lasted twenty-two years, \"until his death.\" In 1919 he directed the $75 Million Campaign in Montgomery and Polk counties. He died at Little Rock on 17 November 1944, where he had gone to attend the state Baptist convention.",
+    "Why a Hulsey researcher cares is the geography. This site has George Washington Hulsey, a boy of four in the 1880 census of Montgomery County, living at Story in that county in 1918 and dying at Washita, in Montgomery County, in 1935, with his burial at Breashears Cemetery near Story. His son Louis Daniel died near Mena, in Polk County, in 1948. Mount Ida, Caddo Gap and Norman, where the Rev. John Hulsey was pastor, all lie in Montgomery County, and Big Fork, another of his churches, is in Polk County. Family usage calls George \"Rev.,\" although the census, draft and work records seen name him a laborer and farmer. One thing to rule out is that a family memory of a Hulsey preacher at Mount Ida belongs to this man and not to George; that is an idea to test, with nothing yet found to support it.",
+    "A shared surname, a shared county and the middle name Washington are not evidence of kinship. Nothing seen connects Dr. James Carroll Hulsey of Arkadelphia to Benjamin F. Hulsey, born about 1848 in Georgia, or to the Salathiel Hulsey household in Union County, Georgia, in 1850. The records that could decide it are the 1870 and 1880 censuses for Dr. Hulsey's household and for any Hulsey households near Arkadelphia, probate for Lucretia Overall Hulsey, and a death certificate for George Washington Hulsey that names his parents."
+   ],
+   "quotes": [
+    {
+     "t": "until his death",
+     "c": "Herbert Miner Pierce, \"Baptist Pioneers in Eastern Oklahoma,\" Chronicles of Oklahoma 30 (1952), on his second term at Mount Ida"
+    }
+   ],
+   "src": [
+    "Herbert Miner Pierce, 'Baptist Pioneers in Eastern Oklahoma,' Chronicles of Oklahoma 30 (Autumn 1952), pp. 279-284, sketch of John Washington Hulsey at pp. 281-283 (the article's heading prints the name 'Hudsey'; the text and the cumulative index read Hulsey): https://archive.org/details/chroniclesofokla3019okla (opened 2 Nov 2026); Wikipedia, 'Mount Ida, Arkansas,' 'Caddo Gap, Arkansas,' 'Norman, Arkansas' and 'Big Fork, Arkansas,' for the counties of his churches: https://en.wikipedia.org/wiki/Mount_Ida,_Arkansas, https://en.wikipedia.org/wiki/Caddo_Gap,_Arkansas, https://en.wikipedia.org/wiki/Norman,_Arkansas, https://en.wikipedia.org/wiki/Big_Fork,_Arkansas (opened 2 Nov 2026); George Washington Hulsey's Montgomery County residences and burial as given in this site's stories on him and on Camp Pike in 1918."
+   ],
+   "imgs": [],
+   "tags": [],
+   "kv": [
+    [
+     "Born",
+     "17 Mar 1864, Arkadelphia, Arkansas"
+    ],
+    [
+     "Parents",
+     "Dr. James Carroll Hulsey and Lucretia Overall Hulsey"
+    ],
+    [
+     "Ordained",
+     "1 Sep 1889, Harlan's Chapel Baptist Church (Latimer County)"
+    ],
+    [
+     "Mount Ida",
+     "Pastor 1914-1917 and 1922-1944"
+    ],
+    [
+     "Died",
+     "17 Nov 1944, Little Rock, at the state convention"
+    ],
+    [
+     "Status",
+     "Lead: same surname and county as the Hulseys in this tree; no link shown"
+    ]
+   ],
+   "note": "Lead only. The article is a secondary account compiled from family and church sources, and it does not mention any other Hulsey family. It draws on a daughter's recollections for some details. Do not merge this man with any Hulsey in the tree unless a record names his father and brothers.",
+   "place": "Mount Ida and Montgomery County, Arkansas; Latimer County, Oklahoma",
+   "rank": 275
+  },
+  {
+   "id": "post-offices-on-the-cards",
+   "side": "J",
+   "gen": 10,
+   "ev": "probable",
+   "title": "Where the cards were mailed: five post offices and their dates",
+   "hook": "A Dawes card gives each household a post office. The Postmaster General's dates, as compiled in 1948, show when Doaksville, Fowlerville and Alikchi opened and changed their names around the family.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "The post offices on the Thompson, Tims, Austin and Pisachubbe cards",
+    "rel": "Paternal family history",
+    "years": "1832–1904"
+   },
+   "body": [
+    "Each Dawes card of 1899 names a post office for its household: Doaksville for Joseph and Betsy Thompson (Card 1283) and for Mitchell and Willie Tims (Cards 850 and 1268), Alikchi for James B. Tims (Card 510), Fowlerville for Legion and Molsey Austin (Card 1363) and Goodland for Eunice Pisachubbe (Card 1580). George H. Shirk's list of the first post offices in Oklahoma, printed in the Chronicles of Oklahoma in 1948, gives the dates from the Postmaster General's records for most of them. Shirk warns that the list shows the offices \"on paper\" and not always as they ran on the ground.",
+    "Doaksville's office opened on 11 November 1847, when the Fort Towson office, which dated from 7 September 1832 with George C. Gooding as its first postmaster, took the Doaksville name. Shirk names Joseph R. Bertholet (the Berthelet of the Doaksville store) as the first postmaster of Doaksville, and a descendant's letter quoted in the Chronicles in 1941 says Joseph was appointed postmaster in 1847. That bears on a family memory. Joel Thompson said that \"Venson Brown Tims\" was the first postmaster at Doaksville (see the story on Vincent B. Tims), but the list gives that place to Berthelet. The two men are linked in the same year: the 1941 article says that at the Red River Raft Convention held at Clarksville, Texas, in the winter of 1847, two Doaksville citizens, Berthelet and Vincent B. Tims, \"took a prominent part,\" citing the Clarksville Northern Standard of 11 December 1847.",
+    "The office was not always open. Shirk records that it did not operate from 2 July 1866 to 28 May 1867 or from 15 September 1867 to 29 June 1869. A \"V. B. Tims\" is named as its postmaster on 17 May 1871 in the postmaster rolls, after the second reopening, and Edward Tims was appointed in 1887, as his story tells. On 12 June 1903 the name was changed back to Fort Towson, which explains the faint 1905 pencil note on Card 1283 that changes the family's address from Doaksville to \"Ft. Towson, I.T.\" Corinne's office, the one the Thompsons used after 1904, opened on 24 August 1904 with Pearl Wynn as its first postmaster.",
+    "Fowlerville was the Austin family's office. It opened on 7 July 1894 with Nathaniel M. Fowler as postmaster and was renamed Valliant on 23 June 1902, with Hosea L. Fowler as the first postmaster under the new name. Legion Austin swore to his son James's birth at Fowlerville in May 1899, his wife's 1901 affidavit for their daughter Adline was sworn there too, and the family tree gives his death at Valliant on 8 April 1903, less than a year after the change. Alikchi, the address on James Tims's card, opened on 13 July 1888 with John Wooley as postmaster, almost eleven years before he applied. Spencerville opened on 17 May 1902, and the family tree gives Joseph Thompson's death there in 1927.",
+    "Goodland, the address on Eunice Pisachubbe's card, is the one gap. The scanned list has no Goodland entry that could be found, so which office served her household in 1899 is not shown here; the Presbyterian mission settlement of that name is told in other stories."
+   ],
+   "quotes": [],
+   "src": [
+    "George H. Shirk, 'First Post Offices Within the Boundaries of Oklahoma,' Chronicles of Oklahoma 26 (1948), pp. 179-237, entries for Alikchi, Corinne, Doaksville, Fort Towson, Fowlerville, Spencerville and Valliant: https://archive.org/details/chroniclesofokla2619okla (opened 2 Nov 2026); James D. Morrison, ed., 'Notes from The Northern Standard, 1842-1849,' Chronicles of Oklahoma 19 (1941), pp. 273-274 and p. 277 n. 88: https://archive.org/details/chroniclesofokla1919okla (opened 2 Nov 2026); Dawes Cards 1283, 850, 1268, 510, 1363 and 1580 as described in this site's stories; Oklahoma Historical Society Dawes final roll index, index only: https://www.okhistory.org/research/dawesresults?fname=&lname=&tribe=Choctaw&rollnum=&cardnum=1283 (searched 2 Nov 2026)."
+   ],
+   "imgs": [],
+   "tags": [
+    "choctaw"
+   ],
+   "kv": [
+    [
+     "Doaksville",
+     "Opened 11 Nov 1847 (renamed from Fort Towson); first postmaster Joseph R. Bertholet; closed 2 Jul 1866 to 28 May 1867 and 15 Sep 1867 to 29 Jun 1869; renamed Fort Towson 12 Jun 1903"
+    ],
+    [
+     "Fowlerville",
+     "Opened 7 Jul 1894; renamed Valliant 23 Jun 1902"
+    ],
+    [
+     "Alikchi",
+     "Opened 13 Jul 1888"
+    ],
+    [
+     "Corinne",
+     "Opened 24 Aug 1904; first postmaster Pearl Wynn"
+    ],
+    [
+     "Spencerville",
+     "Opened 17 May 1902"
+    ]
+   ],
+   "note": "Place story. Shirk's list is a secondary compilation from the Postmaster General's records, and the OCR text of the volume was read; the dates are as printed there. The Berthelet spelling follows the 1941 article; Shirk prints Bertholet. The 1871 and 1887 postmaster entries are from this site's stories on Vincent and Edward Tims, which cite the postmaster rolls; they were not re-read here. The Clarksville raft convention is known here only through the 1941 article's summary of the Northern Standard; the newspaper itself was not seen.",
+   "place": "Doaksville, Fort Towson, Alikchi, Fowlerville (Valliant) and Corinne, Choctaw Nation",
+   "rank": 276
   }
  ],
  "storyAliases": {
@@ -18962,12 +19261,6 @@
   },
   {
    "y": "1809",
-   "t": "J. M. Garrison marries Patsey Cannon in Wilson County, Tennessee, on 6 December.",
-   "side": "J",
-   "story": "jmgarrison"
-  },
-  {
-   "y": "1809",
    "t": "John M. Garrison and Martha \"Patsey\" Cannon marry in Wilson County, Tennessee, on 6 December. The 1810 Warren County census, as transcribed on WikiTree, counts one slave in his household.",
    "side": "J",
    "story": "jmgarrison"
@@ -19153,34 +19446,10 @@
    "story": "wt-john-mary-satterfield"
   },
   {
-   "y": "1848",
-   "t": "The Kentucky General Assembly divorces John M. Garrison and his wife Patsey in Section 6 of Chapter 600, approved in February.",
-   "side": "J",
-   "story": "jmgarrison"
-  },
-  {
-   "y": "1848",
-   "t": "The Kentucky General Assembly dissolves the marriage of John M. Garrison and Patsey Garrison by an act printed on page 410 of the 1847-48 Acts.",
-   "side": "J",
-   "story": "jmgarrison"
-  },
-  {
    "y": "1849",
    "t": "The Texas Supreme Court decides Love v. Doak & Tims, a suit over a Doaksville store account that ran from 1840 to 1844.",
    "side": "J",
    "story": "choc-love-v-doak-tims-1849"
-  },
-  {
-   "y": "1850",
-   "t": "Nathan Moffitt's family, lately from North Carolina, is farming in Lawrence County, Arkansas.",
-   "side": "J",
-   "story": "nathan"
-  },
-  {
-   "y": "1850",
-   "t": "Nathan Moffitt is farming in Strawberry Township, Lawrence County, Arkansas, with eight children.",
-   "side": "J",
-   "story": "nathan"
   },
   {
    "y": "1850",
@@ -19455,12 +19724,6 @@
   {
    "y": "1880",
    "t": "Henry and Hannah Moffitt are farming in Randolph County, Arkansas, with Josephine and baby Jesse.",
-   "side": "J",
-   "story": "henryh"
-  },
-  {
-   "y": "1880",
-   "t": "Henry and Hannah Moffitt are starting out as farmers in Randolph County, Arkansas.",
    "side": "J",
    "story": "henryh"
   },
@@ -20093,18 +20356,6 @@
    "t": "The Chico Enterprise-Record prints the obituary of Robert Y. Shackleford, naming his sister 'Mamie Moffett' of Oklahoma.",
    "side": "J",
    "story": "sd-robert-yates"
-  },
-  {
-   "y": "1962",
-   "t": "Mary Tinsley (Shackleford) Moffitt dies in Paris, Texas, on 26 August.",
-   "side": "J",
-   "story": "marytinsley"
-  },
-  {
-   "y": "1962",
-   "t": "Mary Tinsley Moffitt dies on 26 August and is laid at Shoat Springs.",
-   "side": "J",
-   "story": "marytinsley"
   },
   {
    "y": "1971",
@@ -20765,6 +21016,66 @@
    "t": "The Cattleman reports a saddle-theft case investigated by Deputy Sheriff Lester Livesay of Brazoria County; which Lester is unresolved.",
    "side": "N",
    "story": "pearland-on-paper-1914-1950-1957"
+  },
+  {
+   "y": "1848",
+   "t": "The Kentucky General Assembly divorces John M. Garrison and his wife Patsey in Section 6 of Chapter 600 of the 1847-48 Acts (printed on page 410), approved in February.",
+   "side": "J",
+   "story": "jmgarrison"
+  },
+  {
+   "y": "1850",
+   "t": "Nathan Moffitt's family, lately from North Carolina, is farming in Strawberry Township, Lawrence County, Arkansas, with eight children.",
+   "side": "J",
+   "story": "nathan"
+  },
+  {
+   "y": "1962",
+   "t": "Mary Tinsley (Shackleford) Moffitt dies in Paris, Texas, on 26 August and is laid at Shoat Springs.",
+   "side": "J",
+   "story": "marytinsley"
+  },
+  {
+   "y": "1847",
+   "t": "The Doaksville post office is established on 11 November, renamed from Fort Towson, with Joseph R. Berthelet as its first postmaster.",
+   "side": "J",
+   "story": "post-offices-on-the-cards"
+  },
+  {
+   "y": "1894",
+   "t": "The Fowlerville post office, later Valliant, opens on 7 July; it is the address on Legion Austin's 1899 Dawes card.",
+   "side": "J",
+   "story": "post-offices-on-the-cards"
+  },
+  {
+   "y": "1903",
+   "t": "The Doaksville post office is renamed Fort Towson on 12 June.",
+   "side": "J",
+   "story": "post-offices-on-the-cards"
+  },
+  {
+   "y": "1886",
+   "t": "Joseph Thompson leaves Roanoke College in Salem, Virginia, by his own 1891 sketch; five other Choctaw men in the same book also name the college.",
+   "side": "J",
+   "story": "roanoke-choctaw-students-1891"
+  },
+  {
+   "y": "1851",
+   "t": "Josiah Gardner is born at Wheelock; his 1891 sketch calls him a fourth son of Jackson Gardner, the name on Eunice Pisachubbe's card (a lead, not a proven link).",
+   "side": "J",
+   "story": "gardner-blue-county-1891"
+  },
+  {
+   "y": "1889",
+   "t": "John Washington Hulsey, later pastor at Mount Ida, Arkansas, is ordained a Baptist minister on 1 September at Harlan's Chapel, Latimer County.",
+   "side": "J",
+   "story": "hulsey-john-washington-mount-ida"
+  },
+  {
+   "y": "1944",
+   "t": "The Rev. John Washington Hulsey of Mount Ida dies at Little Rock on 17 November while attending the Baptist state convention.",
+   "side": "J",
+   "story": "hulsey-john-washington-mount-ida"
   }
  ],
  "fixes": [
