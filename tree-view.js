@@ -76,7 +76,7 @@ window.ArchiveTree = (() => {
     function centeredZoom(factor){const r=vp.getBoundingClientRect();zoom(r.left+r.width/2,r.top+r.height/2,scale*factor);}
     container.querySelector('.archive-tree-depth select').addEventListener('change',event=>{generations=Number(event.target.value);render();});
     container.addEventListener('click',event=>{
-      if(moved>6&&event.detail>0&&event.target.closest('.archive-tree-stage'))return;
+      if(dragged&&event.detail>0&&event.target.closest('.archive-tree-stage'))return;
       const gen=event.target.closest('[data-generations]'),home=event.target.closest('[data-tree-home]'),branch=event.target.closest('[data-tree-branch]'),crumb=event.target.closest('[data-trail]'),earlier=event.target.closest('[data-earlier]'),person=event.target.closest('.pc[data-id]'),control=event.target.closest('[data-zoom]');
       const found=event.target.closest('[data-find-person]');
       if(event.target.closest('[data-tree-expand]')){fullscreen.open?collapseTree():expandTree();}
@@ -89,15 +89,51 @@ window.ArchiveTree = (() => {
       else if(person){if(fullscreen.open)collapseTree();selected=person.dataset.id;select(selected);onOpen(selected);}
       else if(control){if(control.dataset.zoom==='fit')fit();else centeredZoom(control.dataset.zoom==='in'?1.25:.8);}
     });
-    vp.addEventListener('pointerdown',event=>{if(event.target.closest('.archive-tree-zoom')||event.button>0)return;pointers.set(event.pointerId,{x:event.clientX,y:event.clientY});moved=0;if(pointers.size===2){const[a,b]=[...pointers.values()];pinch={d:Math.hypot(a.x-b.x,a.y-b.y),s:scale,tx,ty,cx:(a.x+b.x)/2,cy:(a.y+b.y)/2};}});
-    vp.addEventListener('pointermove',event=>{
-      if(!pointers.has(event.pointerId))return;const previous=pointers.get(event.pointerId),current={x:event.clientX,y:event.clientY};pointers.set(event.pointerId,current);
-      if(pointers.size===2&&pinch?.d){const[a,b]=[...pointers.values()];zoom(pinch.cx,pinch.cy,pinch.s*Math.hypot(a.x-b.x,a.y-b.y)/pinch.d,pinch);moved=20;return;}
-      const dx=current.x-previous.x,dy=current.y-previous.y;moved+=Math.abs(dx)+Math.abs(dy);if(moved>4){vp.classList.add('drag');if(!vp.hasPointerCapture(event.pointerId))vp.setPointerCapture(event.pointerId);tx+=dx;ty+=dy;apply();}
+    // Touch and mouse: a finger may wobble a little during a tap, so a drag starts only after a
+    // clear movement (larger for touch). Dragging keeps the whole movement, and a pinch follows
+    // both fingers, zooming and panning together. Double-tap on empty space zooms in.
+    let drag=null,dragged=false,lastTap=null;
+    const slop=event=>event.pointerType==='touch'?10:5;
+    function startPinch(){const[a,b]=[...pointers.values()];pinch={d:Math.hypot(a.x-b.x,a.y-b.y)||1,s:scale,tx,ty,mx:(a.x+b.x)/2,my:(a.y+b.y)/2};drag=null;}
+    function restartDrag(){const p=[...pointers.values()][0];drag=p?{x0:p.x,y0:p.y,tx0:tx,ty0:ty,on:true}:null;}
+    vp.addEventListener('pointerdown',event=>{
+      if(event.target.closest('.archive-tree-zoom')||event.button>0)return;
+      if(!pointers.size){dragged=false;moved=0;}
+      pointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
+      if(pointers.size===1)drag={x0:event.clientX,y0:event.clientY,tx0:tx,ty0:ty,on:false,slop:slop(event)};
+      else if(pointers.size===2){startPinch();dragged=true;moved=20;vp.classList.add('drag');}
     });
-    function release(event){pointers.delete(event.pointerId);if(pointers.size<2)pinch=null;if(!pointers.size)vp.classList.remove('drag');}
+    vp.addEventListener('pointermove',event=>{
+      if(!pointers.has(event.pointerId))return;
+      pointers.set(event.pointerId,{x:event.clientX,y:event.clientY});
+      if(pointers.size>=2&&pinch){
+        const[a,b]=[...pointers.values()],d=Math.hypot(a.x-b.x,a.y-b.y),mx=(a.x+b.x)/2,my=(a.y+b.y)/2;
+        zoom(pinch.mx,pinch.my,pinch.s*d/pinch.d,pinch);tx+=mx-pinch.mx;ty+=my-pinch.my;apply();return;
+      }
+      if(!drag)return;
+      const dx=event.clientX-drag.x0,dy=event.clientY-drag.y0;
+      if(!drag.on){if(Math.hypot(dx,dy)<(drag.slop||5))return;drag.on=true;dragged=true;moved=20;vp.classList.add('drag');try{vp.setPointerCapture(event.pointerId)}catch{}}
+      tx=drag.tx0+dx;ty=drag.ty0+dy;apply();
+    });
+    function release(event){
+      if(!pointers.has(event.pointerId))return;
+      const was=pointers.size;pointers.delete(event.pointerId);
+      if(was===2&&pointers.size===1){pinch=null;restartDrag();}
+      if(!pointers.size){
+        pinch=null;drag=null;vp.classList.remove('drag');
+        if(event.type==='pointerup'&&event.pointerType==='touch'&&!dragged&&!event.target.closest('.pc,button,a,input,select,summary')){
+          const now=Date.now();
+          if(lastTap&&now-lastTap.t<320&&Math.hypot(event.clientX-lastTap.x,event.clientY-lastTap.y)<30){zoom(event.clientX,event.clientY,scale*1.6);lastTap=null;}
+          else lastTap={t:now,x:event.clientX,y:event.clientY};
+        }
+      }
+    }
     vp.addEventListener('pointerup',release);vp.addEventListener('pointercancel',release);vp.addEventListener('lostpointercapture',release);
-    vp.addEventListener('wheel',event=>{if(!event.ctrlKey&&!event.metaKey)return;event.preventDefault();zoom(event.clientX,event.clientY,scale*Math.exp(-event.deltaY*.01));},{passive:false});
+    vp.addEventListener('wheel',event=>{
+      if(event.ctrlKey||event.metaKey){event.preventDefault();zoom(event.clientX,event.clientY,scale*Math.exp(-event.deltaY*.01));return;}
+      // Two-finger trackpad scrolling pans the tree when it is expanded to fill the screen.
+      if(fullscreen.open){event.preventDefault();tx-=event.deltaX;ty-=event.deltaY;apply();}
+    },{passive:false});
     vp.addEventListener('keydown',event=>{
       if(event.target!==vp)return;
       if(event.key==='+'||event.key==='='){event.preventDefault();centeredZoom(1.25);}
