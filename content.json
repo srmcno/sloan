@@ -16483,6 +16483,7 @@
     "Ida May Merry Whitfield’s 1993 obituary spends a single sentence on him: “Her younger son, Omagene Whitfield, was killed during World War II.” His sister Catherine’s obituary in 2007 lists him among her brothers who had died before her as Omagene Clinton Whitfield. The middle name was his father’s.",
     "Omagene was born on 1 January 1922 at Golden, McCurtain County. His father, O. C. “Clint” Whitfield, died in March 1941, when Omagene was nineteen. Ida then went to work at the Golden post office. When Omagene entered the Army from Oklahoma, he became a Technician Fifth Grade in the 300th Engineer Combat Battalion. His service number was 38466149.",
     "He died on 19 June 1944, thirteen days after D-Day. He has no grave. His name is on the Tablets of the Missing at the Normandy American Cemetery at Colleville-sur-Mer, the curved wall of the Garden of the Missing, on the bluff above Omaha Beach. The inscription for him reads: TEC 5, 300 ENGR COMBAT BN, OKLAHOMA.",
+    "At home the news came slowly and out of order. On 28 March 1945 the McCurtain Gazette ran a short item on its front page headed “County Man Listed As Dead, Relatives Are Not Notified.” Omagene's name had been in a War Department list released to newspapers the previous Saturday of men killed in action in Europe, but his mother, Mrs. Ida M. Whitfield of Golden, had received no such notice; the family knew only that he had been reported missing in France the previous June. Three weeks later, on 18 April, the paper printed his photograph in uniform and a fuller notice: he had been killed in action on 19 June 1944, according to a report his mother had received in March, and had been with the Army engineers since February 1942. It listed his survivors as his mother, his brother Louis O. Whitfield of Tulsa, his sisters Mrs. Elma Mae Henry and Miss Oudia Whitfield of Golden, his grandmothers Mrs. W. F. Whitfield of Golden and Mrs. Bessie Kernell of Glover, and an aunt, Mrs. J. B. Greenfield of Idabel. His mother had received his Purple Heart.",
     "The date and unit point to a single event. On 19 June 1944 the tank landing ship LST-523 struck a mine off the Normandy beaches and sank. The Navy’s Dictionary of American Naval Fighting Ships records only that she was “sunk by an enemy mine” that day. Accounts of the 300th Engineers say the battalion was aboard, and one compiled account says the explosion split the ship in two, killing 94 men of the 300th and 41 of the crew. Several of the 300th’s dead from that day are listed as missing. Omagene’s own record has not yet been checked for a ship’s name, so his presence aboard LST-523 is probable rather than proven. A photograph of a model of LST-523 has been posted to his memorial page.",
     "His older brother, Lewis Oliver Whitfield, Alfreda’s father, also served in the war, as a private in the U.S. Army Air Forces. Lewis came home to Golden and lived until 2004.",
     "The War Department’s Honor List of Dead and Missing for Oklahoma, compiled to a cut-off date of 31 January 1946, lists him under McCurtain County as “Whitfield Omagene C, 38466149, TEC5, KIA.” Its foreword defines KIA as killed in action, and keeps a separate symbol, FOD, for men declared dead by a finding of death after being missing. So although his name is on the Tablets of the Missing, by early 1946 the Army counted him as killed in action. The list confirms his serial number and grade; it does not name his unit or ship."
@@ -16499,13 +16500,27 @@
     "The Clio, “Allan C. Wright” (300th Engineer Combat Battalion, LST-523; 94 men of the 300th and 41 crew killed): https://theclio.com/entry/189033",
     "O. C. (Clint) Whitfield gravestone, Glover Cemetery; photo by Sandie Manning Lambert, Find a Grave memorial 9084880: https://www.findagrave.com/memorial/9084880",
     "War Department, World War II Honor List of Dead and Missing, State of Oklahoma (June 1946), p. 14, McCurtain County (cont’d): Whitfield Omagene C, 38466149, TEC5, KIA; original page image examined 3 Nov 2026, National Archives: https://nara-media-001.s3.amazonaws.com/arcmedia/media/images/29/16/29-1585a.gif",
-    "Same list, foreword, pp. i–ii (cut-off date 31 January 1946; casualty symbols KIA, DOW, DOI, DNB, FOD); page images examined 3 Nov 2026: https://www.archives.gov/research/military/ww2/army-casualties/oklahoma.html"
+    "Same list, foreword, pp. i–ii (cut-off date 31 January 1946; casualty symbols KIA, DOW, DOI, DNB, FOD); page images examined 3 Nov 2026: https://www.archives.gov/research/military/ww2/army-casualties/oklahoma.html",
+    "McCurtain Gazette (Idabel, Okla.), 28 March 1945, p. 1, “County Man Listed As Dead, Relatives Are Not Notified,” via Newspapers.com (Oklahoma Historical Society): https://www.newspapers.com/image/747368686/",
+    "McCurtain Gazette, 18 April 1945, p. 1, “T-5 Omagene C. Whitfield” (photograph and notice), via Newspapers.com: https://www.newspapers.com/image/747369016/"
    ],
    "imgs": [
     {
      "cap": "Omagene Clinton Whitfield in uniform. The posted copy appears to have been enhanced; it is reproduced here as posted. Photo: Roger Ward, Find a Grave",
      "source": "https://www.findagrave.com/memorial/56651406/omagene-clinton-whitfield",
      "s": "img/family/omagene_whitfield_portrait.jpg"
+    },
+    {
+     "s": "img/news/mccurtain-gazette-1945-04-18-p1-omagene-whitfield.png",
+     "cap": "McCurtain Gazette, Idabel, 18 April 1945, p. 1: T-5 Omagene C. Whitfield's photograph and death notice (yellow marks are the viewer's search highlights).",
+     "source": "https://www.newspapers.com/image/747369016/",
+     "kind": "record"
+    },
+    {
+     "s": "img/news/mccurtain-gazette-1945-03-28-p1-whitfield-listed.png",
+     "cap": "McCurtain Gazette, 28 March 1945, p. 1: “County Man Listed As Dead, Relatives Are Not Notified.”",
+     "source": "https://www.newspapers.com/image/747368686/",
+     "kind": "record"
     },
     {
      "cap": "A panel of the Tablets of the Missing, Normandy American Cemetery, Colleville-sur-Mer. Photo: Frogman, Find a Grave",
