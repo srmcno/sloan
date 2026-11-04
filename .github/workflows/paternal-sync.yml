@@ -80,7 +80,7 @@ jobs:
         if: steps.check.outputs.changed == 'true'
         run: |
           mkdir public
-          cp -R site/index.html site/ancestry.html site/*.js site/*.css site/tree.json site/content.json site/img site/.nojekyll site/robots.txt site/favicon.svg public/
+          cp -R site/index.html site/ancestry.html site/*.js site/*.css site/tree.json site/content.json site/img site/.nojekyll site/robots.txt site/favicon.svg site/manifest.webmanifest site/icon-*.png public/
       - uses: actions/upload-pages-artifact@v3
         if: steps.check.outputs.changed == 'true'
         with:
