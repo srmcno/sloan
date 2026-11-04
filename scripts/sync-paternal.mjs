@@ -38,18 +38,28 @@ function normalized(rev,tree){
 const old=normalized(base,sourceOld), next=normalized(latest,sourceNew);
 const target=JSON.parse(fs.readFileSync(path.join(root,'content.json'))), tree=JSON.parse(fs.readFileSync(path.join(root,'tree.json')));
 const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b), updates=[];
+// /family sources may arrive as one joined string or split one per item (adapter.js, Nov 2026);
+// both forms describe the same story, so compare them with the sources joined.
+const flatSrc=s=>s&&typeof s==='object'&&Array.isArray(s.src)?{...s,src:s.src.join('; ')}:s;
+const sameStory=(a,b)=>same(a,b)||same(flatSrc(a),flatSrc(b));
+// A local copy may drop people from a story's list (privacy removals). Treat it as unchanged when
+// its people are a subset of the prior list and everything else matches, and keep those removals.
+const withoutPeople=s=>s&&typeof s==='object'?{...flatSrc(s),people:undefined}:s;
+const localRemovals=(local,prior)=>(prior?.people||[]).filter(p=>!(local?.people||[]).includes(p));
+const sameStoryKeepingRemovals=(local,prior)=>sameStory(local,prior)||((local?.people||[]).every(p=>(prior?.people||[]).includes(p))&&same(withoutPeople(local),withoutPeople(prior)));
 const oldStories=new Map(old.C.stories.map(x=>[x.id,x])), newStories=new Map(next.C.stories.map(x=>[x.id,x]));
 // An upstream story that was removed (for example merged into another) is removed here only when the local copy is unchanged.
 const removedStories=[];
 for(const [id,item] of oldStories)if(!newStories.has(id)){
  const i=target.stories.findIndex(s=>s.id===id);if(i<0)continue;
- if(!same(target.stories[i],item)&&!same(target.stories[i],transformStrings(item)))throw Error(`Upstream story removed: ${id}; local copy differs, review required.`);
+ if(!sameStory(target.stories[i],item)&&!sameStory(target.stories[i],transformStrings(item)))throw Error(`Upstream story removed: ${id}; local copy differs, review required.`);
  target.stories.splice(i,1);removedStories.push(id);
 }
 for(const [id,item] of newStories){const prior=oldStories.get(id), index=target.stories.findIndex(s=>s.id===id);if(same(prior,item))continue;
- if(prior && (index<0||!same(target.stories[index],prior)))throw Error(`Local story conflict: ${id}`);
+ if(prior && (index<0||!sameStoryKeepingRemovals(target.stories[index],prior)&&!sameStoryKeepingRemovals(target.stories[index],transformStrings(prior))))throw Error(`Local story conflict: ${id}`);
+ const removed=index>=0?localRemovals(target.stories[index],prior):[];
  if(!prior&&index>=0)throw Error(`New story conflicts: ${id}`);
- const safe=transformStrings(item);check(safe,`story ${id}`);if(index<0)target.stories.push(safe);else target.stories[index]=safe;updates.push(id);
+ const safe=transformStrings(item);if(removed.length&&Array.isArray(safe.people))safe.people=safe.people.filter(p=>!removed.includes(p));check(safe,`story ${id}`);if(index<0)target.stories.push(safe);else target.stories[index]=safe;updates.push(id);
 }
 // Apply upstream changes entry by entry, so maternal-only entries and local privacy removals survive.
 // An entry changed both upstream and locally still stops the sync for review.
