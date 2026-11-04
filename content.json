@@ -23167,7 +23167,9 @@
     "MAT_BEULAH_TURNER_PHILLIPS",
     "MAT_THOMAS_N_TURNER",
     "MAT_EMMA_STACY_TURNER",
-    "MAT_CARL_C_PHILLIPS"
+    "MAT_CARL_C_PHILLIPS",
+    "MAT_JAMES_WILLIS_STACY",
+    "MAT_MARY_JANE_EDWARDS_STACY"
    ],
    "subject": {
     "name": "Thomas N. Turner and Emma Stacy Turner",
@@ -23179,7 +23181,7 @@
     "By 1900 they were living in Justice Precinct 1 of Nacogdoches County, the part east of the railroad outside the town. Thomas, written down that year as Thos W. Turner, was 49, born in October 1851 in Tennessee, and seven years married. Emma A. was 28 and born in Louisiana. They had three children: a daughter of four, a son of two whose name was taken down as something like Doytre, and a baby daughter, Beaulah B. When the household was counted on 1 June 1900 the baby was said to be no days old, though by her own later account Beulah had been born on 5 February, four months before; one of the two dates is wrong.",
     "By 1910 the family had moved into the town of Nacogdoches itself, and there were seven children: Verra, 13; Datro, 12; Beulah, 10; Thelma, 8; Opal, 5; Harval, 3; and Ivey, an infant. The father, now T. M. Turner, was 55 and said to have been born in Pennsylvania; Emma was 34 and, as before, a native of Louisiana.",
     "Thomas is hard to pin down. His middle initial was written W, M and N; his birthplace was Tennessee in 1900 and Pennsylvania in 1910; and Emma’s age shifted enough to put her birth near 1872 at one count and 1876 at the next. Through it all, Emma’s Louisiana birth, the children’s names and the Nacogdoches home held steady.",
-    "Where Thomas was born, and who his parents were, is unknown; he is said to have died in 1916, but nothing confirms it. Emma’s people may have been a Stacy family of Nacogdoches. James Willis Stacy, born on 27 September 1847 in Natchitoches Parish, Louisiana, and Mary Jane Edwards, born in Arkansas on 16 March 1847, married in Nacogdoches on 22 March 1866, and their daughter Emory Ann, born in Louisiana in 1871, married a Turner and lived to 1964. James Willis died at Lufkin on 3 March 1925 and Mary Jane in Nacogdoches on 6 March 1918, and both lie in Christian Cemetery at Nacogdoches. His parents were Alexander Franklin Stacy and Eliza Ann Wagley. The name Emory, the Louisiana birth, the Nacogdoches home and the Turner marriage all fit Emma, but nothing names her husband as Thomas, so whether she was their daughter is not known."
+    "Where Thomas was born, and who his parents were, is unknown; he is said to have died in 1916, but nothing confirms it. Emma was very probably a daughter of a Stacy family of Nacogdoches, told in “James Willis Stacy: a Louisiana conscript’s road to Nacogdoches.” James Willis Stacy, born on 27 September 1847 in Natchitoches Parish, Louisiana, and Mary Jane Edwards, born in Arkansas on 16 March 1847, married in Nacogdoches on 22 March 1866, and their daughter Emory Ann, born in Louisiana in 1871, married a Turner and lived to 1964. James Willis died at Lufkin on 3 March 1925 and Mary Jane in Nacogdoches on 6 March 1918, and both lie in Christian Cemetery at Nacogdoches. His parents were Alexander Franklin Stacy and Eliza Ann Wagley. The name Emory, the Louisiana birth, the Nacogdoches home and the Turner marriage all fit Emma, but nothing names her husband as Thomas, so whether she was their daughter is not known."
    ],
    "quotes": [],
    "src": [
@@ -23190,7 +23192,57 @@
     "Beyond the Tree, “Children of Alexander Franklin Stacy and Eliza Ann Wagley” (19 Oct 2013), entries for James Willis Stacy and Mary Jane Edwards and for Emory Ann Stacy Turner (1871–1964): https://msasser-genealogy.blogspot.com/2013/10/children-of-alexander-franklin-stacy.html"
    ],
    "imgs": [],
-   "note": "Proven for the link to Beulah, who is named as their daughter on her own application and appears in both households. Thomas’s initial, birthplace and age differ from record to record, and no dates of death have been seen. Possible parents (James Willis Stacy and Mary Jane Edwards) come from a family-history blog that never names Emory Ann’s husband; a lead only, not linked."
+   "note": "Proven for the link to Beulah, who is named as their daughter on her own application and appears in both households. Thomas’s initial, birthplace and age differ from record to record, and no dates of death have been seen. Her probable parents, James Willis Stacy and Mary Jane Edwards, are linked in the tree: a Stacy family history lists their daughter Emory Ann Stacy Turner (1871–1964) and has her at 9 in the 1880 household, and the unusual name matches Beulah’s application."
+  },
+  {
+   "id": "james-willis-stacy-louisiana-reserve",
+   "side": "N",
+   "gen": 7,
+   "ev": "probable",
+   "profile": false,
+   "title": "James Willis Stacy: a Louisiana conscript's road to Nacogdoches",
+   "hook": "Drafted into the Louisiana Reserve Corps at seventeen, James Willis Stacy was paroled at Natchitoches in June 1865, married in Nacogdoches the next spring, and raised a family that kept crossing the Texas-Louisiana line.",
+   "people": [
+    "MAT_JAMES_WILLIS_STACY",
+    "MAT_ALEXANDER_FRANKLIN_STACY",
+    "MAT_ELIZA_ANN_WAGLEY_STACY",
+    "MAT_MARY_JANE_EDWARDS_STACY",
+    "MAT_MAHULDA_EDWARDS",
+    "MAT_EMMA_STACY_TURNER",
+    "MAT_THOMAS_N_TURNER"
+   ],
+   "subject": {
+    "name": "James Willis Stacy",
+    "rel": "Maternal ancestor",
+    "years": "1847–1925"
+   },
+   "body": [
+    "James Willis Stacy was born on 27 September 1847 in Natchitoches Parish, Louisiana, and grew up near Marthaville. His father, Alexander Franklin Stacy, was already 49 and had been married more than once; his mother, Eliza Ann Wagley, was the third wife. By 1850 he was a boy of three in their household, and in 1860 a boy of fourteen, written down as Willice.",
+    "In 1864, at seventeen, he was drafted into Company B of Maddox's Regiment, Louisiana Reserve Corps. The Reserves had been created that February to hold the boys too young and the men too old for the regular army, and to keep them inside their own state. His company was surrendered at New Orleans on 26 May 1865, and on 21 June he was paroled at Natchitoches, back in his home parish.",
+    "His father had already gone west. In 1865 Alexander Franklin Stacy went to Texas looking for a place to settle, and he died there that year, buried, the family says, in Texas soil. The family has wondered whether James went along with him, but nothing says so.",
+    "The next March James was in Nacogdoches. On 22 March 1866 he married Mary Jane Edwards, born in Arkansas on 16 March 1847, the daughter of John Edwards and Mahulda, who would one day live in James's household. They settled in Nacogdoches, where their first son, John Alexander, was born in 1868 or 1869.",
+    "Then the family began crossing the line. Emory Ann, the daughter the family called Emma, was born in Louisiana in 1871, and so was Susie in 1875. Henry Coleman was born in 1874 in Madison County, Texas, where they were living in 1880, and James Elam in 1878 in Atascosa County, far to the southwest. Ruben Paschal was born in Nacogdoches in 1880 and Mary Elizabeth in 1886, in Texas or Louisiana depending on whom you ask. Mahulda, 77 in 1880, lived in James and Mary Jane's house by then, and she was still with them in 1900, when the family was back in Nacogdoches County.",
+    "Emma grew up to marry Thomas N. Turner at Nacogdoches in 1893. She lived to 1964, and her daughter Beulah Turner Phillips is our line. Mary Jane died in Nacogdoches on 6 March 1918, and James Willis on 3 March 1925 at Lufkin, aged 77. They lie side by side in Christian Cemetery in Nacogdoches."
+   ],
+   "quotes": [],
+   "src": [
+    "Beyond the Tree, “Children of Alexander Franklin Stacy and Eliza Ann Wagley” (19 Oct 2013), entries for James Willis Stacy and Mary Jane Edwards, Emory Ann Stacy Turner and siblings: https://msasser-genealogy.blogspot.com/2013/10/children-of-alexander-franklin-stacy.html",
+    "U.S. Census 1850 and 1860, Natchitoches Parish, Louisiana, A. F. Stacy household, as transcribed on the same blog post",
+    "U.S. Census 1880, Madison County, Texas, J. W. Stacy household, and 1900, Nacogdoches County, as transcribed on the same blog post",
+    "Louisiana Soldiers in the Civil War index, Maddox's Regiment, Louisiana Reserve Corps, Company B, paroled at Natchitoches June 1865 (roll index for the company; James Willis himself named on the blog): https://ahgp.org/la/MilitaryIndex/louisianasoldiersm6.html",
+    "Louisiana Stacy family group sheet, Alexander Franklin Stacy: https://fgs-project.com/louisiana/groups/s/stacy-alexander-franklin.htm",
+    "Texas County Marriage Records, T. N. Turner and Emma Stacy, 17 Sep 1893, Nacogdoches: https://www.familysearch.org/ark:/61903/1:1:Q2ZY-TXPB"
+   ],
+   "imgs": [
+    {
+     "s": "img/places/nacogdoches_old_stone_fort_postcard.jpg",
+     "cap": "The Old Stone Fort at Nacogdoches, the town where James Willis Stacy married in 1866, on an early twentieth-century postcard after its 1907 rebuilding. Curt Teich & Co., via Wikimedia Commons, public domain.",
+     "source": "https://commons.wikimedia.org/wiki/File:Old_Stone_Fort,_Nacogdoches,_Texas.jpg",
+     "credit": "Curt Teich & Co., Wikimedia Commons (public domain)",
+     "kind": "photo"
+    }
+   ],
+   "note": "Evidence: probable. Almost everything here is from one family-history blog (Beyond the Tree) quoting censuses and a Stacy group sheet; the censuses were not opened by the drafter. Emma as James Willis's daughter is probable (given name Emory, Louisiana birth, Nacogdoches, Turner marriage), not proven; no record seen names her husband inside the Stacy family. Two blog dates disagree: John Alexander's birth (1868 vs 1869) and James's death place (Lufkin vs Angelina Co., which agree, Lufkin being in Angelina Co.). The blog's 'surrendered at New Orleans 26 May 1865' is its own statement; the Natchitoches roll index confirms Company B men paroled there in June 1865. The explanation of the Reserve Corps (created Feb 1864, under 18 and over 45, state service) is general background from search results, not from a source about this company; confirm before publishing or soften. 'Perhaps James went with his father' is the blog's speculation and is kept as a wondering only. Mahulda is also in tree.json as MAT_MAHULDA_EDWARDS (Mary Jane's mother, 1880/1900 households). Alexander Franklin's parents (Edmond Stacy and Rebecca Harrison) are a lead only and left out of the prose."
   },
   {
    "id": "elizabeth-walker-beaucoup-1919",
@@ -29099,6 +29151,10 @@
   "img/places/hugo_courthouse_2016.jpg": {
    "url": "https://commons.wikimedia.org/wiki/File:Choctaw_County_Courthouse_in_Hugo,_OK.jpg",
    "credit": "Wikimedia Commons, CC BY-SA 4.0, Michael Barera"
+  },
+  "img/places/nacogdoches_old_stone_fort_postcard.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Old_Stone_Fort,_Nacogdoches,_Texas.jpg",
+   "credit": "Curt Teich & Co., Wikimedia Commons (public domain)"
   }
  }
 }
