@@ -14844,7 +14844,7 @@
     "The June 1900 census for Justice Precinct 2 of Franklin County, Texas, finds John B. Smith, 44, farming land he owned free of mortgage. With him were his wife Emma, their son Oscar, 10, daughters Vera, Luina, Lona and Allie, and a baby, Jimmie. The family lived around Hagansport, a community that grew up at a Sulphur River crossing called Hagan's Port and that by 1884 had about 150 people, four churches, a one-room school, a mill and a gin. Oscar, later Charles Oscar Smith, had been born there on 29 May 1889.",
     "Emma Elizabeth Langley (Emma Liza on her Find a Grave memorial) was born on 11 December 1867 in Texas. The only census household that fits her is that of George W. Langley, a Georgia-born widower of Precinct 5 in neighboring Hopkins County in 1880, who had two daughters, Emma J., 12, and Eliza J., 8 (probable). She died on 15 March 1905, aged 37, and her stone in Hagansport Cemetery reads \"Emma / Wife of / J.B. SMITH / Gone but not forgotten.\" Six children were in the house in 1900, the youngest a baby.",
     "John did not stay a widower. By April 1910 he had remarried, and Oscar, 19, was working on the home farm. On the same census route, a few doors away, the census taker recorded John C. Satterfield, lately of Kentucky, with his wife Samantha and their daughter Pearl, 11. Oscar and Artie Pearl Satterfield married in 1914. Owning rather than renting set John apart in the county: in 1900 only 44.1 percent of Franklin County farms were run by their owners, and the usual tenant gave up half the crop.",
-    "John B. Smith died in 1918 and was buried at Hagansport beside Emma; his grave is marked with a wooden stob. His own parents are not established: Ancestry trees suggest Noah Smith and Mary P. (Keith), but no census, marriage or death record naming them is in hand (lead) and his Texas death certificate is not indexed. His son Charles carried the farm tradition across the Red River to Choctaw County, Oklahoma, where he is buried at Grant.",
+    "John B. Smith died in 1918 and was buried at Hagansport beside Emma; his grave is marked with a wooden stob. His father was very probably Noah Smith, a Kentucky-born farmer and justice of the peace whose 1880 household in the same Franklin County precinct lists “John B. Smith, 20, son” (see “Noah Smith: Kentucky farmer, Franklin County justice of the peace, Confederate pensioner”). His mother is still unknown, and his own Texas death certificate is not indexed. His son Charles carried the farm tradition across the Red River to Choctaw County, Oklahoma, where he is buried at Grant.",
     "Emma's marble stone at Hagansport gives her dates beneath \"Emma / wife of / J. B. Smith\" as \"Born Dec 11 1869[?]\" and \"Died Mar 15 1905.\" In the photograph the last digit of the birth year looks like a 9, two years later than the 1867 used here; the 1880 census age of 12 fits 1867 or 1868 better, so the date above is kept."
    ],
    "quotes": [],
@@ -14864,8 +14864,12 @@
      "George W. Langley, b. c.1842 Georgia: 1880 census, Hopkins Co., Tex., daughter Emma J., 12"
     ],
     [
-     "John B.'s parents (lead)",
-     "Ancestry suggests Noah Smith and Mary P. (Keith); no census, marriage or death record naming them has been seen. His Texas death certificate of 13 Apr 1918 (Franklin Co.) did not turn up in the Texas Death Certificates index; the Find a Grave memorial for John B. Smith names only his wife and daughters."
+     "Father (probable)",
+     "Noah Smith (c.1829–1906), b. Ky.: 1870 Titus Co. and 1880 Franklin Co. households with son John B."
+    ],
+    [
+     "Mother",
+     "Unknown; Noah's later wife Mary E. (Keith), b. about 1855, cannot be John's mother"
     ]
    ],
    "note": "",
@@ -23974,6 +23978,66 @@
    "note": "The article names the parties only as “Katie from Oscar Hulsey,” but the 1945 notice in the same county court names Katie Hulsey as plaintiff and Oscar Hulsey as defendant, so the identification is firm. The day the record was set is the Wednesday before the 12 January issue. The link between the postwar homecomings on the same page and the number of divorces is the paper's juxtaposition, not a stated cause.",
    "place": "District court, Idabel, McCurtain County, Oklahoma",
    "rank": 241
+  },
+  {
+   "id": "noah-smith-franklin",
+   "side": "J",
+   "gen": 6,
+   "ev": "probable",
+   "title": "Noah Smith: Kentucky farmer, Franklin County justice of the peace, Confederate pensioner",
+   "hook": "John B. Smith's father turns up in three censuses around Mount Pleasant and Hagansport, with his son beside him in two of them.",
+   "profile": false,
+   "people": [
+    "A:noah-smith-franklin:f"
+   ],
+   "subject": {
+    "name": "Noah Smith",
+    "rel": "Paternal family history",
+    "years": "c.1829–1906"
+   },
+   "body": [
+    "In the summer of 1870 the census taker for Titus County, Texas, post office Mount Pleasant, came to the farm of Noah Smith, 40, born in Kentucky, with land worth $1,200 and $200 in personal property. In the house were Mary, 16; John B., 11; and a girl, Annie L. The 1870 census does not give relationships, but the next one does.",
+    "In 1875 the southern part of Titus County became Franklin County, and in June 1880 Noah Smith, 51, was in its Precinct 2, listed as a farmer and a justice of the peace. His wife was Mary E., 25. The household was spelled out this time: John B. Smith, 20, son; Anna L., 11, and Eliza A., 8, daughters; Mary B., 5; George R., 2; and a baby boy a month old. Noah gave his father's birthplace as Maryland and his mother's as Virginia. Twenty years later John B. Smith, the 2nd great-grandfather of this family, was farming his own land in the same Precinct 2 of Franklin County.",
+    "On 5 July 1899, at about seventy, Noah applied to the State of Texas for a Confederate veteran's pension from Franklin County (file no. 08305). The 1900 census found him still on his own farm in Justice Precinct 2, now a widower, with two young daughters, Flora, 17, and Oma, 15. He died on 28 January 1906 and is buried at Smith Cemetery in Franklin County; his Find a Grave memorial gives his birth as 6 June 1831 in Greenup County, Kentucky.",
+    "Who John B.'s mother was is still open. Noah's wife in 1880, Mary E., was only 25, and a later Texas death certificate for their daughter Flora names her mother as Mary Keith. Born about 1855, Mary Keith cannot be the mother of a son born in the late 1850s. John B.'s mother was evidently an earlier wife, and no record seen so far names her."
+   ],
+   "quotes": [],
+   "src": [
+    "1870 U.S. census, Titus Co., Tex., roll M593_1606, p. 115A, dwelling 1443; 1880 U.S. census, Precinct 2, Franklin Co., Tex., ED 033, roll 1304, p. 420a, dwelling 83; 1900 U.S. census, Justice Precinct 2, Franklin Co., Tex., sheet 9, dwelling 161; Texas Confederate Pension Applications, 1899-1975, file 08305 (Texas State Library and Archives Commission, roll 2748), index via Ancestry; Texas Death Certificates, 1903-1982, Flora May Miller (parents Noah Smith and Mary Keith), index via Ancestry; Find a Grave memorial 230179746 (Noah Smith, Smith Cemetery, Franklin Co., Tex.)."
+   ],
+   "imgs": [],
+   "tags": [
+    "military"
+   ],
+   "kv": [
+    [
+     "1870 census",
+     "Titus Co., Tex. (P.O. Mount Pleasant): Noah Smith 40, b. Ky.; Mary 16; John B. 11; Annie L."
+    ],
+    [
+     "1880 census",
+     "Precinct 2, Franklin Co., Tex.: Noah Smith 51, farmer and J.P.; wife Mary E. 25; son John B. 20; daughters Anna L. 11, Eliza A. 8, Mary B. 5; son George R. 2; infant son. Father b. Md., mother b. Va."
+    ],
+    [
+     "Confederate pension",
+     "Application 5 Jul 1899, Franklin Co., age 70, file no. 08305 (Texas State Library and Archives)"
+    ],
+    [
+     "1900 census",
+     "Justice Precinct 2, Franklin Co.: Noah Smith 71, widowed, owns farm; daughters Flora 17, Oma 15. Parents b. Ky."
+    ],
+    [
+     "Died",
+     "28 Jan 1906, Franklin Co., Tex.; Smith Cemetery (Find a Grave memorial 230179746, giving birth 6 Jun 1831, Greenup Co., Ky.)"
+    ],
+    [
+     "Second wife",
+     "Mary E. (Keith), named as mother on daughter Flora May Miller's Texas death certificate"
+    ]
+   ],
+   "note": "The 1880 census names John B. Smith as Noah's son. Identifying that John B. with the family's John B. Smith is probable: same name, same Franklin County precinct in 1880 and 1900, and a sister Annie L. carried from the 1870 household to the 1880 one. But his age does not agree: 11 in 1870 and 20 in 1880 point to a birth about 1859–60, while the family tree and the 1900 census use July 1856. Noah's own age also drifts (40 in 1870, 51 in 1880, 71 in 1900; Find a Grave says 1831), and his parents' birthplaces are Maryland and Virginia in 1880 but Kentucky in 1900. The pension file itself has not been read, so his regiment is not yet known. Ancestry family trees pair Noah with Mary P. Keith as John's parents; the records point instead to Mary Keith as a later wife.",
+   "place": "Greenup County, Ky.; Titus and Franklin counties, Texas",
+   "rank": 270
   }
  ],
  "storyAliases": {
@@ -27396,6 +27460,18 @@
    "t": "The Lamar County Echo prints Hazel King's obituary on 1 January, listing her Shackleford brothers and sisters.",
    "side": "J",
    "story": "sd-shackleford-siblings"
+  },
+  {
+   "y": "1880",
+   "t": "Noah Smith, a Kentucky-born farmer, is a justice of the peace in Precinct 2, Franklin County, Texas, with his son John B. Smith, 20, at home.",
+   "side": "J",
+   "story": "noah-smith-franklin"
+  },
+  {
+   "y": "1899",
+   "t": "Noah Smith, about seventy, applies from Franklin County for a Texas Confederate veteran's pension (file no. 08305).",
+   "side": "J",
+   "story": "noah-smith-franklin"
   }
  ],
  "fixes": [
