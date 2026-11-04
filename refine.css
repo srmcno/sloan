@@ -48,3 +48,17 @@
 .story .bd p,.story>p{text-wrap:pretty}
 .story h1,.story h2{text-wrap:balance}
 .home-section-head h2,.lede h2,.head h1{text-wrap:balance}
+
+/* On this day: births and deaths that fall on today's date. */
+.otd-list{list-style:none;margin:8px 0 6px;padding:0;display:grid;gap:8px}
+.otd-item{display:flex;gap:14px;align-items:baseline;width:100%;text-align:left;padding:12px 14px;min-height:48px;border:1px solid var(--rule);border-radius:12px;background:var(--sheet);color:var(--ink);font:400 15px/1.45 var(--sans);cursor:pointer}
+.otd-item:hover{border-color:var(--accent)}
+.otd-item:focus-visible{outline:3px solid var(--focus-ring);outline-offset:2px}
+.otd-year{font:600 22px/1 var(--serif);color:var(--accent);min-width:3.2ch;font-variant-numeric:lining-nums tabular-nums}
+.otd-text b{font-weight:600}
+#onThisDay{margin:28px 0 8px}
+
+/* Source lists: one source per line, long words wrap instead of running off a phone screen. */
+.src ul{padding-left:1.1em}
+.src li{margin:0 0 8px;overflow-wrap:anywhere}
+.src a,.research-note a,.keyrec a{overflow-wrap:anywhere}

@@ -24,6 +24,25 @@ export function adaptFamily(D, tree) {
   const portraitKeys = e => [...new Set([e.ph, ...(e.photo_sets || [])].filter(k => k && PH[k]))];
   const portraitOf = e => { const k = portraitKeys(e)[0]; return k ? PH[k].o : (e.av ? 'img/' + e.av : ''); };
 
+    /* A /family story keeps its sources in one string joined by "; ". Show each as its own
+     list item, without splitting inside parentheses, brackets or quotations. */
+  const splitSources = value => {
+    const text = String(value || '').trim();
+    if (!text) return [];
+    const out = []; let depth = 0, quote = false, start = 0;
+    for (let i = 0; i < text.length; i++) {
+      const c = text[i];
+      if (c === '(' || c === '[') depth++;
+      else if ((c === ')' || c === ']') && depth) depth--;
+      else if (c === '“') quote = true; else if (c === '”') quote = false;
+      else if (c === ';' && !depth && !quote && text[i + 1] === ' ' && /[A-Z0-9"“‘'(]/.test(text[i + 2] || '')) {
+        out.push(text.slice(start, i).trim()); start = i + 1;
+      }
+    }
+    out.push(text.slice(start).trim());
+    return out.filter(Boolean);
+  };
+
   /* ---------- people ---------- */
   const ROOT = 'ROOT';
   const src = tree?.people || {};
@@ -76,7 +95,7 @@ export function adaptFamily(D, tree) {
       if (PH[k].o && !imgs.some(i => i.s === PH[k].o)) imgs.unshift({ s: PH[k].o, cap: PH[k].cap || e.name, kind: 'photo' });
     }
     imgs.forEach(i => { if (isPlaceImg(i.s, i.cap, i.kind) && !archivePhotos.some(a => a.s === i.s)) { const url = photoSources[i.s]?.url || ''; archivePhotos.push({ s: i.s, cap: i.cap, story: e.title ? e.id : '', side: SIDE[e.branch] || '', source: /^https?:\/\/\S+$/i.test(url) ? url : '' }); } });
-    const src = [e.src, e.source_link && !String(e.src || '').includes(e.source_link) ? e.source_link : ''].filter(Boolean);
+    const src = [...splitSources(e.src), e.source_link && !String(e.src || '').includes(e.source_link) ? e.source_link : ''].filter(Boolean);
     return {
       id: e.id, side: SIDE[e.branch] || '', gen, ev: e.ev || 'tree',
       title: e.title || e.name, hook: e.hook || e.place || e.rel || '', profile: !e.title,

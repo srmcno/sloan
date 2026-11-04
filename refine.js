@@ -83,3 +83,61 @@
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);
   else start();
 })();
+
+/* Phone conveniences shared by all three archives:
+   swipe through photographs, the phone's own share sheet, and a browser bar that
+   matches the site's color. */
+(() => {
+  const coarse = matchMedia('(pointer:coarse)').matches;
+  const canShare = typeof navigator.share === 'function';
+
+  // Browser bar color follows the header color of the site and theme.
+  const setThemeColor = () => {
+    let meta = document.querySelector('meta[name="theme-color"]');
+    if (!meta) { meta = document.createElement('meta'); meta.name = 'theme-color'; document.head.append(meta); }
+    const c = getComputedStyle(document.documentElement).getPropertyValue('--navy').trim();
+    if (c) meta.content = c;
+  };
+  setThemeColor();
+  new MutationObserver(setThemeColor).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme', 'data-site'] });
+
+  // Share: on phones that offer a share sheet, "Copy link" becomes "Share".
+  if (coarse && canShare) {
+    const relabel = () => document.querySelectorAll('[data-copy-link]:not([data-share-ready])').forEach(b => {
+      b.dataset.shareReady = '1';
+      if (/copy/i.test(b.textContent)) b.textContent = b.textContent.replace(/Copy( profile)? link/i, (m, p) => p ? 'Share profile' : 'Share');
+    });
+    relabel();
+    new MutationObserver(relabel).observe(document.body, { childList: true, subtree: true });
+    document.addEventListener('click', async e => {
+      const b = e.target.closest('[data-copy-link]');
+      if (!b) return;
+      e.preventDefault(); e.stopPropagation();
+      const title = (document.querySelector('#v-story h1, .panel.on h2, .panel.on h1')?.textContent || document.title).trim();
+      try { await navigator.share({ title, text: title, url: b.dataset.copyLink }); }
+      catch (err) { if (err && err.name !== 'AbortError') { try { await navigator.clipboard.writeText(b.dataset.copyLink); b.textContent = 'Link copied'; } catch {} } }
+    }, true);
+  }
+
+  // Photo viewer: swipe left or right for the next or previous photo, down to close.
+  const lb = document.getElementById('lb');
+  if (lb) {
+    let x0 = 0, y0 = 0, t0 = 0, tracking = false;
+    lb.addEventListener('touchstart', e => {
+      if (e.touches.length !== 1 || e.target.closest('.photo-compare, input, [role=slider]')) { tracking = false; return; }
+      tracking = true; x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; t0 = Date.now();
+    }, { passive: true });
+    lb.addEventListener('touchend', e => {
+      if (!tracking) return; tracking = false;
+      const t = e.changedTouches[0], dx = t.clientX - x0, dy = t.clientY - y0;
+      if (Date.now() - t0 > 700) return;
+      const visible = el => el && !el.hidden && !el.closest('[hidden]') && el.offsetParent !== null;
+      if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy) * 1.4) {
+        const step = lb.querySelector(`[data-photo-step="${dx < 0 ? 1 : -1}"]`);
+        if (visible(step) && !step.disabled) step.click();
+      } else if (dy > 90 && Math.abs(dy) > Math.abs(dx) * 1.6 && (lb.scrollTop || 0) <= 0) {
+        document.getElementById('lbx')?.click();
+      }
+    }, { passive: true });
+  }
+})();
