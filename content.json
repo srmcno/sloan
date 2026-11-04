@@ -318,7 +318,7 @@
    "src": [
     "1860 U.S. census, Washington County, Illinois, Wm P. Walker household: https://www.familysearch.org/ark:/61903/1:1:MXHP-6Z1",
     "1870 U.S. census, Washington County, Illinois, Wm P. Walker household: https://www.familysearch.org/ark:/61903/1:1:M6W5-SLW",
-    "1900 U.S. census, Brazoria County, Texas, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-JSM",
+    "1900 U.S. census, Brazoria County, Texas, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-J9R",
     "Texas death record, Walter Livesay, 1912: https://www.familysearch.org/ark:/61903/1:1:K3WG-LFQ",
     "1920 U.S. census, Houston, Floyd H. and Alice M. Livesay: https://www.familysearch.org/ark:/61903/1:1:MHY4-98M",
     "Texas death certificate, Alice May Livesay, 1922: https://www.familysearch.org/ark:/61903/1:1:KS1T-6MG",
@@ -346,7 +346,12 @@
    "people": [
     "MAT_FLOYD_LIVESAY",
     "MAT_ALICE_WALKER",
-    "MAT_LESTER_SR"
+    "MAT_LESTER_SR",
+    "MAT_WALTER_LIVESAY",
+    "MAT_WILLIAM_PAUL_LIVESAY",
+    "MAT_MELVIN_LIVESAY",
+    "MAT_RUTH_LIVESAY",
+    "MAT_EARL_LIVESAY"
    ],
    "subject": {
     "name": "Floyd and Alice Livesay",
@@ -355,6 +360,7 @@
    },
    "body": [
     "In 1900, Floyd and Alice Livesay lived in Brazoria County, Texas, with children born in Illinois and Texas. Their son Lester W. was listed as born in Illinois in November 1894. The census points to a family move from Illinois to Texas between the births of their Illinois-born children and their Texas-born daughter Ruth, about 1898; it does not reveal the reason for the move.",
+    "The household Floyd and Alice kept in 1900 was a full one. Walter, the eldest, was twenty; the next son, indexed as Call T. and seventeen, was almost certainly the William Paul who would be buried at Pearland; Melvin was twelve, Lester six, and Ruth, born in Texas, two. Floyd and Alice had been married twenty years. By 1910 the house had emptied and filled again: Lester at fifteen, Ruth at twelve, and a late son, Earl, aged six and born in Texas. In 1920, in Harris County, Floyd was sixty-five and Alice sixty-two, and Earl, sixteen, was the only child left at home.",
     "Floyd ran a grocery in Pearland. A 1932 Houston Chronicle notice places his move from Illinois to Pearland about 37 years earlier, suggesting the mid-1890s; the estimate fits the birthplaces in the 1900 household. The notice names a son L. W. Livesay among his survivors.",
     "Lester W. Livesay and Sadah H. McCormick married on 10 October 1911, according to the original Harris County marriage register. The 1920 census places them in Harris County with their young children, including a son Lester Jr. The younger Lester’s obituary later identified his parents as Lester W. Sr. and Sadah McCormick. His railroad career and ranches carried the story into Pearland and East Texas.",
     "A Texas death record for Walter Livesay, also listed in the 1900 household, names his parents Floyd Livesay and Alice Walker. Floyd’s own death certificate identifies him as a widowed, retired groceryman who died in Houston on 5 May 1932 and was buried at Pearland the next day. It gives his birth as 5 February 1857 in Illinois, while the 1900 census gives February 1856. The 1900 entry for Lester also gives a birth month and year that do not agree with his recorded age.",
@@ -365,7 +371,7 @@
    ],
    "quotes": [],
    "src": [
-    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-JSM",
+    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-J9R",
     "1920 U.S. census, Harris County, Lester and Sadah Livesay household: https://www.familysearch.org/ark:/61903/1:1:MHY4-98J",
     "Texas death record, Walter Livesay, 1912, naming Floyd Livesay and Alice Walker: https://www.familysearch.org/ark:/61903/1:1:K3WG-LFQ",
     "Texas death record, Floyd Hale Livesay, 1932: https://www.familysearch.org/ark:/61903/1:1:K332-H5B",
@@ -378,7 +384,9 @@
     "Harris County, Texas, marriage register, volume 4, page 402, handwritten no. 22072 (printed no. 21072), Lester W. Livesay and Sadah H. McCormick, license and officer’s return dated 10 October 1911; original digital film 004705678, image 528 of 555; original examined: https://www.familysearch.org/ark:/61903/3:1:939K-YF91-VM",
     "The Houston Post, 29 January 1912, “Walter Livesay” funeral notices, clippings on Find a Grave memorial 32130898 (Patrick Lee): https://www.findagrave.com/memorial/32130898/walter-z-livesay",
     "Find a Grave memorial 30808306, William Paul Livesay, Old Settlers Cemetery, Pearland: https://www.findagrave.com/memorial/30808306/william-paul-livesay",
-    "Lori Allbright, “Pearland, TX,” Handbook of Texas Online, Texas State Historical Association: https://www.tshaonline.org/handbook/entries/pearland-tx"
+    "Lori Allbright, “Pearland, TX,” Handbook of Texas Online, Texas State Historical Association: https://www.tshaonline.org/handbook/entries/pearland-tx",
+    "1910 U.S. census, Justice Precinct 5, Brazoria County, Floyd H. Livesay household: https://www.familysearch.org/ark:/61903/1:1:M29Z-1TC",
+    "1920 U.S. census, Harris County, ED 105, Floyd H. Livesay household: https://www.familysearch.org/ark:/61903/1:1:MHY4-9Z1"
    ],
    "imgs": [
     {
@@ -392,7 +400,7 @@
      "s": "img/docs/walter_livesay_obituary_houston_post_1912.jpg"
     }
    ],
-   "note": "Floyd’s original death certificate gives 5 February 1857, differing from February 1856 in the 1900 census. Neither parent is named on the certificate. David Livesay and Tabitha Flannigan remain unproved leads and are not linked as parents."
+   "note": "Floyd’s original death certificate gives 5 February 1857, differing from February 1856 in the 1900 census. Neither parent is named on the certificate. David Livesay and Tabitha Flannigan remain unproved leads and are not linked as parents. The 1900, 1910 and 1920 households name Walter A., Call T. (identified with William Paul on age only), Melvin T., Lester W., Ruth E. and Earl W. as Floyd and Alice’s children; the relationships are stated in the 1900 census."
   },
   {
    "id": "sandridge-broken-bow-research-lead",
@@ -16281,7 +16289,7 @@
     "Find a Grave memorial 10402446, Esther Voris Livesay: https://www.findagrave.com/memorial/10402446/esther-livesay",
     "Find a Grave memorial 19532158, Sadah M Vaughan, South Park Cemetery, Pearland; headstone photo by a mommy mouse (2007): https://www.findagrave.com/memorial/19532158/sadah-m-vaughan",
     "Find a Grave memorial 19532170, Sgt Jesse Pickard Vaughan, South Park Cemetery, Pearland: https://www.findagrave.com/memorial/19532170/jesse-pickard-vaughan",
-    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-JSM",
+    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household: https://www.familysearch.org/ark:/61903/1:1:M32B-J9R",
     "1920 U.S. census, Houston, ED 105, sheet 11A–11B, Lester W. Livesay household: https://www.familysearch.org/ark:/61903/1:1:MHY4-98J",
     "Texas death certificate 37586, Sadah Livesay Vaughan, 1978: https://www.familysearch.org/ark:/61903/3:1:33SQ-G5TQ-D8Y",
     "Lori Allbright, “Pearland, TX,” Handbook of Texas Online, Texas State Historical Association: https://www.tshaonline.org/handbook/entries/pearland-tx",
@@ -18853,7 +18861,7 @@
    "src": [
     "Texas Historical Commission, Atlas no. 5039009593, marker no. 9593, “Old Settlers Cemetery,” 4499 Halik Road, Pearland, Brazoria County (1988), marker text; read 3 Nov 2026: https://atlas.thc.texas.gov/Details/5039009593",
     "Texas death certificate no. 21353, Floyd Hale Livesay, Houston, 5 May 1932 (burial Pearland, 6 May 1932), as cited and imaged in the earlier story “From Illinois to the Texas Gulf Coast”: https://www.familysearch.org/ark:/61903/3:1:33SQ-GB98-SW27",
-    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household, as cited in the earlier story “From Illinois to the Texas Gulf Coast”: https://www.familysearch.org/ark:/61903/1:1:M32B-JSM",
+    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household, as cited in the earlier story “From Illinois to the Texas Gulf Coast”: https://www.familysearch.org/ark:/61903/1:1:M32B-J9R",
     "Find a Grave memorial 30808306, William Paul Livesay, Old Settlers Cemetery, Pearland, as cited in the earlier story “From Illinois to the Texas Gulf Coast” (not re-examined): https://www.findagrave.com/memorial/30808306/william-paul-livesay"
    ],
    "imgs": [],
@@ -19907,7 +19915,7 @@
    "body": [
     "Robert Livesay of Beaucoup and his sons are not the only Livesays who came from Tennessee. The Bethel (Darter) Cemetery listing in Beaucoup Township, built from probate and newspaper records, gives two. Robert B. Livesay died on 7 June 1891 at his daughter’s home at Locust Creek. The listing says he and his wife Nancy were born in Tennessee about 1825, married in Perry County, Illinois, on 26 May 1842, and had children including Sarah J., Charlotte Ann and Delila. A daughter, Charlotte Ann, died on 23 January 1852 aged 6 years, 6 months and 11 days, and her stone survives. The veterans’ list adds that he was a carpenter at Nashville, born in Maury County, Tennessee, who enlisted on 4 February 1865 in Co. I of the 154th Illinois Infantry and was mustered out at Nashville, Tennessee, on 18 September 1865. An earlier story set this Robert B. aside as too young to have bought land in 1838.",
     "John W. Livesay is the second. His obituary in the Nashville Journal, copied in the same listing, says he was born in Tennessee on 19 September 1826, “settled SE of Nashville in 1830,” married Mrs. Elizabeth M. Logan Sanders on 21 December 1848, and died at the home of a son in Nashville aged 79 years, 11 months and 10 days. The marriage register lists John W. Livesay and Elizabeth M. Sanders on that date. The obituary counts eight sons and a daughter. The age works out to late August 1906, but the transcription says September, so the exact day of death is not settled. He is easily confused: Alfred Livesay’s father was also John Wesley, and a John Wesley Livesay born about 1834 served in the 60th Illinois.",
-    "The third is a woman. The Richview Township Cemetery transcription lists Lilly Jane (Livesay) Thompson, 14 July 1824 to 4 December 1887, beside William Thompson, 24 October 1819 to 27 February 1879. The marriage register lists William Thompson and Lydia Jane Livesay on a license of 28 January 1841, when she was sixteen. A family biography of their son Thomas Benton Thompson says he was born near Richview on 24 January 1842, the first son and second child of eleven, served in the 49th Illinois from August 1862, and died on 3 February 1890. A first child, then a son within twelve months of the license, is a squeeze, so either the biography’s birth year is wrong or the first child was born before the marriage.",
+    "The third is a woman. The Richview Township Cemetery transcription lists Lilly Jane (Livesay) Thompson, 14 July 1824 to 4 December 1887, beside William Thompson, 24 October 1819 to 27 February 1879. The marriage register lists William Thompson and Lydia Jane Livesay on a license of 28 January 1841, when she was sixteen. A family biography of their son Thomas Benton Thompson says he was born near Richview on 24 January 1842, the first son and second child of eleven, served in the 49th Illinois from August 1862, and died on 3 February 1890. A first child, then a son within twelve months of the license, is a squeeze, so either the biography’s birth year is wrong or the first child was born before the marriage. The regiment’s Company F roll finds him as a recruit from Richview, mustered on 12 September 1862 and discharged on 1 July 1865 as a corporal. He joined five months after Shiloh, where the same company had lost a Richview private, John B. Walker, on 6 April 1862.",
     "None of the three names a parent. They fall in the same years and townships as Robert’s children, and John W.’s obituary says he settled in 1830, but nothing opened here ties them to Robert’s house or to John and Rebecca’s. They stay in the tree as unlinked people. The records that could place them are the estate files for Rebecca Livesay (numbered 26 and 36 in the county probate index), a Maury County marriage book or tax list, and the 1850 census of Washington County, whose partial online transcription at Genealogy Trails shows no Livesay."
    ],
    "quotes": [],
@@ -19918,10 +19926,11 @@
     "Genealogy Trails, Washington County, “Early Marriages” (William Thompson and Lydia Jane Livesay, license 28 Jan 1841, book A p. 7); volunteer transcription, read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/marriages.html",
     "Richview Township Cemetery, Washington County, Illinois (Livesay and Thompson entries), Genealogy Trails; volunteer transcription, read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/cems/rich/richview.html",
     "Genealogy Trails, Washington County, family records, “Thomas Benton Thompson” (written by Wayne Stinde); read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/familyrecords2.html",
-    "Index to Probate Records, Washington County, Illinois, pre-1910 (Livesay, Rebecca, estate 26 and 36); index only, as cited in an earlier story: https://www.genealogytrails.com/ill/washington/probateindex.html"
+    "Index to Probate Records, Washington County, Illinois, pre-1910 (Livesay, Rebecca, estate 26 and 36); index only, as cited in an earlier story: https://www.genealogytrails.com/ill/washington/probateindex.html",
+    "Illinois Civil War Muster and Descriptive Rolls, 49th Illinois Infantry, Company F (Thomas B. Thompson, recruit, Richview, mustered 12 Sep 1862, mustered out 1 Jul 1865 as corporal): https://civilwar.whalen-family.org/r050/049-f-in.html"
    ],
    "imgs": [],
-   "note": "Identities within each record set are probable; the Richview stone, the register and the family biography agree on Lydia Jane. Relationships to Robert Livesay, to John and Rebecca (Carter) Livesay or to each other are not established, and none of these people is linked to the Livesay line. The Richview listing also carries a Jackson Livesay (1842–1917) and Mary A. (1847–1930); he cannot be Jackson Monroe Livesay, who died in 1871 according to the sketch, and was not added."
+   "note": "Identities within each record set are probable; the Richview stone, the register and the family biography agree on Lydia Jane. Relationships to Robert Livesay, to John and Rebecca (Carter) Livesay or to each other are not established, and none of these people is linked to the Livesay line. The Richview listing also carries a Jackson Livesay (1842–1917) and Mary A. (1847–1930); he cannot be Jackson Monroe Livesay, who died in 1871 according to the sketch, and was not added. Thomas B. Thompson’s muster and discharge are from the Company F roll of the 49th Illinois."
   },
   {
    "id": "livesay-households-1855-state-census",
@@ -20014,11 +20023,12 @@
    "ev": "probable",
    "profile": false,
    "title": "Two Beaucoup-born Livesays in Texas, in the First World War draft lists",
-   "hook": "A volunteer list of draft registrations from Washington County, Illinois, names a Lester William Livesay living at Pearland and a Melvin Livesay working in the Texas oil fields. Both were born at Beaucoup. The first is Floyd and Alice’s son; the second may be his brother.",
+   "hook": "A volunteer list of draft registrations from Washington County, Illinois, names a Lester William Livesay living at Pearland and a Melvin Livesay working in the Texas oil fields. Both were born at Beaucoup, and both are sons in Floyd and Alice’s household in the 1900 census.",
    "people": [
     "MAT_LESTER_SR",
     "MAT_FLOYD_LIVESAY",
-    "MAT_ALICE_WALKER"
+    "MAT_ALICE_WALKER",
+    "MAT_MELVIN_LIVESAY"
    ],
    "subject": {
     "name": "Lester W. Livesay and Melvin Livesay",
@@ -20028,17 +20038,17 @@
    "body": [
     "The Washington County genealogy volunteers have compiled World War I and World War II draft registrations for men born or tied to the county, in columns by war. The list for surnames L includes Lester William Livesay, born on 8 November 1895 at Beaucoup, aged 22, married, a farmer residing at Pearland, Texas. That is the Lester W. Livesay Sr. of the tree: Beaucoup, the November birthday and Pearland all match, and his marriage to Sadah McCormick in 1911 explains the status of “married.”",
     "The birth year does not match the stone. Lester’s headstone at Alvin gives 8 November 1894, and the 1900 census, as the earlier Illinois-to-Texas story reports, listed him as born in November 1894; the list says 1895. If the age of 22 is right, the registration was made after his birthday in 1917, which fits the registration of September 1918 better than the first call of June 1917; the transcription gives no date for him, though it does for others.",
-    "The same list holds a second Beaucoup birth in Texas: Melvin Livesay, born on 15 October 1891 at Beaucoup, aged 26, single, an oil field worker, residing in Texas. The Beaucoup birth and the Texas residence make a family link plausible, because Floyd and Alice lived in Illinois until the mid-1890s and then left for Brazoria County with children, among them Lester and, soon after, a daughter born in Texas about 1898. No Melvin is named in the stories already on this site, but they name only Walter, William Paul, Lester and Ruth. The 1900 census household and the 1910 census would show whether a Melvin was in it.",
-    "The list is silent on two other sons. Walter, born about 1880, died in January 1912, and William Paul, born about 1883, died in April 1915, so neither could have registered; their absence is what the draft ages predict. The list does include several other Livesays born in the county, among them men at Ashley and Richview, who are from other families and are not discussed here."
+    "The same list holds a second Beaucoup birth in Texas: Melvin Livesay, born on 15 October 1891 at Beaucoup, aged 26, single, an oil field worker, residing in Texas. Floyd and Alice lived in Illinois until the mid-1890s and then left for Brazoria County with their children, and the 1900 census lists a Melvin T., twelve, among them. The census age points to about 1888 and the list to 1891, a three-year gap of the sort these records often hold, so the two are probably the same man.",
+    "The list is silent on the other sons. Walter, born about 1880, died in January 1912, and William Paul, born about 1883, died in April 1915, so neither could have registered; their absence is what the draft ages predict. Earl, born in Texas about 1904, was too young. The list does include several other Livesays born in the county, among them men at Ashley and Richview, who are from other families and are not discussed here."
    ],
    "quotes": [],
    "src": [
     "Genealogy Trails, Washington County, Illinois, “World War 1 and 2 Military Draft Registrations,” L–Z surnames, contributors Jerry Cowley and Roger Kemps (entries Livesay, Lester William and Livesay, Melvin); volunteer transcription, read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/military/draftreg2.html",
     "Find a Grave memorial 10402438, Lester William Livesay (headstone date 8 Nov 1894), cited in the earlier story “Lester W. Livesay Sr.: married at sixteen, buried at ninety-four”: https://www.findagrave.com/memorial/10402438/lester-william-livesay",
-    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household, as cited in the earlier story “From Illinois to the Texas Gulf Coast” (not re-examined): https://www.familysearch.org/ark:/61903/1:1:M32B-JSM"
+    "1900 U.S. census, Brazoria County, Floyd and Alice Livesay household, as cited in the earlier story “From Illinois to the Texas Gulf Coast” (not re-examined): https://www.familysearch.org/ark:/61903/1:1:M32B-J9R"
    ],
    "imgs": [],
-   "note": "Lester’s identification is probable, since three details agree. Melvin is a lead only: the surname and the Beaucoup birth are common to several families, and the list names no parents. Melvin is not added to the tree. The birth year for Lester (1894 on the stone and in the 1900 census as reported earlier, 1895 on the list) is not reconciled; no original registration card was examined."
+   "note": "Lester’s identification is probable, since three details agree. Melvin is probable too: the 1900 census lists a Melvin T., 12, as Floyd and Alice’s son, and the list’s Beaucoup birth and Texas residence agree with the family, but its birth date of 15 October 1891 is about three years later than the census age and the list names no parents. Melvin is in the tree as a son on the strength of the census. The birth year for Lester (1894 on the stone and in the 1900 census as reported earlier, 1895 on the list) is not reconciled; no original registration card was examined."
   },
   {
    "id": "walker-row-richview-1860",
@@ -21781,7 +21791,10 @@
     "xu3-005",
     "xs5-002",
     "xs5-001",
-    "MAT_WILLIAM_P_WALKER"
+    "MAT_WILLIAM_P_WALKER",
+    "xu3-008",
+    "xu3-009",
+    "xu3-010"
    ],
    "subject": {
     "name": "Rev. Simeon Walker and his son Levi",
@@ -21790,14 +21803,16 @@
    },
    "body": [
     "Simeon Walker was born in Jackson County, Georgia, on 13 April 1802, and was taken west as a boy; the family went to Kentucky in 1810, by one account. He grew up to be a Methodist preacher who rode circuit in Peter Cartwright’s day, and he was received into the conference in 1830. With his wife, Elizabeth Sharpe, he had six children by 1834, when failing health and money made him take a location and settle. Their son Levi Sharpe Walker was born in Clinton County, Illinois, on 14 September 1829.",
+    "Simeon’s own story began with a father he barely knew. Abram Walker took his wife, Rhoda Beauchamp, and their small son to the Illinois Territory in 1809, to a place on Silver Creek southeast of Lebanon. Indian troubles sent the family to Kentucky, and there, in January 1812, Abram died. Rhoda brought the boy back to Illinois in 1813 and settled on Turkey Hill, east of Belleville, within reach of her father, William Beauchamp, whose house was both a lodging for travelling Methodist preachers and a place of worship. In 1815 she married Henry Sharp. The Sharp name came into the family twice, for Simeon’s wife, Elizabeth Sharp, bore it as well, and whether the two Sharps were related nothing seen says.",
     "Settled or not, he went on preaching in the Washington County settlements. About 1833 he visited the first Methodist class at Nashville as its pastor, and he was among the ministers who served the church at Richview. In 1855–56, when the appointed pastor at Nashville died, he filled out the year, and in 1856 he went back to riding circuits. That same year, on 30 August, Levi was licensed to preach at Richview.",
+    "The boy grew into the man the conference remembers. At a camp meeting at Old Shiloh, in St. Clair County, on the morning of 30 August 1819, he was converted. He was an exhorter by 1820 and a licensed local preacher by 1826, and in the fall of 1830 the Illinois Conference took him on probation and sent him to the Grand Prairie Mission. Bishop Roberts ordained him deacon at Indianapolis on 9 October 1831, and Bishop Soule made him an elder at Union Grove, in St. Clair County, on 3 October 1833. A year later he located, and he rode circuits again from 1856.",
     "By then the household had changed. Simeon seems to have married again: a Simeon Walker and Sally Whittenburg were married on 11 August 1846. In 1850, in District 20, lived Simeon Walker, 48, a farmer with real estate worth $2,000, with Sally, 54, Simeon, 19, John, 17, Thomas, 10, and Eliza, 7, and two more whose names can no longer be read with confidence. His birthplace seems to have been given as Kentucky, where he grew up, rather than Georgia; Sally’s as South Carolina; and the children’s as Illinois. The age fits the preacher born in 1802, a wife of 54 with children of 10 and 7 fits a second marriage, and the nineteen-year-old Simeon was just the age of the future Captain Simeon Walker, born on 3 March 1831.",
     "Levi had married Martha Henrietta Barnes at Mascoutah on 29 December 1849. The younger Simeon married Etheldra Jane Walker on 15 September 1852, and at his wedding he was written down as Simeon Walker Jr.",
     "When the Civil War came, Levi and the younger Simeon went in together. Levi was commissioned chaplain of the 60th Illinois from 12 February 1862 and mustered on 17 February, giving his home as Richview, and he served the regiment as chaplain for three years. Simeon joined the same regiment that February as a sergeant and rose to captain of Company C, where William P. Walker served under him. Both men left the regiment on the same day, 14 March 1865, two days before Averysboro.",
     "Their father went too. At sixty-one the old circuit rider “entered the army as chaplain of the Fifteenth Illinois Cavalry,” as the Methodist historian James Leaton put it. He held the rank from 5 June 1863, was mustered on 23 July 1863 and was mustered out on 25 August 1864.",
     "After the war Levi was chaplain of the Southern Penitentiary at Chester for three years, and his daughter Flora married a merchant of Okawville. In 1879 the elder Simeon was still living at Richview, in the home of a son, spending the evening of his life in quiet. The son is not named; it was probably not Levi, who was then at Chester, so it may have been another. The old preacher died at his son’s residence at Carbondale on 22 February 1880.",
     "Levi’s wife, Martha, died on 2 April 1886, and on 29 September 1887 he married Mrs. Emma P. McCracken of Richview. He died on 6 April 1921, almost ninety-two, and was buried at Richview after a funeral there. Grown children survived him.",
-    "In 1894, living at Carbondale, the captain told his family’s story for a county biographical review. He was born in Clinton County on 3 March 1831, he said, the son of Simeon Walker, who had been brought from Georgia by his mother in 1811, who rode circuit in Peter Cartwright’s day, and who was appointed chaplain of the 15th Illinois Cavalry by Governor Richard Yates. His mother was Elizabeth Sharp. Of the twelve children, five sons became preachers and six went to war: William H., a captain in the 111th Illinois; Samuel, a lieutenant in the same regiment; Levi S., chaplain of the 60th; Thomas C., a private in the 111th; the captain himself; and John B., whom he remembered as a captain of the 40th Illinois killed at Shiloh, though no muster roll yet bears that out. Four were still living in 1894: Rev. Samuel of Carlyle, Rev. William H. of Kansas, Rev. Levi S. of Chester, and the captain, who drew a pension of $24 a month.",
+    "In 1894, living at Carbondale, the captain told his family’s story for a county biographical review. He was born in Clinton County on 3 March 1831, he said, the son of Simeon Walker, who had been brought from Georgia by his mother in 1811, who rode circuit in Peter Cartwright’s day, and who was appointed chaplain of the 15th Illinois Cavalry by Governor Richard Yates. His mother was Elizabeth Sharp. Of the twelve children, five sons became preachers and six went to war: William H., a captain in the 111th Illinois; Samuel, a lieutenant in the same regiment; Levi S., chaplain of the 60th; Thomas C., a private in the 111th; the captain himself; and John B., whom he remembered as a captain of the 40th Illinois killed at Shiloh. Thirty years may have blurred the rank and the regiment: the roll of Company F, 49th Illinois, raised around Richview, carries a Private John B. Walker of Richview, mustered on 31 December 1861 and killed at Shiloh on 6 April 1862, and he was very probably the brother. Four were still living in 1894: Rev. Samuel of Carlyle, Rev. William H. of Kansas, Rev. Levi S. of Chester, and the captain, who drew a pension of $24 a month.",
     "Taken together, the 1850 household, the “Jr.” at his wedding, the preacher’s long years near Richview, the brothers’ discharge on the same day and the captain’s own account make it very likely that Captain Simeon was the old preacher’s son. If so, Company C of the 60th Illinois was commanded by a chaplain’s brother and a cavalry chaplain’s son, with William P. Walker in its ranks."
    ],
    "imgs": [
@@ -21815,9 +21830,11 @@
     "Minutes of the Southern Illinois Conference of the Methodist Episcopal Church, 1921 session, memoir of Levi Sharpe Walker, pp. 72–73, OCR text read 4 Nov 2026: https://archive.org/details/minutesofsession677119181922meth",
     "1850 U.S. census, Washington County, Illinois, District 20, dwelling 280 (Simeon Walker household); NARA M432 reel 131, image n238 examined 4 Nov 2026: https://archive.org/details/7thcensus0131unit/page/n238/mode/1up",
     "Genealogy Trails, Washington County, “Marriages from Marriage Books A, B, D, E” (Simeon Walker and Sally Whittenburg, 11 Aug 1846; Simeon Walker Jr. and Etheldra Jane Walker, 15 Sep 1852); transcription, read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/marriages1.html",
-    "Biographical Review of Jackson, Massac, Pope and Hardin Counties, Illinois (1894), pp. 531–532, sketch of Capt. Simeon Walker of Carbondale; transcription by Norma Hass, Jackson County ILGenWeb: https://iljackson.whalen-family.org/biographies/walkersimeon1894.html"
+    "Biographical Review of Jackson, Massac, Pope and Hardin Counties, Illinois (1894), pp. 531–532, sketch of Capt. Simeon Walker of Carbondale; transcription by Norma Hass, Jackson County ILGenWeb: https://iljackson.whalen-family.org/biographies/walkersimeon1894.html",
+    "Levi S. Walker, autobiographical notes (about 1905), transcription of the handwritten sketch held at McKendree College, Clinton County ILGenWeb, Rev. Simeon Walker: https://clintonilgenweb.org/bios/display.php?IDnum=101",
+    "Illinois Civil War Muster and Descriptive Rolls, 49th Illinois Infantry, Company F (John B. Walker, Private, Richview, mustered 31 Dec 1861, killed at Shiloh 6 Apr 1862): https://civilwar.whalen-family.org/r050/049-f-in.html"
    ],
-   "note": "Probable, not proven. The two state rolls and Leaton’s sketch agree on a Chaplain Simeon Walker of the 15th Illinois Cavalry, and the county histories place a Rev. Simeon Walker at Richview, but no record seen says that Captain Simeon Walker was his son. The 1850 census birthplace (Kentucky) conflicts with Leaton’s (Georgia), and Leaton’s Carbondale death sits oddly beside the 1879 statement that he lived at Richview. The 1850 names of the two unread household members are not given. Levi’s place of death is not stated in the memoir. The earlier story of Etheldra and Simeon had left the captain’s father unlinked; that link is made here on the added evidence. His mother is not named, since Elizabeth Sharpe is named only as Levi’s mother and Sally in 1846 is a later wife."
+   "note": "Probable, not proven. The two state rolls and Leaton’s sketch agree on a Chaplain Simeon Walker of the 15th Illinois Cavalry, and the county histories place a Rev. Simeon Walker at Richview. Captain Simeon Walker’s own 1894 sketch names his parents as Simeon Walker, chaplain of the 15th Illinois Cavalry, and Elizabeth Sharp, and lists his brothers and sisters; it is the one record that states the father-son link, though it is a family account and not a contemporary record, and its transcription contains slips. The 1850 census birthplace (Kentucky) conflicts with Leaton’s (Georgia), and Leaton’s Carbondale death sits oddly beside the 1879 statement that he lived at Richview. Abram Walker and Rhoda Beauchamp, and the Henry Sharp marriage, rest only on Levi’s notes of about 1905 and are leads; they differ by a year or two from Leaton’s account of the move to Kentucky. John B. Walker’s identity with the Private of Company F, 49th Illinois, killed at Shiloh is a lead; no roll seen has a Captain Walker in the 40th Illinois. The 1850 names of two household members cannot be read with confidence."
   },
   {
    "side": "N",
@@ -21908,7 +21925,8 @@
     "xt1-007",
     "MAT_WILLIAM_P_WALKER",
     "xs5-002",
-    "xu3-003"
+    "xu3-003",
+    "xu3-010"
    ],
    "subject": {
     "name": "Washington County’s Union companies, 1861–1865",
@@ -21920,14 +21938,16 @@
     "The state’s rolls confirm some of these and place them. In the 49th Illinois, on page 515 of volume 3, James M. Livesay is a private of Company I whose residence is Nashville, enrolled on 1 November 1861 by the page’s ditto marks and mustered on 31 December, with the remark “Pro. 1st Serg’t and 2d Lt.” That is the town of the Carter family and of Livesay Carter’s son the surgeon. James M. is not in the tree, and no record opened here says how he stood to the Livesays of Beaucoup or the Carters.",
     "Company G is the larger find. The state prints it as Company G of the Thirteenth (Consolidated) Illinois Cavalry, and the names, down to the captain and the sergeants, are the same ones the county history files under the 62nd Infantry; the two printings differ on the regiment and this story follows the state’s. On page 438 of volume 8, First Sergeant Alexander Walker, of Richview, was enrolled on 21 December 1863 and mustered on 20 January 1864; he was commissioned second lieutenant on 11 July 1865 but not mustered in that rank, and was mustered out on 31 August 1865 as a sergeant. A few lines below, Corporal Nelson J. Livesay, of Ashley, has the same enrollment dates, by the ditto marks, and the same muster-out. The regiment’s history in the same volume puts it in Arkansas through the Camden expedition of April 1864 and then on scouts and picket at Pine Bluff, where one of the company’s sergeants died in July 1864.",
     "Alexander Walker of Richview connects to an open question. The story of the Walkers in a row at Richview in July 1860 reads, beside William P. Walker, an Alex Walker, 24, a farmer, with a Sarah A., 21, a Wm H., 3, and an infant, Edwin F., and says no record shows how he was related to the others. His name, his age and his Richview residence fit the state's sergeant, who would have been about twenty-seven in 1863, so the identification is probable and he is added to the tree without parents. It also means that two Walker men of Richview, William P. in the 60th Illinois and Alexander in the cavalry, were in the Union ranks at the same time; no record seen says they were brothers or cousins.",
-    "Nothing in these rolls proves kinship. Surnames this common in the county could belong to unrelated families, and the rolls give no parents. What they do give is a map for the next searches: the 1860 census households for James M., Andrew and Nelson Livesay, the pension index cards for each, and the veterans’ lists that name the soldiers’ later places of burial."
+    "Nothing in these rolls proves kinship. Surnames this common in the county could belong to unrelated families, and the rolls give no parents. What they do give is a map for the next searches: the 1860 census households for James M., Andrew and Nelson Livesay, the pension index cards for each, and the veterans’ lists that name the soldiers’ later places of burial.",
+    "One of those names has a known end. The state roll of Company F, 49th Illinois, shows John B. Walker of Richview, a private mustered on 31 December 1861, as killed at Shiloh on 6 April 1862. A brother’s 1894 sketch remembers a John B. Walker as a captain killed there, and the two are probably the same man; see the Walker story of the chaplains and the captain."
    ],
    "src": [
     "History of Washington County, Illinois (Philadelphia: Brink, McDonough & Co., 1879), roll of the county’s Civil War soldiers by regiment (44th, 49th, 60th and 62nd Infantry), OCR text read 4 Nov 2026: https://archive.org/details/il-washington-1879-brink",
     "Report of the Adjutant General of the State of Illinois, vol. 3 (Springfield: Phillips Bros., 1901), Forty-ninth Infantry, Company I, p. 515 (James M. Livesay, Nashville); page image n518 examined 4 Nov 2026: https://archive.org/details/reportofadjutantv3illi/page/n518/mode/1up",
     "Report of the Adjutant General of the State of Illinois, vol. 8 (Springfield: Journal Co., 1901), Thirteenth (Consolidated) Cavalry, Company G, p. 438 (Alexander Walker, Richview; Nelson J. Livesay, Ashley); page image n443 examined 4 Nov 2026: https://archive.org/details/reportofadjutantv8illi/page/n443/mode/1up",
     "Same volume, “History of Thirteenth Cavalry,” OCR text read 4 Nov 2026: https://archive.org/details/reportofadjutantv8illi",
-    "1860 U.S. census, Washington County, Illinois, Richview P.O., page 62, dwelling 450 (Alex Walker), as read in the earlier story “Walkers in a row: Richview, July 1860”; not reopened here: https://archive.org/details/populationschedu235unit/page/n65/mode/1up"
+    "1860 U.S. census, Washington County, Illinois, Richview P.O., page 62, dwelling 450 (Alex Walker), as read in the earlier story “Walkers in a row: Richview, July 1860”; not reopened here: https://archive.org/details/populationschedu235unit/page/n65/mode/1up",
+    "Illinois Civil War Muster and Descriptive Rolls, 49th Illinois Infantry, Company F: https://civilwar.whalen-family.org/r050/049-f-in.html"
    ],
    "note": "Lead. The county roll’s spellings (Livesly, Livesey, Livesay) are the printer’s and the volunteers’ lists were not checked for every name. Only James M. Livesay, Alexander Walker and Nelson J. Livesay were read in the state’s rolls here; the residences of the other Livesays were not. The state and county printings disagree on Company G’s regiment. Alexander Walker’s identity with the 1860 census’s Alex Walker is probable on name, age and place; his parents and any tie to William P. Walker are unknown."
   },
@@ -22721,34 +22741,37 @@
    "id": "melvin-livesay-pearland-1950",
    "side": "N",
    "gen": 5,
-   "ev": "lead",
+   "ev": "probable",
    "profile": false,
-   "title": "A Melvin Livesay in Pearland, 1950",
-   "hook": "The 1950 census finds an Illinois-born carpenter named Melvin T. Livesay a few sheets from Lester Jr.’s farm. He may be the Melvin of the First World War draft list, and so Lester Sr.’s brother, but nothing yet says so.",
+   "title": "Melvin T. Livesay: Floyd and Alice’s son, and the Pearland carpenter of 1950",
+   "hook": "Melvin was twelve in the 1900 census, the third son in Floyd and Alice Livesay’s Brazoria County house. Fifty years later an Illinois-born carpenter of the same name, sixty years old, was building in Pearland.",
    "people": [
     "MAT_FLOYD_LIVESAY",
     "MAT_ALICE_WALKER",
-    "MAT_LESTER_SR"
+    "MAT_LESTER_SR",
+    "MAT_MELVIN_LIVESAY"
    ],
    "subject": {
     "name": "Melvin T. Livesay",
-    "rel": "Possible brother of a maternal ancestor (unproven)",
-    "years": "born about 1890"
+    "rel": "Son of maternal ancestors Floyd and Alice Livesay",
+    "years": "born about 1888"
    },
    "body": [
-    "An earlier story on the First World War draft lists found a Melvin Livesay, born on 15 October 1891 at Beaucoup, Illinois, who worked in the Texas oil fields and was single. He might have been a son of Floyd and Alice, who left Beaucoup for Pearland in the 1890s, but the list names no parents and no Melvin appears in the stories about the 1900 household. The 1950 census adds a Melvin who lived in Pearland itself.",
-    "In enumeration district 20-55 of Brazoria County, the same district as Lester Jr.’s farm household of 3 May 1950, sheet 28 ends with dwelling 256: Livesay, Melvin T., head, white, male, 60, married, born in Illinois. He worked 24 hours in the week before the census as a carpenter in construction and was in business for himself. The household is marked as continued, and line 1 of the next sheet reads Daisy E., wife, 47, married, born in Mississippi. They were the only two people in the dwelling.",
-    "The ages do not agree cleanly. Sixty in April 1950 points to a birth about 1889 or 1890, while the draft list gives October 1891, which would make him 58. A gap of a year or two is common in these records, and the family’s own dates for Lester Sr. have wandered between 1894 and 1895 in the same way. Birth in Illinois fits, only two pages of the Brazoria County index carry the surname, and a carpenter in 1950 could have been an oil-field hand in 1918. Those points make the match with the draft-list Melvin reasonable but not secure.",
-    "Whether either Melvin belongs to Floyd and Alice is the real question, and the census does not answer it. The Beaucoup township had many Livesay households in the 1850s and later, as the Illinois stories show, so an Illinois-born Melvin Livesay in Texas could come from another branch of the name. A son born in October 1891 would have been eight years old in the 1900 census household in Brazoria County and should be listed in it, and the 1910 census would show him at about nineteen. Neither household list has been read for this story. Until one is, Melvin and Daisy stay out of the tree."
+    "Melvin T. Livesay grew up between two states. Born in Illinois about 1888, he was a boy of six or seven when his parents, Floyd and Alice, left Washington County for the new fruit-growing town of Pearland, and in the census of June 1900 he is the twelve-year-old son between Call, seventeen, and Lester, six. By 1910, when his parents’ house held only Lester, Ruth and the little Texas-born Earl, he had gone out on his own.",
+    "Two later records give a Melvin Livesay his own life. A Washington County volunteer list of draft registrations, made from men born at Beaucoup, has a Melvin Livesay born there on 15 October 1891, single, working in the Texas oil fields, in 1917 or 1918. The age is three years short of the census boy, but ages ran loose in this family: Lester Sr. is 1894 on his stone and 1895 on his draft card, and the same Beaucoup birthplace and Texas residence make the two Melvins very likely one man.",
+    "In April 1950 the census taker in enumeration district 20-55 of Brazoria County, the district of Lester Jr.’s farm, came to dwelling 256: Melvin T. Livesay, head, sixty, born in Illinois, a carpenter working for himself, who had put in twenty-four hours the week before. His wife Daisy E., forty-seven and born in Mississippi, was the only other person in the house. Sixty puts his birth about 1889 or 1890, close to the census boy of 1900 and to the oil-field hand of 1918, and a carpenter in Pearland in 1950 is just where an oil-field hand and farm boy might have ended up. He lived within a few sheets of his nephew Lester Jr.",
+    "The match between the boy of 1900 and the carpenter of 1950 rests on the first name, the middle initial, the age and the Illinois birthplace, and it is probable rather than proved. No dates of death have been found for him or for Daisy."
    ],
    "quotes": [],
    "src": [
+    "1900 U.S. census, Justice Precinct 5, Brazoria County, Floyd Livesay household (Melvin T, son, 12): https://www.familysearch.org/ark:/61903/1:1:M32B-J9R",
     "1950 U.S. census, Texas, Brazoria County, enumeration district 20-55, sheet 28, dwelling 256, line 30, Melvin T. Livesay, head, 60, born Illinois, carpenter (image 43290879-Texas-047302-0029); National Archives 1950 census website, examined 4 Nov 2026: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Texas%2F43290879-Texas-047302%2F43290879-Texas-047302-0029.jpg/full/full/0/default.jpg",
     "1950 U.S. census, Texas, Brazoria County, enumeration district 20-55, next sheet, line 1, Daisy E. Livesay, wife, 47, born Mississippi (image 43290879-Texas-047302-0030); examined 4 Nov 2026: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Texas%2F43290879-Texas-047302%2F43290879-Texas-047302-0030.jpg/full/full/0/default.jpg",
-    "1950 U.S. census name search “Livesay,” Brazoria County, Texas (index lists the entry under “Livesay Daisy E”), search page read 4 Nov 2026: https://1950census.archives.gov/api/search?name=Livesay&state=TX&county=Brazoria"
+    "1950 U.S. census name search “Livesay,” Brazoria County, Texas (index lists the entry under “Livesay Daisy E”), search page read 4 Nov 2026: https://1950census.archives.gov/api/search?name=Livesay&state=TX&county=Brazoria",
+    "Genealogy Trails, Washington County, Illinois, “World War 1 and 2 Military Draft Registrations,” L–Z surnames (Livesay, Melvin): https://www.genealogytrails.com/ill/washington/military/draftreg2.html"
    ],
    "imgs": [],
-   "note": "Lead only. The census gives ages and birthplaces but no relationships beyond the household, and no record names Melvin’s parents. His identity with the Melvin Livesay of the draft list rests on the first name, Illinois birth and Texas residence, with a two-year age gap. Neither Melvin nor Daisy is added to the tree. Other Livesay households in Houston in the 1950 index (an Earl W., born in Texas about 1905, among them) were looked at only far enough to see that nothing ties them to Floyd and Alice."
+   "note": "Probable. The 1900 census states Melvin T. as Floyd Livesay’s son, so his place in the family is as good as that record; his identity with the Melvin T. Livesay of the 1950 census (age 60, born Illinois, carpenter) and with the Melvin Livesay of the draft-registration list (born 15 October 1891 at Beaucoup, three years later than the census age implies) is probable, not proved. Daisy E. is known only from the 1950 census and is not in the tree. An Earl W. Livesay in Houston in 1950 was not followed; the Earl W. of Floyd’s 1910 and 1920 households is added as a son."
   },
   {
    "id": "another-ida-whitfield-valliant",
@@ -22923,17 +22946,18 @@
     "By 1900 they were living in Justice Precinct 1 of Nacogdoches County, the part east of the railroad outside the town. Thomas, written down that year as Thos W. Turner, was 49, born in October 1851 in Tennessee, and seven years married. Emma A. was 28 and born in Louisiana. They had three children: a daughter of four, a son of two whose name was taken down as something like Doytre, and a baby daughter, Beaulah B. When the household was counted on 1 June 1900 the baby was said to be no days old, though by her own later account Beulah had been born on 5 February, four months before; one of the two dates is wrong.",
     "By 1910 the family had moved into the town of Nacogdoches itself, and there were seven children: Verra, 13; Datro, 12; Beulah, 10; Thelma, 8; Opal, 5; Harval, 3; and Ivey, an infant. The father, now T. M. Turner, was 55 and said to have been born in Pennsylvania; Emma was 34 and, as before, a native of Louisiana.",
     "Thomas is hard to pin down. His middle initial was written W, M and N; his birthplace was Tennessee in 1900 and Pennsylvania in 1910; and Emma’s age shifted enough to put her birth near 1872 at one count and 1876 at the next. Through it all, Emma’s Louisiana birth, the children’s names and the Nacogdoches home held steady.",
-    "No one has yet found where Thomas was born or who his parents were. Emma Stacy’s parents are unknown too, with her Louisiana birth the only clue, and so are the dates and burial places of both. Family trees give them deaths in 1916 and 1964, but nothing yet confirms those years."
+    "No one has yet found where Thomas was born or who his parents were; family trees give him a death in 1916 that nothing confirms. Emma’s people may be a Stacy family of Nacogdoches. James Willis Stacy, born on 27 September 1847 in Natchitoches Parish, Louisiana, and Mary Jane Edwards, born in Arkansas on 16 March 1847, married in Nacogdoches on 22 March 1866, and their daughter Emory Ann, born in Louisiana in 1871, married a Turner and lived to 1964. James Willis died at Lufkin on 3 March 1925 and Mary Jane in Nacogdoches on 6 March 1918, and both lie in Christian Cemetery at Nacogdoches. His parents were Alexander Franklin Stacy and Eliza Ann Wagley. The name Emory, the Louisiana birth, the Nacogdoches home and the Turner marriage all fit Emma, but nothing names her husband as Thomas, so this stays a lead and she is not attached to them in the tree."
    ],
    "quotes": [],
    "src": [
     "Texas County Marriage Records, T. N. Turner and Emma Stacy, 17 Sep 1893, Nacogdoches: https://www.familysearch.org/ark:/61903/1:1:Q2ZY-TXPB",
     "U.S. Census 1900, Thos W. Turner household, Justice Precinct 1, Nacogdoches County, Texas: https://www.familysearch.org/ark:/61903/1:1:M3PP-C9H",
     "U.S. Census 1910, T. M. Turner household, Nacogdoches, Texas: https://www.familysearch.org/ark:/61903/1:1:M2SK-WX9",
-    "U.S. Social Security Numerical Identification Files, Beulah B. Phillips, parents Tom N. Turner and Emory A. Stacy: https://www.familysearch.org/ark:/61903/1:1:6K7P-V7J6"
+    "U.S. Social Security Numerical Identification Files, Beulah B. Phillips, parents Tom N. Turner and Emory A. Stacy: https://www.familysearch.org/ark:/61903/1:1:6K7P-V7J6",
+    "Beyond the Tree, “Children of Alexander Franklin Stacy and Eliza Ann Wagley” (19 Oct 2013), entries for James Willis Stacy and Mary Jane Edwards and for Emory Ann Stacy Turner (1871–1964): https://msasser-genealogy.blogspot.com/2013/10/children-of-alexander-franklin-stacy.html"
    ],
    "imgs": [],
-   "note": "Proven for the link to Beulah, who is named as their daughter on her own application and appears in both households. Thomas’s initial, birthplace and age differ from record to record, and no dates of death have been seen."
+   "note": "Proven for the link to Beulah, who is named as their daughter on her own application and appears in both households. Thomas’s initial, birthplace and age differ from record to record, and no dates of death have been seen. Possible parents (James Willis Stacy and Mary Jane Edwards) come from a family-history blog that never names Emory Ann’s husband; a lead only, not linked."
   },
   {
    "id": "elizabeth-walker-beaucoup-1919",
