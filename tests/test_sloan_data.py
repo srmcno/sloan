@@ -73,8 +73,10 @@ class SloanArchiveTests(unittest.TestCase):
         merry = PEOPLE['MAT_LEWIS_MERRY']
         self.assertEqual(merry['n'], 'Lewis Merry')
         self.assertEqual(merry['ev'], 'probable')
-        self.assertIsNone(merry.get('f'))
-        self.assertIsNone(merry.get('m'))
+        # Parents linked 4 Nov 2026 (owner approved): Dawes card 5754 names Calvin and Elizabeth Merry,
+        # and the 1880 Sevier Co., Ark. census lists Joshua L. as son of Calvin and Eliza J. Merry.
+        self.assertEqual(merry.get('f'), 'MAT_CALVIN_MERRY')
+        self.assertEqual(merry.get('m'), 'MAT_ELIZA_JANE_MCGREGOR_MERRY')
         story = next(s for s in CONTENT['stories'] if s['id'] == 'ida-merry-enrollment')
         narrative = ' '.join(story['body'])
         for reference in ('Choctaw D 128', '7-D 128', 'J. L.', 'Lewis', 'Louis'):
