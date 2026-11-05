@@ -12499,7 +12499,18 @@
     "WikiTree Stevenson-15611 and Stevenson-15610 with the 1870 and 1880 census transcriptions",
     "Goodspeed list of Elam's children, p. 872."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/p/elam-augustus-stevenson-crop.jpg",
+     "cap": "Rev. Dr. Elam Augustus Stevenson, seated: a crop from a mid-1800s photograph of him with his wife Hannah Celia (Carolan).",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/elam-augustus-stevenson-and-hannah-celia.jpg",
+     "cap": "Rev. Elam Augustus Stevenson, M.D., D.D., son of Rev. Elam Stevenson and Lydia Catherine Payne, seated beside his wife Hannah Celia (Carolan), who is standing.",
+     "kind": "photo"
+    }
+   ],
    "tags": [],
    "kv": [],
    "note": "This Elam A. Stevenson is called \"Elam A., Jr.\" in the Casey family history, which gives his wife as Mrs. Hannah Celia Wright.",
@@ -12671,6 +12682,31 @@
      "s": "img/p/william-allen-oneal.jpg",
      "cap": "William Allen O'Neal (1863-1933), Parsis's brother, in shirtsleeves in a slat-back chair in his later years. Find a Grave Person photo on his memorial at Blackfoot Cemetery, Pike County, Indiana.",
      "kind": "photo"
+    },
+    {
+     "s": "img/p/john-sherman-oneal-portrait.jpg",
+     "cap": "Probably John Sherman O'Neal as a young man: a studio photograph of him standing in a hat and suit, with a ribbon on his lapel.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/george-johnson-oneal-couple-crop.jpg",
+     "cap": "Probably George Johnson O'Neal in middle age: a crop from a portrait of a couple.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/george-johnson-oneal-later-years.jpg",
+     "cap": "Probably George Johnson O'Neal in old age, in overalls, seated with his hands folded.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/daniel-clinton-oneal-portrait.jpg",
+     "cap": "Probably Daniel Clinton 'Clint' O'Neal in later life, in a white shirt in front of a clapboard house.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/charity-louisa-oneal-skomp-portrait.jpg",
+     "cap": "Probably Charity Louisa 'Louise' (O'Neal) Skomp in later life, in glasses and a dark hat.",
+     "kind": "photo"
     }
    ],
    "tags": [],
@@ -12716,7 +12752,23 @@
     "The Tuttle Times (Tuttle, Okla.), Thu. 17 Nov 1960, p. 1, 'Celebrates 100th' (also The Minco Minstrel, 17 Nov 1960, p. 6), Newspapers.com image 593108135",
     "The Chickasha Star, Thu. 24 Nov 1960, p. 6, 'Mrs. Mary Wilson Honored On 100th Birthday At Tuttle', Newspapers.com image 715859836."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/p/mary-elizabeth-oneal-wilson-age-100-crop.jpg",
+     "cap": "Mary Elizabeth Wilson at 100, in a lace collar, from the Oklahoma newspaper story 'Tuttle Woman Hits Century', November 1960.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/mary-elizabeth-oneal-wilson-tuttle-1960-clipping.jpg",
+     "cap": "'Tuttle Woman Hits Century': the full clipping, with her portrait, November 1960.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/mary-elizabeth-oneal-rinker-standing-crop.jpg",
+     "cap": "Mary as a younger woman in a checked dress, about 1900-1910: a crop from an oval family photograph.",
+     "kind": "photo"
+    }
+   ],
    "tags": [],
    "kv": [],
    "note": "Names and dates for her children and husbands are from WikiTree; the Rinker and Wilson marriages are not checked against a county marriage register.",
@@ -35949,6 +36001,36 @@
   "img/archive/frank-whitfield-portrait.jpg": {
    "url": "https://www.findagrave.com/memorial/9084876/x/photo",
    "credit": "Photo: JEF, Find a Grave"
+  },
+  "img/p/elam-augustus-stevenson-crop.jpg": {
+   "url": "https://www.findagrave.com/memorial/33894235/x/photo"
+  },
+  "img/p/elam-augustus-stevenson-and-hannah-celia.jpg": {
+   "url": "https://www.findagrave.com/memorial/33894235/x/photo"
+  },
+  "img/p/mary-elizabeth-oneal-wilson-age-100-crop.jpg": {
+   "url": "https://www.findagrave.com/memorial/41943603/x/photo"
+  },
+  "img/p/mary-elizabeth-oneal-wilson-tuttle-1960-clipping.jpg": {
+   "url": "https://www.findagrave.com/memorial/41943603/x/photo"
+  },
+  "img/p/mary-elizabeth-oneal-rinker-standing-crop.jpg": {
+   "url": "https://www.findagrave.com/memorial/41943603/x/photo"
+  },
+  "img/p/john-sherman-oneal-portrait.jpg": {
+   "url": "https://www.findagrave.com/memorial/10196488/x/photo"
+  },
+  "img/p/george-johnson-oneal-couple-crop.jpg": {
+   "url": "https://www.findagrave.com/memorial/23548256/x/photo"
+  },
+  "img/p/george-johnson-oneal-later-years.jpg": {
+   "url": "https://www.findagrave.com/memorial/23548256/x/photo"
+  },
+  "img/p/daniel-clinton-oneal-portrait.jpg": {
+   "url": "https://www.findagrave.com/memorial/24711980/x/photo"
+  },
+  "img/p/charity-louisa-oneal-skomp-portrait.jpg": {
+   "url": "https://www.findagrave.com/memorial/158664629/x/photo"
   }
  }
 }
