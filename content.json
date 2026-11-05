@@ -908,7 +908,9 @@
    "hook": "A father’s permission survived with John and Lizzie’s Alabama marriage papers.",
    "profile": false,
    "people": [
-    "I352820878212"
+    "I352820878212",
+    "A:john-c-shackleford",
+    "A:tinsey-duke-shackleford"
    ],
    "subject": {
     "name": "John Morgan Shackleford & Lizzie Newton",
@@ -13786,7 +13788,8 @@
     "When Eunice was enrolled at Goodland in Kiamitia County on 10 May 1899, she was 49, full-blood, the daughter of Jackson and Viney Gardner, both dead, of Blue County. Her sons William H., 16 (on the 1896 roll as \"William Harrison\"), and Robert, 11, were enrolled with her, their father, \"Joseph Pisachubbe,\" dead. Also with them was not a son but Edward Pisachubbe, 17, her ward, whose own dead parents were Simpson and Sallie Pisachubbe of Jackson County, and who was already the husband of Frances Byington.",
     "In 1896 Eunice, Robert and Edward had been counted together as one household in Kiamitia County. William was not with them; he was away at school, and an August 1899 student list from Armstrong Academy put him down again as \"Harrison\"; a finding in 1911 held that he had been enrolled twice. All four were approved by the Secretary of the Interior on 12 December 1902.",
     "William's son Colbert, born on 26 June 1906, was refused enrollment because he came after the 4 March 1906 cutoff. To settle the question of William's double enrollment, testimony was taken in 1909 from four witnesses, and the Commissioner's letter of 1 August 1911 lists them: William H. Pisachubbe, Eunice Pisachubbe, Harrison Nohio and Thomas Hunter.",
-    "Eunice’s land lay in Section 29 of Township 5 South, Range 17 East, less two strips for the St. Louis and San Francisco Railway’s right of way: 10.80 acres from one tract and .01 acre from another, leaving 159.19 acres. Robert and William asked the court to approve a $1,200 deed to L. C. Hudgens; whether the court approved it is not known."
+    "Eunice’s land lay in Section 29 of Township 5 South, Range 17 East, less two strips for the St. Louis and San Francisco Railway’s right of way: 10.80 acres from one tract and .01 acre from another, leaving 159.19 acres. Robert and William asked the court to approve a $1,200 deed to L. C. Hudgens; whether the court approved it is not known.",
+    "William H. went to school at Armstrong Academy in 1899 under the name Harrison, and for twelve years the Dawes rolls carried him twice, once as William H. and once as Harrison, until the Indian Office struck the duplicate in 1911. In the summer of 1927, a few weeks after their mother's death, Robert and Lizzie and William and Adeline sold forty acres of land to L. C. Hudgens."
    ],
    "quotes": [],
    "src": [
@@ -13795,7 +13798,8 @@
     "Dawes Card 1580 (1896 census numbers and marginal notes)",
     "Choctaw Commissioner's letter, 1 Aug. 1911 (jacket 7-1580)",
     "Choctaw County Court, Estate of Eunice Pisachubbe, Petition for Approval of Full Blood Deed, 1927",
-    "Choctaw by Blood enrollment card 1580, National Archives."
+    "Choctaw by Blood enrollment card 1580, National Archives.",
+    "The Southeast Oklahoman, 4 Aug 1927, p. 4, real estate transfers: https://www.newspapers.com/image/904206882/"
    ],
    "imgs": [
     {
@@ -15434,13 +15438,16 @@
     "Their moves can be followed in order. In 1771 they transferred to Hopewell Monthly Meeting near Winchester, Virginia. They then lived for eight years in Georgia, where their son Aden was shot in the arm in an Indian attack, and where their son Micajah, born in 1771 in Stafford County, Virginia, hid through a night in the woods at the age of four when an invasion was feared. In 1788 they joined Deep River Meeting in North Carolina, where their son Aden had married Martha Johnson the December before. In 1798 they moved to Lost Creek Meeting near Knoxville, a settlement whose Friends had been refused leave to meet in 1787 because the land title was still disputed with the Indians, and in 1805 to a farm near New Vienna in Clinton County, Ohio, where they helped start East Fork Meeting.",
     "Lost Creek, near New Market a few miles north of Knoxville, was already a settlement with a history of trouble. In 1787 Friends there, near the Holston River, asked New Garden Monthly Meeting for the right to hold meetings and were refused, because they had “settled on lands the title to which was still in dispute with the Indians,” and were told to move off. The Western Quarterly Meeting added in 1792 that no Friend should “remove and settle out of the limits of a Monthly Meeting without first applying to and having consent.” A meetinghouse went up at Lost Creek in 1796. The Nordykes reached it two years later, and it was from there that, as a Quaker historian wrote, many Tennessee Friends “drifted on, like Charles Osborn and William Williams, to the Northwest.”",
     "The last move put Micajah, then 34, his wife Charity, 26, with an infant in her arms and children of three, five and seven, and the “aging grandparents” on the road north. They bought land near what became New Vienna and “helped start a Friends Meeting which was called East Fork,” on a lot that was part of the Nordyke farm. “Micajah had to go to Chillicothe, forty miles distant, to get flour and sugar,” and Charity kept wolves off with brimstone on the fire. One account dates this move to 1805, another to 1806.",
-    "Their children included Aden, Israel, Benajah, Beulah, Micajah, Daniel, Phebe and Hiram, and the Quaker habit of recording the hour of birth survives: \"Aden was born at 7:00 P.M.; Israel at 3:00 P.M.; Benajah at 9:00 P.M.\" Mary died in 1814 and Abraham’s burial at East Fork was recorded in 1825, at 89, though another account gives 1822, so the year of his death is unsettled. Aden's daughter Sicily, born in 1790, married Noble Shaw in Guilford County, North Carolina; if Parses Shaw of Gibson County, Indiana, was their daughter, the line runs on to the O'Neals, the Stevensons and the Hulseys of Arkansas."
+    "Their children included Aden, Israel, Benajah, Beulah, Micajah, Daniel, Phebe and Hiram, and the Quaker habit of recording the hour of birth survives: \"Aden was born at 7:00 P.M.; Israel at 3:00 P.M.; Benajah at 9:00 P.M.\" Mary died in 1814 and Abraham’s burial at East Fork was recorded in 1825, at 89, though another account gives 1822, so the year of his death is unsettled. Aden's daughter Sicily, born in 1790, married Noble Shaw in Guilford County, North Carolina; if Parses Shaw of Gibson County, Indiana, was their daughter, the line runs on to the O'Neals, the Stevensons and the Hulseys of Arkansas.",
+    "Abraham came to the Friends by choice, not by birth: Burlington Meeting took him in as a member in April 1758, three years before he married Mary Rogers, whose parents stood up in the meeting to give their consent. Over the next twenty-five years the family's certificates carried them from Burlington to Chesterfield and back, to Bush River in South Carolina, to Wrightsborough in the Georgia backcountry, and in 1783 to Deep River in North Carolina."
    ],
    "quotes": [],
    "src": [
     "C. Clayton Terrell, Terrell-Nordyke Genealogy (1960), pp. 13-15 Weeks, Southern Quakers and Slavery (1896), pp. 251-54 (Lost Creek, 1787); site story 'Six homes in forty-four years'.",
     "Terrell-Nordyke Genealogy (1960), archive.org/details/terrellnordykege00terr",
-    "S. B. Weeks, Southern Quakers and Slavery (1896), pp. 251-54, archive.org/details/southernquakerss00week"
+    "S. B. Weeks, Southern Quakers and Slavery (1896), pp. 251-54, archive.org/details/southernquakerss00week",
+    "Ancestry, U.S. Quaker Meeting Records: Burlington MM minutes 3 Apr 1758, 4 May 1761, 3 Mar 1766, 6 Mar 1769",
+    "Wrightsborough MM certificate to Deep River, 4 Oct 1783"
    ],
    "imgs": [
     {
@@ -15483,12 +15490,15 @@
    "body": [
     "Henry Nordyke of Burlington County and Rebecca Perkins of Wellingborough were granted a New Jersey marriage license on 6 January 1731/2. A license gives permission to marry, not the ceremony or its date. Her father’s will of 26 October 1731 names his daughter Rebeckah without a husband; her brother David’s will, dated January 1731/2, calls her Henry’s wife. A family page places Henry’s birth on 2 January 1710 in the Netherlands, but no ship or church record has been found, so his Dutch origin is only a possibility.",
     "Henry's name appears again in the estates of his wife's family. Her father, Jacob Perkins Jr., made his will on 26 October 1731, naming his wife Sarah and ten children, among them Rebeckah, and listing bonds due him \"from James Smith, Esq., John Shinn and Henry Nordike.\" He left ten pounds to St. Mary's Church, Burlington. The will was proved on 7 December. Rebecca's brother David then died too; his will of January 1731/2 names \"Sister, Rebecca, wife of Henry Nordike\" and was witnessed by Henry himself, and it was proved on 4 March 1731/2.",
-    "Their son Abraham, who died at 89 in 1825 by one account (1822 by another), was born about 1736; he was a member of Chesterfield Meeting when he married Mary Rogers in 1761. From there the line goes to Guilford County, North Carolina, to Ohio and Indiana."
+    "Their son Abraham, who died at 89 in 1825 by one account (1822 by another), was born about 1736; he was a member of Chesterfield Meeting when he married Mary Rogers in 1761. From there the line goes to Guilford County, North Carolina, to Ohio and Indiana.",
+    "Henry was not a Quaker. His son Abraham asked to join the Burlington Friends in March 1758 and was received a month later, and when Abraham and Mary Rogers passed meeting in May 1761, Henry did not come; he sent his consent in writing."
    ],
    "quotes": [],
    "src": [
     "New Jersey State Archives, marriage license for Henry Nordyke and Rebecca Perkins, 6 January 1731/2 (copy supplied by family)",
-    "Jacob Perkins Jr. will, 26 October 1731, and David Perkins will, January 1731/2, Calendar of New Jersey Wills, Lib. 3 p. 102 and Lib. 8 p. 184."
+    "Jacob Perkins Jr. will, 26 October 1731, and David Perkins will, January 1731/2, Calendar of New Jersey Wills, Lib. 3 p. 102 and Lib. 8 p. 184.",
+    "Ancestry, U.S. Quaker Meeting Records: Burlington MM minutes 3 Apr 1758, 4 May 1761, 3 Mar 1766, 6 Mar 1769",
+    "Wrightsborough MM certificate to Deep River, 4 Oct 1783"
    ],
    "imgs": [
     {
@@ -18494,7 +18504,8 @@
     "What this does not show matters as much. Every sketch is the man's own account, and none links Jackson Gardner to Viney, to Blue County or to a daughter Eunice. Wheelock was a mission and academy, and the sketch does not say which county it lay in. A history of the Tobucksy County courthouse at McAlester also names a Josiah Gardner, a full-blood Choctaw lawyer who could neither read nor write; whether he is the Wheelock-born Josiah is not known. Whether Josiah was Eunice's brother stays unsettled.",
     "A Choctaw family researcher’s transcription of the 1855 census adds one candidate. In the Chickasaw District, a Jackson Gardner kept house with Mary Gardner, Simeon, Abiline, Alfred, Jesse, Josiah and Harriet. The Dawes cards, forty-odd years later, fill in some of the grown children. Jesse J. Gardner, 50, Alfred W., 51, and Josiah, 50, a full-blood, all named Jackson and Mary Gardner as their parents. Lon Gardner, 25, full-blood, named Simeon and Harriet. The 1891 sketch of the Wheelock-born lawyer Josiah Gardner calls him “a fourth son of Jackson Gardner” of the Oklafalaya clan; if Abiline was a daughter, Josiah is the fourth son in that census list, and the sketch fits.",
     "The same transcriber also pointed to a Jackson, twelve, in the household of William Gardner, 34, on the removal-era lists of 1831, which would make a Jackson born about 1819, though the match is her own guess. A trees-only tradition puts Eunice’s father at about 1820 in Mississippi. They fit, and that is all they do.",
-    "The trouble is Eunice herself. She was about five in 1855 and is not among the children, and her card gives the mother as Viney, not Mary. Either she belonged to a different Jackson Gardner, or Jackson had had an earlier wife, Viney, and Eunice grew up under another roof, or the clerks wrote the names down differently in 1899. Until the cards themselves are opened, Jackson of the Chickasaw District is a candidate and not an ancestor."
+    "The trouble is Eunice herself. She was about five in 1855 and is not among the children, and her card gives the mother as Viney, not Mary. Either she belonged to a different Jackson Gardner, or Jackson had had an earlier wife, Viney, and Eunice grew up under another roof, or the clerks wrote the names down differently in 1899. Until the cards themselves are opened, Jackson of the Chickasaw District is a candidate and not an ancestor.",
+    "Four of Josiah's brothers and sisters, Jesse, Alfred, Harriet and Josiah himself, enrolled in 1899 and every one named the same father: Jackson Gardner, dead, of Blue County, the very words on Eunice's card. Their mother was Mary; Eunice's was Viney. Born about 1850, Eunice sits in the middle of Mary's children, so if she was Jackson's daughter she was probably a half-sister, the child of another wife."
    ],
    "quotes": [
     {
@@ -18510,7 +18521,8 @@
     "Oklahoma Historical Society Dawes final roll index, card 1580, index only: https://www.okhistory.org/research/dawesresults?fname=&lname=&tribe=Choctaw&rollnum=&cardnum=1580 (searched 2 Nov 2026).",
     "Jennifer H., ‘Notes on Gardner family of Choctaw,’ 31 Oct 2020, https://jenniferhsrn.blogspot.com/2020/10/notes-on-gardner-family-of-choctaw.html (transcriptions of the 1831 roll, 1855 Chickasaw District census and Dawes card index; read 4 Nov 2026)",
     "Dawes Card 1580 (Eunice)",
-    "H. F. O’Beirne, Leaders and Leading Men of the Indian Territory, vol. 1 (1891), sketch of Josiah Gardner, as already cited in ‘Gardner men of Blue County in the 1891 sketches.’"
+    "H. F. O’Beirne, Leaders and Leading Men of the Indian Territory, vol. 1 (1891), sketch of Josiah Gardner, as already cited in ‘Gardner men of Blue County in the 1891 sketches.’",
+    "Dawes cards 3418, 3530, 4346 and 4827 (Jesse, Alfred, Harriet and Josiah Gardner), NARA M1186 via Ancestry"
    ],
    "imgs": [],
    "tags": [
@@ -25486,7 +25498,7 @@
    "id": "nordyke-benajah-wilkes-1779",
    "side": "J",
    "gen": 9,
-   "ev": "probable",
+   "ev": "proven",
    "title": "Benajah Nordyke and Captain Dunn’s company",
    "hook": "A Quaker boy in the Georgia backcountry went off with the rebels, and seventy years later, at 87, he asked for a pension because he thought a man ought to work while he could.",
    "profile": false,
@@ -25501,7 +25513,7 @@
     "The Quaker settlement of Wrightsborough in Wilkes County, founded in 1768 by Joseph Maddock, was no place to sit out a rebellion. Its leaders leaned toward the Crown, and its young men leaned the other way. Twenty members of the meeting were dealt with for military activity during the Revolution and fifteen were disowned. One of them, Josiah Dunn, had been put out of the meeting in 1775 and went on to lead rebel partisans, recruiting young men from among the Wrightsborough Friends he had left.",
     "Benajah Nordyke was apparently one of those boys. In November 1852, at 87, he stood before a magistrate in Rockcastle County, Kentucky, and swore that he had been a volunteer soldier in Wilkes County, Georgia, from 1779 to 1782, about eighteen months in all. He named Captain Dunn among his officers, and Colonel Few’s regiment; he had been at Kettle Creek, and at the siege of Augusta in 1781, when the British commander Colonel Brown was shut up in the town, and he had served as drum major. Captain Josiah Dunn, he said, was killed at Kettle Creek. Eighty-seven in 1852 makes him about fourteen in 1779.",
     "He had waited a long time to ask. He said he had never applied because he thought every man ought to work for his living while he could, and that freedom had been pay enough; now he was old, and had begun to lose his memory, and could find no living comrade to vouch for him. A minister who had known him fifty years, and two others, signed for his good name. The file number suggests the claim was not allowed.",
-    "That he was Abraham’s son is probable, not proven. The Quaker habit of recording the hour of birth gave the family history “Benajah at 9:00 P.M.” between Aden (1762) and Micajah (1771), the name is rare, the age fits that gap, and his soldiering was done in Georgia in the years the Nordykes were there. The pension file does not name his parents. If he is the boy, then the Nordykes who are remembered for the long walk to Ohio had a fighting son among them first."
+    "Benajah was born on New Year's Day 1766, the third son of Abraham and Mary Nordyke, and he was carried as a baby on the certificate that brought the family back from Chesterfield to Burlington Meeting that March. He was three when his mother took him and his brothers Aaron and Israel south to Bush River in South Carolina, and nine when the family settled among the Friends at Wrightsborough. At fifteen he took up a musket in the Wilkes County militia, and yet in October 1783 the meeting still wrote his name, with his seven brothers and sisters, on the certificate that sent the family on to Deep River in North Carolina. He spent his middle years in Washington County, Virginia, came to Kentucky in 1837, and at eighty-seven, nearly blind and living on his neighbors' kindness, asked the government for the pension he had never claimed; Georgia's burned records could not find him, and it was refused."
    ],
    "quotes": [
     {
@@ -25514,7 +25526,9 @@
     "Robert Scott Davis, Jr., ‘The Wrightsborough Quakers and the American Revolution,’ The Southern Friend 4:2 (Autumn 1982), pp. 3–16, esp. p. 3 and note 8 (https://archive.org/details/southernfriendse46nort)",
     "C. Clayton Terrell, Terrell-Nordyke Genealogy (1960), pp. 13–14 (https://archive.org/details/terrellnordykege00terr)",
     "Wikipedia, ‘Battle of Kettle Creek’ (14 Feb 1779, Wilkes Co., Ga.)",
-    "Georgia Encyclopedia, ‘Wrightsborough’."
+    "Georgia Encyclopedia, ‘Wrightsborough’.",
+    "Ancestry, U.S. Quaker Meeting Records: Burlington MM minutes 3 Apr 1758, 4 May 1761, 3 Mar 1766, 6 Mar 1769",
+    "Wrightsborough MM certificate to Deep River, 4 Oct 1783"
    ],
    "imgs": [
     {
