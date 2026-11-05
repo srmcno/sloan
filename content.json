@@ -1023,12 +1023,14 @@
    "hook": "Named as Lizzie Newton’s father in the original papers for her 1889 marriage.",
    "profile": false,
    "people": [
-    "A:balas-newton:father"
+    "A:balas-newton:father",
+    "xr26-001",
+    "xr26-002"
    ],
    "subject": {
     "name": "Balas Newton",
     "rel": "Paternal family history",
-    "years": "Living in 1889"
+    "years": "1835–1914"
    },
    "body": [
     "In November 1889 Balas Newton gave written permission for his daughter Lizzie to marry John M. Shackleford in Etowah County, Alabama, and John swore to it.",
@@ -1036,7 +1038,9 @@
     "The 1880 home held nine people. Balus was forty-four and farming; Mary, thirty-six, was recorded as keeping house. The seven children listed as Balus’s sons and daughters ranged from a twelve-year-old son, whose occupation was farm hand, to an eight-month-old daughter born in November. Between them were Ann, ten; Lindsey, nine; Elizabeth, seven; Hezekiah, four; and Amanda, three. Alabama was the birthplace of Mary and all seven children. Balus himself was born in South Carolina, and so were his father and mother, and Mary's parents too, which fits the Confederate veteran of that name, born in Pickens District, South Carolina. The match is still probable, not certain, but it is a closer fit than it once seemed.",
     "In March 1901 a Balus Newton made final proof on land before the county clerk, but no age or family names are given, so he may or may not have been Lizzie’s father.",
     "Lizzie's father had fought for the Confederacy twice over: at twenty-five in Company E of the 1st Florida in 1861, and later in Company E of the 51st Alabama Cavalry, until he came home in April 1865. Born in Pickens District, South Carolina, in October 1835, he was still drawing an Alabama pension near Gadsden at seventy-five and signed his papers with a mark.",
-    "Balus came from the northwestern corner of South Carolina. Pickens District had been cut from old Pendleton District only in 1826, nine years before he was born: Blue Ridge foothills and the creeks that ran down to the Keowee and the Saluda, in country the Cherokee had given up within living memory. One notice from that country may touch his family. On 30 November 1831 the Pendleton Messenger reported that on the Wednesday evening before, the Rev. David Derrick had married Mr. Hezekiah Newton to Miss Elizabeth West, “all of this district.” A Newton couple married in the district four years before Balus's birth, and a son of Balus named Hezekiah, make Hezekiah and Elizabeth Newton a lead for his parents and nothing more. No census, deed or estate paper yet names Balus as their son."
+    "Balus came from the northwestern corner of South Carolina. Pickens District had been cut from old Pendleton District only in 1826, nine years before he was born: Blue Ridge foothills and the creeks that ran down to the Keowee and the Saluda, in country the Cherokee had given up within living memory. One notice from that country may touch his family. On 30 November 1831 the Pendleton Messenger reported that on the Wednesday evening before, the Rev. David Derrick had married Mr. Hezekiah Newton to Miss Elizabeth West, “all of this district.” A Newton couple married in the district four years before Balus's birth, and a son of Balus named Hezekiah, make Hezekiah and Elizabeth Newton a lead for his parents and nothing more. No census, deed or estate paper yet names Balus as their son.",
+    "Balus was born on 31 October 1835 at Double Branch in Pickens District, and his parents were very probably Hezekiah and Elizabeth Newton. Hezekiah, born in South Carolina in 1805, had married Elizabeth West in the district in November 1831. In 1840 he was farming in Pickens District with a young wife and three small children, two of them boys under five, and Balus was then four. Sometime in the 1840s the family crossed into Alabama and settled in the hill country of Benton County, which was renamed Calhoun in 1858. In 1860 they were at Peeks Hill: Hezekiah, fifty-five; Elizabeth, forty-six; and seven younger brothers and sisters of Balus, from Amanda, twenty, down to Georgia, five. Their next-door neighbors were Gibsons, and a few doors off lived Ransom Dockery, a brother of the girl Balus would marry.",
+    "Balus himself was not at home that summer. He had gone south to the Florida line, and in March 1861 he signed on at Quincy, Florida, as a private in the 1st Florida for twelve months. When that enlistment ran out he came back to his family, and in August 1862 he enlisted again at Peeks Hill, the same crossroads where his parents collected their mail, this time in Company E of an Alabama regiment, and he served until the surrender. After the war he and his parents settled side by side near Gadsden: in 1870 Hezekiah and Elizabeth were farming in one township and Balus and Mary in the next. Hezekiah died on 29 August 1889 and was buried at Old Harmony Baptist Church, near what is now Rainbow City. Balus outlived him by twenty-five years. He died on 9 January 1914, and two months later his widow, who signed herself Marzee Newton, asked to be put on the pension roll in his place."
    ],
    "quotes": [],
    "src": [
@@ -1051,7 +1055,13 @@
     "1880 U.S. census, Etowah County, Alabama, Balus Newton household (lines 40-48): Balus and both his parents born South Carolina; original page image read on Ancestry, 5 Nov 2026",
     "Ancestry, 1880 United States Federal Census, Bulus Keaton [Balus Newton], Etowah, Alabama, dwelling 202 (birthplace, father's and mother's birthplaces indexed South Carolina): https://www.ancestry.com/search/collections/6742/records/39878310;",
     "Pendleton (S.C.) Messenger, 30 Nov 1831, marriage of Hezekiah Newton and Elizabeth West, as abstracted in Marriage and Death Notices from Pendleton (S.C.) Messenger (1977), archive.org marriagedeathnot0000vari (full text searched; borrow-only) and in Twenty One Southern Families: Notes and Genealogies (1985), archive.org twenty-one-southern-fams-notes-and-genealogies-pg-63-pg-13-20210628-0001",
-    "Robert Mills, Atlas of the State of South Carolina (1825), Pendleton District, LOC 2007627797",
+    "Robert Mills, Atlas of the State of South Carolina (1825), Pendleton District, LOC 2007627797;",
+    "1840 U.S. census, Pickens Dist., S.C., roll 514, p. 380, Hesakiah Newton (Ancestry coll. 8057, image 4409474_00769)",
+    "1860 U.S. census, Ranges 5, 6 and 7, Calhoun Co., Ala., P.O. Peeks Hill, p. 611 (stamped), dwelling 196, M653 roll 4 (Ancestry coll. 7667, image 4211177_00331)",
+    "1870 U.S. census, Township 12 Range 6, Etowah Co., Ala., p. 262B, dwelling 12, M593 roll 16",
+    "Census of Confederate Soldiers Residing in Alabama, 1907, Etowah Co., no. 91, Balus Newton (ADAH; Ancestry coll. 1998, image 31334_b000192-00034)",
+    "Alabama Confederate pension file, Balus Newton, widow Marzee Newton, application sworn 9 Mar 1914, Etowah Co. (ADAH; Ancestry coll. 1677, images 32719_237254-00953/00954)",
+    "Find a Grave memorial 6287446, Hezekiah Newton (1805–1889), Old Harmony Baptist Church Cemetery, Rainbow City: https://www.findagrave.com/memorial/6287446/hezekiah-newton",
     "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
    ],
    "imgs": [
@@ -1078,6 +1088,16 @@
      "s": "img/places/pendleton-district-sc-mills-1825.jpg",
      "cap": "Pendleton District, South Carolina, from Robert Mills's Atlas of 1825 (Scribling's survey of 1820), in a pen-and-ink copy approved by the Union army's chief engineer. The northern half became Pickens District in 1826, nine years before Balus Newton was born there; Pickensville and Pendleton village are near the center.",
      "kind": "map"
+    },
+    {
+     "s": "img/docs/census-1840-pickens-sc-p380-hesakiah-joel-newton.jpg",
+     "cap": "The 1840 census of Pickens District, South Carolina: Joel and 'Hesakiah' Newton on consecutive lines. Hezekiah's household of six held two boys under five; Balus, born in October 1835, was probably one of them.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/ala-confederate-census-1907-balus-newton.jpg",
+     "cap": "Balus Newton's entry in the 1907 Census of Confederate Soldiers Residing in Alabama: born 31 October 1835 at Double Branch, Pickens District; enlisted March 1861 at Quincy, Florida; enlisted again August 1862 at Peeks Hill, Alabama.",
+     "kind": "record"
     }
    ],
    "tags": [],
@@ -1093,9 +1113,21 @@
     [
      "Daughter",
      "Lizzie Newton, wife of John M. Shackleford"
+    ],
+    [
+     "Born",
+     "31 Oct 1835, Double Branch, Pickens District, S.C."
+    ],
+    [
+     "Parents (probable)",
+     "Hezekiah Newton (1805–1889) and Elizabeth (West) Newton, m. 23 Nov 1831"
+    ],
+    [
+     "Died",
+     "9 Jan 1914, Etowah County, Alabama"
     ]
    ],
-   "note": "The original census surname reads Newton; the searchable index reads Keaton. The eldest son’s given name and the infant’s spelling are difficult to read and are not silently equated with later family-tree names. Ages and occupations above are transcribed from the original page. The household’s identification with Lizzie’s family remains probable; Balas’s fatherhood is directly supported by the separate 1889 marriage papers. Parents: lead only. Hezekiah Newton m. Elizabeth West, Pendleton District, Wednesday 23 Nov 1831 (Pendleton Messenger, 30 Nov 1831); the only tie to Balus is place, date and his son Hezekiah's name. Not found in the 1860 St. Clair Co., Ala., transcription (no Balus Newton there). The 1910 Etowah pension (b. Pickens Dist., Oct 1835) and the 1880 census (b. S.C., parents b. S.C., age 44) agree, so the veteran is Lizzie's father.",
+   "note": "The original census surname reads Newton; the searchable index reads Keaton. The eldest son’s given name and the infant’s spelling are difficult to read and are not silently equated with later family-tree names. Ages and occupations above are transcribed from the original page. The household’s identification with Lizzie’s family remains probable; Balas’s fatherhood is directly supported by the separate 1889 marriage papers. Parents: lead only. Hezekiah Newton m. Elizabeth West, Pendleton District, Wednesday 23 Nov 1831 (Pendleton Messenger, 30 Nov 1831); the only tie to Balus is place, date and his son Hezekiah's name. Not found in the 1860 St. Clair Co., Ala., transcription (no Balus Newton there). The 1910 Etowah pension (b. Pickens Dist., Oct 1835) and the 1880 census (b. S.C., parents b. S.C., age 44) agree, so the veteran is Lizzie's father. Parents raised from lead to PROBABLE (r26): (1) 1840 census, Pickens Dist., S.C., p. 380, 'Hesakiah Newton', man 30-39, woman 20-29, two boys under 5 (Balus 4), girl under 5 (Amanda b. c.1840), girl 15-19; Joel Newton the household above. (2) 1860, Calhoun Co., Ala., P.O. Peeks Hill, dwelling 196: Hesekia 55, Elisabeth 46, Manda 20, Franklin 18, Joseph 15, Willis 13, James 11, Pinkney 9, Georgia 5. (3) Balus re-enlisted Aug 1862 at Peeks Hill (1907 Ala. Confederate census). (4) 1870: Hezekiah 65 and Elizabeth 56 in T12 R6, Etowah, Gadsden P.O.; Balus in T12 R5. (5) Balus named a son Hezekiah. (6) Find a Grave 6287446 (bio, compiler) calls Hezekiah father of Balous and James W. No record yet states the relationship. Regiment: the 1907 census reads Co. G (or E) 1st Fla. and Co. E '31' Ala.; the 1910 pension says Co. E 1st Fla. and Co. E 51st Ala. Cavalry; the widow's file cover says Co. G, 1st Fla. Death 9 Jan 1914 from Marzee Newton's widow's application, 9 Mar 1914 (proven). The Find a Grave bio's 'moved to Rainbow City about 1835' conflicts with the 1840 Pickens census.",
    "place": "",
    "rank": 9
   },
@@ -1662,7 +1694,7 @@
      "Still farming his own farm at Wilson, age 58"
     ]
    ],
-   "note": "The 1891 sketch heads him 'Joseph B. Thompson,' probably a printer's error; everything else in it fits. It also calls his father 'Rev. John Thompson,' a Presbyterian minister in Cedar County for twenty years, which does not fit Joel's memory that John died about 1870. Roanoke College had about 35 Choctaw students between 1876 and 1896, but Joseph does not appear in the 1881-82 catalog; that fits the sketch, which has him at Mount Hermon first, but the 1882-86 catalogs have not been seen. Joseph's terms as judge and senator have not yet been found in Choctaw Nation records. A Find a Grave memorial gives his birth as 1862 and has him at High Hill, but his burial there is unverified; his death in 1927 comes from family files. The orphan he raised is 'Wister Davis' in Joel's interview.",
+   "note": "The 1891 sketch heads him 'Joseph B. Thompson,' probably a printer's error; everything else in it fits. It also calls his father 'Rev. John Thompson,' a Presbyterian minister in Cedar County for twenty years, which does not fit Joel's memory that John died about 1870. Roanoke College had about 35 Choctaw students between 1876 and 1896, but Joseph does not appear in the 1881-82 catalog; that fits the sketch, which has him at Mount Hermon first, but the 1882-86 catalogs have not been seen. Joseph's terms as judge and senator have not yet been found in Choctaw Nation records. A Find a Grave memorial gives his birth as 1862 and has him at High Hill, but his burial there is unverified; his death in 1927 comes from family files. The orphan he raised is 'Wister Davis' in Joel's interview. R26 lead: in the 1885 Choctaw census of Cedar County (p. 4) Joseph Thompson, 24 (no. 102, with his own 20 acres), is entered immediately after the family of Simeon (Simon) Thompson, 33, farmer, and Lucy, 30, with Eaton 14, Henry 12, Agnes 11, Emma 8 and Frances 1 (nos. 95-101). Henry W. Thompson's Dawes card names Simon and Lucy as his parents. The adjacency hints at kinship between Joseph and Simon but proves nothing; the Dawes jackets are the next check.",
    "place": "",
    "rank": 15
   },
@@ -3041,7 +3073,8 @@
     "1850 U.S. census, Chester District, S.C., 14 Nov 1850, dwelling 1491, Winifred Tims household (Ancestry 1850 census record 5725838, indexed as 'Winifred Sims')",
     "Court of Ordinary hearing, William Estes vs. estate of Jos. Tims, 12 June 182[7], in the Joseph Tims (1801) probate packet, Chester, File No. 64-67, Pkg. 979-1051, case 1034, Ancestry coll. 9080, record 996287, image 549.",
     "Court of Claims No. 12742, The Choctaw Nation vs. the United States, Evidence for Claimant, vol. 2 (1881), p. 1403",
-    "1860 U.S. census, Towson County, Choctaw Nation, free schedule p. 4 (stamped 1200) and slave schedule p. 394B (NARA M653 rolls 52 and 54, Internet Archive)."
+    "1860 U.S. census, Towson County, Choctaw Nation, free schedule p. 4 (stamped 1200) and slave schedule p. 394B (NARA M653 rolls 52 and 54, Internet Archive).;",
+    "Texas, County Tax Rolls, 1846-1910, Fannin County, 1846, 1847, 1850 (index entries for D. B., B. and V. B. Tims; Ancestry coll. 60184, FHL film 2282190)"
    ],
    "imgs": [
     {
@@ -3133,7 +3166,7 @@
      "\"Betsy Tims\" (Dawes Card 1437, Edward W. Tims)"
     ]
    ],
-   "note": "Vincent was white, so the family's Choctaw citizenship came through his wife, known only as \"Betsy Tims\" on their son Edward's Dawes card. His date of death is given as 14 June 1864 in a descendants' account and 17 June 1864 in family files, but he signed letters as Doaksville's Confederate postmaster on 9 September and 1 November 1864, so both dates look wrong. The postmaster rolls name a 'V. B. Tims' on 17 May 1871, which may be Vincent himself. The 'first postmaster' detail rests on Joel's memory, and the Confederate office had an earlier postmaster, J. P. Kingsbury, in 1862-63.",
+   "note": "Vincent was white, so the family's Choctaw citizenship came through his wife, known only as \"Betsy Tims\" on their son Edward's Dawes card. His date of death is given as 14 June 1864 in a descendants' account and 17 June 1864 in family files, but he signed letters as Doaksville's Confederate postmaster on 9 September and 1 November 1864, so both dates look wrong. The postmaster rolls name a 'V. B. Tims' on 17 May 1871, which may be Vincent himself. The 'first postmaster' detail rests on Joel's memory, and the Confederate office had an earlier postmaster, J. P. Kingsbury, in 1862-63. R26 lead (index only, no images): Texas County Tax Rolls (Ancestry coll. 60184, FHL film 2282190), Fannin County: 'D B Tims' 1846, 'B Tims' 1847, 'V B Tims' 1850. These fit the 320-acre Fannin County bounty-land survey patented to V. B. Tims, assignee, 5 Mar 1847 (Pat. 286, vol. 2, Abst. 26; Miller 1967). The Texas GLO land-grant search was down (502) on 5 Nov 2026, so the original grantee is still unread.",
    "place": "",
    "rank": 33
   },
@@ -13921,7 +13954,7 @@
    "id": "stev-james-sr-sally-kelly",
    "side": "J",
    "gen": 9,
-   "ev": "lead",
+   "ev": "probable",
    "title": "A family note on the Stevenson immigrant",
    "hook": "A family compiler's 1955 notes say James Stevenson of Iredell County was the son of an Irish immigrant James, not of the William some trees give him.",
    "profile": false,
@@ -13937,7 +13970,9 @@
    "body": [
     "A family book on the Skinner ancestry covers the Stevensons because Rev. Elam Stevenson's descendants married into that line. Its Stevenson chapter first follows a chart that starts with William Stevenson, born in County Antrim, Ireland, who came to Pennsylvania in 1748 and to Iredell County, North Carolina in 1762. Then it adds a correction from \"data received May 11, 1955\": \"The father of James Stevenson was not William Stevenson, immigrant, but was James Stevenson, immigrant from Ireland, who died in 1820. James I married Sally Kelly of Md., who died about 1820 or 1821. James Stevenson II, who m. Jane Stevenson, died in 1828. She died 1814.\"",
     "James II is the James Stevenson whose 1828 will in Iredell County names his son Elam; his wife Jane is the Jane Stevenson of the next generation. The chapter also quotes McFerrin that Elam was the son of James Stephenson of Iredell, now Alexander County, \"who was a Captain in the Revolutionary War.\" Another passage in the same book says James Stevenson \"was born in Ireland. Settled in North Carolina about 1775\" and had two other sons besides Elam, which does not agree with the 1955 note (James II would then be the immigrant).",
-    "The dates do not fit well: if James II was born about 1746, an immigrant father who died in 1820 and a mother who died about 1820 or 1821 would both have been very old. The 1955 note is therefore a family compiler's statement, not a record, and the parents of James Stevenson stay uncertain until a will, deed or church record names them."
+    "The dates do not fit well: if James II was born about 1746, an immigrant father who died in 1820 and a mother who died about 1820 or 1821 would both have been very old. The 1955 note is therefore a family compiler's statement, not a record, and the parents of James Stevenson stay uncertain until a will, deed or church record names them.",
+    "A second family account tells the same story with more life in it. In 1930 William E. Linney printed a sketch by J. Adley D. Stevenson, the immigrant's great-grandson. By that account James Stevenson was born in Belfast, stood a full six feet, spent his early years in the English navy, and settled on the Eastern Shore of Maryland, where he married Sally Kelley, \"a lady of Irish parentage.\" After about ten years, around 1755 or 1760, he came to North Carolina and took up 640 acres at the head of the upper South Yadkin, in what is now Alexander County. Settlers were pouring in with cash and little else, and he sold them his surplus grain and stock and put most of what he made into buying enslaved people. The sketch does not name them. He died in 1820 at ninety-nine years and nine months, and Sally died a few months after him.",
+    "If he was born about 1720, a son born in 1746 is no puzzle; the Raleigh paper's \"nearly 90\" of March 1820 gives a later birth, but either way the immigrant was old enough to be the father of James of Iredell. The sketch gives the couple six daughters and two sons and names the daughters: Mary, who married John Arrington; Jane, who married John Burton; Sarah, who married David Millican; and Nancy, Annie and Mollie, who married William, George and Thomas Lackey. The Lackey marriages fit the Lackey-Stevenson burying ground at Vashti. The Arrington marriage fits the name Elam Stevenson gave a son in 1816, Abner Arrington Stevenson. Linney adds that the old man was known as \"Revolutionary Stevenson,\" lies in the old Vashti graveyard above the South Yadkin, and had a son James II who married Rebecca Bowles and stayed on the home place. That last part does not square with the James of the 1828 will, whose wife was Jane, and the sketch has probably folded two Jameses into one."
    ],
    "quotes": [
     {
@@ -13946,9 +13981,16 @@
     }
    ],
    "src": [
-    "The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; text seen only as search excerpts), Stevenson chapter, citing 'data received May 11, 1955'."
+    "The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; text seen only as search excerpts), Stevenson chapter, citing 'data received May 11, 1955'.",
+    "William Ernest Linney, The School of the Prophets: A Biographical Sketch of Three Remarkable Men (1930), \"Leroy Parks Gwaltney,\" pp. 71-73, quoting a sketch by J. Adley D. Stevenson, Internet Archive: https://archive.org/details/schoolofprophets1930linn"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/docs/linney-1930-p72-james-stevenson-belfast.jpg",
+     "cap": "J. Adley D. Stevenson's account of his great-grandfather, printed in 1930: born in Belfast, the English navy, Sally Kelley on Maryland's Eastern Shore, 640 acres on the South Yadkin, and death in 1820 at ninety-nine.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -13960,7 +14002,7 @@
      "The Ancestry of Carolyn Gail Skinner, quoting data received 11 May 1955"
     ]
    ],
-   "note": "Conflict inside the same book: one passage makes William Stevenson of County Antrim (to Pennsylvania 1748, Iredell Co. 1762, d. 1809) the father, the 1955 note rejects that and names a James. Only search excerpts of the book could be read; the item is no longer downloadable, so the full chapter was not seen.",
+   "note": "Conflict inside the same book: one passage makes William Stevenson of County Antrim (to Pennsylvania 1748, Iredell Co. 1762, d. 1809) the father, the 1955 note rejects that and names a James. Only search excerpts of the book could be read; the item is no longer downloadable, so the full chapter was not seen. Linney (1930), quoting J. Adley D. Stevenson, independently gives Belfast, Sally Kelley of Maryland's Eastern Shore, 640 acres on the South Yadkin and death in 1820 aged 99 years 9 months; his daughter Mary m. John Arrington (cf. Abner Arrington Stevenson, b. 1816). Remaining conflict: the Raleigh Star's 'married 65 years' puts the marriage about 1755, after the 1746 birth of James of Iredell; Linney's 'James II m. Rebecca Bowles' does not match Jane.",
    "place": "Said to have been born in Ireland and to have settled in North Carolina; his wife Sally Kelly is called 'of Md.'",
    "rank": 255
   },
@@ -14268,7 +14310,8 @@
     "Betsy married Joseph Thompson at that house in 1889. Joel remembered his grandparents as 'buried there at the old place,' which fits the marker at High Hill, a cenotaph that carries only his name and no dates.",
     "The memorial at High Hill Cemetery gives his years as 1838 to 25 October 1891, but a Choctaw census of 1896 seems to show Vinson still living with Emeline and their family in Towson County, and in 1899 Betsy's father, written 'Vincent Tims,' was said to be dead. So when he died is unsettled: 1891 on the memorial, or after 1896 if the 1896 entry is his.",
     "A memoir of his son Robert, printed in 1944 in the minutes of the Methodist Indian Mission, calls Robert \"the son of Vincent and Emiline Tims.\" So the family's own church used \"Vincent\" for him where the High Hill marker says \"Vinson.\"",
-    "Vinson never enrolled, because he was gone by 1899, but his name survives in his children's enrollments. In 1899 clerks wrote it as \"Vinson W. Tims\" for James B., \"Vincent Tims\" for Betsy, Robert and Willie, and \"Benson Tims\" for Mitchell. In every case he was marked dead and placed in Towson County, where the family lived."
+    "Vinson never enrolled, because he was gone by 1899, but his name survives in his children's enrollments. In 1899 clerks wrote it as \"Vinson W. Tims\" for James B., \"Vincent Tims\" for Betsy, Robert and Willie, and \"Benson Tims\" for Mitchell. In every case he was marked dead and placed in Towson County, where the family lived.",
+    "In 1885 the Choctaw Nation took its own census, and the Towson County enumerator found Vincent W. Tims, forty-seven, at the head of a household of ten: Emeline, forty-two; James, twenty-two; Winny, seventeen; Mitchell, sixteen; Betsy, fifteen; John, twelve; Robert, eleven; Wellington, nine; and Rosa, three. The farm was a modest one by the count of that year: eight acres under cultivation, three horses, eleven cattle and eighteen hogs, with two bales of cotton and fifty bushels of corn from the last crop. Betsy, the fifteen-year-old, would marry Joseph Thompson at that house four years later."
    ],
    "quotes": [],
    "src": [
@@ -14276,7 +14319,8 @@
     "Joel J. Thompson interview #7392",
     "1896 Choctaw census, Towson County",
     "Hughes (2020)",
-    "Minutes of the Indian Mission of Oklahoma, 14-17 Sept. 1944, p. 31, memoir of Robert James Tims"
+    "Minutes of the Indian Mission of Oklahoma, 14-17 Sept. 1944, p. 31, memoir of Robert James Tims;",
+    "1885 Choctaw census, Towson County, p. 10, nos. 275-284 (NARA M595, Indian Census Rolls, roll 623; Ancestry coll. 1059, image M595_623-0182)"
    ],
    "imgs": [
     {
@@ -14286,6 +14330,11 @@
     {
      "s": "img/census_1896_tims.jpg",
      "cap": "1896 Choctaw census, Towson County: Vinson, Emeline and family, with brother Edward's household below"
+    },
+    {
+     "s": "img/docs/choctaw-census-1885-towson-p10-vincent-w-tims.jpg",
+     "cap": "The 1885 Choctaw census of Towson County, page 10: Vincent W. Tims, Emeline and their children, with the family's acres, livestock, cotton and corn on the right-hand page.",
+     "kind": "record"
     }
    ],
    "tags": [],
@@ -14309,9 +14358,13 @@
     [
      "Named on cards",
      "510 (Vinson W.), 816, 1268, 1283 (Vincent), 850 and 1281 (Benson)"
+    ],
+    [
+     "1885 Choctaw census",
+     "Towson County, p. 10, nos. 275-284: Vincent W. Tims, 47, Emeline and eight children"
     ]
    ],
-   "note": "The date of Vinson's death is in conflict: 25 October 1891 on a Find a Grave memorial and in a local history, against a listing in the 1896 census. The marker is a cenotaph, and his grandson said he was buried at the old home place.",
+   "note": "The date of Vinson's death is in conflict: 25 October 1891 on a Find a Grave memorial and in a local history, against a listing in the 1896 census. The marker is a cenotaph, and his grandson said he was buried at the old home place. R26: 1885 Choctaw census, Towson Co., p. 10 (NARA M595 roll 623, image 182; Ancestry coll. 1059): Vincent W. 47, Emeline 42, James 22, Winny 17, Mitchell 16, Betsy 15, John 12, Robert 11, Wellington 9, Rosa 3. Proven. 'Winny' and 'Wellington' may be Willie and another son; not equated. The 1893 Leased District pay roll is not on Ancestry (coll. 8810 browse list has only the 1896 Choctaw roll for this period), so his living status in 1893 is still open. Find a Grave 10596388 gives d. 25 Oct 1891, but the marker is a modern name-only plate, so that date is the memorial creator's, not the stone's.",
    "place": "Lived north of Doaksville in the High Hill neighborhood, where he and Emeline farmed. Brother of Judge Edward Ward Tims. His marker at High Hill is a cenotaph bearing only his name; a memorial there gives 1891 as the year of his death, though he seems still to have been living in 1896. His grandson said he was buried at the old home place.",
    "rank": 9999
   },
@@ -15918,7 +15971,9 @@
     "The farm lay near the Oak Ridge Institute, the academy in northwestern Guilford County, on the road that runs from Danville, Virginia, down to Salisbury. Sicily was born on 2 August 1790, the first of the children of Aden and Martha Nordyke in the Quaker records. Her father Aden had been born in Burlington County, New Jersey, in 1762, was shot in the arm in an attack in Georgia, and married Martha Johnson in 1787 at Deep River Meeting in Guilford County; he later went on to Indiana, while Sicily lived out her years in Guilford County. She died on 16 May 1861, four years after the sale.",
     "Noble was born on 22 April 1787 and was a member of Dover Monthly Meeting, whose register lists his wife Sicily and children Aaron (16 December 1809), Parris (7 July 1817, died 30 May 1818) and Mary (17 November 1820). He died on 25 December 1855. It was a time when Friends were leaving for Ohio and Indiana: seventy-one took certificates from Dover between 1816 and 1860, nearly all of them to Indiana. The Shaws stayed.",
     "Parses Watt of Gibson County, Indiana, who was born about 1811 and died in 1901, is thought to be the Shaws' daughter, but the Quaker register shows only a Parris who lived a year, so she would have to be an earlier child missing from it. If she is theirs, her son Daniel O'Neal's Union service and her great-granddaughter Katie Stevenson's marriage to a Hulsey tie the Guilford County Quakers to the Ouachita hills of Arkansas and Oklahoma.",
-    "His small stone stands among the leaves in the Dover Friends Meeting burying ground near Colfax, Guilford County. Lichen covers most of the face; \"Noble Shaw,\" \"Died,\" \"25 Dec. 1855\" and an age beginning \"68\" can still be read, matching a birth date of 22 April 1787."
+    "His small stone stands among the leaves in the Dover Friends Meeting burying ground near Colfax, Guilford County. Lichen covers most of the face; \"Noble Shaw,\" \"Died,\" \"25 Dec. 1855\" and an age beginning \"68\" can still be read, matching a birth date of 22 April 1787.",
+    "Noble was ten when his parents, Benjamin and Rhoda Shaw, brought their children into New Garden Monthly Meeting in 1798, crossing over from the Nicholites of the Reedy Fork. He did not keep to the Discipline for long. On 14 March 1809 he gave bond in Stokes County, where Sicily had been born, to marry her, with James Shaw, very likely his brother, as bondsman. Because they married outside meeting, New Garden noted that year that Noble had condemned his marriage out of unity, and their son Aaron was born that December.",
+    "When Benjamin made his will in April 1830 he gave Noble \"all the lands where he now lives,\" provided he paid a hundred dollars toward the rest of the estate. That October Noble signed, with his brothers Matthew and Aaron and his sisters and their husbands, the deed by which the heirs of \"the late Benjamin Shaw\" divided their father's land on the waters of Reedy Fork of Haw River."
    ],
    "quotes": [],
    "src": [
@@ -15929,7 +15984,10 @@
     "Find a Grave memorial 18148137, Noble Shaw, Dover Friends Meeting Cemetery, Colfax, Guilford Co., N.C., photo by NCDave (2011): https://www.findagrave.com/memorial/18148137/noble-shaw",
     "The Times (Greensboro, N.C.), vol. 2, no. 13, 26 March 1857, p. 3, and no. 14, 2 April 1857, p. 4.",
     "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1 (Nordyke family entry)",
-    "U.S., Quaker Meeting Records, 1681-1935 (Union MM birth of Sicily Nordyke)"
+    "U.S., Quaker Meeting Records, 1681-1935 (Union MM birth of Sicily Nordyke)",
+    "North Carolina Marriage Bonds, 1741-1868, Stokes County, Noble Shaw and Sicily Nordyke, 14 Mar 1809, bond no. 000141376, bondsman James Shaw, witness G. Shober (Ancestry index as quoted on acvancestors.com person page 605)",
+    "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1, New Garden MM, Shaw entries (p. 570), as transcribed on the Vaut compilation, acvancestors.com, person page 605 (https://acvancestors.com/g0/p605.htm)",
+    "Will of Benjamin Shaw, Guilford Co., N.C., 5 Apr 1830, proved Feb Term 1846, Will Book C p. 245 (file 0911), and deed of the heirs of Benjamin Shaw to James and Mary Morton, Oct 1830, Guilford Deeds Book 19 p. 366, both as transcribed for USGenWeb Archives by Debra Lee Gwinn (2006; files nc/guilford/wills/shaw113gwl.txt and nc/guilford/deeds/shaw125gdd.txt), text quoted on acvancestors.com person page 605"
    ],
    "imgs": [
     {
@@ -15966,6 +16024,14 @@
     [
      "Estate",
      "Land sale advertised 26 March 1857, The Times, Greensboro; Sicily Shaw and J. H. Leak administrators"
+    ],
+    [
+     "Parents",
+     "Benjamin and Rhoda (Covey) Shaw, Nicholites from Delaware (probable)"
+    ],
+    [
+     "Marriage bond",
+     "14 Mar 1809, Stokes Co., N.C.; bondsman James Shaw"
     ]
    ],
    "note": "This line above Parses (Shaw) O'Neal Watt is proposed, not proven: no record names her parents, and the Dover register shows the Shaws' only Parris dying as an infant. The relationship labels for Noble and Sicily Shaw and for the Nordyke, Johnson, Rogers, Staples, Perkins, Gaunt and Butler ancestors behind them all depend on that link.",
@@ -16099,14 +16165,16 @@
     "Henry Nordyke of Burlington County and Rebecca Perkins of Wellingborough were granted a New Jersey marriage license on 6 January 1731/2. A license gives permission to marry, not the ceremony or its date. Her father’s will of 26 October 1731 names his daughter Rebeckah without a husband; her brother David’s will, dated January 1731/2, calls her Henry’s wife. A family page places Henry’s birth on 2 January 1710 in the Netherlands, but no ship or church record has been found, so his Dutch origin is only a possibility.",
     "Henry's name appears again in the estates of his wife's family. Her father, Jacob Perkins Jr., made his will on 26 October 1731, naming his wife Sarah and ten children, among them Rebeckah, and listing bonds due him \"from James Smith, Esq., John Shinn and Henry Nordike.\" He left ten pounds to St. Mary's Church, Burlington. The will was proved on 7 December. Rebecca's brother David then died too; his will of January 1731/2 names \"Sister, Rebecca, wife of Henry Nordike\" and was witnessed by Henry himself, and it was proved on 4 March 1731/2.",
     "Their son Abraham, who died at 89 in 1825 by one account (1822 by another), was born about 1736; he was a member of Chesterfield Meeting when he married Mary Rogers in 1761. From there the line goes to Guilford County, North Carolina, to Ohio and Indiana.",
-    "Henry was not a Quaker. His son Abraham asked to join the Burlington Friends in March 1758 and was received a month later, and when Abraham and Mary Rogers passed meeting in May 1761, Henry did not come; he sent his consent in writing."
+    "Henry was not a Quaker. His son Abraham asked to join the Burlington Friends in March 1758 and was received a month later, and when Abraham and Mary Rogers passed meeting in May 1761, Henry did not come; he sent his consent in writing.",
+    "Henry was still at Willingborough in the spring of 1760, when Abraham was a grown man of twenty-three. On 25 May that year he and Samuel Allinson witnessed the will of a neighbor, Joseph Butcher, whose executors were Butcher's widow Prudence, his brother-in-law William Rogers and Abraham Perkins, very likely Rebecca's brother. The will was proved on 14 June 1760."
    ],
    "quotes": [],
    "src": [
     "New Jersey State Archives, marriage license for Henry Nordyke and Rebecca Perkins, 6 January 1731/2 (copy supplied by family)",
     "Jacob Perkins Jr. will, 26 October 1731, and David Perkins will, January 1731/2, Calendar of New Jersey Wills, Lib. 3 p. 102 and Lib. 8 p. 184.",
     "Ancestry, U.S. Quaker Meeting Records: Burlington MM minutes 3 Apr 1758, 4 May 1761, 3 Mar 1766, 6 Mar 1769",
-    "Wrightsborough MM certificate to Deep River, 4 Oct 1783"
+    "Wrightsborough MM certificate to Deep River, 4 Oct 1783",
+    "Calendar of New Jersey Wills, vol. 3 (New Jersey Archives, 1st ser., vol. 32), Joseph Butcher of Willingborough Twp., will 25 May 1760, proved 14 Jun 1760, Lib. 10 p. 33, Internet Archive: https://archive.org/details/documentsrelatin32newj"
    ],
    "imgs": [
     {
@@ -17695,14 +17763,15 @@
    "subject": {
     "name": "Mary Ann Dockery Newton",
     "rel": "Paternal family history",
-    "years": "Born about 1844"
+    "years": "c.1841–after 1914"
    },
    "body": [
     "A license was issued in St. Clair County, Alabama, on 11 February 1867 for Bailus Newton and Mary Ann Dockery, and the ceremony took place at a Gibson residence; the day is not clear enough to settle the differing dates.",
     "In 1880 Balus Newton and his wife Mary lived in Etowah County with children including Elizabeth, seven. The surname is Newton, though an index reads Keaton. Balus’s name, the county and Elizabeth’s age fit the father and daughter named as Balas and Lizzie in Lizzie’s 1889 marriage consent.",
     "Mary’s work was entered as keeping house in a household of nine. The eldest boy, twelve, was already listed as a farm hand; the youngest child was an infant of eight months. Elizabeth stood between older children Ann and Lindsey and younger children Hezekiah, Amanda and the baby.",
     "Mary was Balus’s wife in 1880, but nothing says she was Elizabeth’s mother. The earlier marriage to Mary Ann Dockery and the household make her a probable mother, but nothing directly names Lizzie’s mother. When Oda Verbena Newton died, her parents were given as Balous Newton and Mary Marzee Dockery; a similarly named young daughter appears in the 1880 home.",
-    "Mary Ann's own family can now be named, very probably. In January 1902 her mother, Zilpha Dockery, then living among her Texas grandchildren in Lamar County, told a Dallas reporter that one of her daughters, Mrs. B. Newton, lived near Gadsden, Alabama, and was a twin of Mrs. C. W. Driscell of Roxton. Zilpha had married William Dockery at Spartanburg, South Carolina, in 1818 and come west to the Coosa River country, where William hauled Cherokee families west in the removal and died soon after of swamp fever. Mary Ann's wedding to Bailus Newton in 1867 was held at a Gibson home, and her sister Frances Jane had married Samuel Fleming Gibson, a Confederate soldier who died of measles in 1862. When most of the family left for Texas in 1895, Mary Ann stayed behind with Balus. The rest of the story is told in “Grandma Dockery, who remembered the eighteenth century.”"
+    "Mary Ann's own family can now be named, very probably. In January 1902 her mother, Zilpha Dockery, then living among her Texas grandchildren in Lamar County, told a Dallas reporter that one of her daughters, Mrs. B. Newton, lived near Gadsden, Alabama, and was a twin of Mrs. C. W. Driscell of Roxton. Zilpha had married William Dockery at Spartanburg, South Carolina, in 1818 and come west to the Coosa River country, where William hauled Cherokee families west in the removal and died soon after of swamp fever. Mary Ann's wedding to Bailus Newton in 1867 was held at a Gibson home, and her sister Frances Jane had married Samuel Fleming Gibson, a Confederate soldier who died of measles in 1862. When most of the family left for Texas in 1895, Mary Ann stayed behind with Balus. The rest of the story is told in “Grandma Dockery, who remembered the eighteenth century.”",
+    "Mary Ann went by Marzee, and she was a twin. In the autumn of 1850 she was nine, living in Benton County, Alabama, in her widowed mother's household of ten: Zilpha Dockery, the three eldest boys Hiram, Alberry and Ransom, born in South Carolina, and then Samuel, Jane, Calvin, the twins Mazzie and Paralee, and little William J., five, all born in Alabama. Her twin, Elizabeth Paralee, was born on 22 May 1841, so Mary Ann was about three years older than the thirty-six she gave as her age in 1880. Her father, William Dockery, had been alive in 1840 and was gone by 1850. When Balus Newton died in January 1914 she was still in Etowah County, and on 9 March she swore to the probate judge that she was his widow and had not married again, and signed with her mark as Marzee Newton."
    ],
    "quotes": [],
    "src": [
@@ -17712,12 +17781,25 @@
     "NARA T9, roll 13",
     "FHL film 1254013",
     "DGS 005157231, image 339; indexed as Bulus Keaton: https://www.familysearch.org/ark:/61903/1:1:M4JN-1TN; original image https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC.;",
-    "Dallas Morning News, 17 Jan 1902, Zilpha Dockery interview, transcribed in the Genealogical Society of Northeast Texas journal, Summer 1986, and reissued by Michael W. Anglin, Portal to Texas History: https://texashistory.unt.edu/ark:/67531/metadc1533627/m2/1/high_res_d/Granny_Dockery_article_PDF_copy.pdf"
+    "Dallas Morning News, 17 Jan 1902, Zilpha Dockery interview, transcribed in the Genealogical Society of Northeast Texas journal, Summer 1986, and reissued by Michael W. Anglin, Portal to Texas History: https://texashistory.unt.edu/ark:/67531/metadc1533627/m2/1/high_res_d/Granny_Dockery_article_PDF_copy.pdf;",
+    "1850 U.S. census, Subdivision 29, Benton Co., Ala., p. 377b, dwelling 675, Zilpha Dockray household (M432 roll 1; Ancestry coll. 8054, image 4187291-00899)",
+    "Alabama Confederate pension file of Balus Newton, application of widow Marzee Newton, Etowah Co., 9 Mar 1914 (ADAH; Ancestry coll. 1677, image 32719_237254-00954)",
+    "Find a Grave index, Elizabeth Paralee Driskell (22 May 1841–22 Nov 1918), Roxton, Lamar Co., Tex."
    ],
    "imgs": [
     {
      "s": "img/rec/newton-family-1880-etowah-census.jpg",
      "cap": "1880 census, Etowah County, Alabama, ED 73, page 14: Balus Newton, his wife Mary and their household.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/census-1850-benton-ala-zilpha-dockery-household.jpg",
+     "cap": "Zilpha Dockery's household in Benton County, Alabama, in 1850, with her nine children. The twins 'Mazzie' (Mary Ann, later Mrs. Balus Newton) and Paralee are both nine.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/ala-widow-pension-1914-marzee-newton.jpg",
+     "cap": "Marzee Newton's application to be placed on the pension roll as the widow of Balus Newton, who died on 9 January 1914, sworn in Etowah County on 9 March 1914 and signed with her mark.",
      "kind": "record"
     }
    ],
@@ -17742,9 +17824,21 @@
     [
      "Twin sister (probable)",
      "Paralee, Mrs. Columbus W. Driskell of Roxton, Texas"
+    ],
+    [
+     "Twin sister",
+     "Elizabeth Paralee (Dockery) Driskell, b. 22 May 1841, d. 22 Nov 1918, Roxton, Texas"
+    ],
+    [
+     "1850",
+     "'Mazzie' Dockray, 9, in Zilpha Dockray's household, Benton County, Alabama"
+    ],
+    [
+     "Widow's pension",
+     "Marzee Newton, Etowah County, 9 Mar 1914"
     ]
    ],
-   "note": "The 1880 census and 1889 marriage consent give a strong match on the unusually spelled father’s name, Elizabeth/Lizzie, age and county, but do not independently prove the two women’s identity. The census does not explicitly name Elizabeth’s mother. The St. Clair marriage register and a later death index support Mary Dockery as a probable identification; these records should be evaluated together. Her parents are probable: her mother Zilpha Dockery's 1902 interview names a daughter Mrs. B. Newton near Gadsden, a twin of Mrs. C. W. Driscell; no first name is given. The 1867 wedding at a Gibson residence fits a sister married to a Gibson. The 1880 census gives both of Mary's parents as born in South Carolina; Zilpha was born in Virginia but raised in Spartanburg.",
+   "note": "The 1880 census and 1889 marriage consent give a strong match on the unusually spelled father’s name, Elizabeth/Lizzie, age and county, but do not independently prove the two women’s identity. The census does not explicitly name Elizabeth’s mother. The St. Clair marriage register and a later death index support Mary Dockery as a probable identification; these records should be evaluated together. Her parents are probable: her mother Zilpha Dockery's 1902 interview names a daughter Mrs. B. Newton near Gadsden, a twin of Mrs. C. W. Driscell; no first name is given. The 1867 wedding at a Gibson residence fits a sister married to a Gibson. The 1880 census gives both of Mary's parents as born in South Carolina; Zilpha was born in Virginia but raised in Spartanburg. Her parents are now PROVEN for Zilpha (mother) and strong-probable for William (father): the 1850 household names Mazzie and Paralee, both 9, among Zilpha's nine children (six sons, three daughters, exactly as Zilpha said in 1902); Mary Ann signed her 1914 widow's application 'Marzee'; Oda Verbena Newton's death index gives 'Mary Marzee Dockery'; Zilpha named twin daughters Mrs. C. W. Driscell and Mrs. B. Newton. Birth c.1841 (age 9 in 1850; twin's Find a Grave date 22 May 1841) replaces 'about 1844' (from her age 36 in 1880). Her identity as Lizzie's mother is still PROBABLE (no record names Lizzie's mother). Death after March 1914 not found; the pension index entry dated 23 Jan 1930 needs checking.",
    "place": "",
    "rank": 9999
   },
@@ -28328,7 +28422,7 @@
    "id": "zilpha-scott-dockery",
    "side": "J",
    "gen": 7,
-   "ev": "probable",
+   "ev": "proven",
    "title": "Grandma Dockery, who remembered the eighteenth century",
    "hook": "Born while Washington was still President, she wove flax in Spartanburg, settled among the Cherokee in Alabama, and at a hundred and five could still borrow a man's cigar.",
    "profile": false,
@@ -28348,7 +28442,9 @@
     "From Spartanburg the Dockerys went west to Alabama and settled in the country east of the Coosa River, across from where Gadsden stands, when few white families lived among the Cherokee. William was one of the men the government hired to haul Cherokee families west in wagons. Zilpha remembered that they did not want to go, and that the chiefs had been bought and bribed into the treaty. William caught swamp fever on that trip and died not long after he came home. She later married John Diffy, an old soldier of 1812 who had a walking stick from Andrew Jackson. He lived little more than a year, and afterward she took back the name Dockery because it was her children's name.",
     "In 1902 five of her children were living: two sons, B. C. Dockery of Killeen and Samuel R. Dockery of Nolanville, both in Bell County, Texas, and three daughters, Jane Gibson of Pattonville, Mrs. C. W. Driscell of Roxton, and Mrs. B. Newton near Gadsden, Alabama. The last two were twins. Mrs. B. Newton was very probably Mary Ann Dockery, who married Bailus Newton in St. Clair County in 1867 at a Gibson home, and whose husband, Balus Newton, farmed in Etowah County near Gadsden. Her twin sister was probably the Paralee Dockery who married Columbus Driskell in St. Clair County in 1862, and a B. C. Dockery, twenty, was farming in St. Clair County in 1860.",
     "In 1895 most of the family moved to Texas. Zilpha's grandson William Franklin Gibson went ahead to find farmland, and the rest travelled by wagon from Gadsden to Memphis and then by train to Lamar County. Mary Ann stayed in Alabama with Balus. By 1902 Zilpha had more than a hundred descendants in Lamar County alone, scattered from Detroit in Red River County to Dial on the Fannin County line, and she spent her time visiting them, sometimes twenty miles a day in a wagon with a little brandy along the road.",
-    "When a Dallas reporter called on her in January 1902 she was said to be the oldest person in North Texas. She was going blind and walked with a stick she called her horse, but her hearing was sharp and her temper sharper. She dipped snuff, went barefoot all summer because shoes burned her feet, and took half a dozen puffs from her son-in-law's cigar while she talked. She had cooked for weddings and muster days for miles around, selling ginger cakes and cider for pin money, and she had learned to read after she turned a hundred. She was a Baptist with no patience for preachers who took money for preaching, and her son-in-law, an old Confederate, hoped to take her to the reunion at Dallas that spring. She died early in 1903."
+    "When a Dallas reporter called on her in January 1902 she was said to be the oldest person in North Texas. She was going blind and walked with a stick she called her horse, but her hearing was sharp and her temper sharper. She dipped snuff, went barefoot all summer because shoes burned her feet, and took half a dozen puffs from her son-in-law's cigar while she talked. She had cooked for weddings and muster days for miles around, selling ginger cakes and cider for pin money, and she had learned to read after she turned a hundred. She was a Baptist with no patience for preachers who took money for preaching, and her son-in-law, an old Confederate, hoped to take her to the reunion at Dallas that spring. She died early in 1903.",
+    "The census takers found her too. In 1840 William Dockery was farming in St. Clair County, Alabama, with Zilpha and six children, five boys and a little girl. Ten years later Zilpha was a widow in neighboring Benton County with all nine of her children at home: Hiram, Alberry, Ransom, Samuel, Jane, Calvin, the twins Mazzie and Paralee, and William J., who was five. Her husband had lived long enough to see that last son born. On 24 April 1856 she married John Diffy in St. Clair County, both of them, the clerk wrote, having been married before. By 1860 her son Ransom and the Gibson families her daughter Jane had married into were farming around Peeks Hill in Calhoun County, a few doors from the Newtons.",
+    "She saw the new century in at Pattonville, Lamar County, Texas, in the home of her grandson Samuel A. Gibson, Jane's son. In April 1902 the Gadsden paper back in Alabama reported that Grandma Zilpa Dockery, who had once lived in Gadsden with her married daughter Mrs. C. W. Driskell, was nearly a hundred and six and planned to go to the Confederate reunion at Dallas. She died at home in Pattonville on the night of 15 January 1903, and the next day the wire carried the news to papers as far off as Kansas City: the oldest person in Texas was dead. Her daughter Jane Gibson died in Lamar County in 1910, and on Jane's death certificate the informant wrote her mother's name, Zelphia Dockery."
    ],
    "quotes": [
     {
@@ -28365,7 +28461,15 @@
     "1860 U.S. census, St. Clair Co., Ala., Ashville division, dwelling 416, B. C. Dockery, 20, farmer, b. Ala. (USGenWeb Census Project transcription by Barbara Gilliland, https://www.us-census.org/pub/usgenweb/census/al/stclair/1860/pg0142.txt)",
     "St. Clair Co., Ala., marriage register, p. 203, Bailus Newton and Mary Ann Dockery, licence 11 Feb 1867: https://www.familysearch.org/ark:/61903/1:1:QKZS-M16D",
     "Columbus Driskell and Paralee Dockery, m. 17 May 1862, St. Clair Co., Ala., per WeRelate Person:Columbus_Driskell_(1) (compiled; original register not seen)",
-    "Alabama death index, Oda Verbena Newton (mother Mary Marzee Dockery): https://www.familysearch.org/ark:/61903/1:1:JN7H-JJW"
+    "Alabama death index, Oda Verbena Newton (mother Mary Marzee Dockery): https://www.familysearch.org/ark:/61903/1:1:JN7H-JJW;",
+    "1840 U.S. census, St. Clair Co., Ala., roll 14, p. 227, Wm Dockery (Ancestry coll. 8057, image 4411216_00466)",
+    "1850 U.S. census, Subdivision 29, Benton Co., Ala., p. 377b, dwelling 675",
+    "St. Clair Co., Ala., marriage license docket, p. 271, John Diffy and Zilpha Dockery, 24 Apr 1856 (FHL film 1035441; Ancestry coll. 61365)",
+    "1860 U.S. census, Ranges 5, 6 and 7, Calhoun Co., Ala., P.O. Peeks Hill, pp. 610-611 (dwellings 186-196)",
+    "1900 U.S. census, Justice Precinct 7, Lamar Co., Tex., ED 85, sheet 3, dwelling 47 (Samuel A. Gibson household)",
+    "Gadsden (Ala.) Times-News, 11 Apr 1902, p. 2, 'Nearly 106 Years Old': https://www.newspapers.com/image/322643155/",
+    "Kansas City Times, 17 Jan 1903, p. 1, 'Oldest Person in Texas Dead': https://www.newspapers.com/image/648869084/",
+    "Texas death certificate 8129, Mrs. Jane Gibson, Lamar Co., 10 Mar 1910 (Ancestry coll. 2272)"
    ],
    "imgs": [
     {
@@ -28377,6 +28481,11 @@
      "s": "img/places/spartanburgh-district-sc-mills-1825.jpg",
      "cap": "Spartanburgh District, South Carolina, from Robert Mills's Atlas of 1825 (J. Whitten's survey of 1820), in a pen-and-ink copy approved by the Union army's chief engineer. Zilpha Scott grew up here from about 1799 and married William Dockery here in 1818.",
      "kind": "map"
+    },
+    {
+     "s": "img/docs/st-clair-ala-marriage-docket-1856-p271-diffy-dockery.jpg",
+     "cap": "St. Clair County, Alabama, marriage license docket, 1856: the license of John Diffy and Zilpha Dockery, issued and solemnized on 24 April 1856.",
+     "kind": "record"
     }
    ],
    "tags": [
@@ -28398,14 +28507,26 @@
     ],
     [
      "Died",
-     "Early 1903, Lamar County, Texas (30 Jan in the transcription notes; 20 Jan on the portrait label)"
+     "15 Jan 1903 (night of the 15th, by the Dallas dispatch of the 16th), Pattonville, Lamar County, Texas"
     ],
     [
      "Link to us",
-     "Probable mother of Mary Ann (Dockery) Newton"
+     "Mother of Mary Ann (Dockery) Newton (proven); Mary Ann's place as Lizzie Newton's mother is probable"
+    ],
+    [
+     "1840",
+     "Wm Dockery household, St. Clair County, Alabama"
+    ],
+    [
+     "1850",
+     "Widow with nine children, Benton County, Alabama"
+    ],
+    [
+     "Second marriage",
+     "John Diffy, 24 Apr 1856, St. Clair County"
     ]
    ],
-   "note": "Evidence: probable. Mrs. B. Newton near Gadsden is not given a first name, but Balus Newton of Etowah County, near Gadsden, married Mary Ann Dockery in St. Clair County in 1867 at a Gibson residence, and Zilpha's daughter Frances Jane had married Samuel Fleming Gibson. Conflicts: (1) If Zilpha was born in 1796 and Mary Ann about 1844, Zilpha was about forty-seven at the twins' birth; her own age may have grown in the telling. (2) William is said to have died soon after the Cherokee removal (1838), which does not fit twins born about 1844 unless his death came later or the twins were born earlier. (3) In 1880 Mary Ann gave both parents' birthplaces as South Carolina; Zilpha was born in Virginia but raised in South Carolina from about age three. (4) Death 30 Jan 1903 (transcriber) vs 20 Jan 1903 (portrait label). The Driskell-Dockery marriage is from a compiled profile, not the original register. The interview's account of the Cherokee removal is her own memory and is given as hers.",
+   "note": "Evidence: probable. Mrs. B. Newton near Gadsden is not given a first name, but Balus Newton of Etowah County, near Gadsden, married Mary Ann Dockery in St. Clair County in 1867 at a Gibson residence, and Zilpha's daughter Frances Jane had married Samuel Fleming Gibson. Conflicts: (1) If Zilpha was born in 1796 and Mary Ann about 1844, Zilpha was about forty-seven at the twins' birth; her own age may have grown in the telling. (2) William is said to have died soon after the Cherokee removal (1838), which does not fit twins born about 1844 unless his death came later or the twins were born earlier. (3) In 1880 Mary Ann gave both parents' birthplaces as South Carolina; Zilpha was born in Virginia but raised in South Carolina from about age three. (4) Death 30 Jan 1903 (transcriber) vs 20 Jan 1903 (portrait label). The Driskell-Dockery marriage is from a compiled profile, not the original register. The interview's account of the Cherokee removal is her own memory and is given as hers. R26: the link to Mary Ann is now PROVEN (1850 household with twins Mazzie and Paralee; Marzee Newton 1914; 1902 'twins'). CONFLICTS kept: her age is 35 in the 1850 census (image reads 35), the wife in Wm Dockery's 1840 household is 30-39, and the eldest child was born about 1829, all against 1796 and an 1818 marriage; the 1900 census (Sep 1796, b. S.C., 9 children, 5 living) and her own accounts keep 1796. The 1903 wire story says she married 'a merchant' at Spartanburg 'ninety years ago' and John Diffy 'seventy-five years ago', both garbled; the 1856 license is the record. Death: 'died last night' in a Dallas dispatch dated 16 Jan 1903 (Kansas City Times, 17 Jan 1903), so 15 Jan 1903, replacing 20/30 Jan. Her 1850 neighbors were S.C.-born Gilberts, and the 1856 marriage was solemnized by a Gilbert, which fits her sister Frances (Mrs. Daniel Gilbert). Jane (Dockery) Gibson d. 10 Mar 1910, Lamar Co., about 72, informant A. J. Gibson, buried Shady Grove (Tex. death cert. 8129). In 1860, at Peeks Hill, a Howard(?) Gibson, 23, had a wife Jane, 22, and sons William, 2, and Samuel, 1: possibly Jane and her son Samuel A. (lead; the site's 'Samuel Fleming Gibson' husband needs rechecking against this).",
    "place": "Spartanburg District, South Carolina; the Coosa River country across from Gadsden, Alabama; Lamar County, Texas",
    "rank": 282
   },
@@ -28615,6 +28736,167 @@
    "note": "The slave schedule transcription indexes him as 'Fims'; the original reads 'V. B. Tims'. The free schedule spells it 'Timms'. The 1860 enumeration of the Indian country generally left out Choctaw citizens, so his wife's and sons' absence is not evidence of death or separation. Neither schedule names the enslaved woman.",
    "place": "",
    "rank": 36
+  },
+  {
+   "id": "lyle-manasseh-sarah-chaney",
+   "side": "J",
+   "gen": 9,
+   "ev": "probable",
+   "title": "Rebecca Lyle's people: a Leesburg boy, a Maryland cousin and a ward at sixteen",
+   "hook": "Rebecca Lyle was sixteen when she married Hezekiah Garrison, and it was a guardian, not her father, who gave consent. Her father had been dead three years.",
+   "profile": false,
+   "people": [
+    "xr28-001",
+    "xr28-002",
+    "xr28-003"
+   ],
+   "subject": {
+    "name": "Manasseh Lyle & Sarah (Chaney) Lyle",
+    "rel": "Paternal family history",
+    "years": "1770–1810 · 1772–1829"
+   },
+   "body": [
+    "Manasseh Lyle was born on 31 May 1770 at Leesburg, the county town of Loudoun County, Virginia. On 21 January 1792 he married Sarah Chaney, who had been born in Maryland on 18 January 1772. They were first cousins. Their first children were born in Virginia: Nancy in November 1792, Elizabeth on 25 October 1794, and Rebecca in Loudoun County two years to the day later, on 25 October 1796. Thomas Hillery followed in August 1798 and William Hillery in November 1800.",
+    "From Loudoun the family went to Bedford County, Virginia, and in 1806 on to Warren County, Kentucky, where Manasseh bought land that some of his descendants still farmed in 1979. He had only a few years on it. He died in Warren County on 9 February 1810, leaving Sarah with a houseful of children, nine in all by the family's count: Nancy, Elizabeth, Rebecca, Thomas H., William H., Sarah, Mary, John W. and Matilda. Sarah married again, to George Wilson.",
+    "That second marriage explains an entry in the Warren County marriage book. When Rebecca married Hezekiah Alexander Garrison in June 1813, his father signed for him, writing \"My son was 22 years old last February,\" but Rebecca was \"a ward of David Harris who gave his consent.\" Richard Pope married them on 10 June.",
+    "Sarah Chaney Lyle died in Allen County on 18 October 1829. Within a year or two four of her children, Rebecca, William Hillery, Nancy (Mrs. William Blackwell) and Elizabeth (Mrs. Christopher Welch), had gone south with Hezekiah to Morgan County, Alabama. A Lyle burying ground lies across Cotaco Creek from the Garrison half-section, and the families worshipped together at Center Springs. A great-granddaughter remembered that \"the Lyles, Grantlands and Garrisons were leaders in establishing Methodism in Morgan county.\" Thomas Hillery stayed behind in Allen County, married Margaret Sarver in 1817, became a Methodist Episcopal clergyman and died there in 1878.",
+    "Behind Manasseh the trail thins out. A Lyle genealogy of 1912, working from what his descendants in Allen County and Nashville told the compiler, says his father was \"probably Thomas Lyle,\" his mother unknown, and that Manasseh had a brother James and sisters Sarah and Nancy, who married Luke and Moses Mayhew. The Garrison compiler of 1979 also names Thomas Lyle as the father. Neither cites a document, so Thomas is a name to test against the Loudoun County records, not an answer."
+   ],
+   "quotes": [
+    {
+     "t": "She was a ward of David Harris who gave his consent.",
+     "c": "Warren Co., Ky., marriage entry for Hezekiah A. Garrison and Rebecca Lyle, June 1813, as quoted by Stuart, Supplement, insert p. 10-D"
+    }
+   ],
+   "src": [
+    "Floyd C. Stuart, Supplement: The Garrisons and Connected Families, 1630-1979 (1979, with 1981 corrections), Hezekiah Alexander Garrison entry and insert pp. 10-C and 10-D (\"Lyle to Hezekiah Alexander Garrison\"), Internet Archive: https://archive.org/details/supplementthegar00stua",
+    "Oscar Kemper Lyle, Lyle Family: The Ancestry and Posterity of Matthew, John, Daniel and Samuel Lyle, Pioneer Settlers in Virginia (New York, 1912), Notes, p. 353 (\"From descendants of a Menasseh Lyle living in Allen Co., Ky., and Nashville, Tenn.\"), Internet Archive: https://archive.org/details/lylefamilyancest00lyle",
+    "Yardley Taylor, Map of Loudoun County, Virginia (Philadelphia: Thomas Reynolds & Robert Pearsall Smith, 1853), Library of Congress 2012589658, via Wikimedia Commons."
+   ],
+   "imgs": [
+    {
+     "s": "img/docs/lyle-family-1912-p353-menasseh-lyle.jpg",
+     "cap": "The 1912 Lyle genealogy's note on 'a Menasseh Lyle living in Allen Co., Ky.': born 1770, married Sarah Chaney in 1792, nine children, among them Rebecca, who married Hezekiah Garrison.",
+     "kind": "record"
+    },
+    {
+     "s": "img/places/leesburg-taylor-1853-map-vignette.jpg",
+     "cap": "Leesburg, where Manasseh Lyle was born in 1770, in the corner vignette and town plan of Yardley Taylor's 1853 map of Loudoun County.",
+     "kind": "place"
+    }
+   ],
+   "tags": [],
+   "kv": [
+    [
+     "Manasseh born",
+     "31 May 1770, Leesburg, Loudoun Co., Va."
+    ],
+    [
+     "Sarah born",
+     "18 Jan 1772, Maryland"
+    ],
+    [
+     "Married",
+     "21 Jan 1792 (first cousins)"
+    ],
+    [
+     "Moves",
+     "Loudoun → Bedford Co., Va. → Warren Co., Ky., 1806"
+    ],
+    [
+     "Manasseh died",
+     "9 Feb 1810, Warren Co., Ky."
+    ],
+    [
+     "Sarah died",
+     "18 Oct 1829, Allen Co., Ky.; she had remarried George Wilson"
+    ],
+    [
+     "Rebecca's guardian, 1813",
+     "David Harris"
+    ]
+   ],
+   "note": "Evidence: probable. Two compiled accounts agree on the core: Stuart (1979), from the Garrison family list, gives the dates, the moves and the children; O. K. Lyle (1912), from descendants in Allen Co. and Nashville, gives Menasseh b. 1770, m. 1792 Sarah Chaney, nine children including 'Rebecca, m Hezekiah Garrison.' The 1813 marriage entry naming a guardian fits a father dead by 1810. Not seen: the Warren Co. marriage bond itself, Manasseh's deed or estate papers, and any Loudoun record. Thomas Lyle as Manasseh's father is a lead. Stuart's Lyle list gives Rebecca's death as 5 Sept 1873, his obituary copy 5 Aug 1873 (the site uses 5 Aug). Which parents made Manasseh and Sarah first cousins is not stated.",
+   "place": "Leesburg, Loudoun County, Virginia; Bedford County, Virginia; Warren (later Allen) County, Kentucky, from 1806.",
+   "rank": 283
+  },
+  {
+   "id": "shaw-benjamin-rhoda-nicholites",
+   "side": "J",
+   "gen": 9,
+   "ev": "probable",
+   "title": "New Quakers on the Reedy Fork: Benjamin and Rhoda Shaw",
+   "hook": "Before they were Quakers, Noble Shaw's parents were Nicholites, the plain 'New Quakers' of the Delaware-Maryland line, who freed their slaves and came south together during the Revolution.",
+   "profile": false,
+   "people": [
+    "xr28-004",
+    "xr28-005",
+    "xr28-006"
+   ],
+   "subject": {
+    "name": "Benjamin & Rhoda (Covey) Shaw",
+    "rel": "Paternal family history",
+    "years": "d. 1830 · d. before 1830"
+   },
+   "body": [
+    "Before they were Quakers, Benjamin and Rhoda Shaw were Nicholites. The \"New Quakers\" took their name from Joseph Nichols, a preacher on the Delaware-Maryland line in the 1760s. They were plainer even than the Friends: they kept their own monthly meeting, rejected slaveholding and freed the slaves their members had held, and a Methodist evangelist who lodged with one of them in 1804 described them as Quakers \"who do not feel free to wear colored clothes.\" Not long after the Revolution began a body of them, mostly from Delaware, came south and settled on the western edge of Guilford County, North Carolina, near the head of Deep River and along the upper Reedy Fork of the Haw. The Shaws, also from Delaware, were part of that colony.",
+    "Rhoda was a Covey. Her father, Noble Covey of Caroline County, Maryland, had signed the decision of 1774 that organized the Nicholite Society, and in 1775 he married Mary (Pegg) Bicham of Delaware; Rhoda was a daughter of an earlier marriage. The Coveys settled just over the county line in Rowan, now Davidson, County, where Noble Covey was counted in 1790, and in 1791 he and William Covey witnessed a deed for fifty acres on the Reedy Fork. Benjamin and Rhoda's son Noble, born in April 1787, carried his grandfather's name.",
+    "Benjamin's household numbered ten in 1790 and eleven in 1800, when he was past forty-five. On 31 March 1798 New Garden Monthly Meeting received \"Benjamin & w, Rhoda, of Dover\" at their own request, and with them their children William, Matthew, Sarah, John, James, Noble, Rhoda, Elizabeth and Aaron. They were among the first of the Carolina Nicholites to cross over to the Friends. There was never a general merger in North Carolina as there was in Maryland; families came over one at a time, and others drifted to the Methodists or west to Tennessee.",
+    "Membership sat lightly on the family. Sarah was disowned that August for marrying Jonathan Fisher outside the meeting, Matthew condemned his own marriage out of unity in 1805, Benjamin himself was disowned on 26 April 1806, and Noble married out of unity in 1809. Noble's wife was Sicily Nordyke, and two more of the children married Nordykes as well.",
+    "Benjamin made his will on 5 April 1830. He let Matthew have the use of the home plantation to make that year's crop. He left James, and his former son-in-law Jonathan Fisher, one dollar each, and gave Noble \"all the lands where he now lives\" on condition that he pay a hundred dollars into the estate. Rhoda (Mrs. Drusy Wood) and Mary (Mrs. James Morton) received land, and Matthew and Robert and Betsy Nordyke received money. He named his son Aaron and his son-in-law James Morton executors. No wife appears in the will, so Rhoda had died before him. By October 1830 Benjamin was dead, and his heirs met to divide his land on the waters of Reedy Fork. The will itself was not proved in court until February 1846."
+   ],
+   "quotes": [
+    {
+     "t": "Benjamin and Rhoda Shaw, also from Delaware, were a part of this same community.",
+     "c": "Kenneth L. Carroll, 'Another Look at the Nicholites,' The Southern Friend, Autumn 1983, p. 13"
+    }
+   ],
+   "src": [
+    "Kenneth L. Carroll, \"Another Look at the Nicholites,\" The Southern Friend: Journal of the North Carolina Friends Historical Society 5, no. 2 (Autumn 1983), pp. 3-26, esp. pp. 11-17 and notes 38, 45 and 64, Internet Archive: https://archive.org/details/southernfriendse46nort",
+    "Hinshaw, Encyclopedia of American Quaker Genealogy, vol. 1, New Garden MM, Shaw entries (p. 570), as transcribed on the Vaut compilation, acvancestors.com, person page 605 (https://acvancestors.com/g0/p605.htm)",
+    "Will of Benjamin Shaw, Guilford Co., N.C., 5 Apr 1830, proved Feb Term 1846, Will Book C p. 245 (file 0911), and deed of the heirs of Benjamin Shaw to James and Mary Morton, Oct 1830, Guilford Deeds Book 19 p. 366, both as transcribed for USGenWeb Archives by Debra Lee Gwinn (2006; files nc/guilford/wills/shaw113gwl.txt and nc/guilford/deeds/shaw125gdd.txt), text quoted on acvancestors.com person page 605",
+    "Lorenzo Dow (1804), as quoted by Carroll, p. 17",
+    "John Collins, Friends Meeting House at New Garden (1869), via Wikimedia Commons."
+   ],
+   "imgs": [
+    {
+     "s": "img/places/new-garden-meeting-house-collins-1869.jpg",
+     "cap": "The old Friends meeting house at New Garden, Guilford County, in John Collins's 1869 picture. New Garden Monthly Meeting received Benjamin and Rhoda Shaw and their nine children in March 1798.",
+     "kind": "place"
+    }
+   ],
+   "tags": [
+    "quaker"
+   ],
+   "kv": [
+    [
+     "Origin",
+     "Delaware (Carroll, 1983)"
+    ],
+    [
+     "Received at New Garden MM",
+     "31 Mar 1798, Benjamin and wife Rhoda 'of Dover', with nine children"
+    ],
+    [
+     "Benjamin disowned",
+     "26 Apr 1806"
+    ],
+    [
+     "Benjamin's will",
+     "5 Apr 1830; proved Feb 1846, Guilford Will Book C p. 245"
+    ],
+    [
+     "Heirs' division",
+     "Oct 1830, Guilford Deeds Book 19 p. 366 ('the late Benjamin Shaw')"
+    ],
+    [
+     "Rhoda's father",
+     "Noble Covey, Nicholite, of Caroline Co., Md., and Rowan (now Davidson) Co., N.C."
+    ]
+   ],
+   "note": "Evidence: probable for Benjamin and Rhoda as Noble Shaw's parents: New Garden MM received Noble among Benjamin's children in 1798 (Hinshaw abstract), Benjamin's 1830 will calls him 'my son Noble Shaw,' and Noble signed the 1830 heirs' deed. The will and deed are known here from a 2006 USGenWeb transcription quoted on a compiled site; the originals have not been seen. Rhoda's descent from Noble Covey is a lead: it rests on Carroll (who credits Kenneth A. Hovey), on the naming of her son Noble, and on Noble Covey's Rowan will, which Carroll had not seen and which is said to name a daughter 'Rhoda Covey.' Family-tree dates for Benjamin (b. 1755 or 1765, d. 14 Apr 1836) and Rhoda (b. 10 Mar 1764, d. 24 Jul 1820) have no source; 1836 cannot be right if the heirs called him 'the late Benjamin Shaw' in October 1830, and Carroll gives Noble Covey a daughter Ann born in 1764 by his wife Rachel, with Rhoda perhaps from an even earlier marriage. Transcriptions differ on the date Noble condemned his marriage (25 Feb or 29 Jul 1809). This whole line depends on the unproven link between Parses (Shaw) O'Neal Watt and Noble and Sicily Shaw.",
+   "place": "From Delaware to the Nicholite settlement on the western edge of Guilford County, North Carolina, on the waters of Reedy Fork of Haw River; New Garden Monthly Meeting from 1798.",
+   "rank": 284
   }
  ],
  "storyAliases": {
@@ -32660,6 +32942,108 @@
    "t": "Henry Sharp enters the southeast quarter of Section 3 on Pleasant Ridge, Clinton County.",
    "side": "N",
    "story": "henry-sharp-belleville-jail-pleasant-ridge"
+  },
+  {
+   "y": "1792",
+   "t": "Manasseh Lyle marries his first cousin Sarah Chaney on 21 January; their daughter Rebecca will marry Hezekiah Alexander Garrison.",
+   "side": "J",
+   "story": "lyle-manasseh-sarah-chaney"
+  },
+  {
+   "y": "1798",
+   "t": "New Garden Monthly Meeting receives Benjamin and Rhoda Shaw, Nicholites from Delaware, and their nine children, Noble among them, on 31 March.",
+   "side": "J",
+   "story": "shaw-benjamin-rhoda-nicholites"
+  },
+  {
+   "y": "1806",
+   "t": "The Lyle family moves from Bedford County, Virginia, to Warren County, Kentucky.",
+   "side": "J",
+   "story": "lyle-manasseh-sarah-chaney"
+  },
+  {
+   "y": "1809",
+   "t": "Noble Shaw gives bond in Stokes County on 14 March to marry Sicily Nordyke.",
+   "side": "J",
+   "story": "noble"
+  },
+  {
+   "y": "1810",
+   "t": "Manasseh Lyle dies in Warren County, Kentucky, on 9 February.",
+   "side": "J",
+   "story": "lyle-manasseh-sarah-chaney"
+  },
+  {
+   "y": "1820",
+   "t": "James Stevenson, the Belfast-born immigrant of the upper South Yadkin, dies in Iredell County, at ninety-nine by one family account.",
+   "side": "J",
+   "story": "stev-james-sr-sally-kelly"
+  },
+  {
+   "y": "1830",
+   "t": "Benjamin Shaw makes his will on 5 April, leaving his son Noble the land he lives on; by October he is dead.",
+   "side": "J",
+   "story": "shaw-benjamin-rhoda-nicholites"
+  },
+  {
+   "y": "1835",
+   "t": "Balus Newton is born on 31 October at Double Branch, Pickens District, South Carolina.",
+   "side": "J",
+   "story": "balas-newton"
+  },
+  {
+   "y": "1840",
+   "t": "Hezekiah Newton's household in Pickens District includes two boys under five, probably Balus among them.",
+   "side": "J",
+   "story": "balas-newton"
+  },
+  {
+   "y": "1862",
+   "t": "Balus Newton re-enlists in August at Peeks Hill, Calhoun County, Alabama, where his parents lived.",
+   "side": "J",
+   "story": "balas-newton"
+  },
+  {
+   "y": "1889",
+   "t": "Hezekiah Newton, probably Balus's father, dies on 29 August in Etowah County, Alabama.",
+   "side": "J",
+   "story": "balas-newton"
+  },
+  {
+   "y": "1914",
+   "t": "Balus Newton dies on 9 January in Etowah County; his widow Marzee applies for his pension in March.",
+   "side": "J",
+   "story": "balas-newton"
+  },
+  {
+   "y": "1841",
+   "t": "Mary Ann 'Marzee' Dockery and her twin Elizabeth Paralee are born in Alabama, on 22 May by Paralee's grave.",
+   "side": "J",
+   "story": "mary-dockery-newton"
+  },
+  {
+   "y": "1850",
+   "t": "Zilpha Dockery, widowed, is living in Benton County, Alabama, with her nine children, among them the twins Mazzie and Paralee.",
+   "side": "J",
+   "story": "zilpha-scott-dockery"
+  },
+  {
+   "y": "1856",
+   "t": "Zilpha Dockery marries John Diffy in St. Clair County, Alabama, on 24 April.",
+   "side": "J",
+   "story": "zilpha-scott-dockery"
+  },
+  {
+   "y": "1903",
+   "t": "Zilpha Dockery, called the oldest person in Texas, dies at Pattonville, Lamar County, on 15 January.",
+   "side": "J",
+   "story": "zilpha-scott-dockery"
+  },
+  {
+   "y": "1885",
+   "t": "The Choctaw census finds Vincent W. Tims, Emeline and eight children farming in Towson County.",
+   "side": "J",
+   "story": "vinson"
   }
  ],
  "fixes": [
@@ -33801,6 +34185,13 @@
    "story": "zilpha-scott-dockery",
    "side": "J",
    "source": "https://www.loc.gov/item/2007627909/"
+  },
+  {
+   "s": "img/places/new-garden-meeting-house-collins-1869.jpg",
+   "cap": "The old Friends meeting house at New Garden, Guilford County, in John Collins's 1869 picture. New Garden Monthly Meeting received Benjamin and Rhoda Shaw and their nine children in March 1798.",
+   "story": "shaw-benjamin-rhoda-nicholites",
+   "side": "J",
+   "source": "https://commons.wikimedia.org/wiki/File:Friends_Meeting_House_at_New_Garden_Guilford_County_North_Carolina_1869.jpg"
   }
  ],
  "photoSources": {
@@ -35055,6 +35446,36 @@
   "img/archive/coventry-parish-church-ruins-rehobeth-md-2017.jpg": {
    "url": "https://commons.wikimedia.org/wiki/File:CoventryParish1RehobethMD_LindaRoyWalls.jpg",
    "credit": "Linda Roy Walls, CC BY-SA 4.0, via Wikimedia Commons"
+  },
+  "img/docs/lyle-family-1912-p353-menasseh-lyle.jpg": {
+   "url": "https://archive.org/details/lylefamilyancest00lyle (Notes, p. 353)"
+  },
+  "img/places/leesburg-taylor-1853-map-vignette.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Map_of_Loudoun_County,_Virginia_LOC_2012589658.jpg"
+  },
+  "img/places/new-garden-meeting-house-collins-1869.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Friends_Meeting_House_at_New_Garden_Guilford_County_North_Carolina_1869.jpg"
+  },
+  "img/docs/linney-1930-p72-james-stevenson-belfast.jpg": {
+   "url": "https://archive.org/details/schoolofprophets1930linn (p. 72)"
+  },
+  "img/docs/census-1840-pickens-sc-p380-hesakiah-joel-newton.jpg": {
+   "url": "1840 U.S. census, Pickens Dist., S.C., roll 514, p. 380"
+  },
+  "img/docs/ala-confederate-census-1907-balus-newton.jpg": {
+   "url": "Alabama Department of Archives and History, 1907 Confederate census, Etowah County no. 91"
+  },
+  "img/docs/census-1850-benton-ala-zilpha-dockery-household.jpg": {
+   "url": "1850 U.S. census, Subdivision 29, Benton Co., Ala., p. 377b"
+  },
+  "img/docs/ala-widow-pension-1914-marzee-newton.jpg": {
+   "url": "Alabama Confederate pension file of Balus Newton"
+  },
+  "img/docs/st-clair-ala-marriage-docket-1856-p271-diffy-dockery.jpg": {
+   "url": "St. Clair Co., Ala., marriage license docket, p. 271"
+  },
+  "img/docs/choctaw-census-1885-towson-p10-vincent-w-tims.jpg": {
+   "url": "NARA M595, roll 623 (1885 Choctaw census)"
   }
  }
 }
