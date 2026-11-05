@@ -400,7 +400,8 @@
     "Lori Allbright, “Pearland, TX,” Handbook of Texas Online, Texas State Historical Association: https://www.tshaonline.org/handbook/entries/pearland-tx",
     "1910 U.S. census, Justice Precinct 5, Brazoria County, Floyd H. Livesay household: https://www.familysearch.org/ark:/61903/1:1:M29Z-1TC",
     "1920 U.S. census, Harris County, ED 105, Floyd H. Livesay household: https://www.familysearch.org/ark:/61903/1:1:MHY4-9Z1",
-    "Houston Chronicle, 5 and 6 May 1932 (Floyd Livesay funeral notices): https://www.newspapers.com/image/1198463593/"
+    "Houston Chronicle, 5 and 6 May 1932 (Floyd Livesay funeral notices): https://www.newspapers.com/image/1198463593/",
+    "The Houston Post, 28 January 1912, p. 7, \"Walter Livesay\" (Death Roll), viewed 5 Nov 2026: https://www.newspapers.com/image/94925669/"
    ],
    "imgs": [
     {
@@ -19210,13 +19211,98 @@
    "note": "The enlistment card is a transcribed punch-card record, not an image of a paper document. Identifying the card’s Lewis O. Whitfield with Lewis Oliver Whitfield rests on name, county, state of birth and birth year; it is probable. His Air Forces assignment and discharge are not documented here."
   },
   {
-   "id": "logan-widow-pension-titus-county",
+   "id": "martha-logan-will-1852",
    "side": "N",
-   "gen": 6,
-   "ev": "probable",
    "profile": false,
-   "title": "A widow’s pension application from Titus County",
-   "hook": "Years after Dudley Logan died, his widow in Titus County asked Texas for a Confederate widow’s pension, the first hint of Dudley’s war.",
+   "gen": 8,
+   "ev": "proven",
+   "title": "Martha Logan's will, 1852",
+   "hook": "Martha Logan, born in South Carolina about 1779, made her will in Greene County in July 1852 and left the rest of what she had to her son Clemens, the father of Dudley Logan.",
+   "people": [
+    "xr7s-001",
+    "MAT_CLEMENT_LOGAN",
+    "xu8-018"
+   ],
+   "subject": {
+    "name": "Martha Logan",
+    "rel": "Maternal ancestor",
+    "years": "about 1779–1852"
+   },
+   "body": [
+    "In 1850 Martha Logan was seventy-one, a South Carolina woman living by herself in Greene County, Alabama. Her family surrounded her. Next door was a Presbyterian minister, James P. McMullin, and a few doors on lived her son Clemens, her daughter Priscilla with her husband Willis Logan, and Leroy Logan, who was probably the widower of her daughter Eliza. Her daughter Mary A. D. Scott was two doors away.",
+    "On 14 July 1852 she made her will and signed it \"M. Logan.\" She had outlived two of her children. To the children of her daughter Eliza, and to the children of her son William C., she left a dollar each, the old way of showing that they had not been forgotten. To Priscilla and to Clemens she left enslaved people, a mother named Harriet and her three children Drayton, Clarissa and Sam among them, on condition that each pay $250 to their sister Mary A. D. Scott, whose money was to be hers alone and not her husband's. The rest she left to Clemens, and she made him her executor.",
+    "She died that summer. In September 1852 Clemens brought the will into court, and the guardians who stood for the grandchildren were the family itself: Willis Logan for his own children, and Leroy Logan for his children and for the orphans of William C. Logan. Two years later Clemens was dead too.",
+    "Her husband is not named in the will. A gravestone in the old Greene County country, which became Hale County in 1867, remembers James C. Logan, born in 1773 and died in November 1840, “a kind husband and affectionate father.” A family history gives his wife as Martha Calhoun and his children by the very names Martha's will gives, so he was very probably her husband and Clemens's father."
+   ],
+   "quotes": [
+    {
+     "t": "a kind husband and affectionate father",
+     "c": "James C. Logan's stone, Mount Zion Cemetery"
+    }
+   ],
+   "src": [
+    "Greene County, Alabama, Will Records, Vol. C-D, pp. 363-365, will of Martha Logan signed 14 July 1852 and probated September 1852; Ancestry coll. 8799, record 9956818, images 35-36, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8799/records/9956818",
+    "1850 U.S. census, Greene County, Alabama, dwellings 1120-1132 (Martha Logan; McMullin; Stephen Wedgeworth; Elizabeth Logan; Leroy, Clement and Willis Logan), NARA M432 roll 6; Ancestry coll. 8054, images 4187296-00150 and -00151, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8054/records/18463198",
+    "Find a Grave memorial 13644762, James Clement Logan (26 Apr 1773-4 Nov 1840), Mount Zion Cemetery, Akron, Hale County, Alabama (biography unsourced), read 5 Nov 2026: https://www.findagrave.com/memorial/13644762/james-clement-logan"
+   ],
+   "imgs": [],
+   "note": "Mother-son link Martha to Clemens is PROVEN by the will. Her husband James C. Logan is PROBABLE (Find a Grave biography, unsourced, agrees with the will's list of children). Her maiden name Calhoun is a LEAD. 'Leroy Logan' as Eliza's husband is an inference from his serving as guardian for his minor children at the probate; Eliza is not named as his wife. The Find a Grave index links Dudley as James's 'child', which is an error (James died before Dudley's birth). Enslaved people named: Ellen 17, Laura 15, Gale 7 (to Priscilla; Ancestry's index wrongly calls them grandchildren) and Harriet with Drayton, Clarissa(?) and Sam (to Clemens); readings of some names uncertain. 'Calhoun' would tie to the SC Calhouns; do not claim kinship to John C. Calhoun."
+  },
+  {
+   "id": "clemens-logan-will-three-orphans-1854",
+   "side": "N",
+   "profile": false,
+   "gen": 7,
+   "ev": "proven",
+   "title": "Clemens Logan's will and his three children, 1854",
+   "hook": "In the spring of 1854 Clemens Logan made his will in Greene County, Alabama, and by autumn the court was naming a guardian for Elizabeth, Dudley and Martha, his only surviving children.",
+   "people": [
+    "MAT_CLEMENT_LOGAN",
+    "MAT_DUDLEY_LOGAN",
+    "MAT_MARY_A_LOGAN",
+    "xr7s-002",
+    "xr7s-003"
+   ],
+   "subject": {
+    "name": "Clemens Logan",
+    "rel": "Maternal ancestor",
+    "years": "about 1817–1854"
+   },
+   "body": [
+    "Clemens Logan was born in South Carolina and made his life on Alabama cotton land. In 1850 he was thirty-three, farming in Greene County with land worth $1,600, his wife Mary A. beside him and three children in the house: Elizabeth, eight, Dudley, three, and a baby, Martha, six months old. His brother-in-law Willis Logan lived on one side and another Logan household, Leroy's, on the other, and his widowed mother, Martha, lived alone a few doors up the road.",
+    "On 17 April 1854 Clemens sat down to make his will, a man of sound mind \"in view of the uncertainty of life and the certainty of death.\" He left everything to his children. His friend Noah Harris was to sell or keep the land as he saw fit, raise and school the children, and divide the estate among them as each came of age or married. Willis Logan, Alvis L. Logan and John C. McIntyre signed as witnesses. Mary is not mentioned, and she had probably died already.",
+    "Clemens did not live out the year. On 9 October 1854 the probate court of Greene County heard his will, and a guardian was named for \"Elizabeth Logan, Dudley T. Logan and Martha Logan, minor heirs of the deceased and the only surviving children.\" Dudley was eight. The boy who would one day take the family to Texas had lost both parents before he was ten.",
+    "Noah Harris kept the accounts for the next fourteen years. Elizabeth married first, and in December 1858 the court set apart her third of the estate to \"Elizabeth H., wife of Jo. H. Tarkenton.\" By 1860 Dudley, fourteen, and Martha, nine, were living with the family of William R. Pool, a wagon maker at Havana. The estate's wealth lay in the people it held in slavery, who were divided among the heirs like the land. The court's order of December 1858 setting apart Elizabeth's third names nineteen of them: Abram, Harriet, Jack, Emeline, Jackson, Jo, Betsy, Aley, Bob, Sarah, Sintha, Nancy, William, Eland, Sam, Rachel, Caroline, Morning and John, though some of the names are hard to read. Harriet and Sam were probably the mother and son whom Clemens's own mother had left him six years before. When the war was over Dudley came home of age, and between 1866 and 1868 Harris paid him his share, $813.24, as he and his sister Martha, by then the wife of Edward Hunter, closed their father's estate."
+   ],
+   "quotes": [
+    {
+     "t": "the only surviving children",
+     "c": "Greene County probate court, 9 October 1854"
+    }
+   ],
+   "src": [
+    "Greene County, Alabama, Will Records, Vol. C-D (1850-1890), pp. 369-370, will of Clemens Logan dated 17 April 1854 and probate of 9 October 1854; Ancestry, Alabama, U.S., Wills and Probate Records, 1753-1999 (coll. 8799), record 9594826, images 68-69, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8799/records/9594826",
+    "Greene County, Alabama, Estate Case Files, Clemens Logan (heirs list; order of 10 Dec 1858; Noah Harris's annual and final settlements, 1858-1868); Ancestry coll. 8799, record 8493547, 17 images, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8799/records/8493547",
+    "1850 U.S. census, Greene County, Alabama, dwellings 1120-1132 (Martha Logan; McMullin; Stephen Wedgeworth; Elizabeth Logan; Leroy, Clement and Willis Logan), NARA M432 roll 6; Ancestry coll. 8054, images 4187296-00150 and -00151, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8054/records/18463198",
+    "1860 U.S. census, Havana Beat No. 1, Greene County, Alabama, 1 June 1860, dwelling 13 (Wm. R. Pool household with Dudley Logan 14 and Martha Logan 9); Ancestry coll. 7667, record 7312509, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/7667/records/7312509"
+   ],
+   "imgs": [
+    {
+     "s": "img/docs/clemens-logan-probate-1854-heirs.jpg",
+     "cap": "Probate court, Greene County, Alabama, 9 October 1854: Noah Harris applies to prove Clemens Logan's will, and a guardian is named for “Elizabeth Logan, Dudley T. Logan and Martha Logan, minor heirs of the deceased and the only surviving children.” Greene County Will Records C-D, p. 370; Greene County Probate Court, image via Ancestry.",
+     "kind": "record"
+    }
+   ],
+   "note": "Parentage of Dudley T. Logan is now PROVEN by the 1854 probate and the estate file (heirs list and final settlement), replacing the census-based 'probable'. Mary A. is not named in the will; her death before April 1854 is an inference. The heirs list is sworn 26 June 185[9?] (last digit hard to read) and gives Dudley as 'about 12 years old'. Tarkenton may be Tarkington. The enslaved people named in the 10 Dec 1858 order are listed in the lookups report; decide with the owner whether to name them in the story. Check that this story and 'logan-wedgeworth-greene-county-1850' (whose hedges on Clement are now superseded) agree before publishing."
+  },
+  {
+   "id": "annie-logan-in-her-own-words-1914",
+   "side": "N",
+   "profile": false,
+   "gen": 6,
+   "ev": "proven",
+   "title": "Annie Logan in her own words, 1914",
+   "hook": "At sixty-seven, crippled with rheumatism and unable to find two of her husband's old comrades, Annie Logan wrote to the Secretary of War herself.",
    "people": [
     "MAT_ANNIE_WEDGEWORTH_LOGAN",
     "MAT_DUDLEY_LOGAN",
@@ -19228,20 +19314,44 @@
     "years": "1846–1923"
    },
    "body": [
-    "Annie Box’s mother is a dim figure, known mostly through others. At Wheelock Cemetery Annie Box’s parents are remembered as Dudley Logan and Annie Wedgeworth Logan, and Dudley Timothy Logan came to Titus County, Texas, from Greene County, Alabama, and died there in 1898. His widow is remembered as Sarah Anne Elizabeth “Annie” Wedgeworth Logan, 1846–1923, though those dates are not yet proved.",
-    "As a widow she turned to the state. Mrs. A. E. Logan of Titus County applied to Texas for a Confederate pension as the widow of Dudley Logan, application number 30414. Dudley himself had never drawn one; Texas began paying cash pensions under its law of 1899, the year after he died.",
-    "Texas paid pensions only to Confederate veterans, or their widows, who had lived in Texas since 1880 and were disabled or indigent, and it went on granting them, and turning some away, from 1899 to 1975. Her application was not among those rejected or lost. In applying she claimed Confederate service for Dudley, and showed that she was poor enough to qualify, though in which regiment he served, and when she applied, is not known.",
-    "The initials A. E. fit Anne Elizabeth, the county is the one where Dudley died, and her husband was Dudley, so this widow was probably Annie Box’s mother. Her application still survives in the state archives, and it may say where Dudley served and when the couple married."
+    "Annie Logan was born on 15 September 1846 in Alabama, and she married Dudley Logan on 18 April 1866 at the Mount Zion church in Greene County, a year after the war ended. In the autumn of 1914 she was a widow of sixty-eight, living on a rural route outside Mount Pleasant, Texas, and she needed the pension Texas paid to the widows of Confederate soldiers. Texas had begun paying cash pensions to its Confederate veterans and their widows in 1899, the year after Dudley died.",
+    "The county judge told her she must have sworn statements from two men of Dudley's company. She knew of none still living. So on 4 November 1914 she wrote to the Secretary of War in Washington in her own careful hand. \"He and I were raised in Ala., moved here in 1883, and he died here in 1898.\" She was sixty-seven, she wrote, afflicted with rheumatism and sadly in need. Dudley had left Alabama with Captain Dave Scarborough's company of cavalry, and sometime during the war he had been transferred to a Missouri brigade of infantry under General Cockrell, to be with his brother-in-law.",
+    "She had one more piece of evidence, a letter from her husband's niece. \"Dear Aunt Annie,\" it began, and it passed on what an old neighbor, Sam Wilson, remembered: that he and Uncle Dudley had gone off to the war together in Company B of the Seventh Alabama Cavalry. Judge Sam Porter had said it was not enough, but the lawyer Seb Caldwell, standing by, told her to send it anyway, and so she did. In January Caldwell wrote to Austin on her behalf. He had known her husband, he said, and knew her as a woman respectable, truthful and worthy.",
+    "It worked. By 1918 she was signing her affidavit every quarter and drawing her pension, and when she went to visit in Oklahoma, where her daughter Annie Box was living, the pension office wrote to make sure she had not moved away from Texas for good."
    ],
-   "quotes": [],
+   "quotes": [
+    {
+     "t": "He and I were raised in Ala., moved here in 1883, and he died here in 1898",
+     "c": "Annie E. Logan, 4 November 1914"
+    }
+   ],
    "src": [
-    "Texas State Library and Archives Commission, Index to Confederate Pension Applications, search for last name Logan (exact): “Logan, A. E. (Mrs),” application 30414, Titus County, husband “Logan, Dudley”; index only, application not examined, searched 3 Nov 2026: https://www.tsl.texas.gov/apps/arc/pensions",
-    "Texas State Library and Archives Commission, Confederate Pensions, Introduction (eligibility; coverage 1899–1975; Rejected and Missing markings; husband’s application number shown only if he received a pension; payment table from 1899), read 3 Nov 2026: https://www.tsl.texas.gov/arc/pensions/introcpi.html",
-    "Texas Digital Archive copy of application 30414 linked from the index; blocked by a browser check (403) on 3 Nov 2026: https://tsl.access.preservica.com/uncategorized/IO_7bdfad54-c46b-4567-b57f-629a401fd43c/",
-    "McCurtain Gazette, 30 December 1959, Mrs. Tyro Box obituary, with Wheelock Cemetery card-file note naming Dudley Logan and Annie Wedgeworth Logan, as described in “Alfreda Whitfield Sandridge and her Choctaw family” (Find a Grave memorial 180564131; not re-examined here): https://www.findagrave.com/memorial/180564131/annie_f-box"
+    "Texas Confederate pension application 30414, Mrs. A. E. Logan, Titus County (Form B sworn 30 Nov 1914; her letter of 4 Nov 1914 to the Secretary of War; letter of her husband's niece; letter of Seb F. Caldwell, 15 Jan 1915; Commissioner of Pensions letters, May 1918); Texas State Library and Archives Commission, via Ancestry, Alabama, Texas and Virginia, U.S., Confederate Pensions, 1884-1958 (coll. 1677), record 1401796, images 24-38, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/1677/records/1401796",
+    "Greene County, Alabama, marriage book (1823-1874), p. 425: licence for Mr. Dudley T. Logan and Miss Sarah A. E. Wedgworth issued 16 April 1866 by W. C. Oliver, judge of probate; solemnized 18 April 1866 at Mt. Zion Church by T. S. Winn; Ancestry, Alabama, U.S., County Marriage Records, 1805-1967 (coll. 61365), record 1892842, FHL film 1290852, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/61365/records/1892842"
    ],
-   "imgs": [],
-   "note": "Index only. The identification of Mrs. A. E. Logan with Annie Wedgeworth Logan is probable, based on initials, county and husband’s name. The index does not name Dudley’s regiment, and nothing here proves his service; the application file would. Earlier facts about Dudley come from memorial text recorded by earlier researchers."
+   "imgs": [
+    {
+     "s": "img/docs/logan-wedgworth-marriage-1866-greene-p425.jpg",
+     "cap": "The licence and return for Mr. Dudley T. Logan and Miss Sarah A. E. Wedgworth, issued in Greene County, Alabama, on 16 April 1866 and solemnized at Mt. Zion Church on the 18th. Greene County marriage book, p. 425; Greene County Probate Court, image via Ancestry.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/annie-logan-letter-1914-p2.jpg",
+     "cap": "Page two of Annie Logan's letter of 4 November 1914 to the Secretary of War: “He and I were raised in Ala., moved here in 1883, and he died here in 1898.” Texas Confederate pension file 30414; Texas State Library and Archives Commission, image via Ancestry.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/jennie-letter-uncle-dudley-p1.jpg",
+     "cap": "“Dear Aunt Annie”: the letter from Dudley's niece that Annie sent as evidence that Uncle Dudley had served in Company B, Seventh Alabama Cavalry. Texas Confederate pension file 30414; Texas State Library and Archives Commission, image via Ancestry.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/annie-logan-pension-formB-1914.jpg",
+     "cap": "Mrs. A. E. Logan's widow's application for a Texas Confederate pension, sworn in Titus County on 30 November 1914. Texas Confederate pension file 30414; Texas State Library and Archives Commission, image via Ancestry.",
+     "kind": "record"
+    }
+   ],
+   "note": "Expands 'logan-widow-pension-titus-county' (index only) and 'dudley-logan-7th-alabama-cavalry'; probably better as a replacement of the first with a redirect. The 1914 letter's brother-in-law is 'Alfred H.' with a surname I could not read with confidence (looks like Ione/Irvine/Jones); he is left unnamed in the prose. The niece's surname looks like Willingham; left out of the prose. The niece's letter is dated 'Nov the 4' with a year that may be 1899 or 1914. The attorney's letter says Dudley came to Texas 'soon after the war'; Annie's own letter and Form B say 1883, which the prose follows. Pension granted is inferred from the 1918 quarterly-affidavit letters; the approval paper itself was not seen. Images 39 onward in the Ancestry file were not examined (there may be a War Department reply)."
   },
   {
    "id": "mccurtain-households-1950-census",
@@ -20798,17 +20908,24 @@
     "W. F. Whitfield, white, was born in January 1868 in Mississippi and was 32. He had been married eight years. His mother was born in Mississippi; his father’s birthplace was set down as “unknown.” Emma, his wife, was born in November 1874 in Arkansas and was 25. She was the mother of four children, and all four were living. Her parents’ birthplaces were also unknown.",
     "The children were Clinton, a son, born in July 1893 and six years old; Willie G., a daughter, born in March 1895; Robbie W., a son, born in February 1897; and Fannie I., a daughter, born in October 1898. All four were born in Arkansas. The last line of the household is a boarder surnamed Ward, a farm laborer born in August 1871 in Arkansas to parents born in Texas. His given name is hard to read.",
     "Clint Whitfield’s gravestone at Glover gives his birth as 27 July 1893, and the Clinton of 1900 was born in July 1893. The man went by Clint, and the boy was simply Clinton. The parents’ initials and Emma’s name and birth year fit what the family remembered, and a Ward living in the house fits Emma’s being born a Ward, though he is called only a boarder. Taken together these make it probable that this was Oliver Clinton Whitfield’s family, and that Willie, Robbie and Fannie were his younger brother and sisters.",
-    "It is not yet proof. Nothing gives the boy the first name Oliver, and nothing from his 1915 marriage or his death in 1941 yet names his parents outright. So W. F. and Emma were probably, but not certainly, Clint’s parents. No community was named that year, so the Chapel Hill birthplace, too, is still unproved."
+    "It is not yet proof. Nothing gives the boy the first name Oliver, and nothing from his 1915 marriage or his death in 1941 yet names his parents outright. So W. F. and Emma were probably, but not certainly, Clint’s parents. No community was named that year, so the Chapel Hill birthplace, too, is still unproved.",
+    "Emma outlived Frank by more than ten years. She spent thirty-seven or thirty-eight years at Golden and Idabel, and about 1948 she moved to Longview, Washington, where she died at home at the end of March 1955, aged eighty. She had been born at Chapel Hill, Arkansas, on 8 November 1874, and she belonged to the Church of Christ. She was buried in Longview Memorial Park, and one son, Jeff, and six daughters survived her."
    ],
    "quotes": [],
    "src": [
     "1900 U.S. census, Sevier County, Arkansas, Monroe Township, ED 151, sheet 5A (stamped 191), dwelling 82, family 83, lines 33–39, W. F. Whitfield household; NARA T623 roll 76; Allen County Public Library microfilm scan, Internet Archive, image n385, examined 3 Nov 2026: https://archive.org/details/12thcensusofpopu0076unit/page/n385/",
-    "1900 census Soundex index, Arkansas (NARA T1033), code W314, card “Whitfield, W. F.,” vol. 36, ED 151, sheet 5, line 33, Sevier County, Monroe Township; Internet Archive, image n1594, examined 3 Nov 2026: https://archive.org/details/soundex1900ar122/page/n1594/"
+    "1900 census Soundex index, Arkansas (NARA T1033), code W314, card “Whitfield, W. F.,” vol. 36, ED 151, sheet 5, line 33, Sevier County, Monroe Township; Internet Archive, image n1594, examined 3 Nov 2026: https://archive.org/details/soundex1900ar122/page/n1594/",
+    "McCurtain Gazette (Idabel, Okla.), 6 April 1955, p. 1, \"Mrs. Emma Whitfield Dies Thursday In Longview Home,\" viewed 5 Nov 2026: https://www.newspapers.com/image/747588237/"
    ],
    "imgs": [
     {
      "s": "img/rec/census-1900-whitfield-sevier-monroe.jpg",
      "cap": "1900 U.S. census, Monroe Township, Sevier County, Arkansas, ED 151, sheet 5A: the W. F. Whitfield household is on lines 33 to 39, with Clinton, son, born July 1893, on line 35. NARA T623 roll 76, via Internet Archive. Public domain; downscaled only.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/emma-whitfield-obit-1955.jpg",
+     "cap": "“Mrs. Emma Whitfield Dies Thursday In Longview Home,” McCurtain Gazette, Idabel, Oklahoma, 6 April 1955. McCurtain Gazette, via Newspapers.com.",
      "kind": "record"
     }
    ],
@@ -21286,9 +21403,9 @@
    ],
    "id": "logan-wedgeworth-greene-county-1850",
    "gen": 6,
-   "ev": "lead",
+   "ev": "probable",
    "title": "A Logan and a Wedgeworth in Greene County, 1850",
-   "hook": "In 1850, in Greene County, Alabama, a three-year-old Dudley Logan lived nine doors from a nine-year-old Sarah A. E. Wedgeworth; they may have been the couple who later went to Texas.",
+   "hook": "In 1850, in Greene County, Alabama, three-year-old Dudley Logan lived among his Logan kin, nine doors from a nine-year-old Sarah A. E. Wedgeworth who, it now seems, was not the girl he married.",
    "people": [
     "MAT_DUDLEY_LOGAN",
     "MAT_ANNIE_WEDGEWORTH_LOGAN",
@@ -21303,15 +21420,19 @@
     "Dudley Timothy Logan came to Titus County, Texas, from Greene County, Alabama, it is said, and his wife’s full name is remembered as Sarah Anne Elizabeth Wedgeworth. In 1850 both names turn up on the same stretch of road in Greene County. Stephen Wedgeworth, 41, a farmer born in North Carolina, lived with Nancy M., 31, and Sarah A. E., 9, both born in Alabama. Nine doors along lived Clement Logan, 33, a farmer born in South Carolina, with Mary A., 28, Elizabeth H., 8, Dudley, 3, and Martha, six months.",
     "Other Logans live in between. Martha Logan, 71, born in South Carolina, heads dwelling 1120, two doors before the Wedgeworths, and Elizabeth Logan, 30, with four children, dwelling 1124. Leroy Logan, 49, and Willis Logan, 44, both born in South Carolina, are on either side of Clement. It looks like a cluster of related Logan households, and a Wedgeworth family among them.",
     "The fit is not perfect. No one then wrote down how a household was related, so Clement and Mary A. are not proved to be Dudley’s parents, and his parents are also remembered as James Clement Logan and Martha Calhoun. A child born in January 1846 should have been four in June 1850, not three. The initials Sarah A. E. match Annie’s full name exactly, but at nine in 1850 she was born about 1841, five years before the 1846 usually given for her. Until something ties these children to the couple who went to Texas, they may or may not be Dudley and Annie.",
-    "Dudley’s war was long a mystery, and the Texas stone that names Company B of the 7th Alabama Cavalry answers it only in part. Several Logans from Greene County and the Black Belt served Alabama in the Civil War, among them an A. Logan in the Greene County militia, but no Dudley or D. T. Logan is known among them in Alabama’s own records, so his widow’s claim of Confederate service for him rests on the Texas stone. In 1877 a Dudley Logan, with a John Logan and a T. M. Logan, took the voter registration oath in Tuscaloosa County, Precinct 24, alongside a J. T. Weaghworth who had registered in 1875. Tuscaloosa County borders Greene, so this may be the family on its way west, but no age or residence was written down to prove it."
+    "Dudley’s war was long a mystery, and the Texas stone that names Company B of the 7th Alabama Cavalry answers it only in part. Several Logans from Greene County and the Black Belt served Alabama in the Civil War, among them an A. Logan in the Greene County militia, but no Dudley or D. T. Logan is known among them in Alabama’s own records, so his widow’s claim of Confederate service for him rests on the Texas stone. In 1877 a Dudley Logan, with a John Logan and a T. M. Logan, took the voter registration oath in Tuscaloosa County, Precinct 24, alongside a J. T. Weaghworth who had registered in 1875. Tuscaloosa County borders Greene, so this may be the family on its way west, but no age or residence was written down to prove it.",
+    "The Logan household at dwelling 1131 is no longer a guess. When Clement Logan's will was proved in October 1854, the court named Elizabeth, Dudley T. and Martha as his only surviving children, and two years before that the widow of seventy-one at dwelling 1120, Martha Logan, had named him as her son in her own will. The three-year-old Dudley of 1850 was the Dudley Logan who took his family to Texas. The Wedgeworth girl nine doors away is another matter: Annie's own birthday, which she gave in 1914, points instead to Larkin Wedgworth's daughter, who was four that year. Leroy Logan's son, whose name is hard to make out on the census page, was Alvis L. Logan, a witness to Clement's will, and the Elizabeth Logan, thirty, at dwelling 1124 with William C., James C. and Matilda, was probably the widow of Martha's son William C. Logan."
    ],
    "src": [
     "1850 U.S. census, Greene County, Alabama, pages 316A and 316B (dwellings 1120 to 1132: Martha, Elizabeth, Leroy, Clement and Willis Logan; Stephen Wedgeworth), NARA microfilm M432 roll 6; USGenWeb Census Project transcription by Cheryl White, proofread by Rachel Newcomb, file 7 of 10; transcription read 3 Nov 2026 (original image not examined): https://www.us-census.org/pub/usgenweb/census/al/greene/1850/pg0313a.txt",
     "Alabama Department of Archives and History, Alabama Civil War Service Records Database, search for surname Logan (no Dudley or D. T. Logan found), searched 3 Nov 2026: https://www.archives.alabama.gov/research/CivilWarService.aspx",
     "Alabama Department of Archives and History, voter registration oaths, Tuscaloosa County, vol. 2, p. 91, Precinct 24, registrar H. P. Reece, entry 70, Dudley Logan, 1877; page image examined 3 Nov 2026: https://digital.archives.alabama.gov/digital/collection/voter/id/3219",
-    "Find a Grave memorial 63320588, Dudley Timothy Logan, as described in “Alfreda Whitfield Sandridge and her Choctaw family” (not re-examined here): https://www.findagrave.com/memorial/63320588/dudley_timothy-logan"
+    "Find a Grave memorial 63320588, Dudley Timothy Logan, as described in “Alfreda Whitfield Sandridge and her Choctaw family” (not re-examined here): https://www.findagrave.com/memorial/63320588/dudley_timothy-logan",
+    "Greene County, Alabama, Will Records, Vol. C-D (1850-1890), pp. 369-370, will of Clemens Logan dated 17 April 1854 and probate of 9 October 1854; Ancestry, Alabama, U.S., Wills and Probate Records, 1753-1999 (coll. 8799), record 9594826, images 68-69, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8799/records/9594826",
+    "Greene County, Alabama, Will Records, Vol. C-D, pp. 363-365, will of Martha Logan signed 14 July 1852 and probated September 1852; Ancestry coll. 8799, record 9956818, images 35-36, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8799/records/9956818",
+    "1850 U.S. census, Greene County, Alabama, dwellings 1120-1132 (Martha Logan; McMullin; Stephen Wedgeworth; Elizabeth Logan; Leroy, Clement and Willis Logan), NARA M432 roll 6; Ancestry coll. 8054, images 4187296-00150 and -00151, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/8054/records/18463198"
    ],
-   "note": "Lead only. The census evidence is a transcription; the original page should be checked, and the 1860 and 1870 Greene and Tuscaloosa schedules searched for the same households. No parent links are made. The 1877 voter is not proved to be this Dudley. The Titus County transcriptions of 1870 and 1880 on the same site are partial and do not include the family."
+   "note": "Dudley's parentage is proven by Clement Logan's 1854 probate and Martha Logan's 1852 will (see the Clemens and Martha Logan stories). Whether Stephen Wedgeworth's Sarah A. E. was Annie is now doubtful: Annie's 1914 pension gives her birth as 15 Sep 1846, which fits Larkin Wedgworth's daughter."
   },
   {
    "id": "alfred-livesay-mexican-war-marion-county",
@@ -22127,14 +22248,16 @@
     "His widow had claimed Confederate service for Dudley Logan, and his grave says where he served. At the Masonic Cemetery in Mount Pleasant, Texas, Dudley Logan lies with the dates January 8, 1846, to November 21, 1898, and the words “Pvt 7th Ala Cav CSA.” Those are Dudley Timothy Logan’s dates, so this is the same man, and his stone, or the funeral record behind it, names his regiment.",
     "He was a private in Company B, 7th Alabama Cavalry, the “Broadfoots of Greene County,” and two other Logans served with him, L. Logan and Zach M. Logan. When, and at what age, he enlisted is not known. A Zachary M. Logan of Company B, 7th Alabama Cavalry, was remembered among Greene County’s Confederate veterans, though Dudley was left off that list.",
     "That goes some way toward answering an old puzzle. Alabama’s own records of Civil War service have no Dudley Logan, yet his widow, Mrs. A. E. Logan of Titus County, filed Texas Confederate pension application 30414 in his name. A man said to have been born in Greene County, Alabama, in January 1846, who served in a company raised in Greene County, whose tombstone names that regiment and whose widow later claimed his service, makes a consistent picture, and the company roll and the Texas stone were set down far apart, one in Alabama and the other in Texas.",
-    "Zachary and L. Logan stood beside him on the roll, and there were many Logan households in Greene County in 1850, but whether they were Dudley’s kin, neighbors, cousins or uncles, or no relation at all, is not known. Whether Dudley was a boy of seventeen when he enlisted, or joined later, is not known either; his service file and his widow’s pension file may one day tell."
+    "Zachary and L. Logan stood beside him on the roll, and there were many Logan households in Greene County in 1850, but whether they were Dudley’s kin, neighbors, cousins or uncles, or no relation at all, is not known. Whether Dudley was a boy of seventeen when he enlisted, or joined later, is not known either; his service file and his widow’s pension file may one day tell.",
+    "Annie herself remembered, in 1914, that Dudley had left Alabama with Captain Dave Scarborough's company of cavalry and had later been transferred into General Cockrell's Missouri brigade of infantry, to serve beside a brother-in-law. A niece's letter, passing on what an old neighbor recalled, placed him in Company B of the Seventh Alabama Cavalry, the regiment his stone names. No service record has yet been found to settle it."
    ],
    "quotes": [],
    "src": [
     "TXGenWeb Titus County, Masonic Cemetery transcription (compiler David Horton, from Bates-Cooper Funeral Home records, Lynch Harper’s 1960s survey and later surveys), read 4 Nov 2026: Logan, Dudley, January 8, 1846, November 21, 1898, “Pvt 7th Ala Cav CSA”: https://www.txgenwebcounties.net/titus/cemeteries/masonic_cem.html",
     "Greene County, Alabama GenWeb (ALGenWeb), Civil War Units from Greene County: Company B, 7th Alabama Cavalry, “Muster Roll of the Broadfoots of Greene County,” submitted by Scott Owens; privates include Logan, Dudley, Logan, L. and Logan, Zach M.; transcription read 4 Nov 2026 (original roll not seen): https://magnoliasandpeaches.com/GreeneAlGenWeb/Military/CSA/CivilWarUnitsGreene7thCavalryCoB.asp",
     "Greene County, Alabama GenWeb, Civil War Veterans, surnames G to L, entry Logan, Zachary M., Co. B, 7th Alabama Cavalry (no Dudley Logan listed), read 4 Nov 2026: https://magnoliasandpeaches.com/GreeneAlGenWeb/Military/CSA/CSAVetsGL.asp",
-    "Texas State Library and Archives Commission, Index to Confederate Pension Applications, application 30414, Mrs. A. E. Logan, Titus County, as described in “A widow’s pension application from Titus County” (index only, not re-examined here): https://www.tsl.texas.gov/apps/arc/pensions"
+    "Texas State Library and Archives Commission, Index to Confederate Pension Applications, application 30414, Mrs. A. E. Logan, Titus County, as described in “A widow’s pension application from Titus County” (index only, not re-examined here): https://www.tsl.texas.gov/apps/arc/pensions",
+    "Texas Confederate pension application 30414, Mrs. A. E. Logan, Titus County (Form B sworn 30 Nov 1914; her letter of 4 Nov 1914 to the Secretary of War; letter of her husband's niece; letter of Seb F. Caldwell, 15 Jan 1915; Commissioner of Pensions letters, May 1918); Texas State Library and Archives Commission, via Ancestry, Alabama, Texas and Virginia, U.S., Confederate Pensions, 1884-1958 (coll. 1677), record 1401796, images 24-38, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/1677/records/1401796"
    ],
    "imgs": [],
    "note": "Probable, not proven. Both new records are transcriptions and neither gives an age or residence, so a second Dudley Logan cannot be ruled out. The tombstone wording has not been compared with the stone itself. The company roll is undated on the page. Confirm with the National Archives service file or the Alabama archives’ roll images."
@@ -22195,8 +22318,9 @@
    "body": [
     "Sarah A. E. Wedgeworth, 9, was living in Stephen Wedgeworth’s household in Greene County in 1850, but nine years old does not fit a birth in 1846. There was another girl. In the household of Larkin Wedgworth, 39, born in South Carolina, a farmer with real estate worth $2,400, were Sarah J., 36, born in Tennessee, Ann E., 4, and Julia J. T., six months, both born in Alabama. A girl of four in 1850 was born about 1846, exactly the year usually given for Annie, and Ann E. could be Anne Elizabeth.",
     "Next door lived Elizabeth Wedgworth, 48, with property worth $4,800, and Stephen B., 26, a teacher, Middleton, 22, John M., 19, and Martha J., 17. Stephen Wedgeworth, 41, with real estate of $3,200, lived some way off. How any of these Wedgworths were related is not known, and the name was spelled both Wedgeworth and Wedgworth, even side by side.",
-    "By 1860 Larkin had moved to Tuscaloosa County. In the Fosters division Larkin Wedgeworth, 49, a farmer with real estate of $2,100 and personal property of $17,721, was living with Sarah J., 43, and three children: Amanda E. L(?), 13, Julia I. F., 10, and John F. L., 8. The eldest girl’s name is hard to read. Julia’s age and the parents’ ages and birthplaces fit 1850, so this was Larkin’s family, and the 13-year-old was probably the 4-year-old Ann E. under another reading. Four doors away were Thomas Harkee, 23, and Sarah A. E. Harkee, 20, born in Alabama.",
-    "That Sarah A. E. Harkee is a warning. A girl of nine in 1850 would be twenty in 1860, and a young wife of that age with her three initials is a natural fit for Stephen Wedgeworth’s daughter, now married. If so, she was not Dudley Logan’s wife. Two other Tuscaloosa County girls named Sarah A. E. were living there in 1860, aged 19 and 14, so the name was common. Nothing proves that either girl was Annie. But the Larkin Wedgworth family went from Greene County to Tuscaloosa County, where Dudley Logan took the voter’s oath in 1877, and its elder daughter was the right age. Dudley’s marriage, probably before 1880 in Tuscaloosa or Hale County, would tell which girl she was."
+    "By 1860 Larkin had moved to Tuscaloosa County. In the Western Division, near the North Port post office, Larkin Wedgworth, 49, a farmer with real estate of $2,100 and personal property of $17,721, was living with Sarah J., 43, and three children: Amanda E. J., 13, Julia J. T., 10, and John T. L., 8. Julia’s age and the parents’ ages and birthplaces fit 1850, so this was Larkin’s family, and the 13-year-old was probably the 4-year-old Ann E. under another reading. Four doors away were Thomas Harkee, 23, and Sarah A. E. Harkee, 20, born in Alabama.",
+    "That Sarah A. E. Harkee is a warning. A girl of nine in 1850 would be twenty in 1860, and a young wife of that age with her three initials is a natural fit for Stephen Wedgeworth’s daughter, now married. If so, she was not Dudley Logan’s wife. Two other Tuscaloosa County girls named Sarah A. E. were living there in 1860, aged 19 and 14, so the name was common. Nothing proves that either girl was Annie. But the Larkin Wedgworth family went from Greene County to Tuscaloosa County, where Dudley Logan took the voter’s oath in 1877, and its elder daughter was the right age. Dudley’s marriage, probably before 1880 in Tuscaloosa or Hale County, would tell which girl she was.",
+    "Annie settled part of the question herself. When she applied for a Texas widow's pension in 1914 she gave her birthday as 15 September 1846. Larkin's Ann E. was four in the summer of 1850 and Amanda thirteen in August 1860, exactly right for that birthday, while Stephen's Sarah A. E. was already nine in 1850. And when Dudley Logan took out his licence in April 1866, his bride was Miss Sarah A. E. Wedgworth, a single woman, not the young Mrs. Harkee. What still does not fit is the name: the girl in Larkin's house was written down as Amanda, and the woman who married Dudley was Sarah Anne Elizabeth. So Larkin was very probably, but not certainly, Annie's father."
    ],
    "quotes": [],
    "src": [
@@ -22204,12 +22328,20 @@
     "1850 U.S. census, Greene County, Alabama, page 316A (dwelling 1122, Stephen, Nancy M. and Sarah A. E. Wedgeworth), same transcription project, read 4 Nov 2026: https://www.us-census.org/pub/usgenweb/census/al/greene/1850/pg0313a.txt",
     "1860 U.S. census, Tuscaloosa County, Alabama, Fosters division, page 684 (dwellings 703 and 707: Larkin Wedgeworth household; Thos. and Sarah A. E. Harkee), NARA M653 roll 25; USGenWeb Census Project transcription by Whitney Alexander, proofread by Robert Alexander (original image not examined), read 4 Nov 2026: https://www.us-census.org/pub/usgenweb/census/al/tuscaloosa/1860/pg00684.txt",
     "1860 Tuscaloosa County index to surname Wedgeworth and to given names Sarah A. E. (Abernathy, 19; Hood, 14; Harkee, 20), USGenWeb transcription, read 4 Nov 2026: https://www.us-census.org/pub/usgenweb/census/al/tuscaloosa/1860/indx-w-z.txt",
-    "Alabama Department of Archives and History, voter registration oaths, Tuscaloosa County, vol. 2, p. 91, Precinct 24, entry 70, Dudley Logan, 1877; page image examined 3 Nov 2026 in the earlier story: https://digital.archives.alabama.gov/digital/collection/voter/id/3219"
+    "Alabama Department of Archives and History, voter registration oaths, Tuscaloosa County, vol. 2, p. 91, Precinct 24, entry 70, Dudley Logan, 1877; page image examined 3 Nov 2026 in the earlier story: https://digital.archives.alabama.gov/digital/collection/voter/id/3219",
+    "1860 U.S. census, Western Division, Tuscaloosa County, Alabama, p. 684 (stamped; page no. 46), enumerated 24 Aug 1860, dwelling 737: Larkin Wedgworth 49, Sarah J. 43, Amanda E. J. 13, Julia J. T. 10, John T. L. 8; post office North Port; Ancestry coll. 7667, record 12753061, image 4211198_00694, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/7667/records/12753061",
+    "Texas Confederate pension application 30414, Mrs. A. E. Logan, Titus County (Form B sworn 30 Nov 1914; her letter of 4 Nov 1914 to the Secretary of War; letter of her husband's niece; letter of Seb F. Caldwell, 15 Jan 1915; Commissioner of Pensions letters, May 1918); Texas State Library and Archives Commission, via Ancestry, Alabama, Texas and Virginia, U.S., Confederate Pensions, 1884-1958 (coll. 1677), record 1401796, images 24-38, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/1677/records/1401796",
+    "Greene County, Alabama, marriage book (1823-1874), p. 425: licence for Mr. Dudley T. Logan and Miss Sarah A. E. Wedgworth issued 16 April 1866 by W. C. Oliver, judge of probate; solemnized 18 April 1866 at Mt. Zion Church by T. S. Winn; Ancestry, Alabama, U.S., County Marriage Records, 1805-1967 (coll. 61365), record 1892842, FHL film 1290852, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/61365/records/1892842"
    ],
    "imgs": [
     {
      "s": "img/docs/census-1850-greene-al-wedgworth-households-p263.jpg",
      "cap": "1850 U.S. census, Greene County, Alabama, Hollow Square Beat, image n571 (page stamped 263) of the Allen County Public Library scan of NARA microfilm M432; public domain, via Internet Archive. Dwelling 297 is Elizabeth Wedgworth, 48, with Stephen B., 26, a teacher, and others; dwelling 298 is Larkin Wedgworth, 39, a farmer, with Sarah J., 36, Ann E., 4, and an infant, Julia. Downscaled only.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/larkin-wedgworth-1860-household.jpg",
+     "cap": "Larkin Wedgworth's household in the Western Division of Tuscaloosa County, Alabama, 24 August 1860: Larkin, 49, Sarah J., Amanda E. J., 13, Julia J. T. and John T. L. 1860 U.S. census, NARA, image via Ancestry.",
      "kind": "record"
     }
    ],
@@ -23134,7 +23266,8 @@
     "James R. Logan, Hannah’s father, was born in South Carolina and lived in Tennessee until he came to Washington County, Illinois, where he had a well improved farm and lived on it until his death, which occurred in 1860. He was a member of the Methodist church and a local exhorter, as his grandson Harvey R. Livesay remembered. Hannah was born in Washington County on 30 September 1830, the year the Livesays and many of their Tennessee neighbors arrived, and the Logans were remembered, with the Whittenburgs, Lowes, Phillipses, Thompsons and Darters, among the families that founded the first Methodist church at Richview in 1842.",
     "A few other traces may be his. A man long in the church at Richview remembered that in 1832 there was a society of Methodists at Alexander Anderson’s house, whose principal members were Alex. Anderson, “Roberson Logan,” John Darter and John Livesay. That may have been another Logan, or a form of Robertson or of a James R.; no one can say. A Jas. R. Logan left an estate in the county, in keeping with a death in 1860. And in 1855 a James R. Logan had seven people in his household and property of $775, next to Henderson Darter’s; the old columns make it hard to tell the men from the women, so no ages can be drawn from them.",
     "The marriages show how the families crossed. Alfred Livesay and Nancy A. Darter took out a license on 6 December 1842, Alfred Livesay and Hannah Logan married on 26 February 1846, and James L. Logan and Unity J. Livesay married on 16 November 1849, when Unity Jane was sixteen. If James L. was Hannah’s brother, her brother married the daughter of the family into which Hannah married, and Alfred and Unity would be cousins if Alfred was Robert’s nephew, as seems possible. But nothing says that James L. was James R.’s son. A second Logan household of 1855, perhaps a “James L.(?)” with three people and property of $35, next to Enoch Tate’s, fits a young couple with a child, but the name is uncertain.",
-    "What became of Unity Jane is a mystery. She was born on 3 November 1833, by family tradition, and was named with “James I. Logan” in the heirs’ release of 1856, and nothing is known of the couple afterward. James R. Logan’s estate may yet tell what became of them."
+    "What became of Unity Jane is a mystery. She was born on 3 November 1833, by family tradition, and was named with “James I. Logan” in the heirs’ release of 1856, and nothing is known of the couple afterward. James R. Logan’s estate may yet tell what became of them.",
+    "The censuses fill in his household. In 1850 James R. Logan, fifty-three and South Carolina born, was farming in Washington County with his wife Rachael, forty-eight, and six children still at home, from Lewis A., fourteen, down to Thomas W. J., two. He was still alive on 1 August 1860, when the census taker found him at sixty-three with land worth $4,000, Rachel, fifty-eight and born in Tennessee, and the three youngest. A John P. Logan, thirty-nine, lived next door with a little daughter named Rachel C., and four doors on were Alfred and Hannah Livesay, whose small son was named James R. Rachel was probably Hannah's mother, though no record says so. John P. may be the John P. Logan who went to war in Company F of the 49th Illinois; the company's Captain John A. Logan and Sergeant James M. Logan were probably the sons of a Richview master carpenter, also named James Logan, a man of forty-two."
    ],
    "quotes": [
     "was a member of the Methodist church and was a local exhorter (Brinkerhoff, 1909, p. 746)"
@@ -23145,7 +23278,8 @@
     "Index to Probate Records, Washington County, Illinois, pre-1910, Genealogy Trails (Logan, Jas. R., Estate); index only, read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/probateindex.html",
     "1855 Illinois State Census, Washington County (James R. Logan; James L.(?) Logan), transcribed by Mike Jones, Genealogy Trails; volunteer transcription, read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/1855census.html",
     "Genealogy Trails, Washington County, “Early Marriages” and “Marriages from Marriage Books A, B, D, E” (Livesay and Logan entries); volunteer transcriptions, read 4 Nov 2026: https://www.genealogytrails.com/ill/washington/marriages.html and https://www.genealogytrails.com/ill/washington/marriages1.html",
-    "“Jackson Monroe Livesay (A135.3): A Genealogical Sketch,” Livesay family file, Orange County California Genealogical Society (family sketch; secondary; the Richview Methodist families and Unity Jane’s birth); read 4 Nov 2026: https://occgs.com/projects/rescue/family_files/files/LIVESAY%20Family.pdf"
+    "“Jackson Monroe Livesay (A135.3): A Genealogical Sketch,” Livesay family file, Orange County California Genealogical Society (family sketch; secondary; the Richview Methodist families and Unity Jane’s birth); read 4 Nov 2026: https://occgs.com/projects/rescue/family_files/files/LIVESAY%20Family.pdf",
+    "1850 U.S. census, District 20, Washington County, Illinois, dwelling 135 (James R. Logan 53 SC, Rachael 48, Lewis A., Docia H., Daniel S., Darea E., Martha A. C., Thomas W. J.), Ancestry coll. 8054 record 16684271; and 1860 U.S. census, T2S R2W, Washington County, Illinois, enumerated 1 Aug 1860, pp. 110-111, dwellings 790-795 (Jas. R. Logan 63; John P. Logan 39; Daniel L. Logan 19; Alfred and Hanah Livesay), Ancestry coll. 7667 record 37423914, viewed 5 Nov 2026: https://www.ancestry.com/search/collections/7667/records/37423914"
    ],
    "imgs": [],
    "note": "Probable for the first fact only. That Hannah’s father was James R. Logan, born in South Carolina, who died in 1860, rests on her son’s sketch and agrees with an estate index entry, and is linked in the tree. Whether James L. Logan was his son, whether “Roberson Logan” of 1832 was he, and which 1855 household was his are leads. No Logan other than James R. is added, and Unity Jane and James L. stay as they are."
@@ -26485,7 +26619,8 @@
   "carters-lake-township-clinton-county-1817-1818": "livesay-carter-lake-township-clinton-1818",
   "tabitha-flannigan-1850-household": "tabitha-j-flannigan-1840-and-the-whites",
   "abigail-shank-1850": "abigail-walker-birthplace-conflict",
-  "flannigan-white-copple-gilead-cemetery": "three-doors-flannigan-dolson-white-1850"
+  "flannigan-white-copple-gilead-cemetery": "three-doors-flannigan-dolson-white-1850",
+  "logan-widow-pension-titus-county": "annie-logan-in-her-own-words-1914"
  },
  "timeline": [
   {
@@ -29991,6 +30126,36 @@
    "t": "The Santa Fe Railway's Texas Coast Country (October) calls Pearland a thriving village of 300 inhabitants with schools, churches and one of the finest young pear orchards on the coast.",
    "side": "N",
    "story": "pearland-santa-fe-pamphlet-1899"
+  },
+  {
+   "y": "1852",
+   "t": "Martha Logan, about 73, makes her will in Greene County, Alabama, on 14 July, naming her son Clemens executor.",
+   "side": "N",
+   "story": "martha-logan-will-1852"
+  },
+  {
+   "y": "1854",
+   "t": "Clemens Logan's will is proved in Greene County on 9 October; Elizabeth, Dudley and Martha are named his only surviving children.",
+   "side": "N",
+   "story": "clemens-logan-will-three-orphans-1854"
+  },
+  {
+   "y": "1866",
+   "t": "Dudley T. Logan marries Miss Sarah A. E. Wedgworth at Mount Zion Church, Greene County, Alabama, on 18 April.",
+   "side": "N",
+   "story": "annie-logan-in-her-own-words-1914"
+  },
+  {
+   "y": "1914",
+   "t": "Annie Logan writes to the Secretary of War on 4 November for proof of Dudley's service, to win her Texas widow's pension.",
+   "side": "N",
+   "story": "annie-logan-in-her-own-words-1914"
+  },
+  {
+   "y": "1955",
+   "t": "Emma Ward Whitfield dies at her home in Longview, Washington, at the end of March, aged 80.",
+   "side": "N",
+   "story": "whitfield-household-sevier-1900"
   }
  ],
  "fixes": [
@@ -31638,6 +31803,34 @@
   },
   "img/places/chester_sc_courthouse_postcard_1948.jpg": {
    "url": "https://commons.wikimedia.org/wiki/File:Chester_-_Chester_County_Court_House_01.jpg"
+  },
+  "img/docs/clemens-logan-probate-1854-heirs.jpg": {
+   "url": "https://www.ancestry.com/search/collections/8799/records/9594826",
+   "credit": "Greene County Will Records C-D, p. 370; Greene County Probate Court, image via Ancestry"
+  },
+  "img/docs/logan-wedgworth-marriage-1866-greene-p425.jpg": {
+   "url": "https://www.ancestry.com/search/collections/61365/records/1892842",
+   "credit": "Greene County marriage book, p. 425; Greene County Probate Court, image via Ancestry"
+  },
+  "img/docs/annie-logan-letter-1914-p2.jpg": {
+   "url": "https://www.ancestry.com/search/collections/1677/records/1401796",
+   "credit": "Texas Confederate pension file 30414; Texas State Library and Archives Commission, image via Ancestry"
+  },
+  "img/docs/jennie-letter-uncle-dudley-p1.jpg": {
+   "url": "https://www.ancestry.com/search/collections/1677/records/1401796",
+   "credit": "Texas Confederate pension file 30414; Texas State Library and Archives Commission, image via Ancestry"
+  },
+  "img/docs/annie-logan-pension-formB-1914.jpg": {
+   "url": "https://www.ancestry.com/search/collections/1677/records/1401796",
+   "credit": "Texas Confederate pension file 30414; Texas State Library and Archives Commission, image via Ancestry"
+  },
+  "img/docs/larkin-wedgworth-1860-household.jpg": {
+   "url": "https://www.ancestry.com/search/collections/7667/records/12753061",
+   "credit": "1860 U.S. census, NARA, image via Ancestry"
+  },
+  "img/docs/emma-whitfield-obit-1955.jpg": {
+   "url": "https://www.newspapers.com/image/747588237/",
+   "credit": "McCurtain Gazette, via Newspapers.com"
   }
  }
 }
