@@ -1567,6 +1567,11 @@
     {
      "s": "img/rec/census_1920_thompson_wilson.jpg",
      "cap": "1920 U.S. census, Wilson Township, Choctaw County, Oklahoma, enumerated February 1920: Joseph P. Thompson, 58, with wife Betsy and children Peter, Simon, Joseph W., Jansey and Mary A."
+    },
+    {
+     "s": "img/books/obeirne-1891-p162-joseph-thompson.jpg",
+     "cap": "Joseph Thompson's sketch in O'Beirne, Leaders and Leading Men of the Indian Territory (1891), p. 162.",
+     "kind": "record"
     }
    ],
    "tags": [
@@ -25610,6 +25615,130 @@
    "note": "Evidence: lead. The legend is from a 1927 trade-paper company history and the 1960 Terrell-Nordyke genealogy, which attributes an earlier telling to an 1895 Indiana biographical encyclopedia that has not been seen. The records place a Henry Nordike in Burlington County in 1731; nothing ties him to Holland, to Peter the Great or to the first name Stephen. The Van Nortwick possibility is a guess. Hannah Nordike’s husband is not named in the will.",
    "place": "Holland (legend); Burlington County, New Jersey (records)",
    "rank": 9999
+  },
+  {
+   "id": "choc-restriction-removal-1915",
+   "side": "J",
+   "gen": 5,
+   "ev": "proven",
+   "title": "A full-blood woman's land and the long road to Washington, 1914–1915",
+   "hook": "Two Austin women from Choctaw County each asked Washington to lift the restrictions on their allotments: Molsey in July 1914, Lizzie in July 1915. Both were answered within days of reaching the capital, but each waited months for the paperwork to get there.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "Lizzie and Molsey Pisachubbi: two applications at the Indian Office, 1914-1915",
+    "rel": "Paternal family history",
+    "years": "1914–1915"
+   },
+   "body": [
+    "A full-blood Choctaw's allotment was not hers to sell. Congress had settled that in 1908: land of Indians with less than half Choctaw blood came free of restrictions, land of those with half to three-quarters blood lost its restriction except for the homestead, and everyone else, full-bloods above all, stayed under the Secretary of the Interior's eye until he chose to lift it, wholly or in part. The Assistant Commissioner of Indian Affairs told a House committee in 1916 that about 26,800 of the 101,500 citizens of the Five Civilized Tribes were full-bloods, and that some 33,000 people were still restricted. For a woman like Lizzie Pisachubbee, the way out of those restrictions began with a written application and ended at a desk in Washington.",
+    "Lizzie was a full-blood, enrolled at Fowlerville at seven in 1899 as the daughter of Legion and Molsey Austin, and by 1915 she was about 23, married to Robert Pisachubbe, and living on a farm near Speer. On 17 July 1915 her application was made out. It went first to the Superintendent for the Five Civilized Tribes at Muskogee, who sat on it for eleven weeks before forwarding it on 2 October. It reached the Indian Office on 5 October, was acted on on 8 October, and went back to the superintendent on 9 October: four days in Washington after eleven weeks at Muskogee. The printed list of cases does not say whether the answer was yes or no, and nothing else turned up says what it was.",
+    "The same list has the older woman's case a year earlier. \"Molsey Pisachubbi, née Austin\" applied on 22 July 1914; the superintendent forwarded the papers on 14 January 1915, the Indian Office received them on 18 January and decided on 23 January, and they went back on 25 January. The name is probably Lizzie's mother, who had been Molsey Austin in 1899 and appears with the Pisachubbi name in this one line. The \"née Austin\" is a puzzle, since Austin was her husband Legion's name and not her own; the clerk may simply have written what he found on the card. She died in 1924. If she did marry a Pisachubbi after Legion's death, the papers have not yet turned up.",
+    "What did a lifted restriction mean for a household like this one? It meant that the land could be sold, mortgaged or lost for taxes, and the same Assistant Commissioner told the committee that an estimated nine out of ten Choctaws, Chickasaws, Creeks, Cherokees and Seminoles freed by Congress were by then landless. Some families wanted the freedom, to settle debts, to buy equipment, or to leave a farm too poor to live on. The land that these women owned stayed in the family in the end. In 1920 Lizzie and Robert were farming their own place in Jeter Township, and when Robert's mother Eunice died in 1927 her 159 acres still needed a county judge's approval before they could be sold."
+   ],
+   "quotes": [
+    {
+     "t": "It is estimated that 90 per cent of the enrolled members of the Five Civilized Tribes who had their restrictions removed by legislation are to-day without any lands whatever.",
+     "c": "Assistant Commissioner of Indian Affairs, testimony, House Committee on Indian Affairs hearings on H.R. 108 (1916), p. 27"
+    }
+   ],
+   "src": [
+    "House Committee on Indian Affairs, Five Civilized Tribes of Indians: Hearings on H.R. 108 (Washington: GPO, 1916), pp. 26-27 (testimony), p. 93 (Molsey Pisachubbi) and p. 96 (Lizzie Pisachubbee), 'Removal of restriction cases received in the Indian Office since Jan. 1, 1915,' Choctaws, https://archive.org/details/cu31924097695955 (page images n98 and n101; opened 4 Nov 2026)",
+    "Act of 27 May 1908, 35 Stat. 312, as described in the testimony",
+    "Dawes Card 1363",
+    "1920 U.S. census, Jeter Township, Choctaw Co.",
+    "Estate of Eunice Pisachubbe (Choctaw County Court, 1927)."
+   ],
+   "imgs": [
+    {
+     "s": "img/books/hearing-1916-p93-molsey-pisachubbi.jpg",
+     "cap": "The 1916 House hearing table listing “Molsey Pisachubbi, née Austin,” application of 22 July 1914 (p. 93).",
+     "kind": "record"
+    },
+    {
+     "s": "img/books/hearing-1916-p96-lizzie-pisachubbee.jpg",
+     "cap": "The same table, p. 96: Lizzie Pisachubbee's application of 17 July 1915.",
+     "kind": "record"
+    }
+   ],
+   "tags": [
+    "choctaw"
+   ],
+   "kv": [
+    [
+     "Lizzie Pisachubbee, née Austin",
+     "Applied 17 Jul 1915; forwarded 2 Oct; received 5 Oct; acted on 8 Oct; returned 9 Oct 1915 (p. 96)"
+    ],
+    [
+     "Molsey Pisachubbi, née Austin",
+     "Applied 22 Jul 1914; forwarded 14 Jan 1915; received 18 Jan; acted on 23 Jan; returned 25 Jan 1915 (p. 93)"
+    ]
+   ],
+   "note": "",
+   "place": "",
+   "rank": 9999
+  },
+  {
+   "id": "choc-doaksville-trading-company-1903",
+   "side": "J",
+   "gen": 10,
+   "ev": "probable",
+   "title": "The year Doaksville's store moved to the railroad, 1903",
+   "hook": "When the railroad came through in 1903, the first store of the new town of Fort Towson was stocked by the Doaksville Trading Company, and the older village that the Tims family had known for seventy years began to empty.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "The Doaksville Trading Company and the move to Fort Towson",
+    "rel": "Paternal family history",
+    "years": "1903–1916"
+   },
+   "body": [
+    "For the Tims and Thompson families, Doaksville was where you bought what you could not raise. Joel Thompson remembered that his people did \"all of our trading\" there, and the same crossroads had been V. B. Tims's stand in the 1830s and 1840s, in front of the old rock jail. The name outlived the stand by a long time. It was still the family's post office on their enrollment papers of 1899.",
+    "In 1903 a railroad was being built through that part of the Choctaw Nation, and a new town was laid out beside the line, not far from the ruins of the old fort that gave Fort Towson its name. A history of Oklahoma printed in 1916 says the new town \"was established in 1903,\" and that the first store in it was built and stocked by the Doaksville Trading Company, which had grown into a substantial business at Doaksville. Other merchants followed from the older place, \"the result being that within a comparatively short time Doaksville became little more than a memory.\" The post office followed the stores: on 12 June 1903 the Doaksville office took back the name Fort Towson, and the Thompsons, who had been writing Doaksville on their papers for years, found themselves at Fort Towson on a pencil note of 1905 and, after August 1904, at Corinne over the mountain.",
+    "The man who bought the old company's stock was William Ward Wilson, called Billy, a cattleman who had herded on the very ground where the new town went up, with his brother. By 1915 the Wilsons and a partner controlled the First National Bank of Fort Towson, and Billy Wilson, not yet sixty in 1916, could remember deer in herds of forty or fifty within a few hundred yards of the abandoned army post. That is how recent the old frontier was. Joseph Thompson's boyhood, Betsy Tims's school days and the old trader's grandchildren had all come out of it, and by 1916 a banker could talk about them as the people who had known the country when it was wild.",
+    "Judge Edward Tims, the old trader's son, had been Doaksville's postmaster from 1887, and the log house that may have been his father's stand was still known as the family's in 1940, when a newspaper suggested making it a museum. Doaksville itself dwindled to a cemetery on a hill."
+   ],
+   "quotes": [
+    {
+     "t": "The Town of Fort Towson is new and vital. It was established in 1903, at the time when a line of railroad was in process of construction through this section.",
+     "c": "Thoburn, Standard History of Oklahoma (1916), vol. 5, p. 1814, sketch of William W. Wilson"
+    }
+   ],
+   "src": [
+    "Joseph B. Thoburn, A Standard History of Oklahoma, vol. 5 (Chicago: American Historical Society, 1916), p. 1814-1815, sketch of William W. Wilson, https://archive.org/details/standardhistoryo05thob (page image n91; opened 4 Nov 2026)",
+    "Joel J. Thompson, Indian-Pioneer Papers #7392 (Hugo, 1937)",
+    "Dawes Card 1283 (1899 post office, 1905 pencil note)",
+    "George H. Shirk, 'First Post Offices Within the Boundaries of Oklahoma,' Chronicles of Oklahoma 26 (1948), pp. 179-237",
+    "Hughes, 'Trader V. B. Tims of Doaksville' (2020)",
+    "The Paris (Texas) News, Jan. 1940 (Tims log cabin)."
+   ],
+   "imgs": [
+    {
+     "s": "img/books/thoburn-1916-v5-p1814-wilson-fort-towson.jpg",
+     "cap": "Thoburn's 1916 Standard History of Oklahoma, vol. 5, p. 1814: the Wilson sketch telling how the Doaksville Trading Company stocked Fort Towson's first store.",
+     "kind": "record"
+    }
+   ],
+   "tags": [
+    "choctaw"
+   ],
+   "kv": [
+    [
+     "Fort Towson town",
+     "Established 1903 beside the new railroad"
+    ],
+    [
+     "Doaksville post office",
+     "Name changed back to Fort Towson, 12 June 1903 (Shirk, per existing story)"
+    ],
+    [
+     "First store",
+     "Doaksville Trading Company (stock later bought by the Wilson brothers)"
+    ]
+   ],
+   "note": "",
+   "place": "",
+   "rank": 9999
   }
  ],
  "storyAliases": {
@@ -30593,6 +30722,22 @@
   "img/news/hugo-daily-news-1956-01-29-p1-cars-collide-katie-and-mary-hulsey.png": {
    "url": "https://www.newspapers.com/image/901888863/",
    "credit": "The Hugo Daily News, 29 Jan 1956, p. 1 (Newspapers.com)"
+  },
+  "img/books/hearing-1916-p93-molsey-pisachubbi.jpg": {
+   "url": "https://archive.org/details/cu31924097695955",
+   "credit": "U.S. House hearings, 1916 (public domain)"
+  },
+  "img/books/hearing-1916-p96-lizzie-pisachubbee.jpg": {
+   "url": "https://archive.org/details/cu31924097695955",
+   "credit": "U.S. House hearings, 1916 (public domain)"
+  },
+  "img/books/thoburn-1916-v5-p1814-wilson-fort-towson.jpg": {
+   "url": "https://archive.org/details/standardhistoryo05thob",
+   "credit": "Thoburn, A Standard History of Oklahoma (1916), Internet Archive (public domain)"
+  },
+  "img/books/obeirne-1891-p162-joseph-thompson.jpg": {
+   "url": "https://archive.org/details/leadersleadingme01obei",
+   "credit": "O'Beirne (1891), Internet Archive (public domain)"
   }
  }
 }
