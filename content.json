@@ -13642,7 +13642,8 @@
    "hook": "The documents agree that a Henry Willis stood bond for Lavina Willis in 1808; they do not say whether he was her father.",
    "profile": false,
    "people": [
-    "A:bd-henry-willis-pulaski:f"
+    "A:bd-henry-willis-pulaski:f",
+    "xr38-004"
    ],
    "subject": {
     "name": "Henry Willis of Pulaski County",
@@ -13652,6 +13653,8 @@
    "body": [
     "A Henry Willis and his wife Mary sold land on the waters of Clifty Creek and Fishing Creek in Pulaski County, Kentucky, before 14 October 1800. In November 1807 the Pulaski County court excused Henry from the county levy because of old age and infirmity. The next year he is the Henry Willis who stood bond with William Clark for the marriage of Lavina Willis. By 1818 Mary appears alone on the Pulaski County tax list, which is the basis for his death date. In the spring court of 1820 a suit named John, George and Daniel Willis as his heirs.",
     "A Henry Willis can be traced through Washington County, Virginia, where he took title to 400 acres in Rich Valley in 1781-82 and was presented by a grand jury in 1773 for living with Mary Cochran, then to Greene County, Tennessee, and then to Kentucky. That these are one man is 'most likely', but he disappears from each place just as a man of the same name shows up in the next.",
+    "Before the Revolution Henry's neighborhood was the Maiden Spring settlement on the upper Clinch, in what is now Tazewell County, Virginia. On 2 November 1773 the Fincastle County court named William Priest, Henry Willis, Joseph Martin, William Bowen and Joseph Cravens to \"view the best way from the Maiden Spring settlement into the great road.\" The next summer the Shawnee war that Virginians called Lord Dunmore's War reached the Clinch, and the settlers forted up. On 26 August 1774 Henry Willis stood second on the roll of the little garrison at the Maiden Springs station, just after the sergeant, with Joseph and James Cravens, James Rogers, Rees Bowen and a dozen others, while the army marched for the Ohio and the battle at Point Pleasant. In February 1775 he was one of four men ordered to appraise the estate and slaves of Joseph Cravens, deceased.",
+    "The war brought suspicion too. In 1779 Tories in the New River country were plotting to seize the lead mines that supplied the Continental army, and a militiaman named John Hennigar, who had been talked into deserting, told what he knew: he had watched John Griffith give the King's oath to several men, a Henry Willis among them. On 5 May 1779 the Montgomery County court bound a Henry Willis, with Peter Kinder and eight others, in ten thousand pounds for his good behavior for a year and a day \"for certain offences committed against the Commonwealth.\" Whether that was this Henry is not certain. The name was not rare on that frontier, and a Henry Willis was still in Montgomery County in March 1786, when he was made a constable there.",
     "Lavina is listed among his children only as a presumption: 'Lavina (aka Viney) Willis married William Clark in 1808. William Clark and Henry Willis stood as bondsmen. The presumption is that Viney is Henry's daughter.' Another Henry Willis, born about 1793, lived later in Edmonson County, drew a War of 1812 pension, and said he lived with William Clark in Pulaski County; that suggests William Clark lived in the household of Henry and Mary, which is how he would have met Viney.",
     "A Henry Willis served in the War of 1812, listed among the privates of Captain Samuel Tate's company, Kentucky Mounted Volunteer Militia, \"commanded by Colonel Michael Taul,\" with service from 23 August to 14 November 1813. The regiment was raised under Governor Isaac Shelby's address of 31 July 1813 and rendezvoused at Newport, Kentucky, on 31 August. Bennett H. Young's history of the campaign names the company's county: Taul's seventh regiment was made up of companies from Wayne, Cumberland and Knox, \"and Captain Samuel Tate, of Pulaski.\"",
     "Shelby's volunteers crossed into Upper Canada that autumn. At the Battle of the Thames on 5 October 1813, Young places General George E. King's brigade, the fifth and seventh regiments, \"four hundred and fifty feet behind Trotter,\" in the second line. Where each private was that day is not recorded, and some men in Tate's company are marked \"left behind,\" one of them \"with lame horse.\"",
@@ -13666,9 +13669,17 @@
    "src": [
     "WikiTree Willis-11599 (Henry Willis) and Willis-1450 (Lavina Willis), citing Pulaski Co., Ky. Marriage Book 1, p. 28, Pulaski Co. court and tax records, and the Washington Co., Va. minute books",
     "Report of the Adjutant General of the State of Kentucky: Soldiers of the War of 1812 (Frankfort, 1891), pp. 153-157, roll of Captain Samuel Tate's company, Taul's regiment, Kentucky Mounted Volunteer Militia: https://archive.org/details/kentuckysoldier00reporich",
-    "Bennett H. Young, The Battle of the Thames (Filson Club Publications no. 18, Louisville, 1903), pp. 40, 62, 161-162: https://archive.org/details/battleofthamesin00youn"
+    "Bennett H. Young, The Battle of the Thames (Filson Club Publications no. 18, Louisville, 1903), pp. 40, 62, 161-162: https://archive.org/details/battleofthamesin00youn Lewis Preston Summers, Annals of Southwest Virginia, 1769-1800 (Abingdon, Va., 1929), Fincastle County court: presentment of Henry Willis for cohabiting with Mary Cochran (court of May 1773, p. 605); order of 2 Nov 1773 to view the road from the Maiden Spring settlement",
+    "Cravens appraisal order, 7 Feb 1775",
+    "Montgomery County court, 5 May 1779 (p. 709) and 1 Mar 1786 (constable): https://archive.org/details/annalsofsouthwes0000lewi. Reuben Gold Thwaites and Louise Phelps Kellogg, eds., Documentary History of Dunmore's War, 1774 (Madison, 1905), p. 403, muster roll 'At the Maiden Springs Station 26th Augt. 1774': https://archive.org/details/documentaryhisto00kelluoft. Brenda Lynn Williams, 'Thorns in the Side of Patriotism: Tory Activity in Southwest Virginia, 1776-1782' (M.A. thesis, Virginia Tech, 1984), pp. 89-95 (Hennigar deposition; May 1779 bonds): http://hdl.handle.net/10919/104660."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/dunmores-war-1905-p403-maiden-springs-roll-1774.jpg",
+     "cap": "\"At the Maiden Springs Station 26th Augt. 1774\": Henry Willis is second on the garrison roll, after Sergeant Robert Brown, in Lord Dunmore's War. Thwaites and Kellogg, Documentary History of Dunmore's War (1905), p. 403.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -13923,7 +13934,9 @@
    "profile": false,
    "people": [
     "A:payne-william-catherine:f",
-    "A:payne-william-catherine:m"
+    "A:payne-william-catherine:m",
+    "xr38-002",
+    "xr38-003"
    ],
    "subject": {
     "name": "William Payne & Catherine (Arnold) Payne",
@@ -13934,7 +13947,8 @@
     "Rev. Elam Stevenson's wife Lydia is the mother of Abner and the grandmother of Frank Stevenson, but her own people were not named in anything the family kept. The answer comes from her son, Rev. John Baxter Stevenson, who wrote a short note about his mother: \"My mother was born in Burke Co., N.C., Aug. 16. Her father was William Payne. Her mother was Catherine Arnold. Her ancestry were of English extraction. Her father belonged to the militia during the Revolutionary War, and was in the service six months.\" He adds that she joined the Methodist church in August 1802 and that \"her parents were both of the Methodist Church.\"",
     "That is a son's own written statement about his mother's parents, as direct as a family record gets, though it is a recollection and not a birth or marriage record, and no will or deed names Lydia as William's daughter. The place fits the Stevenson story: Elam is said to have married Lydia Paine in North Carolina in 1805, and Burke County lies in the same western North Carolina country as Elam's birthplace in what is now Alexander County.",
     "A William Paine household, spelled \"Wm Pain\" in 1790, was in Burke County in 1790 (twelve people) and 1800 (thirteen), and a widow of the name was there in 1810. William is said to have died on 15 October 1807 and to have a gravestone at Rocky Mount Cemetery, Granite Falls. His children are given as Thomas; Abner Burgess Payne (1777-1845); Sarah, who married a Boyce; and Lydia C. Sarah is placed at Bee Spring, Giles County, in 1830 and 1840, with a grave in the Bee Spring Cemetery, so Lydia seems to have had a sister in the same church neighborhood. A history of the Bee Spring society names a Rev. Meshach Boyce among its first members and says he is buried in the churchyard there; that he was Sarah's husband is a guess.",
-    "William is made a son of John Paine of Spotsylvania County, Virginia, whose 1764 will names a son William. Two different men named William Paine have been attached to Catherine Arnold's family, and more research is needed to rule one out, so the step back from William Paine of Burke County to John Paine is unproven."
+    "William was a son of John Pain of St. George's Parish, Spotsylvania County, Virginia, and his wife Frances. On 4 June 1764 John and Frances gave their son William a hundred acres by deed of gift, and on 25 July John made his will. He left everything to Frances for her life and then to \"my eldest son, John Pain and sons Thomas, Barnett, William, Robert and George,\" with \"all my daughters\" left unnamed; Thomas and William were his executors, and they gave bond in September 1770. In November 1777 \"Wm. Payn and Catherine, his wife, of Berkeley Parish\" sold a hundred acres to Jeremiah Wilson, land \"purchased by Jno. Payn of Thos. Colson, and conveyed to his son, the sd. Wm. Payn.\" So the William Payne who married a Catherine was John's son. That he was also the William Paine of Burke County, Lydia's father, is probable rather than proven: the wife's name, the Arnold neighbors and the move south in the same years all point to him, but no deed follows him from Virginia to North Carolina, and another William Paine, born about 1744, has been confused with him.",
+    "John Pain had been gathering land in St. George's Parish for twenty years before he made his will: a hundred acres from William and Mary Samms in December 1744, the 140 acres \"whereon sd. Robert Coleman now liveth\" in May 1748, and 500 acres from Thomas Coleman in November 1759. Further back the trail is thinner. A Bernard Pain patented land in Spotsylvania in 1717, and in 1741 Barnett Paine of Drysdale Parish, King and Queen County, sold 350 acres on the north side of the Middle River there. John named a son Barnett, and family researchers make him Barnett's son, born in Drysdale Parish about 1705, but no deed or will yet seen says so."
    ],
    "quotes": [
     {
@@ -13950,9 +13964,21 @@
     "Casey family history (Interactive Family Histories, Master Publication 3-98, 'Elam Stevenson'), quoting Rev. John Baxter Stevenson",
     "The Ancestry of Carolyn Gail Skinner (archive.org id ancestryofcaroly00skin; quotes the same statement and a printed 'Table of Descents', Nashville, which shows Lydia Payne, 1787-1872, as the daughter of William Payne and Catherine Arnold)",
     "WikiTree Paine-2065, Paine-1996, Payne-15010 (1790 and 1800 Burke Co. censuses as transcribed there)",
-    "McFerrin, History of Methodism in Tennessee, vol. 2 (1871), account of Bee Spring (archive.org/details/historymethodis00mcfegoog)."
+    "McFerrin, History of Methodism in Tennessee, vol. 2 (1871), account of Bee Spring (archive.org/details/historymethodis00mcfegoog). William Armstrong Crozier, ed., Virginia County Records, vol. 1: Spotsylvania County Records 1721-1800 (New York, 1905; archive.org virginiacountyre01croz): will of John Pain, St. George's Parish, dated 25 Jul 1764, executors' bond 20 Sep 1770 (Will Book D, p. 421; Crozier p. 25); deed of gift, John and Frances Payn to their son Wm. Payn, 100 a., 4 Jun 1764 (Deed Book F; Crozier p. 235); deed of Wm. Payn and Catherine his wife of Berkeley Parish to Jeremiah Wilson, 20 Nov 1777 (Deed Book J; Crozier p. 332); deeds to John Pain from William and Mary Samms (4 Dec 1744), Robert Coleman (3 May 1748) and Thomas Coleman (6 Nov 1759)",
+    "Bernard Pain patent of 22 Jan 1717 (recited 1750) and deed of Barnett Paine of Drysdale Par., King and Queen Co., 9 Dec 1741: https://archive.org/details/virginiacountyre01croz. WikiTree Paine-307 (John Paine) and Paine-2065 (William Paine), parents and Barnett Paine link as given there (unsourced beyond Crozier and a Find a Grave memorial)."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/crozier-1905-p25-john-pain-will-1764.jpg",
+     "cap": "John Pain's will of 25 July 1764, leaving his estate to his wife Frances and then to his sons John, Thomas, Barnett, William, Robert and George, as abstracted in Crozier's Spotsylvania County Records (1905), p. 25.",
+     "kind": "record"
+    },
+    {
+     "s": "img/books/crozier-1905-p332-payn-arnold-deeds-1777.jpg",
+     "cap": "Two deeds recorded the same day, 20 November 1777: William Payn and his wife Catherine sell the land his father John had conveyed to him, and Lydia Arnold, widow of William Arnold, sells the Arnold place, with a Wm. Pain among the witnesses. Crozier, Spotsylvania County Records (1905), p. 332.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -13990,7 +14016,8 @@
    "profile": false,
    "people": [
     "A:arnold-william-lydia-bell:f",
-    "A:arnold-william-lydia-bell:m"
+    "A:arnold-william-lydia-bell:m",
+    "xr38-001"
    ],
    "subject": {
     "name": "William Arnold & Lydia (Bell) Arnold",
@@ -13998,17 +14025,24 @@
     "years": "c.1714–after 1774 · c.1725–after 1774"
    },
    "body": [
-    "Catherine Arnold is said to have been born about 1751 in Spotsylvania County, Virginia, a daughter of William Arnold (about 1714 to after 1774) and Lydia Bell. The one record behind this is the will of William Arnold, who died there on 17 September 1774 and \"names a daughter Catey.\" Her marriage to William Payne is unsupported.",
-    "William Paine's own family is also placed in Spotsylvania, and he and his wife are said to have sold his share of his father's estate there on 20 November 1777 before the family moved to Burke County, North Carolina. A daughter named Lydia may echo Catherine's mother Lydia. None of this has been checked against the will, the deed or a record that gives Catherine's age or origin, so Catherine Arnold's parents are carried here only as a possibility.",
+    "Catherine Arnold is said to have been born about 1751 in Spotsylvania County, Virginia, a daughter of William Arnold (about 1714 to after 1774) and Lydia Bell. The one record behind this is the will of William Arnold, who died there on 17 September 1774 and \"names a daughter Catey.\" No marriage record for her and William Payne has been found; the Spotsylvania deeds below make the match probable.",
+    "William Paine's own family is also placed in Spotsylvania, and he and his wife are said to have sold his share of his father's estate there on 20 November 1777 before the family moved to Burke County, North Carolina. A daughter named Lydia may echo Catherine's mother Lydia. The printed abstracts of the will and the deeds have now been read, but no record gives Catherine's age or names her father, so her parents remain a possibility, though a strong one.",
     "The Spotsylvania deed books bear out the family. On 5 August 1746 William Bell, a planter who signed with his mark, gave his daughter Lydia Arnold \"the plantation whereon her husband, William Arnold, now lives,\" with seventy acres beside it. The same day he gave his own home place to another daughter, Bathsheba Bell, keeping a privilege on it for Lydia. William Arnold wrote his will in Berkeley Parish on 17 September 1774, and it was proved on 18 May 1775. He left his widow Lydia and named their children William, Catey, Lydia, Sarah, Samuel, John, James and Joseph, with his kinsman George Arnold as executor. One of the three witnesses was George Payn.",
+    "Lydia's sister married into the same family. Bathsheba Bell, who was given the old Bell home place in 1746, was the wife of Benjamin Arnold by November 1760, when Benjamin, \"now in the Co. of Spts.,\" sold the hundred acres her father had given her. Two Bell sisters had married two Arnolds. A will made in King George County on 15 September 1757 by Isaac Arnold of Hanover Parish leaves a shilling apiece to \"my son William Arnold\" and \"my son Benjamin Arnold\" among his other children, and calls his eldest son Isaac a grandson of Thomas Goff. If those two sons are the Spotsylvania brothers, as Arnold family researchers believe, William's parents were Isaac Arnold and his first wife, Margaret Goff, and William's \"kinsman George Arnold,\" his executor, was probably a nephew. The Isaac Arnold will has been read here only in a transcription, so that step back is a lead.",
     "The Paynes were neighbors in the same parish, and the two families left Spotsylvania business at the same court. On 10 November 1777 Lydia Arnold and her son William, by then of Louisa County with a wife Susannah, sold the fifty acres in Berkeley Parish where the elder William had lived, and a William Pain witnessed. Both that deed and one by William Payn and his wife Catherine, also of Berkeley Parish, who sold a hundred acres his father John had given him, were recorded on 20 November 1777. A William Payne with a wife named Catherine, in the parish where Catey Arnold grew up and in the same month her mother was selling out, makes the Payne-Arnold marriage probable, though no paper names Catherine's father."
    ],
    "quotes": [],
    "src": [
     "WikiTree Arnold-4611 (Catherine Arnold) and Arnold-1584 (William Arnold), citing Spotsylvania County Will Book E, p. 119; not seen in the original.",
-    "William Armstrong Crozier, ed., Virginia County Records, vol. 1: Spotsylvania County Records 1721-1800 (1905; archive.org virginiacountyre01croz): deeds of William Bell to Lydia Arnold and to Bathsheba Bell, 5 Aug 1746, recorded 2 Sep 1746 (Deed Book D); will of William Arnold, Berkeley Parish, dated 17 Sep 1774, proved 18 May 1775 (Will Book E, p. 119); deed of Lydia Arnold, and Wm. and Susannah Arnold of Louisa Co., to Henry Pendleton Jr., 10 Nov 1777, recorded 20 Nov 1777; deed of Wm. Payn and Catherine his wife of Berkeley Parish to Jeremiah Wilson, 20 Nov 1777"
+    "William Armstrong Crozier, ed., Virginia County Records, vol. 1: Spotsylvania County Records 1721-1800 (1905; archive.org virginiacountyre01croz): deeds of William Bell to Lydia Arnold and to Bathsheba Bell, 5 Aug 1746, recorded 2 Sep 1746 (Deed Book D); will of William Arnold, Berkeley Parish, dated 17 Sep 1774, proved 18 May 1775 (Will Book E, p. 119); deed of Lydia Arnold, and Wm. and Susannah Arnold of Louisa Co., to Henry Pendleton Jr., 10 Nov 1777, recorded 20 Nov 1777; deed of Wm. Payn and Catherine his wife of Berkeley Parish to Jeremiah Wilson, 20 Nov 1777 William Armstrong Crozier, ed., Virginia County Records, vol. 1: Spotsylvania County Records 1721-1800 (New York, 1905; archive.org virginiacountyre01croz): deed of Benjamin Arnold to Abel Steers Jr., 29 Nov 1760, reciting William Bell's 1746 gift to 'his dau., Bathsheba, the wife of Benjamin Arnold' (Crozier p. 218): https://archive.org/details/virginiacountyre01croz. Will of Isaac Arnold Sr., Hanover Parish, King George Co., Va., dated 15 Sep 1757 (King George Will Book 1, p. 89), as transcribed in the Arnold Family Association of the South newsletter vol. VII, p. 74, and quoted on WikiTree Arnold-1585; not seen in the original."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/books/crozier-1905-p173-william-bell-deeds-1746.jpg",
+     "cap": "William Bell's two deeds of 5 August 1746, to his daughters Lydia Arnold and Bathsheba Bell, as abstracted in Crozier's Spotsylvania County Records (1905), p. 173.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -17049,6 +17083,7 @@
    "body": [
     "John Matson comes into view through his daughter's marriage. In the twelfth month of 1732, by the Friends' count, Charles Davis of Blockley (Davies in the Cane Creek records) and Hannah Matson, \"daughter of John Matson of Merion in the same county and province aforesaid with consent of her father,\" published their intentions under a Pennsylvania law against clandestine marriages and met at the house of Charles Read, Esq., a justice of the peace for Philadelphia. The witnesses were John Matson Jr. and Daniel Matson, probably Hannah's brothers, along with Evan and Jane George, Richard and Thomas George, Ellin Jones and Mary Andrew. Hannah was born about 1715.",
     "John was a Quaker farmer of Merion, in the Welsh settlement west of Philadelphia. By the usual reckoning he was born about 1686 at Upper Merion and married a woman named Margaret before 1709. Their children were Daniel, Hannah, Morris, Catherine, John, Peter and Joseph. Matson is a Swedish name, and Swedes had farmed along the Schuylkill and the Delaware before Penn's grant, but nothing makes him a son of the Swede Johann Mattson; his parentage is undocumented. In 1742 he and his wife took a certificate from Chester Monthly Meeting to Goshen.",
+    "Merion remembered the Matsons as Swedes. Notes on the Merion burial ground, gathered in 1912, list a Catharine Matson buried on 1 May 1721 and call the Matsons \"among earliest Swedish settlers in Upper Merion.\" They also list a Peter Matson of Upper Merion who died on 17 March 1778 and \"built the ford in Schuylkill River.\" That crossing, Matson's Ford, is where Continental troops tried to cross the Schuylkill on bridges of lashed wagons in December 1777, a week before the army went into winter quarters at Valley Forge, and where Lafayette brought his detachment back over the river from Barren Hill on 20 May 1778. Family trees make this Peter John's son, born about 1712, who married Ann Ely, a daughter of Hugh Ely of Buckingham, Bucks County; the Ely family history says only that Ann \"married Peter Matson of Swedish descent.\" No record yet seen names Peter as John's son, so the keeper of the ford as Hannah Matson Davies's brother is a lead to follow, not a fact.",
     "John Matson was buried on 3 May 1748, and his will was proved in Chester County on 16 July 1748. By then his daughter Hannah and Charles Davis had left Pennsylvania for Virginia and then Cane Creek, North Carolina, where Charles was disowned by the meeting in 1766 and died in 1801; Hannah lived until 25 October 1812. Their daughter Mary married William Moffitt by 1763, outside the meeting, and her son Robert married Martha Chamness in 1797. John Matson of Merion is Robert Moffitt's great-grandfather on his mother's side."
    ],
    "quotes": [
@@ -17061,9 +17096,16 @@
     "Radnor MM marriage certificate (1732/3)",
     "Haverford MM minutes. WikiTree Matson-27 and Matson-13, citing Swarthmore College Quaker Meeting Records (Radnor MM; Philadelphia YM) and the Chester County estate papers",
     "Craig, The Mattson & Dalbo Families of West Jersey, Swedish Colonial News 2:2 (2000)",
-    "Walmsley, Genealogy of the Mattson Family (1983)"
+    "Walmsley, Genealogy of the Mattson Family (1983) Lower Merion Historical Society, Merion Meeting burial records (from Margaret Harvey, The Incompleted Records of Merion Burial Grave-yard 1682-1848, manuscript, 1912): Catharine Matson (1 May 1721), Peter Matson (17 Mar 1778), John Matson (15 Jul 1753): https://collections.lowermerionhistory.org/?p=129932 ; https://collections.lowermerionhistory.org/?p=129939 ; https://collections.lowermerionhistory.org/?p=129934. Reba Shropshire Ely, An Historical Narrative of the Ely, Revell and Stacye Families (1910), p. 162 (Ann Ely 'married Peter Matson of Swedish descent'): https://archive.org/details/historicalnarrat00elyr. WikiTree Matson-32 (Peter Matson, 1712-1778), citing member trees only. Wikipedia, 'Battle of Matson's Ford' (read 5 Nov 2026)",
+    "Michel Capitaine du Chesnoy, Plan de la retraite de Barren Hill en Pensilvanie (1778), Library of Congress 00557030."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/places/barren-hill-retreat-1778-lafayette-map.jpg",
+     "cap": "Lafayette's aide Michel Capitaine du Chesnoy drew this plan of the retreat from Barren Hill in May 1778. At upper left the detachment crosses the Schuylkill at \"Matzon's gué,\" Matson's Ford, the crossing that family trees credit to John Matson's son Peter (a lead, not proven).",
+     "kind": "map"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -33688,6 +33730,36 @@
    "t": "Abner and Mathias Eads sit on the first grand jury of Washington County, Illinois, in July.",
    "side": "N",
    "story": "calvin-merry-connecticut-to-hempstead-1764-1850"
+  },
+  {
+   "y": "1746",
+   "t": "On 5 August William Bell, a Spotsylvania County planter, gives his daughter Lydia Arnold the plantation where she and her husband William Arnold live.",
+   "side": "J",
+   "story": "arnold-william-lydia-bell"
+  },
+  {
+   "y": "1764",
+   "t": "On 4 June John and Frances Pain of Spotsylvania County give their son William a hundred acres; John makes his will on 25 July.",
+   "side": "J",
+   "story": "payne-william-catherine"
+  },
+  {
+   "y": "1777",
+   "t": "On 20 November William Payn and his wife Catherine sell the Spotsylvania land his father John had conveyed to him, before the family's move to Burke County, North Carolina.",
+   "side": "J",
+   "story": "payne-william-catherine"
+  },
+  {
+   "y": "1773",
+   "t": "On 2 November the Fincastle County court names Henry Willis among the men to view a road from the Maiden Spring settlement on the Clinch.",
+   "side": "J",
+   "story": "bd-henry-willis-pulaski"
+  },
+  {
+   "y": "1774",
+   "t": "In Lord Dunmore's War Henry Willis is on the roll of the garrison at the Maiden Springs station on the Clinch, 26 August.",
+   "side": "J",
+   "story": "bd-henry-willis-pulaski"
   }
  ],
  "fixes": [
@@ -34836,6 +34908,13 @@
    "story": "shaw-benjamin-rhoda-nicholites",
    "side": "J",
    "source": "https://commons.wikimedia.org/wiki/File:Friends_Meeting_House_at_New_Garden_Guilford_County_North_Carolina_1869.jpg"
+  },
+  {
+   "s": "img/places/barren-hill-retreat-1778-lafayette-map.jpg",
+   "cap": "Lafayette's aide Michel Capitaine du Chesnoy drew this plan of the retreat from Barren Hill in May 1778. At upper left the detachment crosses the Schuylkill at \"Matzon's gué,\" Matson's Ford, the crossing that family trees credit to John Matson's son Peter (a lead, not proven).",
+   "story": "matson",
+   "side": "J",
+   "source": "https://commons.wikimedia.org/wiki/File:Plan_de_la_retraite_de_Barren_Hill_en_Pensilvanie_-_ou_un_d%C3%A9tachement_de_deux_mille_deux_cent_hommes_sous_le_G%27al_LaFayette_%C3%A9tois_entour%C3%A9_par_l%27Arm%C3%A9e_angloise_sous_les_G%27als_Howe,_Clinton_et_Grant_le_LOC_00557030.jpg"
   }
  ],
  "photoSources": {
@@ -36185,6 +36264,21 @@
   "img/places/valley-forge-1877-julian-scott-harpers.jpg": {
    "url": "https://commons.wikimedia.org/wiki/File:Valley_Forge_LCCN2004676940.jpg",
    "credit": "Julian Scott, Harper's Weekly, 27 Jan 1877; Library of Congress; public domain"
+  },
+  "img/books/crozier-1905-p25-john-pain-will-1764.jpg": {
+   "url": "https://archive.org/details/virginiacountyre01croz"
+  },
+  "img/books/crozier-1905-p332-payn-arnold-deeds-1777.jpg": {
+   "url": "https://archive.org/details/virginiacountyre01croz"
+  },
+  "img/books/crozier-1905-p173-william-bell-deeds-1746.jpg": {
+   "url": "https://archive.org/details/virginiacountyre01croz"
+  },
+  "img/books/dunmores-war-1905-p403-maiden-springs-roll-1774.jpg": {
+   "url": "https://archive.org/details/documentaryhisto00kelluoft"
+  },
+  "img/places/barren-hill-retreat-1778-lafayette-map.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Plan_de_la_retraite_de_Barren_Hill_en_Pensilvanie_-_ou_un_d%C3%A9tachement_de_deux_mille_deux_cent_hommes_sous_le_G%27al_LaFayette_%C3%A9tois_entour%C3%A9_par_l%27Arm%C3%A9e_angloise_sous_les_G%27als_Howe,_Clinton_et_Grant_le_LOC_00557030.jpg"
   }
  }
 }
