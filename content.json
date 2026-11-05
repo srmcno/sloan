@@ -2921,7 +2921,8 @@
    "hook": "His name is on the 1837 treaty, and his trading firm fed Chickasaw families arriving from Mississippi.",
    "profile": false,
    "people": [
-    "I352820802883"
+    "I352820802883",
+    "xr7-001"
    ],
    "subject": {
     "name": "Vincent B. Tims",
@@ -2934,6 +2935,8 @@
     "On 29 May 1847 he bought the Dancing Rabbit Creek treaty allotment of Henry Graves, \"son of Chief Netachachie,\" one of the three district chiefs whose marks appear on the 1837 treaty. That December \"Jos. R. Berthelet and Vincent B. Tims of the Choctaw Nation\" were invited within the bar at the Red River Raft Convention, which pressed Congress to clear the great logjam that blocked steamboats on the Red River.",
     "He and his full-blood Choctaw wife stayed at Doaksville the rest of their lives. Family accounts say Vincent died at Doaksville in June 1864, while Confederate troops held Fort Towson a mile away, but he was still signing letters as the Confederate postmaster there on 9 September and 1 November 1864.",
     "The trader's origins, in the one local history that traces him, are modest: 'Born in South Carolina, V.B. Tims is said to be of Irish descent.' A local history has him coming to the Doaksville area with Josiah Doak in the early 1830s; the earliest record of him there is from 1837. In March 1843 he ran an office there for letters to the Agent for Claims, and in February 1844 the partnership with Doak was dissolved 'by mutual agreement,' after which he kept the business on his own. One of the firm’s unpaid store accounts, for 1840 to 1844, was still being pursued in 1848 and reached the Supreme Court of Texas in 1849.",
+    "His South Carolina family now has a name. In November 1844 the will of Joseph Tims was proved in the Chester District court, and among its bequests was one to \"my son Vincent Brown Tims\": a woman named Mary, held in slavery, and a piece of land adjoining Mrs. Robertson's. Joseph's wife Winifred was left a girl named Lucy, a boy named Ned and a fifty-and-a-half-acre tract called the Peetree Tract. By then Vincent had been trading at Doaksville for the better part of a decade, and whether he ever went back to Chester to take up his share is not known. Nor is it known whether Winifred was his mother.",
+    "Another Tims will from Chester District, which the family transcription calls Joseph's first, names sons Amos, John and Joseph and daughters Sarah Estes, Mary Carter, Frances Boyd and Elizabeth Tims, each with an enslaved man, woman or child. A son Amos Tims made his own will in 1831, leaving his 112-acre plantation to his sister Johannah. Whether that first will is an earlier will of the same Joseph, which would make these people Vincent's brothers and sisters, or the will of an older Joseph Tims, which would make them his uncles and aunts, is not yet clear. Both wills are known so far only from a family transcription, and neither original has been read.",
     "Three of his children are known by name: Vinson W. (born 1838), Edward Ward (born 1842) and a daughter, Phoebe, who died before final enrollment. His great-grandson Joel Thompson said that 'Venson Brown Tims' was the first postmaster at Doaksville and that Edward succeeded him on his death. Edward was appointed postmaster on 24 October 1887, and a 'V. B. Tims' had been appointed on 17 May 1871, seven years after the family date of Vincent's death. Local history says that in 1861 he was 'designated' to be Indian Agent for the Choctaws had the Confederacy won, but only one local history says so.",
     "William Gardner, a Choctaw merchant born in 1830, was said in 1891 to have opened his own store at Hamilton, in Blue County, \"after he had been to work for E. B. Tims, the sutler at Doaksville.\" The initials are printed \"E. B.\" rather than \"V. B.,\" but the trade and the town point to the Doaksville trader, so this was probably Vincent.",
     "Two more glimpses show him as a man of business. In December 1845 a New Orleans commission house named \"Doak & Tims, Doaksville, C. Nation\" among its references in a newspaper advertisement, next to Maj. William Armstrong of the Choctaw Agency. And by June 1854 \"V. B. Tims, Choctaw Nation\" held 10 shares at $25 each in the Cairo & Fulton Railroad Company of Arkansas, among other Choctaw Nation stockholders; the road was chartered to link Cairo, on the Mississippi, with Fulton on the Red River.",
@@ -2968,7 +2971,9 @@
     "Washington Telegraph (Washington, Ark.), 10 Dec. 1845 (https://archive.org/details/giganti-washington-telegraph-10-12-1845); list of stockholders in the Cairo & Fulton R. R. Co., to June 1854, Appendix to the Journal of the House of Representatives of Arkansas, 1854 session (https://archive.org/details/esrp871035907)",
     "House Report No. 271, 27th Congress, 3d Session (1843), pp. 56, 75, 84, 86-87. Official Register of the United States, 30 September 1877 (Washington, 1878), Post-Office Department, p. 537",
     "Official Register of the United States, 1871, Post-Office Department, p. 502",
-    "Dawes Card 1437."
+    "Dawes Card 1437.",
+    "Joseph Tims, will, Chester District, S.C., proved November 1844, Will Book A1 p. 32, Apartment 89, Package 1417; an earlier Joseph Tims will, Book B p. 212, Apartment 66, Package 1039",
+    "Amos Timms, will, proved 21 Nov 1831, Book K pp. 203-204, Apartment 67; transcriptions by Lucille Brown, published in Larry Timbs, 'Legacy of slavery in Timbs clan', Carolina Magic (blog), 6 Mar 2013: https://larrytimbs.blogspot.com/2013/03/legacy-of-slavery-in-timbs-clan.html"
    ],
    "imgs": [
     {
@@ -2982,6 +2987,11 @@
     {
      "s": "img/docs/ratified-indian-treaty-220-1837-signature-page.jpg",
      "cap": "Ratified Indian Treaty 220, Choctaw and Chickasaw, Doaksville near Fort Towson, 17 January 1837: the signature page. Under 'In the presence of' the witnesses include Josiah S. Doak and Vinct. B. Tims. National Archives, Record Group 11, NAID 148062874 (use unrestricted, public domain; downscaled only)"
+    },
+    {
+     "s": "img/places/chester_sc_courthouse_postcard_1948.jpg",
+     "cap": "The Chester County courthouse at Chester, South Carolina, built in 1852, on a postcard of about 1948. Joseph Tims's will, naming his son Vincent Brown Tims, had been proved in the Chester District court eight years before it went up.",
+     "kind": "place"
     }
    ],
    "tags": [
@@ -2992,6 +3002,10 @@
     [
      "Born",
      "29 Mar 1803, Chester Co., S.C. (family accounts)"
+    ],
+    [
+     "Father (probable)",
+     "Joseph Tims of Chester District, S.C.; will proved Nov 1844 names \"my son Vincent Brown Tims\""
     ],
     [
      "1837",
@@ -5416,7 +5430,8 @@
     "In January 1854 he was made guardian of the children of Samuel and Sarah Graves, and again in April 1861 of the minor heirs. His first wife, Mary Tyler, married him in Randolph County on 18 August 1832; a Charles Tyler, 79, lived in Cherokee County, Georgia, in 1850 with a boy, William D. Graves, 10, born Georgia, who may be Gilliam's son left with his grandfather.",
     "His third wife, Polly Gray Washburn, died about 1879; his second, Delila Hawthorne, died about 1860 at Cedar Glades. His family tradition, recorded twice in the genealogy, makes his father an American Indian , though no record supports it.",
     "The Union 4th Arkansas Cavalry at Cedar Glades was a company of neighbors. A petition of 10 March 1864 from Union men of Montgomery County said \"Dr. Brown, of Cedar Glades, was shot down\" on 1 March, and the men who enlisted with Gilliam on 14 January included William Haskins, 45, John Stroud, 45, John Tidwell, 32, born in Blount County, Alabama, and others.",
-    "The regiment he joined was the 4th Arkansas Cavalry (Union), organized at Little Rock in December 1863. Its Company L wrote from Montgomery County on 10 March 1864 that wives and children of Union men at Cedar Glades were being shot, and a battalion of the regiment fought through the county in July. His desertion on 12 October 1864 and return on 25 December 1864 fall in the period of the autumn expedition from Little Rock to Fort Smith, but no record places his company on it."
+    "The regiment he joined was the 4th Arkansas Cavalry (Union), organized at Little Rock in December 1863. Its Company L wrote from Montgomery County on 10 March 1864 that wives and children of Union men at Cedar Glades were being shot, and a battalion of the regiment fought through the county in July. His desertion on 12 October 1864 and return on 25 December 1864 fall in the period of the autumn expedition from Little Rock to Fort Smith, but no record places his company on it.",
+    "Who Gilliam's parents were is still unknown. The Graves Family Association, which has worked through the Randolph County Graveses in the old records and by the Y-DNA of their male lines, places him, without proof, among the descendants of John Graves and his wife Margery Harvey, who farmed 312 acres on Bumpers Fork of Little River and whose will of 1811 names their sons Samuel, William, Leonard and John. The association suggests he came through Leonard, and notes that the family already had two other Gilliams, a son and a grandson of John. The Y-DNA of Gilliam's male-line descendants matches the descendants of John Graves, who settled at Concord, Massachusetts, in 1635, and two family accounts make his father an American Indian, a story the association itself calls folklore. When Leonard and Samuel sold their parents' Bumpers Fork land in 1822, the buyer was a Silas Moffitt."
    ],
    "quotes": [],
    "src": [
@@ -5426,7 +5441,9 @@
     "Official Records, Series I, vol. 34, pt. 2, p. 631",
     "Civil War Soldiers Buried in Arkansas Cemeteries (1990).",
     "A Reminiscent History of the Ozark Region (1894), Garland and Montgomery county sketches, archive.org/details/reminiscenthisto00unse",
-    "Corbitt, Formation of the North Carolina Counties (Randolph)"
+    "Corbitt, Formation of the North Carolina Counties (Randolph)",
+    "Graves Family Association, Gen. 242, Gilliam Graves (rev. 8 Oct 2015): https://www.graves-fa.org/gen-histories/gens/gen242.html",
+    "Gen. 77, Descendants of John Graves and Margery Harvey of Randolph Co., NC (rev. 4 Apr 2017), generation 1 (will dated 5 Jan 1811, proved Nov 1811, Randolph Will Book 3 p. 311; 312 acres on Bumpers Fork sold 1822 by Leonard and Samuel to Silas Moffitt, Randolph Deed Book 14 p. 214): https://www.graves-fa.org/gen-histories/gens/gen077.html.html"
    ],
    "imgs": [],
    "tags": [
@@ -30898,6 +30915,13 @@
    "story": "noah-smith-walker-division",
    "side": "J",
    "source": "https://www.loc.gov/item/96516042/"
+  },
+  {
+   "s": "img/places/chester_sc_courthouse_postcard_1948.jpg",
+   "cap": "The Chester County courthouse at Chester, South Carolina, built in 1852, on a postcard of about 1948. Joseph Tims's will, naming his son Vincent Brown Tims, had been proved in the Chester District court eight years before it went up.",
+   "story": "vincent",
+   "side": "J",
+   "source": "https://commons.wikimedia.org/wiki/File:Chester_-_Chester_County_Court_House_01.jpg"
   }
  ],
  "photoSources": {
@@ -31611,6 +31635,9 @@
    "url": "https://www.loc.gov/item/sanborn01776_003/",
    "credit": "Sanborn Map Company; Library of Congress, Geography and Map Division, Sanborn Maps Collection; downscaled",
    "rights": "Public domain (Library of Congress: the online Sanborn Maps Collection is in the public domain and free to use and reuse)"
+  },
+  "img/places/chester_sc_courthouse_postcard_1948.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Chester_-_Chester_County_Court_House_01.jpg"
   }
  }
 }
