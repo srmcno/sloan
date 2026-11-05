@@ -26076,6 +26076,139 @@
    "note": "Evidence lead. The place facts are solid; the Hulsey household is not tied to the family. The two name coincidences (Charles F. and Martin S.) are new observations, not documents: the 1880 Silver City baby is Charles F. and a family account names a son Martin Salatheil (see salathiel). The 1900 ages are in the census image and have not been read; the ages in benjaminh (59 in 1900, 68 in 1910) are seven to ten years older than the 1847 or 1880 ages. If Charles F. is 20 and born in Arkansas, treat Benjamin as probable. The 1883 company is from the Encyclopedia of Arkansas; the Mountain Valley railroad that was never built is Ward's plan after 1892. Do not describe the Hulseys as customers, workers or neighbors of the spring.",
    "place": "Mountain Valley Township, Garland County, Arkansas",
    "rank": 9999
+  },
+  {
+   "id": "49th-illinois-company-f-richview-donelson-shiloh",
+   "side": "N",
+   "gen": 7,
+   "ev": "probable",
+   "profile": false,
+   "title": "Company F: the Richview boys at Donelson, Shiloh and Pleasant Hill",
+   "hook": "Company F of the 49th Illinois was a Richview company, and between February 1862 and April 1864 it buried a startling share of its men: John B. Walker at Shiloh, a first sergeant at Pleasant Hill, and neighbors whose names the Livesays, Carters and Thompsons would have known by heart.",
+   "people": [
+    "xu3-010",
+    "xt1-013",
+    "xt1-011",
+    "xt1-012",
+    "MAT_WILLIAM_P_WALKER",
+    "xu2-025"
+   ],
+   "subject": {
+    "name": "John B. Walker and the men of Company F",
+    "rel": "Livesay and Walker kin (probable)",
+    "years": "1861–1865"
+   },
+   "body": [
+    "The 49th Illinois was put together at Camp Butler, near Springfield, and mustered in on the last day of 1861. Company F came from Richview. Of the roughly 140 men on its roster, about seventy gave Richview as home, and the families around the Beaucoup settlement were among them. The captain was Benjamin W. Jones of Richview; the first lieutenant, Ransom C. Hagerman; the first sergeant, James A. Reed; and a sergeant named John A. Logan, who would be a captain by autumn. In the ranks were Andrew Livesly and Francis M. Carter, two names the county would later list among its own, and a private named John B. Walker.",
+    "They went south at once. The regiment was ordered to Cairo on 3 February 1862, and on the 8th it moved to Fort Henry and joined the Third Brigade of McClernand's division. On the 11th it marched for Fort Donelson, and on the 13th it was in the fight, losing fourteen killed and thirty-seven wounded; Colonel William R. Morrison, commanding the brigade, was among the wounded. Company F's first death was Private Robert Ford of Richview, killed on 13 February. A corporal, Joseph J. Newcomb, died of wounds on 5 March. They had been soldiers for six weeks.",
+    "On 6 March the regiment embarked for Pittsburg Landing. The camp the 49th made there is marked today by a National Park Service tablet: the regiment belonged to Raith's Third Brigade of McClernand's First Division, and on the morning of Sunday, 6 April 1862, its first line of battle was formed on the color line of that camp. The day cost the regiment seventeen killed and ninety-nine wounded, among them Lieutenant Colonel Phineas Pease, who commanded it, and Major Bishop. Company F lost John B. Walker, a private, killed on the 6th. It lost Matthew B. Pray, killed; Robert Stirling, who died of his wounds at Savannah, Tennessee, the same day; and two Richview recruits, Richard Alcorn and Robert Bundy, who died at Shiloh that April. Parker G. Dillinger died at Corinth on the 9th, a prisoner. Corporal Lucius Graham was captured, exchanged, and died at Washington that October.",
+    "John Walker's family remembered him a little differently. In 1894 his brother Captain Simeon Walker, speaking for a family of five preaching sons and six soldiers, called John B. a captain killed at Shiloh. The muster roll has him a private, and it is the roll the family ought to trust on his rank. The rest of the brother's memory, the place and the day, agrees with it and if John B. was the preacher Simeon Walker's son, as the name and the town suggest, then the Walkers of Beaucoup lost a brother at Shiloh before Simeon had put on a uniform.",
+    "The spring and summer after Shiloh took more than the battle had. Between early May and November 1862 seven more men of the company died of sickness or old wounds: Francis M. Driver, Lieutenant Hagerman, Michael Trout, Jackson Reeves, Corporal James E. Reed, Sergeant Samuel M. Casey and Samuel Craig. Three of them died at home in Richview or in Illinois hospitals; two died in camp at Bethel, Tennessee. Captain Jones resigned in June. Sergeant John A. Logan became first lieutenant in May and captain by September, and he was still captain when the regiment mustered out.",
+    "New men came in September 1862. Five recruits from Richview were mustered on the 12th, and one of them was Thomas B. Thompson, the son of Lydia Jane Livesay and William Thompson, who by his family's account was then twenty. With him went William J. Livesey, who would come home a sergeant, and James M. Logan, another sergeant by the end. Thomas came home a corporal on 1 July 1865. Another Walker, George W., was a recruit too, but he was discharged at Bethel before he had seen much of the war.",
+    "Then came the long middle of the war: Helena, the capture of Little Rock in November 1863, Memphis, and in January 1864 a reenlistment of three-fourths of the regiment as veterans. Thomas M. Brown, Francis Carter and William Stonecipher of Richview signed again on 16 January. In March the veterans went up the Red River, took Fort DeRussy on the 14th and fought at Pleasant Hill on 9 April. Company F's first sergeant, Patrick Nixon of Richview, was killed there, and so was Sergeant Willis Nazworthy.",
+    "Those who had not reenlisted stayed behind in Memphis, and some of them, like Andrew Livesly, would muster out in January 1865. The rest went home on furlough in June 1864 and gathered at Centralia before going back to the front. By September 1865, when the regiment was mustered out at Paducah, Kentucky, the roster of Company F carried the notation of death beside more than forty names."
+   ],
+   "quotes": [],
+   "src": [
+    "Report of the Adjutant General of the State of Illinois, 49th Infantry, regimental history and Company F roster, transcribed by the Illinois Civil War Project (ILGenWeb): history https://civilwar.whalen-family.org/history/049.html ; Company F roster https://civilwar.whalen-family.org/r050/049-f-in.html (both read 4 Nov 2026)",
+    "National Park Service, Shiloh National Military Park, Campsite Tablet A-12, 49th Illinois Infantry (inscription: Raith's 3d Brigade, McClernand's 1st Division; first position in line of battle April 6, 1862, on the regimental color line): https://www.nps.gov/shil/learn/historyculture/monument-detail.htm?id=A-12",
+    "Biographical Review of Jackson, Massac, Pope and Hardin Counties, Illinois (1894), sketch of Capt. Simeon Walker (brother John B. remembered as a captain killed at Shiloh), as already cited on this site: https://iljackson.whalen-family.org/biographies/walkersimeon1894.html",
+    "Washington County, Illinois, History (1879), list of men in the 49th Illinois, Company F, as already cited on the story 'Livesays, Carters and Walkers in the county's Civil War companies'."
+   ],
+   "imgs": [],
+   "note": "Evidence: events and roster entries are proven from the Adjutant General's transcribed report; the family links are probable or lead. John B. Walker (private, Richview, killed at Shiloh 6 Apr 1862) is tied to Rev. Simeon Walker's family only by the 1894 sketch (brother John B., captain, killed at Shiloh) and the name; the sketch's 'captain' conflicts with the roster's 'private', and his regiment (the sketch says 40th; the roster says 49th) conflicts too. Thomas B. Thompson as Lydia Jane Livesay's son rests on the Thompson family account already on the site. My counts of 'about seventy' Richview men and 'more than forty' deaths are a hand tally of the online transcription (139 entries, some men listed twice, residence field often missing for recruits) and should be rechecked against the Illinois Civil War Muster and Descriptive Rolls database, which was unreachable when this was written; 'more than forty names' is my hand count of death notations (about 40 in the 139 entries parsed) and is the figure most likely to need adjusting. The 'seven more men' are Driver, Hagerman, Trout, Reeves, J. E. Reed, Casey, Craig; Driver's place of death is not given. A search-result summary attributed to a Shiloh marker the text 'formed here about 8:30 a.m. ... attacked upon the left flank and fell back, fighting, to the Cross Roads', and an Illinois state marker (HMDB 42969) gives regimental loss as 2 officers and 17 men killed, 4 officers and 79 men wounded, 8 missing, total 110, against the Adjutant General's 17 killed and 99 wounded; I left both out of the prose until the tablets are read in person. The Adjutant General's history names a Captain John A. Logan as commander of the non-veteran detachment at Tupelo, 14-15 July 1864; he is probably Company F's Richview captain but nothing says so, and he must not be confused with General John A. Logan, who commanded the division the regiment joined at Bethel. The sentence about Simeon's later company is cautious but could be cut."
+  },
+  {
+   "id": "pearland-santa-fe-pamphlet-1899",
+   "side": "N",
+   "gen": 6,
+   "ev": "probable",
+   "profile": false,
+   "title": "Pearland in the Santa Fe's pamphlet, October 1899",
+   "hook": "In the autumn of 1899 the Santa Fe Railway told prospective settlers across the Midwest that Pearland was a thriving village of 300 with schools, churches and one of the finest young pear orchards on the coast. Floyd and Alice Livesay, with their small children, were somewhere among those 300.",
+   "people": [
+    "MAT_FLOYD_LIVESAY",
+    "MAT_ALICE_WALKER",
+    "MAT_LESTER_SR",
+    "MAT_RUTH_LIVESAY"
+   ],
+   "subject": {
+    "name": "Floyd and Alice Livesay",
+    "rel": "Maternal ancestors",
+    "years": "1899"
+   },
+   "body": [
+    "In October 1899 the passenger department of the Santa Fe Route printed the twentieth thousand copy of a booklet called Texas Coast Country, the second in its Seekers' Series. It was written for people who lived where the winters were long, the soil was tired and a farm could grow only one main crop a year. Page after page of it described the towns along the Gulf, Colorado and Santa Fe line, and on page 50 it came to Pearland.",
+    "The town of Pearland, it said, lay fifteen miles south of Houston, at the center of a splendid country. The townsite had been laid out on a modern plan, with boulevards and broad streets and places kept back for churches and parks, and the railroad expected to build there a model community. Ten thousand acres around it had been cut into ten-, twenty- and forty-acre tracts, to be sold at fifteen to twenty-five dollars an acre, a third down and the rest in one and two years, each tract fronting a broad, graded road. Pearland was, the pamphlet said, a thriving village of 300 inhabitants, with schools and churches, and for its age it could show one of the finest pear orchards along the coast.",
+    "Further on, the booklet let settlers speak for themselves, and two of them lived at Pearland. Eli Landreth, a quarter of a mile from the station, had come down from Iowa two years before and farmed 269 acres, ninety of them in oats, cotton, corn and sweet potatoes, and said he had never had a crop fail in whole or in part. Another Iowa man, a Mr. Martin who lived four miles out, said that with a family of seven he had not needed a doctor in four years and had never regretted leaving the snow banks of the North. Both said the climate was healthy, and Landreth added that a man of small means could make a home there if he was willing to hustle.",
+    "Somewhere among those three hundred people were Floyd and Alice Livesay. Floyd had come from Illinois about 1895, as the Houston paper said when he died, within a year or so of the platting of the townsite; Lester was born in Illinois in November 1894, and Ruth about 1898 in Texas. Floyd is not named in the booklet, and nothing says that a Santa Fe pamphlet, rather than a neighbor's letter, a land agent or a railroad ticket, brought him south. But the Livesays were the sort of family the booklet was written for: northern people, with children, on a few acres in a town that had been laid out on paper only five years before.",
+    "The booklet is honest about what it did not promise. Mr. Landreth warned that new settlers should come with money enough to last, and a settler at Alta Loma along the same line wrote that a slight freeze had cut down his cauliflower the November before and that his young orchard had not yet begun to bear. The orchard that was called the finest on the coast was still a young one; the grocery and the livery stable that made the Livesays' name in Pearland, with the store at the corner of Main and Broadway dated by the family to about 1906, were still several years away."
+   ],
+   "quotes": [
+    {
+     "t": "a thriving village of 300 inhabitants",
+     "c": "Texas Coast Country (Santa Fe Passenger Department, October 1899), p. 50, on Pearland"
+    }
+   ],
+   "src": [
+    "Texas Coast Country; also briefly describing the resources of counties along the Gulf, Colorado & Santa Fe Railway line (Chicago: Passenger Department, Santa Fe Route, October 1899; Seekers' Series No. 2, 20th thousand), p. 50 (Pearland) and pp. 65-67 (settlers Landreth, Martin and Leming); Internet Archive, public domain, page image examined 4 Nov 2026: https://archive.org/details/texascoastcountr00atc",
+    "Houston Chronicle, 5 May 1932, p. 16, funeral notice of F. H. Livesay (moved from Illinois to Pearland about 37 years earlier; groceryman at Pearland), as cited on the story 'From Illinois to the Texas Gulf Coast': https://www.newspapers.com/image/1198463593/",
+    "Texas Historical Commission, Atlas no. 5039009593, marker 'Old Settlers Cemetery' (townsite known as Mark Belt, platted 1894 and named Pearland; advertising campaign 'brought many settlers to the area in the 1890s'), as already cited on the story 'Old Settlers Cemetery and the 1890s settlers': https://atlas.thc.texas.gov/Details/5039009593"
+   ],
+   "imgs": [
+    {
+     "s": "img/places/texas-coast-country-1899-p50-pearland.jpg",
+     "cap": "Page 50 of the Santa Fe Passenger Department's Texas Coast Country (October 1899), with the paragraphs on Pearland and Richmond. Public domain; Internet Archive scan, downscaled only.",
+     "source": "https://archive.org/details/texascoastcountr00atc/page/n51/mode/1up",
+     "credit": "Internet Archive, public domain",
+     "kind": "record"
+    }
+   ],
+   "note": "Evidence: the pamphlet's statements are proven as printed (page image examined); that the Livesays were at Pearland by October 1899 is probable (Houston Chronicle 1932 'about 37 years ago' and Ruth born in Texas about 1898), not proved by a 1899 record. The pamphlet is a railroad's advertising: its prices, 'model community' and 300 inhabitants are the promoter's claims, not census counts, and the story presents them that way. The settler Martin's initials are blurred in the scan (OCR reads O. P.), so he is named only as Mr. Martin; the OCR of his acreage is also unreliable (an 80-acre planting is likely, 'SiS' is not) and is left out. The pamphlet's statement that the Livesays' grocery began about 1906 is the family's date, from the Pearland Historical Society newsletter already cited on 'The Livesay Store at the Pearland crossroads'. Freeze of 11-13 Feb 1899 (Texas Almanac: 'worst freeze ever known') was not read first-hand and is not in the text."
+  },
+  {
+   "id": "centralia-1864-the-regiments-come-home",
+   "side": "N",
+   "gen": 7,
+   "ev": "probable",
+   "profile": false,
+   "title": "Centralia, 1864: where two regiments came home and went back",
+   "hook": "In the spring and summer of 1864 two Illinois regiments with Washington County men in them came home on furlough and met again at Centralia, and on 17 April William P. Walker and Jackson L. Livesay were mustered into the 60th there, the day before it left for Atlanta.",
+   "people": [
+    "MAT_WILLIAM_P_WALKER",
+    "xu2-014",
+    "xt1-013"
+   ],
+   "subject": {
+    "name": "William P. Walker and Jackson L. Livesay",
+    "rel": "Maternal family (probable)",
+    "years": "1864"
+   },
+   "body": [
+    "Centralia was a railroad town, and in 1864 the railroad was how southern Illinois went to war and came home from it. The Illinois Central ran through it, and so did the soldiers.",
+    "The first regiment to come was the 60th. In February 1864 it was in winter quarters at Rossville, Georgia, and three-fourths of its men reenlisted as veterans on the 22nd. Four days later it took part in the reconnoissance toward Dalton that became the fight at Buzzard Roost, where it lost forty-two killed and wounded. On 6 March it was ordered to Illinois on veteran furlough, and the men were furloughed from Centralia on 15 March 1864.",
+    "The furlough was a month long, and the regiment filled its thinned ranks at the same station. On 20 March a farmer of Richview named William P. Walker, thirty-three years old, and an eighteen-year-old named Jackson L. Livesay, who had left the Beaucoup school at sixteen, enlisted in Company C, the company of Captain Simeon Walker, who may have been William's brother-in-law. Both were mustered into the service at Centralia on 17 April. The next day, 18 April, the regiment left, by way of Louisville, Nashville and Chattanooga, for Rossville, and by 2 May the Atlanta campaign had begun. For William and Jackson the road from Centralia led to Ringgold, Dalton, Resaca, Kennesaw Mountain, Peach Tree Creek and Jonesboro, where on 1 September the division and corps commanders complimented the regiment for its gallantry. They mustered out at Louisville on 31 July 1865.",
+    "The second regiment to come was the 49th. In January three-fourths of it had reenlisted, and after the Red River campaign it was ordered to Illinois on veteran furlough on 24 June. When the furlough was over the men rendezvoused again at Centralia and went by way of Cairo and Memphis to Holly Springs, which they reached in time for the Oxford expedition of 12 August. The men who had not reenlisted had stayed behind at Memphis under Captain John A. Logan and fought at Tupelo on 14 and 15 July.",
+    "Centralia gave soldiers as well as sending them off. The Company F roster of the 49th lists a handful of recruits from Centralia that spring and summer: Thomas C. Drake and John C. Holt, mustered on 22 February; Arthur C. Leonard, John W. Shelton and Jesse West, on 25 April; and William V. Shelton on 5 July. Drake died at Memphis on 29 March, five weeks after he enlisted. Leonard died on 9 January 1865. The others came home in September.",
+    "For two regiments, then, Centralia was both the last stop on the way out and the first on the way back."
+   ],
+   "quotes": [],
+   "src": [
+    "Report of the Adjutant General of the State of Illinois, 60th Infantry regimental history (organized Camp Dubois, Anna, 17 Feb 1862; reenlisted 22 Feb 1864; furloughed from Centralia 15 Mar 1864; left 18 Apr 1864 for Rossville; Atlanta campaign, Jonesboro 1 Sept 1864), transcribed by the Illinois Civil War Project: https://civilwar.whalen-family.org/history/060.html (read 4 Nov 2026)",
+    "Report of the Adjutant General of the State of Illinois, 49th Infantry, regimental history and Company F roster, transcribed by the Illinois Civil War Project (ILGenWeb): history https://civilwar.whalen-family.org/history/049.html ; Company F roster https://civilwar.whalen-family.org/r050/049-f-in.html (both read 4 Nov 2026)",
+    "Jackson L. Livesay's own recollection and the 60th Illinois roster entries for Livesay and Walker (enlisted 20 Mar 1864, mustered Centralia 17 Apr 1864, mustered out Louisville 31 Jul 1865), as already cited on the stories 'Jackson L. Livesay: Robert's grandson, Company C, and a Centralia store' and 'Private Walker of Company C'.",
+    "Sanborn Map Company, Sanborn Fire Insurance Map from Centralia, Illinois, September 1897, sheet 1 (Library of Congress, Geography and Map Division, Sanborn Maps Collection, sanborn01776_003; public domain): https://www.loc.gov/item/sanborn01776_003/"
+   ],
+   "imgs": [
+    {
+     "s": "img/places/centralia-sanborn-1897-sheet1.jpg",
+     "cap": "Centralia, Illinois, in the Sanborn fire insurance map of September 1897, sheet 1. The map is thirty-three years later than the soldiers' furloughs of 1864 and shows the railroad town as it had grown, not as it was then. Sanborn Map Company; Library of Congress, Geography and Map Division, public domain; Wikimedia Commons scan, downscaled.",
+     "source": "https://commons.wikimedia.org/wiki/File:Sanborn_Fire_Insurance_Map_from_Centralia,_Washington_Counties,_Illinois._LOC_sanborn01776_003-1.jpg",
+     "credit": "Sanborn Map Company / Library of Congress, public domain",
+     "kind": "record"
+    }
+   ],
+   "note": "Evidence: probable. The regimental dates (furlough from Centralia 15 Mar 1864, departure 18 Apr 1864; 49th rendezvous at Centralia after the June 1864 furlough) are the Adjutant General's; Jackson and William's enlistment and muster dates are the site's existing roll readings; the roster does not say whether the 17 April muster at Centralia was at the regiment's furlough camp, so 'the day before it left' is an inference from two dates and is hedged by wording only. The story's first paragraph and its last paragraph are interpretive and can be cut. William P. Walker's age (thirty-three) is from b. 15 Mar 1831 per the tree. 'Captain Simeon Walker, who may have been William's brother-in-law' is already a hedged claim on 'Etheldra J. and Captain Simeon'. 'A Richview family that remembered its soldiers in 1864 remembered them at that depot' is invented sentiment and should be removed. The Sanborn sheet is an index-map sheet; check that it shows the depot area before using, or choose a later sheet. The Adjutant General's phrase for Tupelo is 'commanded by Captain John A. Logan' (see note on the Company F story). Thomas B. Thompson is in 'people' only as a possible cross-link to the Company F story."
   }
  ],
  "storyAliases": {
@@ -29633,6 +29766,36 @@
    "t": "Dudley Logan is born on 8 January, said to be in Greene County, Alabama; his Mount Pleasant stone gives the date.",
    "side": "N",
    "story": "dudley-logan-7th-alabama-cavalry"
+  },
+  {
+   "y": "1862",
+   "t": "Private John B. Walker of Richview, Company F, 49th Illinois, is killed at Shiloh on 6 April, the same day Robert Stirling of the company dies of wounds at Savannah, Tennessee.",
+   "side": "N",
+   "story": "49th-illinois-company-f-richview-donelson-shiloh"
+  },
+  {
+   "y": "1862",
+   "t": "Thomas B. Thompson, William J. Livesey and James M. Logan, with two others from Richview, are mustered into Company F, 49th Illinois, on 12 September.",
+   "side": "N",
+   "story": "49th-illinois-company-f-richview-donelson-shiloh"
+  },
+  {
+   "y": "1864",
+   "t": "The 49th Illinois loses Company F's first sergeant, Patrick Nixon of Richview, and Sergeant Willis Nazworthy at Pleasant Hill, Louisiana, on 9 April.",
+   "side": "N",
+   "story": "49th-illinois-company-f-richview-donelson-shiloh"
+  },
+  {
+   "y": "1864",
+   "t": "The 60th Illinois is furloughed from Centralia on 15 March; William P. Walker and Jackson L. Livesay are mustered in there on 17 April, and the regiment leaves for Rossville on the 18th.",
+   "side": "N",
+   "story": "centralia-1864-the-regiments-come-home"
+  },
+  {
+   "y": "1899",
+   "t": "The Santa Fe Railway's Texas Coast Country (October) calls Pearland a thriving village of 300 inhabitants with schools, churches and one of the finest young pear orchards on the coast.",
+   "side": "N",
+   "story": "pearland-santa-fe-pamphlet-1899"
   }
  ],
  "fixes": [
@@ -31260,6 +31423,16 @@
   "img/places/oakland-city-sanborn-1907-plate1-loc.jpg": {
    "url": "https://www.loc.gov/collections/sanborn-maps/",
    "credit": "Sanborn Map Company, Library of Congress via Wikimedia Commons, public domain"
+  },
+  "img/places/texas-coast-country-1899-p50-pearland.jpg": {
+   "url": "https://archive.org/details/texascoastcountr00atc/page/n51/mode/1up",
+   "credit": "Santa Fe Passenger Department, Texas Coast Country (Oct 1899); Internet Archive scan, public domain",
+   "rights": "Public domain (1899 US publication)"
+  },
+  "img/places/centralia-sanborn-1897-sheet1.jpg": {
+   "url": "https://www.loc.gov/item/sanborn01776_003/",
+   "credit": "Sanborn Map Company; Library of Congress, Geography and Map Division, Sanborn Maps Collection; downscaled",
+   "rights": "Public domain (Library of Congress: the online Sanborn Maps Collection is in the public domain and free to use and reuse)"
   }
  }
 }
