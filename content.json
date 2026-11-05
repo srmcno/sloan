@@ -4075,7 +4075,13 @@
     "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture, Fort Towson entry",
     "Wikipedia, Doaksville, Choctaw Nation"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/places/stand-watie-brady-negative.jpg",
+     "cap": "Brig. Gen. Stand Watie, four poses on one glass negative from the studio of Mathew Brady, taken some years after the surrender at Doaksville.",
+     "kind": "place"
+    }
+   ],
    "tags": [
     "choctaw",
     "military"
@@ -4996,7 +5002,13 @@
     "USS Ross (DD-563) history",
     "U.S. Navy muster rolls, 1943-46"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/places/oak-ridge-ardm1-ex-ard19-haer.jpg",
+     "cap": "The floating dry dock USS Oak Ridge (ARDM-1), once ARD-19, at the Coast Guard Yard, Curtis Bay, Maryland, photographed for the Historic American Engineering Record late in its life.",
+     "kind": "place"
+    }
+   ],
    "tags": [
     "military"
    ],
@@ -5503,10 +5515,9 @@
    "body": [
     "Jesse S. Graves is placed by the Graves family in Blount County, Alabama, about 1855, a son of Gilliam Graves. He may be the Jesse King Graves of the family tree, but that is not settled. The family traces Gilliam from North Carolina through Georgia and Alabama to Cedar Glades, Arkansas.",
     "Jesse married Sarah Emma Fisher at Jack Phillips's home in Montgomery County on 2 April 1871, at 18 and 15. A family account of 1977 names Margaret Crumpton as his second wife, and a Jesse Graves married Margaret Crumpton in Garland County on 31 January 1884, but the groom's age differs from the age given for Jesse in 1871.",
-    "A Jesse Graves married Nancy Cutter in Garland County on 19 September 1889. One family account calls his third wife Nancy Wilborn Kyle Cuttler, another Nancy Wilborn Sutton; the names are unverified. The 1977 account names Sarah Rebecca as Jesse's daughter but not her mother.",
+    "A Jesse Graves married Nancy Cutter in Garland County on 19 September 1889; her story, and the tangle of her names, is told under her own name. The 1977 account names Sarah Rebecca as Jesse's daughter but not her mother.",
     "The ages do not fit together. Jesse was 18 in 1871, yet the grooms in 1884 and 1889 are each 38, five years apart. There may be an error, or they may be different men, and whether they were Sarah Rebecca's father is unsettled.",
-    "The 1977 account lists John and Henry Crumpton, Cindy Sutton, and Issas and Prince Cuttler among Jesse's stepchildren. A list of burials made in 2002 names Jesse in McGill Cemetery, Garland County, though the family places his grave in the yard of his old home on Walnut Valley Road.",
-    "His widow Nancy, who lived to 20 November 1932, was living in 1920 with their daughter Lucinda and son-in-law Benjamin Hogue."
+    "The 1977 account lists John and Henry Crumpton, Cindy Sutton, and Issas and Prince Cuttler among Jesse's stepchildren. A list of burials made in 2002 names Jesse in McGill Cemetery, Garland County, though the family places his grave in the yard of his old home on Walnut Valley Road."
    ],
    "quotes": [],
    "src": [
@@ -7666,7 +7677,13 @@
     "Compiled service record, Zeno (Veno) Moffitt, Co. F, 24th North Carolina Infantry, NARA M270, roll 309, National Archives Catalog NAID 168483033, card images read 3 Nov 2026: https://catalog.archives.gov/id/168483033",
     "\"The Cumberland Plough Boys, Company F, 24th Regiment N.C. Troops,\" submitted by William Bullard, NCGenWeb Cumberland County (https://ncgenweb.us/cumberland/ploughboys.html), read 4 Nov 2026"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/places/elmira-prisoners-roll-call-1864.jpg",
+     "cap": "Evening roll call for the Confederate prisoners at Elmira, New York, in the winter of 1864. Veno Moffitt died there that autumn. The photograph was kept by Berry Benson of the 1st South Carolina, who tunnelled out of the camp.",
+     "kind": "place"
+    }
+   ],
    "tags": [
     "military"
    ],
@@ -8735,7 +8752,18 @@
     "Syfert, \"Evidence For and Against the Mecklenburg Declaration of Independence,\" Charlotte Museum of History (https://charlottemuseum.org/learn/articles/evidence-for-and-against-the-mecklenburg-declaration-of-independence/)",
     "Mecklenburg Declaration Papers, 1775-1982, Southern Historical Collection #00501, UNC finding aid (https://finding-aids.lib.unc.edu/00501), both read 4 Nov 2026"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/places/hezekiah-alexander-stone-house-1936.jpg",
+     "cap": "Hezekiah Alexander’s stone house on Sugaw Creek, finished in 1774, photographed by Frances Benjamin Johnston in 1936.",
+     "kind": "place"
+    },
+    {
+     "s": "img/places/alexander-rock-house-1903.jpg",
+     "cap": "The “Rock House,” about 1903, overgrown with vines, from D. A. Tompkins’s history of Mecklenburg County.",
+     "kind": "place"
+    }
+   ],
    "tags": [
     "military"
    ],
@@ -9167,7 +9195,7 @@
    "body": [
     "A Jesse Graves married Nancy Cutter in Garland County on 19 September 1889, the groom 38. A 1977 family account names Nancy Wilborn Sutton as a wife of Jesse Graves, while the Graves family calls her Nancy Wilborn Kyle Cuttler. The different names keep the records from being tied together with confidence.",
     "The Graves family says Nancy had earlier married John B. Kyle and Samuel B. Cuttler, and names children Isaac and Prince. It also lists Lucinda, William Vestal, Pearl Mae and Cora Ellen as children of Nancy and Jesse. These relationships are unconfirmed.",
-    "The family places Nancy in Garland County in 1920 and 1930, says Jesse died in 1910 and says Nancy died on 20 November 1932. The 1977 account names Sarah Rebecca as Jesse's daughter but not which wife was her mother; the relationship between Sarah and Nancy is not established."
+    "In 1920 Nancy was living in Garland County with her daughter Lucinda and son-in-law Benjamin Hogue, and she was still in the county in 1930. The family says Jesse died in 1910 and says Nancy died on 20 November 1932. The 1977 account names Sarah Rebecca as Jesse's daughter but not which wife was her mother; the relationship between Sarah and Nancy is not established."
    ],
    "quotes": [],
    "src": [
@@ -12150,7 +12178,9 @@
     "Margaret came, it seems, from one of the best-known families in Tennessee. A neighbor, F. T. M’Laurine, remembered in 1884 that James “married a daughter of Mr. Duncan Brown, sister of ex-Gov. N. S. and J. C. Brown,” and her grave at Bee Spring remembers her the same way. Her brother Neill Smith Brown was the twelfth governor of Tennessee, from 1847 to 1849, and later United States minister to Russia; her brother John Calvin Brown was a Confederate major general, the nineteenth governor, from 1871 to 1875, and afterward president of the Texas and Pacific Railway. Both were born in Giles County to Duncan and Margaret Smith Brown. The kinship rests on that memory rather than on any will naming Margaret among Duncan Brown’s children.",
     "James was a preacher. Through the 1850s and 1860s he married couples across Giles County, among them Swinney and Dyer on 19 January 1852, Young and Huff on 3 November 1852, Stovall and Stephenson on 3 September 1860, and Woodard and Barnfield on 25 August 1862.",
     "Fifty years on, the couple were still together near Bryson. On 20 August 1885 a county correspondent called on “our old friends, Rev. and Mrs. Jas. C. Stevenson of near Bryson,” who “speak of celebrating their golden wedding in October.” Margaret died a few months later, on 11 February 1886. James lived until 23 February 1899 and is buried beside her at Bee Spring.",
-    "They had ten children, among them Sarah, who married James Hollon, and Catherine Eliza, born in 1838, whom her husband called Eliza Catherine. In 1856 she married the Rev. William Thomas Andrews, who in his autobiography of 1912 remembered her as the daughter of James C. and Margaret C. Stevenson and named their son James David Andrews. James David’s son was Frank Maxwell Andrews, a major general by 1937, who rose to lieutenant general and gave his name to Andrews Field, now Joint Base Andrews."
+    "They had ten children, among them Sarah, who married James Hollon, and Catherine Eliza, born in 1838, whom her husband called Eliza Catherine. In 1856 she married the Rev. William Thomas Andrews, who in his autobiography of 1912 remembered her as the daughter of James C. and Margaret C. Stevenson and named their son James David Andrews. James David’s son was Frank Maxwell Andrews, a major general by 1937, who rose to lieutenant general and gave his name to Andrews Field, now Joint Base Andrews.",
+    "News of James’s death crossed into Alabama, where one of his daughters had lived. Soon after 23 February 1899 the Scottsboro Citizen told its readers that the Rev. James C. Stevenson had died near Bryson, in Giles County, “at the ripe old age of 86 years.” It called him a Methodist preacher for upwards of fifty years. It named him as the father of Mrs. W. T. Andrews, formerly of Scottsboro and by then of Florence: Catherine Eliza, the wife of the Rev. William Thomas Andrews. And it repeated what Giles County took for granted, that his wife had been a Miss Brown, sister of the two former governors, Neill S. and John C. Brown.",
+    "That makes two witnesses who knew the family, M’Laurine in 1884 and an Alabama editor in 1899, who said the same thing. It is still a newspaper’s word and not a will. James was in fact eighty-five."
    ],
    "quotes": [
     {
@@ -12174,9 +12204,16 @@
     "Goodspeed (1886), https://www.tngenweb.org/goodspeed/giles/bios.html",
     "Elam Stevenson will, https://ahgp.org/tn/giles/wills/stev.htm. The Pulaski Citizen, 25 September 1884, “Old Times in Giles”",
     "Bee Spring Cemetery, Giles County TNGenWeb: https://ahgp.org/tn/giles/tombstn/tomb055.htm",
-    "Wikipedia, Neill S. Brown and John C. Brown."
+    "Wikipedia, Neill S. Brown and John C. Brown.",
+    "The Scottsboro Citizen (Scottsboro, Ala.), 1899, issue date not on the clipping, “Died in Tennessee”; clipping image on Find a Grave memorial 12219422, posted by Annette Bradford, 20 Feb 2026: https://www.findagrave.com/memorial/12219422/james-calvin-stevenson/photo"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/docs/scottsboro-citizen-1899-james-c-stevenson.jpg",
+     "cap": "“Died in Tennessee”: the Scottsboro Citizen on the death of the Rev. James C. Stevenson, 1899.",
+     "kind": "record"
+    }
+   ],
    "tags": [
     "notable"
    ],
@@ -12244,7 +12281,9 @@
     "Mary Elizabeth O'Neal was born on 16 November 1860 in Gibson County, Indiana, the first child of Daniel and Vashti, ten months after their marriage. By 1878 she had married David Raliegh Farris, born in 1856 in Indiana. Their son Elmer Cooper Farris was born on 25 September 1878 at Princeton and died in Sequoyah County, Oklahoma, in 1948. A second son, Daniel Riley, born in Arkansas on 23 March 1881 and recorded as Fairce, died at Mead, Oklahoma, in 1968.",
     "On 10 February 1884, in Arkansas, Mary married Joseph McConnell Rinker, 29, born in Iowa. Their children were Lydia Bell (1885, Sunset, Arkansas), Armenda Mae (1888), Cynthia Jane (1890), Joseph Jonathan (1892, Fayetteville), Vasha (1895, died 1897), Oscar Ashel (1897), Letha Agnes (1900) and Alta (1902, died 1906). Joseph was in Roger Mills County, Oklahoma, in 1910 and died on 27 May 1919 at Wapanucka.",
     "When she died in December 1960, Mrs. Mary Elizabeth Wilson, 100, was remembered: she \"was born in Gibson County, Indiana, near Evansville, and spent most of her early life in Missouri, and raised her children in Arkansas. She first came to Oklahoma in 1907 and moved to Tuttle, from Faxton, in 1926.\" She \"celebrated her 100th birthday in Nov 16, 1960, and passed away at her home on Wednesday, Dec 14, 1960.\" Survivors included \"3 sons, 3 daughters, 51 grandchildren, 150 great-grandchildren, & 73 great great grandchildren.\" She was buried in Fairlawn Cemetery. Her third husband was James Calvin Wilson, born in 1867 at Princeton, Indiana.",
-    "Katie's brother Eddie was born in McCurtain County, Oklahoma, in July 1907, the same year Mary first came to Oklahoma."
+    "Katie's brother Eddie was born in McCurtain County, Oklahoma, in July 1907, the same year Mary first came to Oklahoma.",
+    "On 16 November 1960 Oklahoma turned fifty-three and Mary Elizabeth Wilson turned a hundred, and an Oklahoma paper marked both under the headline “Tuttle Woman Hits Century.” It traced her road: born near Evansville in Gibson County, several states after that, and then a home near Foss, in Washita County, in the year Oklahoma became a state. She had come with her second husband, Joe Rinker, from Missouri, after the years near Sunset, Arkansas, where they raised eleven children. Six of them were living. She had been in Tuttle since 1926, when she married her last husband, named there as R. F. Wilson, though other records call him James Calvin Wilson, and she still kept her own house.",
+    "An estimated 150 grandchildren and great-grandchildren were counted for the day, and her six children were named: O. A. Rinker, Mrs. Bill Rich and Mrs. Jim Welchel, all near Tuttle; Joe Rinker of Elmore City; Mrs. Mae Jennings of Lubbock, Texas; and Dan Fairce of Durant, the oldest living son. Four weeks later she was gone."
    ],
    "quotes": [
     {
@@ -12254,7 +12293,8 @@
    ],
    "src": [
     "Tuttle Times, 22 Dec 1960 (transcribed in Find a Grave 41943603 and WikiTree O'Neal-2666)",
-    "WikiTree Rinker-451, Farris-3080, Wilson-112326 and the children's profiles."
+    "WikiTree Rinker-451, Farris-3080, Wilson-112326 and the children's profiles.",
+    "Unnamed Oklahoma newspaper, about 16 Nov 1960, “Tuttle Woman Hits Century”; clipping image on Find a Grave memorial 41943603, posted by Cherie, 27 May 2024; family photo of Mary Wilson with Lydia, Armenda Mae and Letha Agnes Rinker, same memorial: https://www.findagrave.com/memorial/41943603/mary-elizabeth-farris_rinker_wilson/photo"
    ],
    "imgs": [],
    "tags": [],
@@ -18864,7 +18904,8 @@
     "A short life of the Rev. John Washington Hulsey was printed in 1952. He was born on 17 March 1864 at Arkadelphia, Arkansas, the son of Lucretia Overall Hulsey and Dr. James Carroll Hulsey, a country doctor who practiced around Cameron, Williams, Spiro, Hartshorne and Wilburton in what became Oklahoma. John had little schooling. He was converted in the summer of 1889, at twenty-five, near Bengal in Latimer County, and was ordained by the Harlan's Chapel Baptist Church on 1 September 1889. The article says he could hardly read when he began to preach.",
     "His pastorates run through two states. In Indian Territory and Oklahoma he served Bengal, Cameron and Poteau, organized the First Baptist Church of Wilburton in 1898 and was moderator of the Short Mountain Baptist Association in 1895, 1896 and 1898. In Arkansas he served Waldron, Parks, West Hartford and Mansfield from 1908 to 1913, then Norman, Caddo Gap and Mount Ida in 1914-1917. From 1922 to 1944 he was pastor at Big Fork, Cherry Hill, Antioch and Mount Ida, and his second term at Mount Ida lasted twenty-two years, \"until his death.\" In 1919 he directed the $75 Million Campaign in Montgomery and Polk counties. He died at Little Rock on 17 November 1944, where he had gone to attend the state Baptist convention.",
     "The geography is the reason for interest. George Washington Hulsey, a boy of four in 1880 in Montgomery County, lived at Story in that county in 1918 and dying at Washita, in Montgomery County, in 1935, with his burial at Breashears Cemetery near Story. His son Louis Daniel died near Mena, in Polk County, in 1948. Mount Ida, Caddo Gap and Norman, where the Rev. John Hulsey was pastor, all lie in Montgomery County, and Big Fork, another of his churches, is in Polk County. Family usage calls George \"Rev.,\" although his records name him a laborer and farmer. A family memory of a Hulsey preacher at Mount Ida may belong to this man and not to George, but nothing supports that.",
-    "A shared surname, a shared county and the middle name Washington are not evidence of kinship. Nothing connects Dr. James Carroll Hulsey of Arkadelphia to Benjamin F. Hulsey, born about 1848 in Georgia, or to the Salathiel Hulsey household in Union County, Georgia, in 1850."
+    "A shared surname, a shared county and the middle name Washington are not evidence of kinship. Nothing connects Dr. James Carroll Hulsey of Arkadelphia to Benjamin F. Hulsey, born about 1848 in Georgia, or to the Salathiel Hulsey household in Union County, Georgia, in 1850.",
+    "He had married Mary Lee Oller on 28 February 1886, three years before he began to preach, and from 1922 to 1928 he was a state missionary for the Baptist State Convention. He had not missed one of its meetings since 1900. In November 1944 he came to Little Rock for his forty-fifth, but a heart attack kept him from the sessions, and he died at his son John C. Hulsey’s house on Peyton Street. He was buried at Mount Ida, where he had been pastor, by one count, for thirty of his fifty-five years in the ministry."
    ],
    "quotes": [
     {
@@ -18875,9 +18916,16 @@
    "src": [
     "Herbert Miner Pierce, 'Baptist Pioneers in Eastern Oklahoma,' Chronicles of Oklahoma 30 (Autumn 1952), pp. 279-284, sketch of John Washington Hulsey at pp. 281-283 (the article's heading prints the name 'Hudsey'; the text and the cumulative index read Hulsey): https://archive.org/details/chroniclesofokla3019okla (opened 2 Nov 2026)",
     "Wikipedia, 'Mount Ida, Arkansas,' 'Caddo Gap, Arkansas,' 'Norman, Arkansas' and 'Big Fork, Arkansas,' for the counties of his churches: https://en.wikipedia.org/wiki/Mount_Ida,_Arkansas, https://en.wikipedia.org/wiki/Caddo_Gap,_Arkansas, https://en.wikipedia.org/wiki/Norman,_Arkansas, https://en.wikipedia.org/wiki/Big_Fork,_Arkansas (opened 2 Nov 2026)",
-    "George Washington Hulsey's Montgomery County residences and burial as given in this site's stories on him and on Camp Pike in 1918."
+    "George Washington Hulsey's Montgomery County residences and burial as given in this site's stories on him and on Camp Pike in 1918.",
+    "Obituary, “Rev. J. W. Hulsey, 80, Succumbs,” Little Rock newspaper, Nov. 1944, title and date not on the clipping; image on Find a Grave memorial 5422543, posted by Karen Winters, 2 Jan 2017: https://www.findagrave.com/memorial/5422543/john-washington-hulsey/photo"
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/docs/rev-j-w-hulsey-obituary-1944.jpg",
+     "cap": "“Rev. J. W. Hulsey, 80, Succumbs”: a Little Rock paper, November 1944.",
+     "kind": "record"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -26383,7 +26431,13 @@
     "1900 U.S. census, Garland Co., Ark. (Benjaman F Hulsey household, as on the benjaminh page)",
     "Wikipedia, “Mountain Valley Spring Water” (1902 and 1908 dates)."
    ],
-   "imgs": [],
+   "imgs": [
+    {
+     "s": "img/places/mountain-valley-springs-pavilion-c1917.jpg",
+     "cap": "The Mountain Valley Springs Company’s drinking pavilion and office in Hot Springs, on a postcard of about 1917. This is the company’s office in town; the spring itself is at Mountain Valley.",
+     "kind": "place"
+    }
+   ],
    "tags": [],
    "kv": [
     [
@@ -31091,6 +31145,48 @@
    "story": "vincent",
    "side": "J",
    "source": "https://commons.wikimedia.org/wiki/File:Chester_-_Chester_County_Court_House_01.jpg"
+  },
+  {
+   "s": "img/places/hezekiah-alexander-stone-house-1936.jpg",
+   "cap": "Hezekiah Alexander’s stone house on Sugaw Creek, finished in 1774, photographed by Frances Benjamin Johnston in 1936.",
+   "story": "wt2-hezekiah-mary-alexander",
+   "side": "J",
+   "source": "https://commons.wikimedia.org/wiki/File:Hezekiah_Alexander_stone_house,_Charlotte_vicinity_(Mecklenburg_County,_North_Carolina).jpg"
+  },
+  {
+   "s": "img/places/alexander-rock-house-1903.jpg",
+   "cap": "The “Rock House,” about 1903, overgrown with vines, from D. A. Tompkins’s history of Mecklenburg County.",
+   "story": "wt2-hezekiah-mary-alexander",
+   "side": "J",
+   "source": "https://archive.org/details/bub_gb_w8olAAAAMAAJ"
+  },
+  {
+   "s": "img/places/stand-watie-brady-negative.jpg",
+   "cap": "Brig. Gen. Stand Watie, four poses on one glass negative from the studio of Mathew Brady, taken some years after the surrender at Doaksville.",
+   "story": "watie-surrender-doaksville",
+   "side": "J",
+   "source": "https://commons.wikimedia.org/wiki/File:Brig._Gen._Stand_Watie_(National_Archives_Identifier_529026).gif"
+  },
+  {
+   "s": "img/places/oak-ridge-ardm1-ex-ard19-haer.jpg",
+   "cap": "The floating dry dock USS Oak Ridge (ARDM-1), once ARD-19, at the Coast Guard Yard, Curtis Bay, Maryland, photographed for the Historic American Engineering Record late in its life.",
+   "story": "ard19-leyte",
+   "side": "J",
+   "source": ""
+  },
+  {
+   "s": "img/places/elmira-prisoners-roll-call-1864.jpg",
+   "cap": "Evening roll call for the Confederate prisoners at Elmira, New York, in the winter of 1864. Veno Moffitt died there that autumn. The photograph was kept by Berry Benson of the 1st South Carolina, who tunnelled out of the camp.",
+   "story": "veno-moffitt-elmira",
+   "side": "J",
+   "source": "https://archive.org/details/photographichist07mill"
+  },
+  {
+   "s": "img/places/mountain-valley-springs-pavilion-c1917.jpg",
+   "cap": "The Mountain Valley Springs Company’s drinking pavilion and office in Hot Springs, on a postcard of about 1917. This is the company’s office in town; the spring itself is at Mountain Valley.",
+   "story": "hulsey-mountain-valley-garland",
+   "side": "J",
+   "source": "https://collections.carli.illinois.edu/cdm/singleitem/collection/nby_teich/id/189"
   }
  ],
  "photoSources": {
@@ -31851,6 +31947,30 @@
   "img/archive/johnsonville-federal-supply-depot-1864.jpg": {
    "url": "https://www.loc.gov/pictures/item/cwp2003004955/PP/",
    "credit": "Jacob F. Coonley, 1864; Library of Congress; public domain"
+  },
+  "img/places/stand-watie-brady-negative.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Brig._Gen._Stand_Watie_(National_Archives_Identifier_529026).gif"
+  },
+  "img/places/hezekiah-alexander-stone-house-1936.jpg": {
+   "url": "https://commons.wikimedia.org/wiki/File:Hezekiah_Alexander_stone_house,_Charlotte_vicinity_(Mecklenburg_County,_North_Carolina).jpg"
+  },
+  "img/places/alexander-rock-house-1903.jpg": {
+   "url": "https://archive.org/details/bub_gb_w8olAAAAMAAJ"
+  },
+  "img/places/mountain-valley-springs-pavilion-c1917.jpg": {
+   "url": "https://collections.carli.illinois.edu/cdm/singleitem/collection/nby_teich/id/189"
+  },
+  "img/places/elmira-prisoners-roll-call-1864.jpg": {
+   "url": "https://archive.org/details/photographichist07mill"
+  },
+  "img/places/oak-ridge-ardm1-ex-ard19-haer.jpg": {
+   "url": "https://www.loc.gov/item/md2197/ (photo 393389pv)"
+  },
+  "img/docs/rev-j-w-hulsey-obituary-1944.jpg": {
+   "url": "https://www.findagrave.com/memorial/5422543/john-washington-hulsey/photo"
+  },
+  "img/docs/scottsboro-citizen-1899-james-c-stevenson.jpg": {
+   "url": "https://www.findagrave.com/memorial/12219422/james-calvin-stevenson/photo"
   }
  }
 }
