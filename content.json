@@ -1018,7 +1018,7 @@
    "body": [
     "In November 1889 Balas Newton gave written permission for his daughter Lizzie to marry John M. Shackleford in Etowah County, Alabama, and John swore to it.",
     "In 1880 a Balus Newton lived in Etowah County with wife Mary and daughter Elizabeth, aged seven. Their uncommon names, location and Elizabeth’s age make them a probable match for the Balas and Lizzie of the 1889 marriage. Mary is called Balus’s wife, but nothing says she was Elizabeth’s mother.",
-    "The 1880 home held nine people. Balus was forty-four and farming; Mary, thirty-six, was recorded as keeping house. The seven children listed as Balus’s sons and daughters ranged from a twelve-year-old son, whose occupation was farm hand, to an eight-month-old daughter born in November. Between them were Ann, ten; Lindsey, nine; Elizabeth, seven; Hezekiah, four; and Amanda, three. Alabama was the birthplace of Mary and all seven children, and was given for Balus too, though the Confederate veteran of that name was born in Pickens District, South Carolina, so the match is probable, not certain.",
+    "The 1880 home held nine people. Balus was forty-four and farming; Mary, thirty-six, was recorded as keeping house. The seven children listed as Balus’s sons and daughters ranged from a twelve-year-old son, whose occupation was farm hand, to an eight-month-old daughter born in November. Between them were Ann, ten; Lindsey, nine; Elizabeth, seven; Hezekiah, four; and Amanda, three. Alabama was the birthplace of Mary and all seven children. Balus himself was born in South Carolina, and so were his father and mother, and Mary's parents too, which fits the Confederate veteran of that name, born in Pickens District, South Carolina. The match is still probable, not certain, but it is a closer fit than it once seemed.",
     "In March 1901 a Balus Newton made final proof on land before the county clerk, but no age or family names are given, so he may or may not have been Lizzie’s father.",
     "Lizzie's father had fought for the Confederacy twice over: at twenty-five in Company E of the 1st Florida in 1861, and later in Company E of the 51st Alabama Cavalry, until he came home in April 1865. Born in Pickens District, South Carolina, in October 1835, he was still drawing an Alabama pension near Gadsden at seventy-five and signed his papers with a mark."
    ],
@@ -1032,6 +1032,8 @@
     "DGS 005157231, image 339; indexed as Bulus Keaton: https://www.familysearch.org/ark:/61903/1:1:M4JN-1TN; original image https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC.",
     "Alabama Confederate pension application, Balous Newton, Etowah Co., 1910 (Alabama Department of Archives and History, via FamilySearch)",
     "1907 Alabama Confederate veteran census",
+    "1880 U.S. census, Etowah County, Alabama, Balus Newton household (lines 40-48): Balus and both his parents born South Carolina; original page image read on Ancestry, 5 Nov 2026",
+    "Ancestry, 1880 United States Federal Census, Bulus Keaton [Balus Newton], Etowah, Alabama, dwelling 202 (birthplace, father's and mother's birthplaces indexed South Carolina): https://www.ancestry.com/search/collections/6742/records/39878310",
     "https://www.familysearch.org/ark:/61903/3:1:3QS7-894J-14JR"
    ],
    "imgs": [
@@ -1047,6 +1049,11 @@
     {
      "s": "img/rec/newton-land-notice-gadsden-1901.jpg",
      "cap": "Gadsden Times-News, 15 March 1901, p. 3: a Balus Newton makes final proof on land. His identification with this family is a lead.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/newton-family-1880-etowah-nativity-detail.jpg",
+     "cap": "Detail of the 1880 Etowah County census, lines 40-48: Balus Newton and his household. In the three birthplace columns Balus and both his parents are given as South Carolina; Mary and the children were born in Alabama.",
      "kind": "record"
     }
    ],
@@ -33600,6 +33607,9 @@
   "img/docs/emma-whitfield-death-certificate-1955.jpg": {
    "url": "https://www.ancestry.com/search/collections/6716/records/7468494",
    "credit": "Washington State Department of Health; image via Ancestry."
+  },
+  "img/rec/newton-family-1880-etowah-nativity-detail.jpg": {
+   "url": "https://www.familysearch.org/ark:/61903/3:1:33S7-9YYY-FFC"
   }
  }
 }
