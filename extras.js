@@ -161,19 +161,21 @@
     rateSel.onchange = () => { store.set('rate', rateSel.value); if (speaking && !paused) { synth.cancel(); speakNext(); } };
     const time = tools.querySelector('.reading-time');
     (time ? time.after.bind(time) : tools.prepend.bind(tools))(listenBtn, stopBtn, rateSel);
-    // Tap a paragraph while listening to jump there.
-    $('#storyBody').addEventListener('click', e => {
-      if (!speaking) return;
-      const p = e.target.closest('#storyBody > p, #storyBody > blockquote');
-      if (p && !e.target.closest('a,button')) startListening(p);
-    });
   }
 
+  // Tap a paragraph while listening to jump there (one delegated listener for the page).
+  document.addEventListener('click', e => {
+    if (!speaking) return;
+    const p = e.target.closest && e.target.closest('#storyBody > p, #storyBody > blockquote');
+    if (p && !e.target.closest('a,button')) startListening(p);
+  });
+
   /* ---------- Evidence badges ---------- */
+  // Same wording as the About page, so the explanation never claims more than the grade means.
   const EVIDENCE = {
-    proven: 'An original record states this directly: a birth, marriage or death record, a will, a census line, an enrollment card or the person’s own words.',
-    probable: 'Two or more independent records agree on the name, place and dates, and nothing contradicts them. Very likely right, but not stated outright.',
-    lead: 'A clue worth checking, such as family memory or a copied family tree, that no record has confirmed yet. Treat it with care.'
+    proven: 'An original record names it.',
+    probable: 'A good secondary source that agrees with the records.',
+    lead: 'A family claim or copied-tree link no record has confirmed. Treat it with care.'
   };
   let pop = null;
   function closePop() { if (pop) { pop.remove(); pop = null; } }
@@ -258,6 +260,7 @@
     const t = e.target;
     if (t && (t.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(t.tagName))) return;
     if (help && help.open) return;
+    if (document.body.classList.contains('modal-open') || document.body.classList.contains('tree-focus-open') || document.querySelector('dialog[open]')) return;
     const k = e.key;
     if (k === 'Escape') { closePop(); return; }
     if (gPending && Date.now() - gPending < 1500) {
