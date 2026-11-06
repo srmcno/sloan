@@ -31262,6 +31262,246 @@
     "1860 census household of Calvin Merry (teacher, $200) and Eliza, Mazarn Township, P.O. Mount Ida, 23 Aug 1860, and the marriage of Calvin Merry and Eliza McGregor at Mount Ida, 18 Nov 1859, as read in the story “Gilbert G. Merry’s 1916 sketch: a Calvin Merry and a brother at Golden”; not reopened here: https://www.familysearch.org/ark:/61903/1:1:NM55-1YX"
    ],
    "note": "Probable. The town’s history is from the Encyclopedia of Arkansas; the Merry household details come from the earlier stories’ readings and the 1860 index. The 1870 absence is from volunteer transcriptions of eight townships, not from the page images, and a family missed by the enumerator or misspelled beyond recognition would not show; it is a gap in the transcriptions, not proof that the Merrys were elsewhere. Where Calvin taught and whether he served in the war are not known."
+  },
+  {
+   "id": "clinton-sandridge-draft-card-broken-bow-1942",
+   "side": "N",
+   "profile": false,
+   "gen": 5,
+   "ev": "proven",
+   "title": "Clinton Sandridge registers at Broken Bow, April 1942",
+   "hook": "At 59 Clinton Sandridge registered for the Army’s fourth draft call, and his card in the National Archives gives his birth as 24 September 1882, at Prescott, Arkansas.",
+   "people": [
+    "MAT_CLINTON_SANDRIDGE",
+    "MAT_LEMUEL_SANDRIDGE"
+   ],
+   "subject": {
+    "name": "Clinton Lamar Sandridge",
+    "rel": "Maternal ancestor",
+    "years": "1882–1961"
+   },
+   "body": [
+    "The Selective Service held its fourth registration in April 1942, for men born between 28 April 1877 and 16 February 1897, too old for the earlier calls. Clinton Sandridge registered with McCurtain County’s Local Board No. 2 at Broken Bow on 27 April, serial number U-455. The card names him in full, Clinton Lamar Sandridge, and gives his home as a rural route at Broken Bow, with no telephone listed.",
+    "The card answers a question that earlier records left open. He gave his age as 59 and his birth date as 24 September 1882, the day, month and year cut on his gravestone at Broken Bow Cemetery. That does not fit the 25 September 1892 printed in his death notice of 1961, or the age of 43 in the 1930 census, which points to about 1886 or 1887. The card is a registrar’s record of what Clinton himself said, set down nearly twenty years before he died, so the year 1882 now rests on more than a stone.",
+    "For his birthplace he gave Prescott, Ark. The 1961 notice had printed “Burn,” which earlier research read as Beirne, a small settlement in southern Clark County. Prescott is the seat of Nevada County, which adjoins Clark County on its southwest side, so the two answers are neighbors on the map but not the same place. A man asked for a birthplace may name the nearest town, and the card does not say which he meant. Two men who may well have been his brothers gave Prescott and Arkadelphia on cards of their own, told in “Lon Sandridge registers at Little Rock, April 1942,” “Joseph Burton Sandridge, born at Arkadelphia, registers at Broken Bow” and “Prescott and Arkadelphia: where three Sandridge men gave their birthplaces.”",
+    "The rest of the card pictures a farmer in his sixtieth year. Under employer he wrote “Self,” and his place of business was Broken Bow in McCurtain County, which fits the farmer remembered in his death notice. The person who would always know his address was “Lemuel Sandreidge, Son,” of Broken Bow, the surname spelled as the registrar heard it. On the back the registrar described a white man of about 5 feet 9½ inches and 177 pounds, with brown eyes, gray hair and a ruddy complexion, and Clinton signed the card C. L. Sandridge.",
+    "Like every card in this call, it asks for no parents, wife or siblings, so it adds nothing about Clinton’s father and mother or about Maggie. It does show Clinton in touch with another Sandridge that week: Joseph Burton Sandridge, who registered at Broken Bow on 25 April, named Clinton as the man who would always know his address."
+   ],
+   "quotes": [],
+   "src": [
+    "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, file unit “Sanders, Marion Orval - Schave, William John (1 of 2),” card of Clinton Lamar Sandridge, serial U-455, registered 27 April 1942; National Archives at St. Louis; National Archives Catalog, images 004142538_00350 and 004142538_00351, examined 6 Nov 2026: https://catalog.archives.gov/id/326452903",
+    "Wikipedia, Clark County, Arkansas (county seat Arkadelphia; Hot Spring County adjoins it on the northeast and Nevada County on the southwest; Beirne listed as a census-designated place), read 6 Nov 2026: https://en.wikipedia.org/wiki/Clark_County,_Arkansas",
+    "Wikipedia, Beirne, Arkansas (community in southern Clark County, southwest of Gurdon; first settled in 1880; at least two sawmills by 1897), read 6 Nov 2026: https://en.wikipedia.org/wiki/Beirne,_Arkansas",
+    "McCurtain Gazette (Idabel, Oklahoma), 20 December 1961, p. 4, “C. L. Sandridge Dies Early Today” (birth printed as 25 September 1892 at “Burn,” Arkansas; brothers Lon of Little Rock and L. P. of California), as examined in earlier research and not reopened here: https://gateway.okhistory.org/ark:/67531/metadc2405029/m1/4/",
+    "Clinton L. and Maggie A. Sandridge gravestone, Broken Bow Cemetery (Sept. 24, 1882 to Dec. 20, 1961), Find a Grave memorial 20047123, as recorded in earlier research and not reopened here: https://www.findagrave.com/memorial/20047123/clinton_lamar-sandridge"
+   ],
+   "imgs": [
+    {
+     "s": "img/rec/draft-1942-clinton-lamar-sandridge.jpg",
+     "cap": "Clinton Lamar Sandridge’s 1942 draft registration card, Broken Bow, McCurtain County, Oklahoma: born 24 September 1882 at Prescott, Arkansas; self-employed; his son Lemuel named as contact. National Archives, Record Group 147. Public domain; converted from TIFF to JPEG only.",
+     "kind": "record"
+    }
+   ],
+   "note": "Proven for the card itself: it names him in full, gives his county and names Lemuel as his son. The 24 September 1882 date agrees with the gravestone and with the 1965 Social Security claim noted in earlier research, and conflicts with the 1961 notice (1892) and the 1930 census age (43). The birthplace conflict between Prescott (the card) and “Burn” (the 1961 notice) is kept, not resolved. The registrar’s name is not legible and is not given. No parents are named on the card."
+  },
+  {
+   "id": "joseph-burton-sandridge-arkadelphia-1942",
+   "side": "N",
+   "profile": false,
+   "gen": 5,
+   "ev": "probable",
+   "title": "Joseph Burton Sandridge, born at Arkadelphia, registers at Broken Bow",
+   "hook": "A second Sandridge turns up at Broken Bow in April 1942: Joseph Burton Sandridge, born 25 March 1893 at Arkadelphia, who named Clinton L. Sandridge as the man who would always know his address.",
+   "people": [
+    "xw5-001",
+    "MAT_CLINTON_SANDRIDGE"
+   ],
+   "subject": {
+    "name": "Joseph Burton Sandridge",
+    "rel": "Maternal family",
+    "years": "born 1893"
+   },
+   "body": [
+    "Burton Sandridge appears once in the Prescott papers: in February 1908 the Daily News printed a school examination in which a Burton Sandridge, with a mark of 92, stood among the seventh-grade pupils. A family list read in earlier research includes a Joseph Burton among the sons of William D. and Mary E. Sandridge of Beirne, with the year 1892. On 25 April 1942 a Joseph Burton Sandridge filled in a draft card at Broken Bow.",
+    "The card gives his age as 49 and his birth date as 25 March 1893, and the two agree with each other. He wrote Arkadelphia, Arkansas, as his birthplace. Arkadelphia is the seat of Clark County, the county that holds Beirne. He lived at general delivery in Broken Bow, McCurtain County, with no telephone, and under employer he wrote “Unemployed.” On the back the registrar described a white man of about 5 feet 11 inches and 180 pounds, and dated the card 25 April 1942 for McCurtain County’s Local Board No. 2. He signed it Joseph B. Sandridge.",
+    "The line that matters is number seven, the person who would always know his address. Joseph wrote “Clinton L. Sandridge,” with the word “same” for the address. Clinton Lamar Sandridge, a farmer on a rural route, registered at the same board two days later and named his son Lemuel, so the two men registered separately in the same week. Nothing on either card says how they were related.",
+    "That Joseph Burton was Clinton’s brother is probable and not proved. The surname, the town, the contact line and the Prescott schoolboy called Burton, fourteen or fifteen years old in 1908, all fit; no record read so far names their parents. The family list gives 1892 for his birth and the card 1893; the card, which gives both an age and a date that agree, is the stronger.",
+    "Clinton’s death notice of 1961 named two surviving brothers, Lon and L. P., and not Joseph Burton, so he had probably died before then. No death record has been found. He is not linked to Clinton in the tree, because no parents are established for either man."
+   ],
+   "quotes": [],
+   "src": [
+    "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, file unit “Sanders, Marion Orval - Schave, William John (1 of 2),” card of Joseph Burton Sandridge, serial U-861, registered 25 April 1942; National Archives Catalog, images 004142538_00354 and 004142538_00355, examined 6 Nov 2026: https://catalog.archives.gov/id/326452903",
+    "Prescott Daily News, 6 February 1908, p. 4, school examination grades (Burton Sandridge, seventh grade, 92); page text read 6 Nov 2026, Chronicling America: https://www.loc.gov/resource/sn90050307/1908-02-06/ed-1/?sp=4",
+    "Wikipedia, Clark County, Arkansas (county seat Arkadelphia; Hot Spring County adjoins it on the northeast and Nevada County on the southwest; Beirne listed as a census-designated place), read 6 Nov 2026: https://en.wikipedia.org/wiki/Clark_County,_Arkansas",
+    "Find a Grave memorials for William D. Sandridge and Mary E. “Molly” Cole Sandridge, Browns Cemetery, Beirne (contributor-supplied family list of sons Clinton 1882, Lon P. 1889, Joseph Burton 1892 and Lawrence Lafayette 1897), as recorded in earlier research and not reopened here: https://www.findagrave.com/memorial/129817213/william_d-sandridge",
+    "McCurtain Gazette (Idabel, Oklahoma), 20 December 1961, p. 4, “C. L. Sandridge Dies Early Today” (birth printed as 25 September 1892 at “Burn,” Arkansas; brothers Lon of Little Rock and L. P. of California), as examined in earlier research and not reopened here: https://gateway.okhistory.org/ark:/67531/metadc2405029/m1/4/"
+   ],
+   "imgs": [
+    {
+     "s": "img/rec/draft-1942-joseph-burton-sandridge.jpg",
+     "cap": "Joseph Burton Sandridge’s 1942 draft registration card, Broken Bow, McCurtain County, Oklahoma: born 25 March 1893 at Arkadelphia, Arkansas; Clinton L. Sandridge named as contact. National Archives, Record Group 147. Public domain; converted from TIFF to JPEG only.",
+     "kind": "record"
+    }
+   ],
+   "note": "Probable. The card directly gives his name, birth date, birthplace and Clinton as his contact, but not their relationship. The identification with the Prescott schoolboy Burton Sandridge of 1908 and with the Joseph Burton of the family list rests on the name, the age and the Arkansas setting. The birth year differs between the family list (1892) and the card (1893). No parents, wife, children or death record are known."
+  },
+  {
+   "id": "lon-sandridge-little-rock-draft-card-1942",
+   "side": "N",
+   "profile": false,
+   "gen": 5,
+   "ev": "probable",
+   "title": "Lon Sandridge registers at Little Rock, April 1942",
+   "hook": "Clinton’s probable brother Lon registered the same week in Little Rock: Lon Phollis Sandridge, born 15 April 1889 at Prescott, with a Mrs. Angie Sandridge to know his address.",
+   "people": [
+    "xs7-005",
+    "xs7-006",
+    "MAT_CLINTON_SANDRIDGE"
+   ],
+   "subject": {
+    "name": "Lon P. Sandridge",
+    "rel": "Maternal family",
+    "years": "born 1889"
+   },
+   "body": [
+    "Earlier research followed a Lon P. Sandridge through Prescott, where he was arrested in 1908 for wearing government clothes and married Willie Denson in March 1912, and through Malvern in 1917 and 1918. Clinton’s 1961 death notice named a brother Lon of Little Rock. On 27 April 1942 the Pulaski County draft board at Little Rock registered a Lon Phollis Sandridge, and his card pulls those threads together.",
+    "He gave his age as 52 and his birth date as 15 April 1889, the year that memorials read earlier give for Lon P. His birthplace is written “Prescott, Hempsted, Ark.” Prescott is the town. Hempstead County neighbors Nevada County, and Nevada County was formed in 1871 partly from Hempstead, so he may have meant the older county or simply the county next door. His middle name is hard to read; it looks like Phollis, perhaps Phillis, and it begins with the P of Lon P. He signed the card Lon P. Sandridge.",
+    "He lived in Little Rock and worked for the E. L. Bruce Co. there; the card says no more about the job. On the back the registrar described a white man of about 5 feet 11 inches and 178 pounds. The person who would always know his address was “Mrs. Angie Sandridge,” at the same address, presumably his wife, though the card does not say so. That raises a question about Willie Denson, whom he married in 1912; what became of that marriage is not known.",
+    "A Mrs. Angie Sandridge was living at Malvern in October 1920. The Malvern Times-Journal reported on 14 October that she had left for Hope to visit a cousin, and on 21 October that the cousin had gone home after a visit with her. Lon had worked at Malvern in 1917 and 1918, so this may be the same Angie, but nothing ties the two together beyond the name and the town, and the link is a lead only.",
+    "One more thing the card changes. Clinton’s 1961 notice named two surviving brothers, Lon in Little Rock and L. P. in California, and an earlier story noticed that the Malvern lists wrote both “Lon” and “L. P.” for what looked like a single man. The card shows why: this man’s own initials were L. P. So “Lon” and “L. P.” in 1961 may be one brother named twice, or two brothers, one of whom is not yet identified. A Lawrence Lafayette Sandridge, born in 1897, is on the family list read earlier, but nothing places him in California."
+   ],
+   "quotes": [],
+   "src": [
+    "Selective Service System, Fourth Registration Draft Cards (Arkansas), Record Group 147, file unit “Ryan, Pat R - Scipio, Ferd (2 of 4),” card of Lon Phollis Sandridge, serial U-2794, registered 27 April 1942; National Archives at St. Louis; National Archives Catalog, images 004161735_01687 and 004161735_01688, examined 6 Nov 2026: https://catalog.archives.gov/id/405090835",
+    "Prescott Daily News, 27 March 1912, p. 2, marriage of Lon P. Sandridge and Miss Willie Denson at her parents’ home; page text read 6 Nov 2026, Chronicling America: https://www.loc.gov/resource/sn90050307/1912-03-27/ed-1/?sp=2",
+    "Malvern Times-Journal, 14 October 1920, p. 6, local items (Mrs. Angie Sandridge left for Hope, to visit her cousin); page text read 6 Nov 2026, Chronicling America: https://www.loc.gov/resource/sn89051239/1920-10-14/ed-1/?sp=6",
+    "Malvern Times-Journal, 21 October 1920, p. 5, local items (the cousin returned to Hope after a visit with Mrs. Angie Sandridge); page text read 6 Nov 2026, Chronicling America: https://www.loc.gov/resource/sn89051239/1920-10-21/ed-1/?sp=5",
+    "Wikipedia, Nevada County, Arkansas (formed 20 March 1871 from parts of Hempstead, Ouachita and Columbia counties; county seat Prescott; Clark and Hempstead among its neighbors), read 6 Nov 2026: https://en.wikipedia.org/wiki/Nevada_County,_Arkansas",
+    "McCurtain Gazette (Idabel, Oklahoma), 20 December 1961, p. 4, “C. L. Sandridge Dies Early Today” (birth printed as 25 September 1892 at “Burn,” Arkansas; brothers Lon of Little Rock and L. P. of California), as examined in earlier research and not reopened here: https://gateway.okhistory.org/ark:/67531/metadc2405029/m1/4/",
+    "Find a Grave memorials for William D. Sandridge and Mary E. “Molly” Cole Sandridge, Browns Cemetery, Beirne (contributor-supplied family list of sons Clinton 1882, Lon P. 1889, Joseph Burton 1892 and Lawrence Lafayette 1897), as recorded in earlier research and not reopened here: https://www.findagrave.com/memorial/129817213/william_d-sandridge"
+   ],
+   "imgs": [],
+   "note": "Probable. The card is direct for Lon Phollis Sandridge of Little Rock, born 15 April 1889 at Prescott. Identifying him with the Prescott and Malvern Lon P. of earlier stories rests on the name, the 1889 birth year on the memorials, Little Rock in the 1961 notice and the initials. Angie’s relationship is not stated, and the Malvern Angie of 1920 is only a lead. His relationship to Clinton rests on the 1961 notice and shared places, as in the earlier story, and no parents are established."
+  },
+  {
+   "id": "sandridge-prescott-arkadelphia-birthplaces-1942",
+   "side": "N",
+   "profile": false,
+   "gen": 5,
+   "ev": "probable",
+   "title": "Prescott and Arkadelphia: where three Sandridge men gave their birthplaces",
+   "hook": "Three Sandridge men, probably brothers, registered for the 1942 draft within three days of each other, and none of them named Beirne as his birthplace.",
+   "people": [
+    "MAT_CLINTON_SANDRIDGE",
+    "xs7-005",
+    "xw5-001"
+   ],
+   "subject": {
+    "name": "The Sandridge brothers",
+    "rel": "Maternal family",
+    "years": "1882–1893"
+   },
+   "body": [
+    "In the last week of April 1942 three Sandridge men registered for the Army’s fourth draft call. Clinton Lamar Sandridge, 59, gave 24 September 1882 and Prescott, Arkansas. Lon Phollis Sandridge, 52, gave 15 April 1889 and Prescott. Joseph Burton Sandridge, 49, gave 25 March 1893 and Arkadelphia. Clinton and Joseph registered at Broken Bow, Oklahoma, and Lon at Little Rock. Each card is told in its own story.",
+    "The years fit the family list that a Find a Grave contributor attached to William D. and Mary E. “Molly” Cole Sandridge of Beirne, in Clark County: sons Clinton in 1882, Lon P. in 1889, Joseph Burton in 1892 (the card says 1893) and Lawrence Lafayette in 1897. They also fit the 1961 notice that gave Clinton a brother Lon in Little Rock. The cards themselves name no parent, and the only tie they state is Joseph’s naming Clinton as the man who would always know his address.",
+    "Wikipedia places Beirne in southern Clark County, southwest of Gurdon, first settled in 1880, with a planing mill, a store and a depot within a year and at least two sawmills by 1897. Arkadelphia is the Clark County seat, and Nevada County, whose seat is Prescott, adjoins Clark on the southwest. Malvern, where Clint and Lon worked at the Moline mill in 1918, is in Hot Spring County, which adjoins Clark on the northeast. So the three answers and the Malvern years all lie within a few neighboring counties of south-central Arkansas, and mills were the work that earlier records show Clint and Lon doing. A birthplace on a draft card may name the nearest town rather than the spot, and no record read so far puts a William D. Sandridge in any of these places.",
+    "The negative searches recorded earlier still stand. No W. D. or William D. Sandridge was found in the 1880 or 1900 Arkansas Soundex indexes, and no original record has been seen for the marriage of William D. Sandridge and Mary E. Cole on 8 October 1877 that the family list gives. The cards add three birth dates and places in the men’s own answers. They move the question toward Prescott and Arkadelphia as much as toward Beirne, and they leave the parents where they were: a family tradition that no record of their own time has yet confirmed.",
+    "The next records to look for are the Clark County marriage books for 1877, the 1900 census pages for the Beirne and Gurdon area and for Nevada County, and school, land or probate records for a Sandridge family in those counties. The 1950 census and the later deaths of Lon and Joseph Burton may also name a parent."
+   ],
+   "quotes": [],
+   "src": [
+    "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, file unit “Sanders, Marion Orval - Schave, William John (1 of 2),” card of Clinton Lamar Sandridge, serial U-455, registered 27 April 1942; National Archives at St. Louis; National Archives Catalog, images 004142538_00350 and 004142538_00351, examined 6 Nov 2026: https://catalog.archives.gov/id/326452903",
+    "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, file unit “Sanders, Marion Orval - Schave, William John (1 of 2),” card of Joseph Burton Sandridge, serial U-861, registered 25 April 1942; National Archives Catalog, images 004142538_00354 and 004142538_00355, examined 6 Nov 2026: https://catalog.archives.gov/id/326452903",
+    "Selective Service System, Fourth Registration Draft Cards (Arkansas), Record Group 147, file unit “Ryan, Pat R - Scipio, Ferd (2 of 4),” card of Lon Phollis Sandridge, serial U-2794, registered 27 April 1942; National Archives at St. Louis; National Archives Catalog, images 004161735_01687 and 004161735_01688, examined 6 Nov 2026: https://catalog.archives.gov/id/405090835",
+    "Wikipedia, Clark County, Arkansas (county seat Arkadelphia; Hot Spring County adjoins it on the northeast and Nevada County on the southwest; Beirne listed as a census-designated place), read 6 Nov 2026: https://en.wikipedia.org/wiki/Clark_County,_Arkansas",
+    "Wikipedia, Beirne, Arkansas (community in southern Clark County, southwest of Gurdon; first settled in 1880; at least two sawmills by 1897), read 6 Nov 2026: https://en.wikipedia.org/wiki/Beirne,_Arkansas",
+    "Wikipedia, Nevada County, Arkansas (formed 20 March 1871 from parts of Hempstead, Ouachita and Columbia counties; county seat Prescott; Clark and Hempstead among its neighbors), read 6 Nov 2026: https://en.wikipedia.org/wiki/Nevada_County,_Arkansas",
+    "Find a Grave memorials for William D. Sandridge and Mary E. “Molly” Cole Sandridge, Browns Cemetery, Beirne (contributor-supplied family list of sons Clinton 1882, Lon P. 1889, Joseph Burton 1892 and Lawrence Lafayette 1897), as recorded in earlier research and not reopened here: https://www.findagrave.com/memorial/129817213/william_d-sandridge",
+    "McCurtain Gazette (Idabel, Oklahoma), 20 December 1961, p. 4, “C. L. Sandridge Dies Early Today” (birth printed as 25 September 1892 at “Burn,” Arkansas; brothers Lon of Little Rock and L. P. of California), as examined in earlier research and not reopened here: https://gateway.okhistory.org/ark:/67531/metadc2405029/m1/4/",
+    "Prescott Daily News, 6 February 1908, p. 4, school examination grades (Burton Sandridge, seventh grade, 92); page text read 6 Nov 2026, Chronicling America: https://www.loc.gov/resource/sn90050307/1908-02-06/ed-1/?sp=4"
+   ],
+   "imgs": [],
+   "note": "Probable for the three men as brothers, and only a lead for their parents. Each birth date and place is the man’s own answer on a 1942 card. The Beirne-born family of William D. and Molly Cole Sandridge, the 1877 marriage and the sons’ names come from a contributor-supplied memorial list and are unconfirmed by an original record. The birthplaces differ (Prescott twice, Arkadelphia once), and Joseph Burton’s year differs between the list (1892) and his card (1893). No parent is linked in the tree."
+  },
+  {
+   "id": "wesley-earl-alford-tulsa-1942-1950",
+   "side": "N",
+   "profile": false,
+   "gen": 4,
+   "ev": "probable",
+   "title": "Wesley Earl Alford: a Tulsa night watchman, 1942 and 1950",
+   "hook": "Nona’s husband Wesley E. Alford told the Tulsa draft board his full name, his birthplace and the daughter who would always know where he was; eight years later the census found him divorced and living in a son-in-law’s house.",
+   "people": [
+    "MAT_WESLEY_E_ALFORD",
+    "MAT_NONA_MYERS_ALFORD",
+    "MAT_MABEL_ALFORD_CHIDESTER"
+   ],
+   "subject": {
+    "name": "Wesley Earl Alford",
+    "rel": "Maternal family",
+    "years": "born 1893"
+   },
+   "body": [
+    "Wesley E. Alford married Nona Myers in Bowie County, Texas, on 20 June 1919, and by 1930 the couple were at Broken Bow with their daughters Mabel and Geraldine; a 1940 Tulsa marriage record names the couple again. On 26 April 1942 a Wesley Earl Alford registered for the Army’s fourth draft call with Tulsa County’s Local Board No. 3. The card gives the middle name behind the E.: Earl. He signed it W. E. Alford.",
+    "He gave his age as 49 and his birth date as 12 May 1893, and his birthplace as De Queen, Arkansas. The age is a year too high for that date, since a May 1893 birthday would have made him 48 on 26 April 1942. His employer was H. E. Hanna of Tulsa, and his place of employment is written “Nite Watchman, Hanna Lumber Co.,” Tulsa. On the back the registrar described a white man of about 5 feet 10 inches and 160 pounds.",
+    "The person who would always know his address was his daughter, written “Mrs. E. R. Chidister, Camden, Ark.” That is Mabel: earlier research found her marrying E. R. Chidister in Arkansas in 1938 and living at Camden in 1940 as Edwin Chidester’s wife. The handwriting is hard to read, and the spelling differs, but the daughter, the surname and the town agree, so the card is Wesley’s.",
+    "De Queen is the seat of Sevier County, Arkansas, but it was laid out only on 26 April 1897 and founded that June, four years after the birth he gave, so the name may stand for the neighborhood, or for the town he came to know later. Other Alfords lived in the district: the De Queen Bee of 21 May 1909 prints a card of thanks for the death of a wife, mother, daughter and sister, signed by her husband, M. M. Richardson, by her parents, Mr. and Mrs. J. W. Alford, and by her brothers Alex and Andy and several Alford sisters, with no Wesley among them. No record read so far ties him to that household or to any other.",
+    "The 1950 census found a Wesley Alford in Tulsa County: sheet 3 of enumeration district 72-21, begun on 28 April 1950. He was 56, divorced, born in Arkansas, listed as “unable to work” and written as the father-in-law of the head of the household, a 33-year-old Pennsylvania-born man whose surname looks like Bryner. The head’s wife, Betty, 27, was born in Texas. The age fits a May 1893 birth. Betty is presumably Wesley’s daughter, but she matches neither Mabel, born in 1920, nor Geraldine, born in 1925, so she may be a third daughter missed in earlier records, or an error in an age or a name. Nona is not in the household, and when the Alfords parted is not known."
+   ],
+   "quotes": [],
+   "src": [
+    "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, file unit “Alford, Agie - Amburn, Lester (1 of 2),” card of Wesley Earl Alford, serial U-1632, registered 26 April 1942, Tulsa County Local Board No. 3; National Archives at St. Louis; National Archives Catalog, images 004139750_00055 and 004139750_00056, examined 6 Nov 2026: https://catalog.archives.gov/id/326179706",
+    "1950 U.S. census, Tulsa County, Oklahoma, ED 72-21, sheet 3, lines 15 to 17 (head, wife Betty, and Wesley Alford, father-in-law, 56, divorced, born Arkansas); original image examined 6 Nov 2026, National Archives 1950 census website: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Oklahoma%2F43290879-Oklahoma-006977%2F43290879-Oklahoma-006977-0005.jpg/full/full/0/default.jpg",
+    "De Queen Bee (De Queen, Arkansas), 21 May 1909, p. 4, card of thanks signed by M. M. Richardson and by his wife’s family, including Mr. and Mrs. J. W. Alford; page text read 6 Nov 2026, Chronicling America: http://www.loc.gov/resource/sn89051293/1909-05-21/ed-1/?sp=4",
+    "Encyclopedia of Arkansas, “De Queen” (town laid out with lots sold “opening day, April 26, 1897”; formally founded 3 June 1897; county seat from 1905), read 6 Nov 2026: https://encyclopediaofarkansas.net/entries/de-queen-992/",
+    "Bowie County, Texas, marriage register, p. 274, Wesley E. Alford and Nona Myers, 20 June 1919; the 1938 Arkansas marriage of Mabel Alford and E. R. Chidister and the 1940 Camden census, as examined in earlier research and not reopened here: https://www.familysearch.org/ark:/61903/3:1:33S7-9P3B-B3F"
+   ],
+   "imgs": [
+    {
+     "s": "img/rec/draft-1942-wesley-earl-alford.jpg",
+     "cap": "Wesley Earl Alford’s 1942 draft registration card, Tulsa, Oklahoma: born 12 May 1893 at De Queen, Arkansas; night watchman at the Hanna Lumber Co.; his daughter at Camden, Arkansas, named as contact. National Archives, Record Group 147. Public domain; converted from TIFF to JPEG only.",
+     "kind": "record"
+    }
+   ],
+   "note": "Probable. The 1942 card is direct for Wesley Earl Alford of Tulsa and is tied to the known family by the daughter at Camden (Mrs. E. R. Chidister); the initials in her name are hard to read. The card’s age (49) conflicts with its birth date (12 May 1893). The 1950 household is identified by name, Tulsa, Arkansas birth, age and a Texas-born daughter, not by any named relationship to Nona. Betty’s identity and the divorce are unresolved, and nothing is known of Wesley’s parents or of any link to the Alfords of Sevier County."
+  },
+  {
+   "id": "carl-phillips-jackson-mississippi-houston-1942",
+   "side": "N",
+   "profile": false,
+   "gen": 5,
+   "ev": "proven",
+   "title": "Carl Phillips registers in Houston, April 1942",
+   "hook": "Carl Cherry Phillips told the Houston draft board that he was born at Jackson, Mississippi, worked at a school, and that a person named Crawford would always know where to find him.",
+   "people": [
+    "MAT_CARL_C_PHILLIPS",
+    "MAT_BEULAH_TURNER_PHILLIPS",
+    "MAT_BARBARA_PHILLIPS"
+   ],
+   "subject": {
+    "name": "Carl Cherry Phillips",
+    "rel": "Maternal ancestor",
+    "years": "1895–1960"
+   },
+   "body": [
+    "Barbara Phillips Livesay’s father, Carl C. Phillips, was born on 17 December 1895 in Mississippi, “perhaps at Jacksonville” in the earlier story, and died at the Houston veterans’ hospital in 1960. On 27 April 1942 he registered for the Army’s fourth draft call with Harris County’s Local Board No. 3, serial number U-3499. The name on the card is written Carl Cheny Phillips, and the signature at the foot reads Carl Cherry Phillips, which is the Cherry of his draft card in the earlier story.",
+    "He gave his age as 46 and his birth date as 17 December 1895, the same day given on his First World War draft registration in the earlier story. For his birthplace he wrote “Jackson, Mississippi.” The card asks for “town or county,” and does not say whether he meant the town of Jackson or a county of that name, but it does not say Jacksonville, and the earlier guess should give way. The card asks for no parents, so John and Blanche of the death certificate are no nearer.",
+    "He lived on Capital (Capitol) Street, Houston, the street Beulah named when she gave the facts for his death certificate in 1960. Under employer he wrote H. L. Mills, of Washington Avenue, and for place of employment Eastwood School, on Telephone Road, Houston. The registrar described a white man of 5 feet 7 inches and 145 pounds, with brown eyes, brown hair and a ruddy complexion.",
+    "The person who would always know his address was not Beulah but “M. E. Crawford,” of a Houston street. No Crawford is otherwise known in Carl’s family or Beulah’s, and the card does not give a relationship; it may be a relative, a friend or a neighbor, and it is a name to look for in the Houston records and in the 1950 household. Carl and Beulah appear together in 1950 in the earlier story, and Beulah gave the facts for his death certificate in 1960, so nothing suggests that they had parted."
+   ],
+   "quotes": [],
+   "src": [
+    "Selective Service System, Fourth Registration Draft Cards (Texas), Record Group 147, file unit “Pettigrew, George Hogan - Phillips, Johnny Barton (2 of 3),” card of Carl Cheny (Cherry) Phillips, serial U-3499, registered 27 April 1942, Harris County Local Board No. 3; National Archives at St. Louis; National Archives Catalog, images 004147501_02415 and 004147501_02416, examined 6 Nov 2026: https://catalog.archives.gov/id/323573946",
+    "U.S. World War I Draft Registration Card, Carl Cherry Phillips, Nacogdoches County, born 17 December 1895; Texas death certificate, Carl C. Phillips, d. 28 April 1960, Houston (parents John Phillips and Blanche); as recorded in the story “Carl and Beulah Phillips, from Nacogdoches to Houston” and not reopened here."
+   ],
+   "imgs": [
+    {
+     "s": "img/rec/draft-1942-carl-cherry-phillips.jpg",
+     "cap": "Carl Cherry Phillips’s 1942 draft registration card, Houston, Texas: born 17 December 1895 at Jackson, Mississippi; employed at Eastwood School; M. E. Crawford named as contact. National Archives, Record Group 147. Public domain; converted from TIFF to JPEG only.",
+     "kind": "record"
+    }
+   ],
+   "note": "Proven for the card itself: name (signature Carl Cherry Phillips), birth date and a Houston home that matches the later record. The birthplace is “Jackson, Mississippi,” with no more detail, and it conflicts with the “perhaps Jacksonville” guess in the earlier story, which was given without a source line. The name block reads Cheny in the handwriting; the signature reads Cherry. M. E. Crawford is unidentified. No parents are named on the card."
   }
  ],
  "storyAliases": {
@@ -36261,6 +36501,42 @@
    "t": "Calvin Merry, twenty-eight, a teacher, and his wife Eliza, twenty-one, are enumerated in Mazarn Township, Montgomery County, Arkansas, post office Mount Ida, on 23 August; Calvin’s father Festus is indexed in the same township.",
    "side": "N",
    "story": "mount-ida-1859-merry-household-and-the-1870-gap"
+  },
+  {
+   "y": "1942",
+   "t": "Clinton Sandridge, 59, registers for the draft at Broken Bow on 27 April; his card gives 24 September 1882 and Prescott, Arkansas, and names his son Lemuel as the man who will always know his address.",
+   "side": "N",
+   "story": "clinton-sandridge-draft-card-broken-bow-1942"
+  },
+  {
+   "y": "1942",
+   "t": "Joseph Burton Sandridge, 49, born at Arkadelphia on 25 March 1893, registers at Broken Bow on 25 April and names Clinton L. Sandridge as his contact.",
+   "side": "N",
+   "story": "joseph-burton-sandridge-arkadelphia-1942"
+  },
+  {
+   "y": "1942",
+   "t": "Lon Phollis Sandridge, 52, born at Prescott on 15 April 1889, registers at Little Rock on 27 April; he works for the E. L. Bruce Co.",
+   "side": "N",
+   "story": "lon-sandridge-little-rock-draft-card-1942"
+  },
+  {
+   "y": "1942",
+   "t": "Wesley Earl Alford, 49, night watchman at a Tulsa lumber company, registers on 26 April, giving De Queen, Arkansas, as his birthplace and his daughter at Camden as his contact.",
+   "side": "N",
+   "story": "wesley-earl-alford-tulsa-1942-1950"
+  },
+  {
+   "y": "1942",
+   "t": "Carl Cherry Phillips, 46, of Houston, registers on 27 April and gives Jackson, Mississippi, as his birthplace.",
+   "side": "N",
+   "story": "carl-phillips-jackson-mississippi-houston-1942"
+  },
+  {
+   "y": "1950",
+   "t": "The census taker in Tulsa counts Wesley Alford, 56, divorced, as father-in-law in a household headed by a Pennsylvania-born man.",
+   "side": "N",
+   "story": "wesley-earl-alford-tulsa-1942-1950"
   }
  ],
  "fixes": [
@@ -37521,6 +37797,34 @@
    "story": "gilbert-g-merry-valliant-druggist-1915-1950",
    "side": "N",
    "source": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Oklahoma%2F43290879-Oklahoma-217215%2F43290879-Oklahoma-217215-0023.jpg/full/1800,/0/default.jpg"
+  },
+  {
+   "s": "img/rec/draft-1942-clinton-lamar-sandridge.jpg",
+   "cap": "Clinton Lamar Sandridge’s 1942 draft registration card, Broken Bow, McCurtain County, Oklahoma.",
+   "story": "clinton-sandridge-draft-card-broken-bow-1942",
+   "side": "N",
+   "source": "https://catalog.archives.gov/id/326452903"
+  },
+  {
+   "s": "img/rec/draft-1942-joseph-burton-sandridge.jpg",
+   "cap": "Joseph Burton Sandridge’s 1942 draft registration card, Broken Bow, McCurtain County, Oklahoma.",
+   "story": "joseph-burton-sandridge-arkadelphia-1942",
+   "side": "N",
+   "source": "https://catalog.archives.gov/id/326452903"
+  },
+  {
+   "s": "img/rec/draft-1942-wesley-earl-alford.jpg",
+   "cap": "Wesley Earl Alford’s 1942 draft registration card, Tulsa, Oklahoma.",
+   "story": "wesley-earl-alford-tulsa-1942-1950",
+   "side": "N",
+   "source": "https://catalog.archives.gov/id/326179706"
+  },
+  {
+   "s": "img/rec/draft-1942-carl-cherry-phillips.jpg",
+   "cap": "Carl Cherry Phillips’s 1942 draft registration card, Houston, Texas.",
+   "story": "carl-phillips-jackson-mississippi-houston-1942",
+   "side": "N",
+   "source": "https://catalog.archives.gov/id/323573946"
   }
  ],
  "photoSources": {
@@ -39016,6 +39320,26 @@
   "img/docs/census-1950-mccurtain-okla-valliant-gilbert-g-merry.jpg": {
    "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Oklahoma%2F43290879-Oklahoma-217215%2F43290879-Oklahoma-217215-0023.jpg/full/1800,/0/default.jpg",
    "credit": "National Archives and Records Administration, 1950 census (1950census.archives.gov); cropped to the heading and one line. Public domain record."
+  },
+  "img/rec/draft-1942-clinton-lamar-sandridge.jpg": {
+   "url": "https://catalog.archives.gov/id/326452903",
+   "credit": "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, National Archives at St. Louis; National Archives Catalog file unit 326452903, image 004142538_00350",
+   "rights": "U.S. federal government record, public domain; National Archives catalog access and use “Unrestricted.” Converted from TIFF to JPEG only."
+  },
+  "img/rec/draft-1942-joseph-burton-sandridge.jpg": {
+   "url": "https://catalog.archives.gov/id/326452903",
+   "credit": "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, National Archives at St. Louis; National Archives Catalog file unit 326452903, image 004142538_00354",
+   "rights": "U.S. federal government record, public domain; National Archives catalog access and use “Unrestricted.” Converted from TIFF to JPEG only."
+  },
+  "img/rec/draft-1942-wesley-earl-alford.jpg": {
+   "url": "https://catalog.archives.gov/id/326179706",
+   "credit": "Selective Service System, Fourth Registration Draft Cards (Oklahoma), Record Group 147, National Archives at St. Louis; National Archives Catalog file unit 326179706, image 004139750_00055",
+   "rights": "U.S. federal government record, public domain; National Archives catalog access and use “Unrestricted.” Converted from TIFF to JPEG only."
+  },
+  "img/rec/draft-1942-carl-cherry-phillips.jpg": {
+   "url": "https://catalog.archives.gov/id/323573946",
+   "credit": "Selective Service System, Fourth Registration Draft Cards (Texas), Record Group 147, National Archives at St. Louis; National Archives Catalog file unit 323573946, image 004147501_02415",
+   "rights": "U.S. federal government record, public domain; National Archives catalog access and use “Unrestricted.” Converted from TIFF to JPEG only."
   }
  }
 }
