@@ -25349,8 +25349,8 @@
    "title": "Gilbert G. Merry’s 1916 sketch: a Calvin Merry and a brother at Golden",
    "hook": "Gilbert G. Merry, a Valliant pharmacist and county commissioner, was a son of Calvin Merry and Eliza McGregory and had a brother J. L., a merchant at Golden, Louis Merry himself.",
    "people": [
-    "xu8-015",
-    "xu8-016",
+    "MAT_CALVIN_MERRY",
+    "MAT_ELIZA_JANE_MCGREGOR_MERRY",
     "xu8-017",
     "MAT_LEWIS_MERRY"
    ],
@@ -26338,7 +26338,7 @@
    "people": [
     "MAT_LEWIS_MERRY",
     "xu4-009",
-    "xu4-010",
+    "xu8-017",
     "xu4-011",
     "xu4-012"
    ],
@@ -31015,6 +31015,253 @@
     }
    ],
    "note": "Probable. The page is read from the original image. The link between this household and Sadah McCormick Livesay is the same probable identification as in the earlier stories, and nothing here adds a parent link. The statement about Floyd Livesay’s precinct comes from the earlier story’s source line and was not rechecked. The earlier story “From a Stony Creek farm to a Brazoria fruit farm” says Jay T. worked on his own account; on the page the column reads Emp., which is the census taker’s abbreviation for employer. The location is only as precise as the census taker’s margin notes and a 1920 reference work; no map or deed was found."
+  },
+  {
+   "id": "eliza-jane-mcgregor-clark-county-1850",
+   "side": "N",
+   "gen": 7,
+   "ev": "lead",
+   "profile": false,
+   "title": "Eliza Jane McGregor at eleven: two girls in a Clark County household, 1850",
+   "hook": "The 1850 census of Clark County, Arkansas, lists an Eliza Jane McGregor, eleven, and a Mary Ann, ten, in the household of a farmer named Lewis Edwards; the name and age fit the Eliza Jane who married Calvin Merry in 1859, but no record yet names her parents.",
+   "people": [
+    "MAT_ELIZA_JANE_MCGREGOR_MERRY",
+    "MAT_CALVIN_MERRY",
+    "MAT_LEWIS_MERRY"
+   ],
+   "subject": {
+    "name": "Eliza Jane McGregor",
+    "rel": "Merry ancestor (lead)",
+    "years": "1850–1859"
+   },
+   "body": [
+    "On 10 October 1850 the census taker for Tucker Township, Clark County, Arkansas, Jas. S. Ward, wrote down the household of Lewis Edwards, a sixty-year-old farmer born in South Carolina. With him were his wife Sarah, forty-four and born in North Carolina, and five children with the surname Edwards: Joshua L. and James Irvin, both twelve, Titus R., eleven, Eliza Ann, eight, and Louisa, three. After them come two girls whose surname is written out in full on the page, Eliza Jane McGregor, eleven, and Mary Ann, ten, both born in Arkansas. That census recorded no relationships, so the page does not say what they were to the Edwardses. The page image, stamped 193 and numbered 385 by hand, agrees with the volunteer transcription of it.",
+    "Eliza Jane McGregor is the name Lewis Merry’s mother is remembered by. The records read in earlier stories give her as Eliza J., forty-three and born in Arkansas, in Calvin Merry’s Sevier County household in 1880; as twenty-one in 1860, when she and Calvin were living in Mazarn Township, near Mount Ida, in Montgomery County; and as the bride of Calvin Merry at Mount Ida on 18 November 1859. An age of eleven in October 1850 puts her birth about 1839, which is what the 1860 census says, though the 1880 census’s forty-three points to about 1837. Clark County adjoins Montgomery County. In the records I could search, no other girl of that name and age turned up, which is why this one is worth following. It is still only a lead.",
+    "What I searched: the volunteer 1850 transcriptions for Clark, Crawford, Hempstead and eleven other Arkansas counties; the printed surname index to the 1850 census of Montgomery County, which has Merry on page 384B and no McGregor; the Sevier County transcriptions for 1850 and 1860; and the Montgomery County head-of-household index for 1860. None has another McGregor household that fits. A Montgomery County 1850 or 1860 McGregor family would have been the natural place to find Eliza’s parents, and there is none, which fits a girl who came to Mount Ida from somewhere else.",
+    "There is a possible bridge. The 1860 head-of-household index for Montgomery County lists a Sarah Edwards, fifty-six and born in Georgia, in Mazarn Township, the township where Calvin Merry, twenty-eight, and his father Festus, fifty-five, are also indexed. The Sarah Edwards of Clark County in 1850 was forty-four and born in North Carolina, so the match is loose, and an index is only an index: the household has not been read. If it is the same woman, the Edwards family would have moved from Clark County to the neighborhood of Mount Ida before 1860, which would explain how a Clark County girl came to marry there. That is a hypothesis to test against the 1860 page.",
+    "Some things do not fit. Gilbert Merry’s 1916 sketch says Eliza’s parents were among the early settlers of the Indian Territory border, and in 1880 she gave her father’s birthplace as what looks like Scotland. Clark County lies well east of that border, and nothing on the 1850 page says where the girls’ parents were or why two McGregor girls lived in the Edwards house. Either they were kin or neighbors’ wards, or this is another pair of sisters. The next steps are the 1860 page for Mazarn Township, any Clark County guardianship or estate paper for Lewis Edwards, and the Clark and Montgomery County marriage books."
+   ],
+   "quotes": [],
+   "src": [
+    "1850 U.S. census, Clark County, Arkansas, Tucker Township, enumerated 10 Oct 1850 by Jas. S. Ward, stamped page 193, handwritten page 385, dwelling and family 57, lines 20–28 (Lewis Edwards household, ending with Eliza Jane McGregor, 11, and Mary Ann, 10); NARA M432; Allen County Public Library microfilm scan, Internet Archive, image n394, original page image read 6 Nov 2026: https://archive.org/details/7thcensusark0020unit/page/n394/",
+    "Clark County, Arkansas, 1850 federal census, transcribed by Cheryl Nilsson and proofread by Wilma Gonzales for the USGenWeb Census Project, page 193A (volunteer transcription; read 6 Nov 2026): https://www.us-census.org/pub/usgenweb/census/ar/clark/1850/pg0189a.txt",
+    "Head of Household Index for Montgomery County, Arkansas, in 1860, ArGenWeb Montgomery County (Merry Calvin 28 and Merry Festus 55, Mazarn Twp; Edwards Sarah 56, b. Ga., Mazarn Twp; no McGregor); index only, read 6 Nov 2026: https://www.argenweb.net/montgomery/1860index.htm",
+    "1850 Census Index, Montgomery County, Arkansas, S-K Publications (surname index with page numbers: Merry 384B; no McGregor); index only, read 6 Nov 2026: https://www.skcensus.com/1850-census-index-montgomery-county-arkansas/",
+    "Sevier County, Arkansas, 1850 census (households 1–499) and 1860 census (households 1–1342), volunteer transcriptions, ArGenWeb Sevier County (no McGregor household), read 6 Nov 2026: https://www.argenweb.net/sevier/",
+    "1850 census transcriptions for Bradley, Carroll, Crawford, Crittenden, Franklin, Hempstead, Independence, Lafayette, Lawrence, Pope, Searcy, St. Francis and Washington counties, Arkansas, USGenWeb Census Project (no McGregor household that fits; a John McGregory family in Crawford County is the only other), searched 6 Nov 2026: https://www.us-census.org/pub/usgenweb/census/ar/",
+    "Arkansas County Marriages, Calvin Merry and Eliza McGregor, 18 Nov 1859, Mount Ida, Montgomery Co., and the 1860 and 1880 census households, as read in the stories “Gilbert G. Merry’s 1916 sketch: a Calvin Merry and a brother at Golden” and “Calvin Merry of Connecticut: a Kentucky bondsman, an Indiana marriage and Hempstead’s first grand jury”; not reopened here: https://www.familysearch.org/ark:/61903/1:1:NM55-1YX"
+   ],
+   "note": "Lead. The girl in the Edwards household has the right name, age and birthplace to be Eliza Jane McGregor Merry, in a county next to the one where she married, but the page names no parents and no relationship, and nothing places an Edwards household near Mount Ida except a loose index match. Nothing is linked and no person is added for Mary Ann or for the Edwardses. The Montgomery County 1850 index and the 1860 index were checked as indexes only. If a record shows these girls’ parents, the McGregor couple can be added then.",
+   "imgs": [
+    {
+     "s": "img/docs/census-1850-clark-ark-tucker-edwards-mcgregor-household.jpg",
+     "cap": "Page 193 (handwritten 385) of the 1850 census of Clark County, Arkansas, Tucker Township, enumerated 10 October 1850. The household of Lewis Edwards runs from line 20 to line 28, ending with Eliza Jane McGregor, 11, and Mary Ann, 10. NARA M432; Allen County Public Library microfilm scan, Internet Archive. Public domain record.",
+     "kind": "record"
+    }
+   ]
+  },
+  {
+   "id": "calvin-merrys-sons-1880-and-1950",
+   "side": "N",
+   "gen": 6,
+   "ev": "probable",
+   "profile": false,
+   "title": "Five sons in 1880, and two still carrying their initials in 1950",
+   "hook": "Calvin Merry’s household in the 1880 census lists five sons by age, and the 1950 census finds two men with the same initials still living, Benjamin F. at Canadian, Texas, aged 81, and Gilbert G. at Valliant, Oklahoma, aged 70.",
+   "people": [
+    "MAT_CALVIN_MERRY",
+    "MAT_ELIZA_JANE_MCGREGOR_MERRY",
+    "xw3-001",
+    "xu4-011",
+    "MAT_LEWIS_MERRY",
+    "xw3-002",
+    "xu8-017"
+   ],
+   "subject": {
+    "name": "Calvin and Eliza Merry’s sons",
+    "rel": "Merry kin (probable)",
+    "years": "1880–1950"
+   },
+   "body": [
+    "On 17 June 1880 the census taker for Monroe Township, Sevier County, Arkansas, listed Calvin Merry’s household at dwelling 173 and wrote the surname “Mary.” Calvin was forty-eight, a farmer born in Arkansas, and Eliza J. was forty-three. Their sons, as the page reads: Festus Lee, fourteen, and Benj. F., eleven, both working on the farm; Joshua L., eight; John H., six; and George G., a baby only months old. All were born in Arkansas. Joshua L. is Lewis (Louis) Merry of Glover, whose gravestone gives 10 April 1872, and George G. is Gilbert, whose 1930 roster entry gives 29 September 1879, which fits a baby of eight or nine months in June 1880.",
+    "The brothers named later do not match the page exactly. Gilbert’s 1916 sketch names four brothers, F. L., B. F., J. L. and the Rev. Robert, and Louis Merry’s 1932 obituary names four surviving brothers, the Rev. W. R. of Garvin, G. G. of Valliant, F. L. of Orange, California, and B. F. of Canadian, Texas. Three sets of initials are on the 1880 page: Festus Lee, Benjamin F. and Joshua L. No Robert is there, and John H., six in 1880, is on no later list. Either John H. died young or went by another name, or Robert was born after June 1880, when Eliza was forty-three. The De Queen Bee found Robert at school at Provo in 1904, which suits a man born in the early 1880s better than one born in 1874, but nothing says so outright, so he is left unlinked.",
+    "The Texas brother can be followed furthest. In the 1950 census at Canadian, the seat of Hemphill County, Texas (enumeration district 106-2, sheet 6, line 10), Benjamin F. Merry is the head of a household of one: white, male, 81, widowed, born in Arkansas, working as a farmer. An age of 81 in April 1950 means a birth in 1868 or 1869, which is what age eleven in June 1880 gives. Gilbert’s sketch has a brother B. F. serving as a county commissioner of Hemphill County, and the 1932 McCurtain Gazette obituary of Louis Merry puts a B. F. at Canadian. So the Benjamin F. of the 1880 page, the Ben Merry who married Addie Harrison in the Red Colony on 26 December 1897, and the old farmer at Canadian in 1950 are probably one man. The chain rests on the name, the places and the age, not on a record that says so outright. The wife of 1897 is not in the 1950 household; he was a widower.",
+    "Gilbert is on the same footing at Valliant, McCurtain County, Oklahoma (enumeration district 45-47, line 25): head of household, white, male, 70, widowed, born in Arkansas, with a grown son. An age of 70 in April 1950 fits a September 1879 birth. His working life there is told in “Gilbert G. Merry, Valliant druggist: 1915, 1930 and 1950.”",
+    "The family tree now links Festus Lee, John H. and Benjamin F. to Calvin and Eliza Jane as probable, on the strength of the 1880 household. Still missing: where Festus Lee and John H. went, when any of them died, and whether Robert was a son of Calvin and Eliza at all. B. F.’s mother’s name on his Texas death certificate is cited on Eliza Jane’s profile and was not reopened here."
+   ],
+   "quotes": [],
+   "src": [
+    "1880 U.S. census, Sevier County, Arkansas, Monroe Township, ED 268, page 20 (D), enumerated 17 June 1880, dwelling 173, family 179, lines 40–46 (Calvin Merry, surname written “Mary”; ages read from the page image); NARA T9 roll 57; Allen County Public Library microfilm scan, Internet Archive, image n407, original page image read 6 Nov 2026: https://archive.org/details/10thcensus0057unit/page/n407/",
+    "1950 U.S. census, Hemphill County, Texas, Canadian, ED 106-2, sheet 6, line 10 (Benjamin F. Merry, head, 81, widowed, born in Arkansas); NARA; page image reached through the 1950census.archives.gov name search and read 6 Nov 2026: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Texas%2F43290879-Texas-115787%2F43290879-Texas-115787-0008.jpg/full/1600,/0/default.jpg",
+    "1950 U.S. census, McCurtain County, Oklahoma, Valliant, ED 45-47, line 25 (Gilbert G. Merry, head, 70, widowed, born in Arkansas); NARA; page image read 6 Nov 2026: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Oklahoma%2F43290879-Oklahoma-217215%2F43290879-Oklahoma-217215-0023.jpg/full/1800,/0/default.jpg",
+    "Rex F. Harlow, ed., Makers of Government in Oklahoma (Oklahoma City: Harlow Publishing Co., 1930), entry for G. G. Merry of Valliant (born in Arkansas 29 Sept. 1879), full text via Internet Archive, read 6 Nov 2026: https://archive.org/details/makersofgovernme00harl",
+    "“Gilbert G. Merry,” in Joseph B. Thoburn, A Standard History of Oklahoma (1916), vol. 4, pp. 1721–1722 (brothers F. L., B. F., J. L. and the Rev. Robert; B. F. a county commissioner in Hemphill County, Texas), and the 1932 McCurtain Gazette obituary of Louis Merry (surviving brothers W. R., G. G., F. L. and B. F.), as read in the story “Gilbert G. Merry’s 1916 sketch: a Calvin Merry and a brother at Golden”; not reopened here: https://archive.org/details/standardhistoryo04thob",
+    "De Queen Bee, 31 December 1897, p. 1 (Ben Merry and Miss Addie Harrison, Kings Chapel, Red Colony) and 1904 items on Robert Merry at Provo, as read in the story “Robert, Gilbert, Ben and Lewis: the Merry brothers of Sevier County”; not reopened here: https://www.loc.gov/resource/sn89051293/1897-12-31/ed-1/?sp=1"
+   ],
+   "note": "Probable. That Festus Lee, Benjamin F. and John H. are Calvin and Eliza J. Merry’s sons is stated by the 1880 household; that the F. L., B. F. and J. L. of the 1916 sketch and the 1932 obituary are the same boys is probable on initials, ages and family. B. F.’s identification with the Ben Merry of the De Queen Bee and with the man at Canadian in 1950 rests on name, place and age. The 1950 census gives ages, not dates; ‘about 1869’ is a range. Robert Merry is not on the 1880 page and is not linked. Gilbert was entered twice in the tree, once under the sketch’s Calvin and Eliza McGregory entries and once as the Gilbert of the newspaper items; the two entries and the duplicate Calvin and Eliza entries have been merged into one each.",
+   "imgs": [
+    {
+     "s": "img/docs/census-1880-sevier-ark-monroe-calvin-merry-household.jpg",
+     "cap": "Page 20 (D) of the 1880 census of Monroe Township, Sevier County, Arkansas, enumerated 17 June 1880. Calvin Merry’s household, with the surname written “Mary,” is at lines 40 to 46, near the bottom: Calvin, 48; Eliza J., 43; Festus Lee, 14; Benj. F., 11; Joshua L., 8; John H., 6; and George G., a baby. The Whitfield household is at the top of the page. NARA T9 roll 57; Allen County Public Library microfilm scan, Internet Archive. Public domain record.",
+     "kind": "record"
+    },
+    {
+     "s": "img/docs/census-1950-hemphill-tex-canadian-benjamin-f-merry.jpg",
+     "cap": "The 1950 census at Canadian, Hemphill County, Texas, enumeration district 106-2, sheet 6: the page heading, the column headings and line 10, Benjamin F. Merry, head, white, male, 81, widowed, born in Arkansas. Cropped to the heading and that one line; otherwise unaltered. National Archives and Records Administration, 1950 census (1950census.archives.gov). Public domain record.",
+     "kind": "record"
+    }
+   ]
+  },
+  {
+   "id": "gilbert-g-merry-valliant-druggist-1915-1950",
+   "side": "N",
+   "gen": 7,
+   "ev": "probable",
+   "profile": false,
+   "title": "Gilbert G. Merry, Valliant druggist: 1915, 1930 and 1950",
+   "hook": "A pharmacy magazine of 1915 pictured G. G. Merry of Valliant among its “druggists in public office,” a 1930 roster gave his birthday and both his marriages, and the 1950 census found him a widower of seventy at Valliant.",
+   "people": [
+    "xu8-017",
+    "xw3-004",
+    "xw3-003"
+   ],
+   "subject": {
+    "name": "Gilbert G. Merry",
+    "rel": "Merry kin (probable)",
+    "years": "1879–1950"
+   },
+   "body": [
+    "The January 1915 number of the Bulletin of Pharmacy, published at Detroit, ran a page of small portraits headed “Druggists in Public Office.” Among a Minnesota legislator, a Montana county treasurer and others, one caption reads “G. G. Merry, Valliant, Okla., commissioner of McCurtain County.” The caption gives no first name, but a Valliant druggist named Merry who was a McCurtain County commissioner in 1915 is the Gilbert of the 1916 sketch, who had been elected to that office in 1914 and had been the town’s pharmacist since 1906.",
+    "Fifteen years later Rex Harlow’s Makers of Government in Oklahoma (1930) gave him an entry of his own. He was a Democrat and a druggist, born in Arkansas on 29 September 1879, schooled in a common school in Arkansas and a business college in Texas. He had been married twice, first to Annie Oakes, who had died, and then to Loula Hayes, and had a son and a daughter. He kept the Merry Drug Store at Valliant, had a banking connection with the Farmers State Guaranty Bank there, and was a Baptist deacon and Sunday school superintendent and a Mason, in the Blue Lodge and the Consistory at McAlester. He listed nine years as a county commissioner, service as a city councilman and on the board of education, a seat on the state Democratic committee, and political work in county and state “since 1901.” He gave 1891 as the year he came to Oklahoma and 1906 as the year he settled at Valliant.",
+    "Two details are new. The birthday, 29 September 1879, fits the 1880 census, where George G. is a baby of a few months in June 1880, and it replaces the bare year of the 1916 sketch. And the 1930 arrival year, 1891, is a year or more earlier than the sketch’s “at thirteen,” which by this birthday would be 1892 or 1893; neither account has been checked against a record of the time, and the difference is noted here rather than settled.",
+    "The 1950 census counted him at Valliant, in enumeration district 45-47: head of household, white, male, 70, widowed, born in Arkansas, with a grown son living in the house. Loula, if she was his wife to the end, had died by then, though nothing was found about her, and his first wife Annie had died in April 1915, three months after the Bulletin’s picture. His own death has not been found.",
+    "The three snapshots do not reach back to his parents or forward to his death, but they confirm that the Valliant druggist and county commissioner stayed in the same town for more than forty years, and they give the tree his birthday and both of his wives."
+   ],
+   "quotes": [],
+   "src": [
+    "Bulletin of Pharmacy, vol. 29, no. 1 (Detroit: E. G. Swift, January 1915), p. 14, “Druggists in Public Office” (“G. G. Merry, Valliant, Okla., commissioner of McCurtain County”), full text via Internet Archive, read 6 Nov 2026: https://archive.org/details/n01bulletinofphar29detruoft",
+    "Rex F. Harlow, ed., Makers of Government in Oklahoma (Oklahoma City: Harlow Publishing Co., 1930), entry “Merry, G. G., Valliant,” full text via Internet Archive, read 6 Nov 2026: https://archive.org/details/makersofgovernme00harl",
+    "1950 U.S. census, McCurtain County, Oklahoma, Valliant, ED 45-47, line 25 (Gilbert G. Merry, head, 70, widowed, born in Arkansas); NARA; page image read 6 Nov 2026: https://1950census.archives.gov/iiif/2/1950census%2F43290879-Oklahoma%2F43290879-Oklahoma-217215%2F43290879-Oklahoma-217215-0023.jpg/full/1800,/0/default.jpg",
+    "1880 U.S. census, Monroe Township, Sevier Co., Ark., ED 268, p. 20 (D), dwelling 173 (George G., a baby), Internet Archive image n407, read 6 Nov 2026: https://archive.org/details/10thcensus0057unit/page/n407/",
+    "“Gilbert G. Merry,” in Joseph B. Thoburn, A Standard History of Oklahoma (1916), vol. 4, pp. 1721–1722 (pharmacist at Valliant from 1906; county commissioner 1914; married Annie Oaks 4 April 1906; she died April 1915), as read in the story “Gilbert G. Merry’s 1916 sketch: a Calvin Merry and a brother at Golden”; not reopened here: https://archive.org/details/standardhistoryo04thob"
+   ],
+   "note": "Probable. The 1930 roster and the 1915 caption do not name Gilbert’s parents; they are tied to him by the initials, the town, the office and the pharmacy trade, all of which the 1916 sketch gives for Gilbert G. Merry. The 1950 age and birthplace fit the 1930 birthday. Loula Hayes and Annie Oakes (Oaks) are added as his wives on the 1930 roster and the 1916 sketch; their own records were not looked up. The 1950 household includes a son who is not named here.",
+   "imgs": [
+    {
+     "s": "img/docs/census-1950-mccurtain-okla-valliant-gilbert-g-merry.jpg",
+     "cap": "The 1950 census at Valliant, McCurtain County, Oklahoma, enumeration district 45-47: the page heading, the column headings and line 25, Gilbert G. Merry, head, white, male, 70, widowed, born in Arkansas. Cropped to the heading and that one line; otherwise unaltered. National Archives and Records Administration, 1950 census (1950census.archives.gov). Public domain record.",
+     "kind": "record"
+    }
+   ]
+  },
+  {
+   "id": "james-clement-logan-long-cane-meriwether-sketch",
+   "side": "N",
+   "gen": 8,
+   "ev": "lead",
+   "profile": false,
+   "title": "A son of the Logans of Long Cane? James Clement Logan in a 1970 sketch",
+   "hook": "A 1970 book on old Greenwood County, South Carolina, names a James Clement Logan, 1773–1840, as a son of the Long Cane Logans who married “a widow, Martha Calhoun” and went to Alabama in the 1820s; a 1936 Meriwether genealogy independently has his probable sister Rachel marrying a Meriwether who died in Greene County.",
+   "people": [
+    "xu8-018",
+    "xr7s-001",
+    "MAT_CLEMENT_LOGAN",
+    "xw3-005",
+    "xw3-006"
+   ],
+   "subject": {
+    "name": "James Clement Logan",
+    "rel": "Logan kin (lead)",
+    "years": "1773–1840"
+   },
+   "body": [
+    "Margaret Watson’s Greenwood County Sketches (1970) is a book about the old families of the Long Cane country of Abbeville District, now Greenwood County, South Carolina. In its pages on the Logans it follows John Logan, a son of the pioneer Andrew Logan, and John’s sons Col. John Logan Jr. (1761–1820) and Andrew Logan II (1763–1856). Then it adds that the elder John Logan also had a daughter, Rachel, 1767–1827, “the second wife of Dr. Zachary Meriwether,” and a son, James Clement Logan, 1773–1840, who married “a widow, Martha Calhoun.” The next sentence says that “these two families removed to Alabama in the 1820’s,” presumably the households of Rachel and James. I read these lines through the Internet Archive’s full-text search, which shows the words around a phrase but not the page.",
+    "That is the first printed statement I have found that matches the Greene County, Alabama, Logans. It has the same name and years as the Wedgeworth Cemetery stone (James C. Logan, 1773 to 1840), the same wife’s name that earlier stories met in an unsourced Find a Grave biography, and the same destination. That biography, with its parents John Logan and Rachel Flood and its list of brothers and sisters, may well draw on Watson, so the two should not be counted as separate witnesses. Watson gives no source for the sentence and no children for James; his children come from Martha Logan’s 1852 will.",
+    "The phrase “a widow, Martha Calhoun” deserves a second look. It can mean that she was born a Calhoun, as Find a Grave has it, or that she was the widow of a Mr. Calhoun and went by that name when James married her. Salley’s tables of the Calhoun family, searched in an earlier story, found no Calhoun daughter who married a Logan in that generation, which leaves the second reading open. Neither reading is proved, her maiden name remains unknown, and the Calhoun lead remains a lead.",
+    "The Meriwether half has a second printed witness. The Crawford Genealogy (1936) says Zachariah Meriwether was born in Spotsylvania County, Virginia, on 24 May 1754, went with his father Francis to Abbeville District, South Carolina, and from there removed to Greene County, Alabama, where he died on 18 January 1836. He married Rachel Logan on 11 January 1787, she died on 15 June 1827, and they had nine children; a daughter, Sarah, married Billups Gayle, a brother of Governor John Gayle of Alabama. The book does not name Rachel’s parents. So the Logan and Meriwether marriage and the move to Greene County stand on two books, but Rachel’s brother James rests on Watson alone.",
+    "Mrs. Marshall’s printed 1830 census list for Greene County, in the order the book gives it, has a Zach. Meriwether and at least six Logan heads of household, named Clement, Isaac, John, Willis, Michael and Zachariah, with one more entry the scan reads as “Long.” No James appears. If James Clement Logan was in the county in 1830, at fifty-six or fifty-seven, he is probably the “Clement Logan” of that list, going by his second name, which would also fit his son being called Clement. A few names above Clement in the book’s order stands a Williamson Williams; the book prints some twenty Williams heads of household for the county, so that proves nothing about Mary A. Williams, who married the younger Clement Logan in 1839, but it is the kind of neighbor to look for if a record of her parents turns up.",
+    "In Abbeville District itself, the 1950 abstracts of old wills and bonds show the families in each other’s papers: a Jno. Logan Jr. witnesses one will that names Meriwether children, an Andrew Logan witnesses another beside a Jos. Meriwether, and a Zachary Meriwether stands as bondsman in estates. I saw these only as search snippets, since the book is not open to read in full, and none of the lines I saw names James or Rachel. What would settle the matter is a record that puts James with a Logan of Long Cane: John Logan’s own will or estate papers in Abbeville District, or an Alabama deed or estate paper that names a Meriwether and a Logan together."
+   ],
+   "quotes": [],
+   "src": [
+    "Margaret J. Watson, Greenwood County Sketches: Old Roads and Early Families (Greenwood, S.C., 1970), Logan section (John Logan, son of Andrew; Col. John Logan Jr., 1761–1820; Andrew Logan II, 1763–1856; “Rachel Logan, 1767–1827, … the second wife of Dr. Zachary Meriwether; and a son James Clement Logan, 1773–1840, who married a widow, Martha Calhoun. These two families removed to Alabama in the 1820’s”), passages read through the Internet Archive full-text search (borrow-only), 6 Nov 2026: https://archive.org/details/greenwoodcountys0000marg",
+    "Lucinda Frances Stephens, comp., Crawford Genealogy (1936), the Meriwether section (Zachariah Meriwether, b. 24 May 1754; d. Greene County, Ala., 18 Jan 1836; m. Rachel Logan 11 Jan 1787; she d. 15 June 1827), full text via Internet Archive, read 6 Nov 2026: https://archive.org/details/crawfordgenealog00step",
+    "Mrs. S. M. Marshall, comp., Greene County, Alabama records (Tuscaloosa: Willo Publishing Co., 1960), Wedgeworth Cemetery listing (James C. Logan, 1773–1840) and 1830 Census Schedule, heads of families (Logan, Clement; Logan, Isaac; Logan, John; Logan, Willis; Logan, Michael; Logan, Zachariah; Meriwether, Zach.; some twenty Williams entries), full text via Internet Archive, read 6 Nov 2026: https://archive.org/details/greenecountyalab00mars",
+    "Abstracts of Old Ninety-Six and Abbeville District Wills and Bonds (1950), Logan and Meriwether entries (witnesses Jno. Logan Jr. and Andrew Logan; Dr. Zachary Meriwether as bondsman), seen only as Internet Archive full-text search snippets, 6 Nov 2026: https://archive.org/details/abstractsofoldni0000will",
+    "A. S. Salley Jr., The Calhoun Family of South Carolina (Columbia, 1906), as read in the story “Martha Logan’s will, 1852”; not reopened here: https://archive.org/details/calhounfamilyofs00sall_0",
+    "Find a Grave memorial 13644762, James Clement Logan (biography naming parents John Logan and Rachel Flood; unsourced), as described in earlier stories; not examined here: https://www.findagrave.com/memorial/13644762/james-clement-logan"
+   ],
+   "note": "Lead. The Alabama Logans’ origin in the Long Cane Logan family is supported by name, years and the Meriwether connection; James Clement Logan’s place as John Logan’s son rests on one printed, unsourced sketch and is not linked. Rachel Logan Meriwether and Zachariah Meriwether are added unlinked, on the Crawford Genealogy for their own dates. The reading of “Clement Logan” in the 1830 list as James Clement is an inference. The Abbeville abstracts were seen as snippets only. Not adopted: the Calhoun maiden name and the parents on Find a Grave."
+  },
+  {
+   "id": "wards-of-monroe-township-sevier-1860",
+   "side": "N",
+   "gen": 7,
+   "ev": "lead",
+   "profile": false,
+   "title": "Which Ward? The Wards of Monroe Township in 1860",
+   "hook": "The 1860 census of Monroe Township, Sevier County, where Emma Ward was born fourteen years later, lists a Phillip M. Ward, 24, in his father’s household; he may be kin to Emma’s father Phillip Ward, but nothing yet shows it.",
+   "people": [
+    "xr16s-005",
+    "xr16s-006",
+    "xs8-002"
+   ],
+   "subject": {
+    "name": "The Wards of Monroe Township",
+    "rel": "Possible kin of Emma Ward Whitfield (lead)",
+    "years": "1850–1900"
+   },
+   "body": [
+    "Emma Ward Whitfield’s own death certificate of 1955 named her parents as Phillip Ward and Fannie, maiden name unknown, and said she was born at Chapel Hill, Arkansas, on 8 November 1874. Chapel Hill is in Monroe Township, Sevier County. No census taker has yet been found who wrote down a Phillip Ward with a wife Fannie and a daughter Emma. The one other Ward on her 1900 household’s census page is a farm laborer, born in August 1871 to Texas-born parents, who boarded with Emma and her husband.",
+    "The volunteer transcription of the 1860 census of Sevier County, taken in Monroe Township at the Ultimathule post office on 14 July 1860, has a Ward household at dwelling 462: William R. Ward, forty-five, a farmer born in Tennessee; Susan, forty-five, born in South Carolina; Phillip M., twenty-four, a farmer born in Alabama; Johnathan, eighteen, and Stephen(?), seventeen, born in Alabama; Nathan, fourteen, and William, twelve, born in Texas; James, eight, and Richard N., five, born in Arkansas; and a Johnathan Ward, eighty, born in Pennsylvania. The children’s birthplaces trace the family’s road: Alabama into the early 1840s, Texas in the middle 1840s, Arkansas from about 1852.",
+    "Two things follow, and neither is proof. An earlier note on Emma’s father carried a Philip M. Ward, born in Alabama in 1835, said to have lived in Monroe Township about 1860; here is a record for the place and the birthplace. And Nathan and William Ward, born in Texas in the middle 1840s, were the right age to have fathered a boy in 1871, while the Ward boarder of 1900 was born in 1871 to parents born in Texas. That is a guess about the boarder, nothing more.",
+    "Against equating Phillip M. with Emma’s father: the Phillip M. of the family tree note had a wife named Susan, not Fannie; and a Phillip A. Ward of De Queen witnessed Frank Whitfield’s homestead proof in 1907, with a different middle initial. A second marriage, or a son of the same name, would explain both, but nothing in hand says so. Other Wards are in the county records too: in 1860 a J. W. Ward, forty-six, born in Kentucky, farmed in Franklin Township, and the 1850 transcription lists David, Andrew and Greene Ward, all born in Arkansas, and a carpenter, William Ward, from Ohio. None of them is a Phillip.",
+    "I also looked at the 1880 census pages on either side of the one that carries the Whitfield and Merry households in Monroe Township (ED 268, pages 19 and 21 of the microfilm scan), and saw no Ward household among the dwellings I could read. The 1870 and 1880 Monroe Township pages are the next place to look for a Phillip and Fannie Ward; they have no volunteer transcription online."
+   ],
+   "quotes": [],
+   "src": [
+    "Sevier County, Arkansas, 1860 federal census, volunteer transcription by Charlotte Jones Farr (2000), ArGenWeb Sevier County, “Households 351–662,” Monroe Township, P.O. Ultimathule, 14 July 1860, N. J. Temple, page 61, dwelling 462, family 439 (Ward household); transcription only, read 6 Nov 2026: https://www.argenweb.net/sevier/1860census2.html",
+    "Sevier County, Arkansas, 1860 federal census, “Households 1–350,” Franklin Township, P.O. Milwood, 28 June 1860 (J. W. Ward household); transcription only, read 6 Nov 2026: https://www.argenweb.net/sevier/1860census1.html",
+    "Sevier County, Arkansas, 1850 federal census, “Households 1–178,” volunteer transcription, ArGenWeb Sevier County (Ward, William, carpenter, b. Ohio; David; Andrew; Greene); transcription only, read 6 Nov 2026: https://www.argenweb.net/sevier/1850census1.htm",
+    "1880 U.S. census, Sevier County, Arkansas, Monroe Township, ED 268, pages 19 and 21 (Internet Archive images n406 and n408; names read, no Ward household seen), NARA T9 roll 57, read 6 Nov 2026: https://archive.org/details/10thcensus0057unit/page/n406/",
+    "Washington State Department of Health, death certificate no. 4017, Emma Whitfield, 31 Mar 1955 (father Phillip Ward; mother Fannie, maiden name unknown; born Chapel Hill, Ark.), 1900 census household and the 1907 homestead witnesses, as read in the stories “Clinton Whitfield in Sevier County, Arkansas, 1900” and “Frank Whitfield’s homestead at De Queen, 1902 to 1907”; Washington death certificate no. 4017 is Ancestry coll. 6716, record 7468494 (Washington, U.S., Death Records, 1907-2017); not reopened here"
+   ],
+   "note": "Lead. The 1860 household places a Phillip M. Ward of the right region in Monroe Township; it does not connect him to Fannie or to Emma, and the different middle initial of the 1907 witness argues for caution. No person is added for William R. Ward’s household and nothing is linked. The census readings are from volunteer transcriptions, not the page images, except for the 1880 pages named above, where only the names were looked at."
+  },
+  {
+   "id": "mount-ida-1859-merry-household-and-the-1870-gap",
+   "side": "N",
+   "gen": 7,
+   "ev": "probable",
+   "profile": false,
+   "title": "Mount Ida in 1859: a teacher’s household, and where the Merrys were in 1870",
+   "hook": "Calvin Merry and Eliza McGregor were married in a county seat that was only fourteen years old; the town’s history and the census records around it show a teacher’s household in 1860 and then, in 1870, no Merrys in Montgomery County at all.",
+   "people": [
+    "MAT_CALVIN_MERRY",
+    "MAT_ELIZA_JANE_MCGREGOR_MERRY",
+    "xr16s-007"
+   ],
+   "subject": {
+    "name": "Mount Ida and the Merry household",
+    "rel": "Merry kin (probable)",
+    "years": "1842–1870"
+   },
+   "body": [
+    "Mount Ida, where Calvin Merry and Eliza McGregor were married on 18 November 1859, was a young place. The Encyclopedia of Arkansas dates its first post office to 28 June 1842, opened by Granville Whittington in his log home a mile north of the later town square and named for a hill near his old home in Massachusetts. The county seat of Montgomery County stood on land homesteaded by Robert McConnell, and a log “County House” was built on the present courthouse square in 1846; the county’s courthouse records survive from July 1845. The names wavered for a while: the post office was briefly Montgomery before January 1849, and the county court called the seat Salem from July to October 1850 before Mount Ida came back for good.",
+    "By the 1860 census the town itself was tiny, seventy-seven people in South Fork Township, with four doctors, two attorneys, three merchants, a blacksmith, a carpenter and a seamstress. Calvin Merry was not counted among them. On 23 August 1860, as an earlier story read the page, the census taker found him, twenty-eight, a teacher with $200 in property, and Eliza, twenty-one, in Mazarn Township with Mount Ida as their post office; a head-of-household index lists his father Festus, fifty-five and born in Kentucky, in the same township. Mazarn was country east of Mount Ida, and where Calvin taught is not known.",
+    "The war came to the town in 1861. On 4 July two local businessmen called for volunteers and raised a company of 128 men, the Montgomery Hunters, which became Company F of the Fourth Arkansas Infantry and marched out of Mount Ida on 17 July 1861; Union troops occupied the town for several days in late 1863. Whether Calvin served, on either side, is not known. The Montgomery County GenWeb’s lists for Companies C and F of the Fourth Arkansas Infantry, Company I of the Thirty-third Arkansas Infantry and the Union Company D of the Fourth Arkansas Cavalry have no Merry, but they are partial lists and the absence proves little.",
+    "The 1870 census leaves a gap. The volunteer transcription of Montgomery County’s 1870 census, which covers all eight townships, has no Merry household and no Calvin or Festus Merry; Mazarn Township’s 387 people include none. Sons Festus Lee and Benjamin F. were born in Arkansas about 1866 and 1869, and Lewis about 1872, and the 1880 census found the family in Monroe Township, Sevier County, so they left Montgomery County between 1860 and 1870 or are missing from the transcription. Where Calvin, Eliza and Festus were in 1870 is not known, and the 1870 census of Sevier County has only a partial transcription online.",
+    "What a visit to Mount Ida could add is the county’s own marriage book for November 1859, which should name the officiant and perhaps witnesses, and the 1860 census page itself, which would show who lived next to a young teacher and his bride, and whether the Edwards household of the Clark County lead (see “Eliza Jane McGregor at eleven”) was among them."
+   ],
+   "quotes": [],
+   "src": [
+    "“Mount Ida (Montgomery County),” Encyclopedia of Arkansas, CALS (post office 28 June 1842 and the name; “County House” of 1846; courthouse records intact from July 1845; names Montgomery and Salem; 1860 census of seventy-seven; the Montgomery Hunters, Company F, Fourth Arkansas Infantry, 4 and 17 July 1861; Union occupation in late 1863), read 6 Nov 2026: https://encyclopediaofarkansas.net/entries/mount-ida-943/",
+    "1870 Census for Mazarn Township and the other seven townships of Montgomery County, Arkansas, volunteer transcriptions, ArGenWeb Montgomery County (no Merry household; Mazarn “area east of Mt Ida,” 387 people), read 6 Nov 2026: https://www.argenweb.net/montgomery/1870census.htm and https://www.argenweb.net/montgomery/1870Mazarn.htm",
+    "Head of Household Index for Montgomery County, Arkansas, in 1860, ArGenWeb Montgomery County (Merry Calvin 28 and Merry Festus 55, Mazarn Twp); index only, read 6 Nov 2026: https://www.argenweb.net/montgomery/1860index.htm",
+    "Montgomery County, Arkansas, military research pages, ArGenWeb (rosters of Companies C and F, 4th Arkansas Infantry CSA; Company I, 33rd Arkansas Infantry CSA; Company D, 4th Arkansas Cavalry, Union; no Merry), read 6 Nov 2026: https://www.argenweb.net/montgomery/war.htm",
+    "1860 census household of Calvin Merry (teacher, $200) and Eliza, Mazarn Township, P.O. Mount Ida, 23 Aug 1860, and the marriage of Calvin Merry and Eliza McGregor at Mount Ida, 18 Nov 1859, as read in the story “Gilbert G. Merry’s 1916 sketch: a Calvin Merry and a brother at Golden”; not reopened here: https://www.familysearch.org/ark:/61903/1:1:NM55-1YX"
+   ],
+   "note": "Probable. The town’s history is from the Encyclopedia of Arkansas; the Merry household details come from the earlier stories’ readings and the 1860 index. The 1870 absence is from volunteer transcriptions of eight townships, not from the page images, and a family missed by the enumerator or misspelled beyond recognition would not show; it is a gap in the transcriptions, not proof that the Merrys were elsewhere. Where Calvin taught and whether he served in the war are not known."
   }
  ],
  "storyAliases": {
@@ -35972,6 +36219,48 @@
    "t": "T. M. Box dies on 8 November at the age of 82 and is buried at Pine Grove Baptist, Benton County, Mississippi, according to the county cemetery list.",
    "side": "N",
    "story": "pine-grove-baptist-box-burials"
+  },
+  {
+   "y": "1850",
+   "t": "Eliza Jane McGregor, eleven, and a Mary Ann, ten, are listed in Lewis Edwards’s household in Tucker Township, Clark County, Arkansas, on 10 October: a lead for the girlhood of Eliza Jane McGregor Merry.",
+   "side": "N",
+   "story": "eliza-jane-mcgregor-clark-county-1850"
+  },
+  {
+   "y": "1860",
+   "t": "Phillip M. Ward, twenty-four and born in Alabama, is enumerated in his father William R. Ward’s household in Monroe Township, Sevier County, on 14 July: a possible kinsman of Emma Ward Whitfield’s father Phillip Ward (lead).",
+   "side": "N",
+   "story": "wards-of-monroe-township-sevier-1860"
+  },
+  {
+   "y": "1787",
+   "t": "Rachel Logan marries Zachariah Meriwether on 11 January, according to a 1936 Meriwether genealogy; a 1970 Greenwood County sketch makes her a sister of James Clement Logan (lead).",
+   "side": "N",
+   "story": "james-clement-logan-long-cane-meriwether-sketch"
+  },
+  {
+   "y": "1915",
+   "t": "A pharmacy magazine pictures G. G. Merry of Valliant among its “druggists in public office,” as a McCurtain County commissioner.",
+   "side": "N",
+   "story": "gilbert-g-merry-valliant-druggist-1915-1950"
+  },
+  {
+   "y": "1930",
+   "t": "Gilbert G. Merry, a Valliant druggist, gives 29 September 1879 as his birthday in a roster of Oklahoma officials and political workers.",
+   "side": "N",
+   "story": "gilbert-g-merry-valliant-druggist-1915-1950"
+  },
+  {
+   "y": "1950",
+   "t": "The census finds Benjamin F. Merry, 81, a widower, at Canadian, Texas, and Gilbert G. Merry, 70, a widower, at Valliant, Oklahoma: two sons of Calvin and Eliza Merry, probably, as in 1880.",
+   "side": "N",
+   "story": "calvin-merrys-sons-1880-and-1950"
+  },
+  {
+   "y": "1860",
+   "t": "Calvin Merry, twenty-eight, a teacher, and his wife Eliza, twenty-one, are enumerated in Mazarn Township, Montgomery County, Arkansas, post office Mount Ida, on 23 August; Calvin’s father Festus is indexed in the same township.",
+   "side": "N",
+   "story": "mount-ida-1859-merry-household-and-the-1870-gap"
   }
  ],
  "fixes": [
@@ -37204,6 +37493,34 @@
    "story": "tyre-box-pine-grove-1860-1870",
    "side": "N",
    "source": "https://archive.org/details/populationschedu592unit/page/n403/"
+  },
+  {
+   "s": "img/docs/census-1850-clark-ark-tucker-edwards-mcgregor-household.jpg",
+   "cap": "1850 U.S. census, Clark County, Arkansas, Tucker Township, page 193: Lewis Edwards’s household, with Eliza Jane McGregor, 11, and Mary Ann, 10.",
+   "story": "eliza-jane-mcgregor-clark-county-1850",
+   "side": "N",
+   "source": "https://archive.org/details/7thcensusark0020unit/page/n394/"
+  },
+  {
+   "s": "img/docs/census-1880-sevier-ark-monroe-calvin-merry-household.jpg",
+   "cap": "1880 U.S. census, Monroe Township, Sevier County, Arkansas, page 20 (D): the Whitfield household at the top and Calvin Merry’s at lines 40 to 46.",
+   "story": "calvin-merrys-sons-1880-and-1950",
+   "side": "N",
+   "source": "https://archive.org/details/10thcensus0057unit/page/n407/"
+  },
+  {
+   "s": "img/docs/census-1950-hemphill-tex-canadian-benjamin-f-merry.jpg",
+   "cap": "1950 U.S. census, Canadian, Hemphill County, Texas, ED 106-2, sheet 6: Benjamin F. Merry, 81, widowed, born in Arkansas (cropped to the heading and his line).",
+   "story": "calvin-merrys-sons-1880-and-1950",
+   "side": "N",
+   "source": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Texas%2F43290879-Texas-115787%2F43290879-Texas-115787-0008.jpg/full/1600,/0/default.jpg"
+  },
+  {
+   "s": "img/docs/census-1950-mccurtain-okla-valliant-gilbert-g-merry.jpg",
+   "cap": "1950 U.S. census, Valliant, McCurtain County, Oklahoma, ED 45-47: Gilbert G. Merry, 70, widowed, born in Arkansas (cropped to the heading and his line).",
+   "story": "gilbert-g-merry-valliant-druggist-1915-1950",
+   "side": "N",
+   "source": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Oklahoma%2F43290879-Oklahoma-217215%2F43290879-Oklahoma-217215-0023.jpg/full/1800,/0/default.jpg"
   }
  ],
  "photoSources": {
@@ -38683,6 +39000,22 @@
    "url": "https://archive.org/details/populationschedu592unit/page/n403/",
    "credit": "1860 U.S. census population schedule, Mississippi, Tippah County, Southern Subdivision, Pine Grove post office, page 197; NARA microfilm, Allen County Public Library Genealogy Center copy, Internet Archive item populationschedu592unit, image n403",
    "rights": "U.S. federal government record, public domain. Downscaled only (to 2200 px on the long edge)."
+  },
+  "img/docs/census-1850-clark-ark-tucker-edwards-mcgregor-household.jpg": {
+   "url": "https://archive.org/details/7thcensusark0020unit/page/n394/",
+   "credit": "NARA M432; Allen County Public Library microfilm scan, Internet Archive. Public domain record."
+  },
+  "img/docs/census-1880-sevier-ark-monroe-calvin-merry-household.jpg": {
+   "url": "https://archive.org/details/10thcensus0057unit/page/n407/",
+   "credit": "NARA T9 roll 57; Allen County Public Library microfilm scan, Internet Archive. Public domain record."
+  },
+  "img/docs/census-1950-hemphill-tex-canadian-benjamin-f-merry.jpg": {
+   "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Texas%2F43290879-Texas-115787%2F43290879-Texas-115787-0008.jpg/full/1600,/0/default.jpg",
+   "credit": "National Archives and Records Administration, 1950 census (1950census.archives.gov); cropped to the heading and one line. Public domain record."
+  },
+  "img/docs/census-1950-mccurtain-okla-valliant-gilbert-g-merry.jpg": {
+   "url": "https://1950census.archives.gov/iiif/2/1950census%2F43290879-Oklahoma%2F43290879-Oklahoma-217215%2F43290879-Oklahoma-217215-0023.jpg/full/1800,/0/default.jpg",
+   "credit": "National Archives and Records Administration, 1950 census (1950census.archives.gov); cropped to the heading and one line. Public domain record."
   }
  }
 }
