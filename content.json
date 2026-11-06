@@ -23641,7 +23641,7 @@
     "Jack Geddie, Colfax (Colfax Homecoming Committee, 1963), chapter “1880 Census Reveals Old Settlers” and the list of heads of families, with notices of W. J. Box and the 1895 marriage of A. M. Box; Internet Archive, text read 4 Nov 2026: https://archive.org/details/colfax00gedd"
    ],
    "imgs": [],
-   "note": "Lead only. No Box named in these books is shown to be a relative of Alonzo Box. The Thomas Box of 1849 and the James R. Box of 1880 are not added to the tree, and Alonzo’s and Emma’s parents stay unknown."
+   "note": "Lead only. No Box named in these books is shown to be a relative of Alonzo Box. The Thomas Box of 1849 and the James R. Box of 1880 are not added to the tree, and Alonzo’s and Emma’s parents stay unknown. Update, 6 November 2026: Mississippi census records found afterward point to Tyre M. and Sarah E. Box of Tippah County as Alonzo’s probable parents; see “Tyre Box at Pine Grove” and “T. M. Box and A. F. Box: next door in Tippah County, June 1880.” The match is probable, not proved, and conflicts with Alonzo’s own 1900 answers about his birth."
   },
   {
    "id": "voris-name-search-brazoria-1950",
@@ -25941,7 +25941,7 @@
     "U.S. census, 1900, Justice Precinct 6, Van Zandt County, Texas, ED 134, sheet 4B, Alonzo Box household (indexed record viewed in a signed-in FamilySearch session by the site’s owner, 3 to 4 Nov 2026; page capture kept privately): https://www.familysearch.org/ark:/61903/1:1:M35K-RXV"
    ],
    "imgs": [],
-   "note": "Probable. Two independent birth entries name the mother as Emily Wilkerson; the marriage index entries agree on the name but give only initials for the groom. Emma against Emily and the one-year age offsets in the 1900 census are unresolved. The earlier collaborative-tree suggestion is not used as evidence."
+   "note": "Probable. Two independent birth entries name the mother as Emily Wilkerson; the marriage index entries agree on the name but give only initials for the groom. Emma against Emily and the one-year age offsets in the 1900 census are unresolved. The earlier collaborative-tree suggestion is not used as evidence. Update, 6 November 2026: the 1860, 1870 and 1880 censuses of Tippah County give a Tennessee-born Alonzo F. Box, and in 1880 an A. F. Box, 24, born in Tennessee, with a wife Emilie, 19, born in Mississippi, and a son Arthur; on that evidence the Tennessee-born Alonzo F. mentioned above is probably this same man, not a different one, and the 1900 birth entry (December 1850, Arkansas) is the outlier. See “T. M. Box and A. F. Box: next door in Tippah County, June 1880” and “Which Wilkerson was Emily?”"
   },
   {
    "id": "barbara-phillips-parents-in-the-indexes",
@@ -30797,6 +30797,224 @@
    "note": "Lead. The will is read in the Calendar's abstract. It proves a wife Frances and eight children and matches the 1935 book's list of them; it does not show that Frances was a Garrett, and the book gives no source for that. The tree adds no Frances Garrett or Haile children until a record names her parents.",
    "place": "Stony Run and Merryman's Lott, Baltimore County, Maryland",
    "rank": 291
+  },
+  {
+   "id": "box-next-door-tippah-1880",
+   "side": "N",
+   "gen": 6,
+   "ev": "probable",
+   "profile": false,
+   "title": "T. M. Box and A. F. Box: next door in Tippah County, June 1880",
+   "hook": "On 2 and 3 June 1880 a census taker in Tippah County, Mississippi, wrote down two Box households one after the other: T. M. Box, 50, born in Alabama, and next door A. F. Box, 24, born in Tennessee, with a wife named Emilie and a small son.",
+   "people": [
+    "MAT_ALONZO_BOX",
+    "MAT_EMMA_BOX",
+    "xw6-001",
+    "xw6-002",
+    "xw6-004",
+    "xw6-005",
+    "xw6-006",
+    "xw6-007",
+    "xw6-008",
+    "xw6-010"
+   ],
+   "subject": {
+    "name": "T. M. Box and A. F. Box",
+    "rel": "Probable father and son; maternal ancestors",
+    "years": "1880"
+   },
+   "body": [
+    "The 1880 census of Beat No. 2 in Tippah County, Mississippi (enumeration district 190), was taken in the first days of June. On page 5, dwelling and family 34 is “Box, T M,” a white man of 50, a farmer, born in Alabama, with both of his parents born in Tennessee. His wife Sarah E. was 48 and born in Alabama, her father in Tennessee and her mother in Alabama. Five children were at home, all born in Mississippi to Alabama-born parents: Perry, 19, and Walter, 16, who worked on the farm, and the younger Mary E., 11, Lenora, 8, and a girl of 6 whose name is written Ader, probably Ada.",
+    "The next entry, dwelling and family 35, is “Box, A F,” a white man of 24, a farmer, born in Tennessee, whose father and mother were both born in Alabama. With him are his wife Emilie, 19, born in Mississippi to a Tennessee-born father and a Mississippi-born mother, and a son, Arthur, 2, born in Mississippi. The census does not say the two households were related. What points to T. M. and Sarah E. Box is the younger man’s Alabama-born parents, his Tennessee birth and his place in the very next dwelling, and these agree with the household the census taker found at Pine Grove in 1860, where a seven-year-old Alonzo F. Box, born in Tennessee, lived with Tyre Box and his wife Sarah E. (see “Tyre Box at Pine Grove”).",
+    "This is probably the Alonzo Box who was farming in Van Zandt County, Texas, in 1900. Two Mississippi marriage entries join an A. F. Box and an Emily Wilkerson in Benton County in 1876 or 1877, and the 1900 census gives Alonzo and Emma 23 years of marriage and Emma’s birth in July 1860 in Mississippi, which would make her 19 in June 1880, exactly Emilie’s age. Alonzo’s father was born in Alabama according to the 1900 census, as T. M. Box was. Later Texas birth entries name “Alonza” and “Lonzo” Box and Emily Wilkerson as parents. Alonzo’s sons Walter and Tyro, born in Texas in 1885 and 1888, also bear names that occur in this Mississippi family, Walter here and Tyre in 1860; that may be chance.",
+    "The accounts do not agree everywhere. Alonzo told the 1900 census taker that he was born in December 1850 in Arkansas and that his mother was born in Mississippi. The Mississippi censuses of 1860, 1870 and 1880 give his age as 7, 15 and 24, which is about 1853 to 1856, and his birthplace as Tennessee, and the 1880 sheet gives his mother as born in Alabama. Emma’s parents are reported differently too: a Virginia-born father and a Mississippi-born mother in 1900, but a Tennessee-born father and a Mississippi-born mother in 1880. No record found so far names Alonzo and T. M. Box together, or calls Alonzo T. M.’s son.",
+    "By March 1885, when their son Walter was born, A. F. and Emilie had moved to Texas. Arthur, who was 2 in 1880, is not in the 1900 household. Emma had borne eight children by then and six were living, five of them at home, so he may be the living child who was elsewhere, or he may have died young. Nothing found says which. The same household is indexed on a Soundex card for “Box, A F,” which lists Emilie and Arthur and repeats the volume, district, sheet and line of the census page."
+   ],
+   "quotes": [],
+   "src": [
+    "1880 U.S. census, Mississippi, Tippah County, enumeration district 190 (Beat No. 2), page 5, enumerated 2 and 3 June 1880, dwellings and families 34 and 35, lines 29 to 39 (T M Box, Sarah E., Perry, Walter, Mary E., Lenora, Ader; A F Box, Emilie, Arthur); NARA microfilm, Allen County Public Library copy via Internet Archive, reel 665, image n801 (original page image read, 6 Nov 2026): https://archive.org/details/10thcensus0665unit/page/n801/",
+    "1880 census Soundex index, Mississippi, vol. 20, ED 190, sheet 5, line 36, card B200 “Box, A F” with Emilie and Arthur; Internet Archive item soundex1880ms003, image n760 (card read, 6 Nov 2026; an index copy of the census entry): https://archive.org/details/soundex1880ms003/page/n760/",
+    "1860 U.S. census, Mississippi, Tippah County, Southern Subdivision, Pine Grove post office, pages 196 and 197, 8 September 1860, dwelling 1339, family 1355, Tyre Box household; NARA microfilm, Internet Archive item populationschedu592unit, images n402 and n403 (original page images read, 6 Nov 2026): https://archive.org/details/populationschedu592unit/page/n403/",
+    "Earlier story on this site, “Alonzo and Emma Box in Van Zandt County, June 1900” (1900 census, Justice Precinct 6, Van Zandt County, ED 134, sheet 4B: Alonzo born December 1850 in Arkansas, father born in Alabama, mother in Mississippi), cited, not re-read here.",
+    "Earlier story on this site, “Emma Box and Emily Wilkerson: two Texas births and two Mississippi marriages” (A. F. Box and Emily Wilkerson, Benton County, 1876 or 1877, index entries; Texas births of 1891 and 1894), cited, not re-read here."
+   ],
+   "imgs": [
+    {
+     "s": "img/rec/census-1880-tippah-box-ed190-sheet5.jpg",
+     "cap": "1880 U.S. census, Tippah County, Mississippi, enumeration district 190 (Beat No. 2), page 5, June 1880. Lines 29 to 35: the household of T M Box, 50, born in Alabama, with Sarah E., Perry, Walter, Mary E., Lenora and Ader; lines 36 to 38: A F Box, 24, born in Tennessee, with Emilie, 19, and Arthur, 2. NARA microfilm, via Internet Archive. Public domain; downscaled only.",
+     "kind": "record"
+    }
+   ],
+   "note": "Probable. The two entries are read from the page image; that dwellings 34 and 35 follow each other, and the birthplaces entered for each person, are facts of the sheet. Calling the two households father and son is an inference from the birthplaces of A. F.’s parents and from the 1860 household, and the identification of A. F. Box with the Alonzo Box of Van Zandt County rests on his wife’s name and age, the marriage index entries and the initials, with the conflicts set out above (1900 birth entry, mother’s birthplace, Emma’s parents). The county on the 1880 schedule is Tippah; the marriage index and the burials are Benton County."
+  },
+  {
+   "id": "tyre-box-pine-grove-1860-1870",
+   "side": "N",
+   "gen": 7,
+   "ev": "probable",
+   "profile": false,
+   "title": "Tyre Box at Pine Grove: three states of birth, 1860 and 1870",
+   "hook": "In September 1860 a census taker at the Pine Grove post office, Tippah County, Mississippi, listed Tyre Box, 30, born in Alabama, with his wife Sarah E., a seven-year-old Alonzo F. born in Tennessee and a four-year-old Emer C. born in Arkansas.",
+   "people": [
+    "MAT_ALONZO_BOX",
+    "xw6-001",
+    "xw6-002",
+    "xw6-003",
+    "xw6-004",
+    "xw6-005",
+    "xw6-006"
+   ],
+   "subject": {
+    "name": "Tyre and Sarah E. Box",
+    "rel": "Probable parents of Alonzo Box; maternal ancestors",
+    "years": "1860–1870"
+   },
+   "body": [
+    "On 8 September 1860, at the Pine Grove post office in the Southern Subdivision of Tippah County, the census taker came to dwelling 1339, family 1355. The head is written Tyre Box, 30, a farmer born in Alabama, who owned land and some personal property. His wife Sarah E. is 28, also born in Alabama. The household runs over onto the next page, where the children follow: Alonzo F., 7, born in Tennessee, who had been to school that year, and Emer C., 4, born in Arkansas. Last in the same family is a woman of 25 named Sarah A. Bumpass (the surname is hard to read), a weaver born in Alabama with $50 of her own. The page does not say how she was connected to the family.",
+    "The birthplaces tell of moving. Alonzo was born about 1853 in Tennessee and Emer about 1856 in Arkansas, and by June 1860 the family was in Mississippi; every child born after them was born there. A published transcription of the 1860 Tippah County census (compiled by Tommy Lockhart and Bill Gurney and put online by the county’s MSGenWeb page) gives the same four names, Tyre, Sarah E., Alonzo and Emer C., with the same ages and birthplaces, though it leaves out the F. in Alonzo’s name and does not list the weaver under that name. Of the six Box households in that transcription, the other five are headed by men born in Tennessee or South Carolina, so Tyre is the only Alabama-born Box head in it, which fits the Alabama birthplace Alonzo later gave for his own father.",
+    "By 1870 the family was in what the census taker called West Tippah, enumerated at the Salem post office; the transcribers say its boundaries were close to those of today’s Benton County. In the published transcription of that census T. M. Box is 40, a farm tenant born in Alabama, with Sarah, 36, born in Alabama; O. F., 15, born in Tennessee and working on the farm; E. C., 11, at school and born in Arkansas (written AK.); and P. W., 10, Walter, 7, and M. E., 1, all born in Mississippi. “O. F.” is the transcriber’s reading and may be A. F. on the page, which was not examined; the ages and birthplaces otherwise carry the 1860 household forward. Ten years later the 1880 sheet gives Perry and Walter, 19 and 16 (the P. W. and Walter of 1870), and adds Mary E., Lenora and Ada, while Emer is no longer at home. A son John Thomas, who died as an infant in 1867, is in the cemetery listing (see “Pine Grove Baptist”).",
+    "A state census of 1866, printed in the newsletter of the Tippah County Historical and Genealogical Society and posted online as counts by age decade, has a household headed by “T. M. Box”: three males under 10, one aged 10 to 20 and one aged 30 to 40, and one female under 10 and one aged 30 to 40. That fits the household as the other censuses show it, a father and mother, Alonzo at about 13, two or three small boys and a girl, though the counts name no one.",
+    "This household is the likeliest source of the Alonzo Box of Van Zandt County, Texas. In 1900 Alonzo gave his birth as December 1850 in Arkansas, but the three Mississippi censuses give his age as 7, 15 and 24, about 1853 to 1856, and Tennessee as his birthplace, and next door to T. M. Box in 1880 lived an A. F. Box with a wife Emilie, 19 (see “T. M. Box and A. F. Box: next door in Tippah County, June 1880”). The 1860 page names him Alonzo F., which the Mississippi marriage entries of 1876 and 1877 echo in “A. F. Box.” The conflicts remain: his own 1900 entry, and his mother’s birthplace, given as Mississippi in 1900 but Alabama for Sarah E. in 1860, 1870 and 1880.",
+    "Tyre’s own origins are a wall. He was born in Alabama about 1829 or 1830, his parents were born in Tennessee according to the 1880 sheet, and nothing found places him before the 1850s. Sarah E.’s maiden name is unknown. Alonzo’s son Tyro Stevens Box, born in 1888, carries a name that looks like Tyre, and “Stevens” is unexplained; that is a resemblance, not evidence."
+   ],
+   "quotes": [],
+   "src": [
+    "1860 U.S. census, Mississippi, Tippah County, Southern Subdivision, Pine Grove post office, 8 September 1860: foot of page 196, dwelling 1339, family 1355 (Tyre Box, 30; Sarah E., 28), continued at the head of page 197 (Alonzo F., 7, Tenn.; Emer C., 4, Ark.; Sarah A. Bumpass, 25, weaver, Ala.); NARA microfilm, Internet Archive item populationschedu592unit, images n402 and n403 (original page images read, 6 Nov 2026): https://archive.org/details/populationschedu592unit/page/n402/ and https://archive.org/details/populationschedu592unit/page/n403/",
+    "1860 Federal Census of Tippah County, Mississippi, compiled by Tommy Lockhart and Bill Gurney, MSGenWeb Tippah County, surnames beginning B (Box households), transcription read 6 Nov 2026: https://www.msgw.org/tippah/1860-b.html",
+    "1870 Federal Census of Tippah County, Mississippi, Salem Post Office (West Tippah), transcribed by the Tippah County Historical and Genealogical Society, MSGenWeb Tippah County, surnames beginning B (T.M. Box household), transcription only, original not examined, read 6 Nov 2026: https://www.msgw.org/tippah/1870/1870SalemB.htm",
+    "The same transcription’s index page, with the note on the Salem and Ripley enumerations: https://www.msgw.org/tippah/1870/1870index.html",
+    "1866 Mississippi state census, Tippah County, counts by age decade for heads of household, from the newsletter of the Tippah County Historical and Genealogical Society, surnames beginning B (Box, T. M., number 680), MSGenWeb Tippah County, transcription only, read 6 Nov 2026: https://www.msgw.org/tippah/1866a-b.html",
+    "1880 U.S. census, Tippah County, Mississippi, ED 190, page 5 (T M Box household), via Internet Archive, as in “T. M. Box and A. F. Box: next door in Tippah County, June 1880”: https://archive.org/details/10thcensus0665unit/page/n801/"
+   ],
+   "imgs": [
+    {
+     "s": "img/rec/census-1860-tippah-pine-grove-p196-tyre-box.jpg",
+     "cap": "1860 U.S. census, Tippah County, Mississippi, Southern Subdivision, Pine Grove post office, 8 September 1860, page 196. At the foot: dwelling 1339, family 1355, Tyre Box, 30, farmer, born in Alabama, and Sarah E., 28; the household continues on the next page. NARA microfilm, via Internet Archive. Public domain; downscaled only.",
+     "kind": "record"
+    },
+    {
+     "s": "img/rec/census-1860-tippah-pine-grove-p197-alonzo-box.jpg",
+     "cap": "1860 U.S. census, Tippah County, Mississippi, Pine Grove post office, page 197. Lines 1 to 3, the continuation of the Tyre Box household: Alonzo F., 7, born in Tennessee, Emer C., 4, born in Arkansas, and Sarah A. Bumpass, 25, weaver, born in Alabama. NARA microfilm, via Internet Archive. Public domain; downscaled only.",
+     "kind": "record"
+    }
+   ],
+   "note": "Probable. Pages 196 and 197 were read from the microfilm images; the 1870 household is read from a published transcription only, whose reading “O. F.” may stand for A. F. Tyre’s first name is read from the 1860 page and the published transcription; later records give only T. M. That Alonzo F. of 1860 is the Alonzo Box of 1900 is probable, not proved, because his 1900 birth entry (December 1850, Arkansas) and his mother’s birthplace conflict with it. No record names Tyre and Sarah E. as Alonzo’s parents."
+  },
+  {
+   "id": "pine-grove-baptist-box-burials",
+   "side": "N",
+   "gen": 7,
+   "ev": "probable",
+   "profile": false,
+   "title": "Pine Grove Baptist: Sarah Box in 1898, T. M. Box in 1912",
+   "hook": "A published list of Benton County, Mississippi, burials puts Sarah E. Box, who died on 2 July 1898, and T. M. Box, 14 November 1829 to 8 November 1912, at Pine Grove Baptist, a name that already stands on the 1860 census page where Tyre Box was listed.",
+   "people": [
+    "xw6-001",
+    "xw6-002",
+    "xw6-009",
+    "xw6-005"
+   ],
+   "subject": {
+    "name": "T. M. and Sarah E. Box",
+    "rel": "Probable parents of Alonzo Box; maternal ancestors",
+    "years": "1898–1912"
+   },
+   "body": [
+    "The Benton County cemetery listing on the MSGenWeb county page, contributed by Fred Cox, has two entries that fit the Boxes of the censuses. Sarah E. Box died on 2 July 1898, her age given as 63, and her entry names T. M. as her spouse. T. M. Box was born on 14 November 1829 and died on 8 November 1912, and his entry names Sarah. Both are placed at Pine Grove Baptist. The list gives only dates, the cemetery and a spouse, and it does not say whether the dates came from stones, church books or family report.",
+    "The dates agree with the censuses. A man of 50 in June 1880 was born between mid-1829 and mid-1830, so 14 November 1829 fits, and the ages of 30 in 1860 and 40 in 1870 point the same way. Sarah’s age of 63 at her death puts her birth about 1835, a little later than the 28, 36 and 48 of the censuses, which suggest 1831 to 1834. The name of the cemetery is also the name of the Pine Grove post office on the 1860 page, where Tyre Box’s family was counted.",
+    "A third entry names both as parents: John Thomas Box, who died in May 1867, aged 7 months, “son of T. M. & S. E. Box,” also at Pine Grove Baptist. No census shows him; he was born about October 1866 and was gone before the 1870 count. It is the only entry in the listing that names the pair together as parents.",
+    "The listing holds many more Boxes, and they are easy to confuse. W. P. Box (3 January 1837 to 3 June 1911) and Mary Jane (1841 to 1914) lie at McKay; Henry M. Box, who served in Company D of the 2nd Mississippi Infantry, C.S.A., and his wife Nancy A. (1851 to 1916) at Bethel Methodist; and an L. W. Box (24 September 1863 to 12 March 1936) and Olive Thompson Box at McKay, whose infant children are at Pine Grove Baptist. L. W. would have been 16 in June 1880, the age of the Walter in T. M. Box’s house, but the initials differ and no record connects them. None of these is claimed as Alonzo’s kin.",
+    "If T. M. and Sarah were Alonzo’s parents, they stayed in Benton County for the rest of their lives while he moved to Texas before March 1885. T. M. outlived Sarah by fourteen years and died six days short of his 83rd birthday, if the listed dates are right. Texas death records that might name Alonzo’s parents have not been found."
+   ],
+   "quotes": [],
+   "src": [
+    "Benton County, Mississippi, Cemetery Listings, surnames beginning B (Box, Sarah E.; Box, T. M.; Box, John Thomas; and the other Box entries named above), MSGenWeb Benton County, with thanks to Fred Cox; a compiled list, stones not seen, read 6 Nov 2026: https://msgw.org/benton/cemb.htm",
+    "1860 U.S. census, Tippah County, Mississippi, Pine Grove post office (Tyre Box household), as in “Tyre Box at Pine Grove”: https://archive.org/details/populationschedu592unit/page/n402/",
+    "1880 U.S. census, Tippah County, Mississippi, ED 190, page 5 (T M Box, aged 50), as in “T. M. Box and A. F. Box: next door in Tippah County, June 1880”: https://archive.org/details/10thcensus0665unit/page/n801/"
+   ],
+   "imgs": [],
+   "note": "Probable. The match between the cemetery entries and the censuses rests on initials, ages, a spouse’s name and the neighborhood, and the list is a transcription, not the stones. The abbreviation “dm.” in the list is not explained on the page; it is read here as marking a spouse because the entries pair as couples. The cemetery is listed under Benton County, while the 1880 census schedule for the Box households is headed Tippah County."
+  },
+  {
+   "id": "emily-wilkerson-west-tippah-candidates",
+   "side": "N",
+   "gen": 7,
+   "ev": "lead",
+   "profile": false,
+   "title": "Which Wilkerson was Emily? Virginia-born households near Pine Grove",
+   "hook": "Tippah County’s census taker of 1860 found four Wilkerson households, about twenty-six dwellings after Tyre Box’s, and in 1870 a ten-year-old Emily in one of them. She may be the Emily who married A. F. Box, but the records do not agree.",
+   "people": [
+    "MAT_EMMA_BOX",
+    "MAT_ALONZO_BOX"
+   ],
+   "subject": {
+    "name": "Emily Wilkerson’s family (unproven)",
+    "rel": "Possible maternal ancestors",
+    "years": "1860–1880"
+   },
+   "body": [
+    "On 10 September 1860, at the Salem post office in the Southern Subdivision of Tippah County, the census taker listed four Wilkerson households in a row, dwellings 1365 to 1368, about twenty-six dwellings after Tyre Box’s at Pine Grove. William B., 32, born in Virginia, had a wife Susannah, 22, born in Tennessee, and three small daughters born in Tennessee. Elizabeth, 50, born in Virginia, headed the next household, with Martha, 20, and Elizabeth, 18, both born in Virginia, and James K., 15, born in Mississippi. Stephen P., 30, born in Virginia, had a wife Elizabeth J., 32, born in Tennessee, and two daughters, Eliza A., 6, and Mary F., 4, born in Mississippi. Willie W., 25, a carpenter born in Virginia, had a wife Mary, 22, born in Tennessee, and two small children. The page does not say how the households were related.",
+    "In the published transcription of the 1870 census for West Tippah, S. P. Wilkerson is 42, born in Virginia, with Jane, 45, born in Tennessee, and six children, all born in Mississippi: Eliza, 16, M. F., 13, Emily, 10, Stephen, 8, Wm., 6, and Hatch, 3. Eliza and M. F. are the Eliza A. and Mary F. of 1860. Emily is not in the 1860 household, but that census counted only those living on 1 June 1860, so a child born later that summer would be missing; a girl who was 10 in 1870 was born about 1860. That matches the July 1860 birth Emma Box gave in 1900.",
+    "The fit is not complete. In 1900 Emma gave her father’s birthplace as Virginia and her mother’s as Mississippi, and Stephen P. was born in Virginia, but his wife was born in Tennessee in both 1860 and 1870. The 1880 sheet gives Emilie, the wife of A. F. Box, 19, born in Mississippi, with a Tennessee-born father and a Mississippi-born mother (see “T. M. Box and A. F. Box”), which agrees with the Virginia household on neither parent. The 1880 return is nearer in time to her birth, and the 1900 answers came forty years later, but neither settles it.",
+    "The other Wilkersons do not help much. A cemetery listing for Benton County gives a W. B. Wilkerson, 18 August 1827 to 8 November 1910, and S. A., wife of W. B., 31 July 1840 to 10 June 1911, both at Old Hickory Flat; no S. P. or Stephen Wilkerson is in the W listing. The 1866 state census, which gives only counts by age decade, lists W. B., W. W. and E. A. Wilkerson as well as S. P. For S. P. it shows one man aged 30 to 40, one woman aged 40 to 50 and three girls, two under 10 and one aged 10 to 20, and no boys; the 1870 household has sons aged 8 and 6, who would have been 4 and 2 in 1866. Either the 1866 count is wrong, or the two households are not the same, or the boys were not his own. The records also cover only the part of the area that was in Tippah; the part that came from Marshall County is not covered, and an Emily Wilkerson of another family could have lived there.",
+    "What would settle it is a record that names Emily’s parents: the Benton County marriage record of 1876 or 1877, which so far is known only through index entries; a Texas death certificate for Emma Box or one of her children; or the 1880 census listing of a Wilkerson household that names Emily as a daughter and her father’s place of birth. Until then Emily Wilkerson’s parents are not known."
+   ],
+   "quotes": [],
+   "src": [
+    "1860 U.S. census, Mississippi, Tippah County, Southern Subdivision, Salem post office, 10 September 1860, dwellings 1365 to 1368, families 1381 to 1384 (William B., Elizabeth, Stephen P. and Willie W. Wilkerson households); NARA microfilm, Internet Archive item populationschedu592unit, image n406 (original page image read, 6 Nov 2026): https://archive.org/details/populationschedu592unit/page/n406/",
+    "1860 Federal Census of Tippah County, Mississippi, compiled by Tommy Lockhart and Bill Gurney, MSGenWeb Tippah County, surnames beginning W (transcription read 6 Nov 2026): https://www.msgw.org/tippah/1860-w.html",
+    "1870 Federal Census of Tippah County, Mississippi, Salem Post Office (West Tippah), transcribed by the Tippah County Historical and Genealogical Society, surnames beginning W (S.P. Wilkerson household, which the transcriber spells “Wllkerson”), transcription only, original not examined, read 6 Nov 2026: https://www.msgw.org/tippah/1870/1870SalemW.htm",
+    "1866 Mississippi state census, Tippah County, head-of-household counts, surnames beginning W (Wilkerson, E. A., S. P., W. B., W. W.), MSGenWeb Tippah County, read 6 Nov 2026: https://www.msgw.org/tippah/1866w-z.html",
+    "Benton County, Mississippi, Cemetery Listings, surnames beginning W (Wilkerson, W. B. and S. A.), MSGenWeb Benton County, read 6 Nov 2026: https://msgw.org/benton/cemw.htm",
+    "1880 U.S. census, Tippah County, Mississippi, ED 190, page 5 (A F Box, Emilie, Arthur), via Internet Archive, as in “T. M. Box and A. F. Box: next door in Tippah County, June 1880”: https://archive.org/details/10thcensus0665unit/page/n801/"
+   ],
+   "imgs": [],
+   "note": "Lead only. S. P. Wilkerson’s household is a candidate because an Emily of the right age lived in it in 1870 and her father’s birthplace agrees with Emma’s 1900 answer, but her mother’s birthplace and the 1880 answer about her father do not, and no record names Emily Wilkerson as his daughter or as the wife of A. F. Box. No Wilkerson is added to the tree and Emma’s parents are not linked."
+  },
+  {
+   "id": "mccormick-near-algoa-road-1910",
+   "side": "N",
+   "gen": 6,
+   "ev": "probable",
+   "profile": false,
+   "title": "Near Algoa Road: the McCormicks and their fruit-farm neighbors, April 1910",
+   "hook": "On 18 April 1910 the census taker wrote beside the McCormick household in Brazoria County, Texas, the words “Near Algoa Road,” and around them stood a row of fruit farms owned by families from Pennsylvania, Holland, Texas and West Virginia.",
+   "people": [
+    "xs6-001",
+    "xs6-002",
+    "xs6-003",
+    "xs6-004",
+    "xs6-005",
+    "xs6-006",
+    "xs6-007",
+    "MAT_SADAH_MCCORMICK"
+   ],
+   "subject": {
+    "name": "The McCormick fruit farm",
+    "rel": "Probable family of Sadah McCormick Livesay",
+    "years": "1910"
+   },
+   "body": [
+    "The page of the 1910 census that holds Jay T. McCormick’s household is sheet 1B of enumeration district 10, “Precinct No. 5, part of,” Brazoria County, taken on 18 April 1910. In the column for street names the census taker wrote place notes instead. Beside dwellings 17 to 19, at the top of the page, he put Prairie and Near Pearland Road, and beside dwellings 20 to 27, which include the McCormicks at dwelling 26, “Near Algoa Road” (the last letters of Algoa are hard to read in his hand). Those are the only addresses the census gives for the family.",
+    "The neighbors were fruit and truck farmers from many places. In dwelling 22 Hiram J. Tenney, 35, a farmer on a general farm, had come from West Virginia with a wife and five children, all born there. John M. Randolph, 36, born in Pennsylvania, ran a fruit farm; Oliver W. Coleman, 23, born in Texas, worked as an express laborer. In dwelling 25 Jacob Vanderbourgh (the spelling is hard to read), 59, a widower from Holland who had come in 1880, farmed fruit with his son Dick, 22, born in Iowa, as his partner. Then came the McCormicks, and next Flora Steele, 49, a Texas-born widow who also had a fruit farm and whose son Ernest, 22, was an assistant cashier at a bank. Four of the six households from dwelling 22 to 27 give “fruit farm.”",
+    "McCormick’s own line reads farmer, fruit farm, with the abbreviation Emp. in the column for employer, employee or own account, and the ownership columns show the farm owned free of mortgage, farm schedule number 28. He was 41 and had been married 25 years; Frances, 40, and six unmarried children, from 7 years old to the middle twenties, were at home. The eldest son worked as a wage earner on the home farm, and two daughters, Hazel and Sadie, were recorded as housekeepers in private families. The 1910 farm schedule that would show his acreage and crops was not examined.",
+    "Where this was is only partly clear. The Encyclopedia of Texas of 1920 lists Alvin, in Brazoria County, as a town on three railways whose industries were cotton, fruit and vegetables, and Pearland as a village of 150 people ten miles from Alvin and thirteen from Houston; it counts Algoa among the towns of Galveston County. The names on the margin therefore point to the country between Alvin and Pearland, near the road toward Algoa, but the census does not tie the farm to a map.",
+    "An earlier story on this site cites Floyd Livesay’s household of 1910 in the same Justice Precinct 5 of Brazoria County. If that record is right, the McCormicks and the Livesays were living in one precinct in April 1910, about eighteen months before Lester W. Livesay and Sadah H. McCormick were married in Harris County. Whether the two households stood near each other, or on the same census sheets, has not been checked."
+   ],
+   "quotes": [],
+   "src": [
+    "1910 U.S. census, Texas, Brazoria County, Justice Precinct 5, enumeration district 10, sheet 1B, 18 April 1910, dwellings 17 to 27, lines 53 to 100 (margin notes Prairie, Near Pearland Road, and Near Algoa Road; Jay T. McCormick at dwelling 26, lines 89 to 96); NARA microfilm T624, reel 1534, Internet Archive image n775 (original page image read, 6 Nov 2026): https://archive.org/details/13thcensus1910po1534unit/page/n775/",
+    "Ellis A. Davis and Edwin H. Grobe, The Encyclopedia of Texas (Dallas: Texas Development Bureau, 1920), vol. 1, city and town entries for Alvin and Pearland, the Brazoria County entry, and the Galveston County entry (Algoa), full text read 6 Nov 2026: https://archive.org/details/encyclopediaofte01davi",
+    "Earlier stories on this site, “From a Stony Creek farm to a Brazoria fruit farm” and “Floyd Livesay in Lydia’s household, 1860” (which cites the indexed 1910 record of Floyd Livesay’s household in Justice Precinct 5), cited, not re-read here."
+   ],
+   "imgs": [
+    {
+     "s": "img/rec/mccormick-1910-brazoria-census.jpg",
+     "cap": "The same 1910 census sheet, Brazoria County, Justice Precinct 5, ED 10, sheet 1B. The left margin carries the census taker’s place notes, Prairie and Near Pearland Road beside dwellings 17 to 19 and “Near Algoa Road” beside dwellings 20 to 27; the McCormicks are dwelling 26, lines 89 to 96. NARA microfilm T624, reel 1534, via Internet Archive; public domain.",
+     "kind": "record"
+    }
+   ],
+   "note": "Probable. The page is read from the original image. The link between this household and Sadah McCormick Livesay is the same probable identification as in the earlier stories, and nothing here adds a parent link. The statement about Floyd Livesay’s precinct comes from the earlier story’s source line and was not rechecked. The earlier story “From a Stony Creek farm to a Brazoria fruit farm” says Jay T. worked on his own account; on the page the column reads Emp., which is the census taker’s abbreviation for employer. The location is only as precise as the census taker’s margin notes and a 1920 reference work; no map or deed was found."
   }
  ],
  "storyAliases": {
@@ -35718,6 +35936,42 @@
    "t": "Nicholas Haile of Baltimore County dates his will on 27 February 1729/30, naming his wife Frances and eight children; it is proved on 18 April.",
    "side": "J",
    "story": "md-nicholas-haile-will-1730"
+  },
+  {
+   "y": "1860",
+   "t": "On 8 September, at the Pine Grove post office in Tippah County, Mississippi, the census taker lists Tyre Box, 30, born in Alabama, with his wife Sarah E., a seven-year-old Alonzo F. born in Tennessee and a four-year-old Emer C. born in Arkansas.",
+   "side": "N",
+   "story": "tyre-box-pine-grove-1860-1870"
+  },
+  {
+   "y": "1870",
+   "t": "An Emily Wilkerson, 10, born in Mississippi, is listed in the West Tippah household of S. P. Wilkerson, a Virginia-born farmer; whether she is the Emily who married A. F. Box is unproved.",
+   "side": "N",
+   "story": "emily-wilkerson-west-tippah-candidates"
+  },
+  {
+   "y": "1880",
+   "t": "On 2 and 3 June the census taker in Tippah County, Mississippi, lists T. M. Box, 50, and in the next dwelling A. F. Box, 24, with his wife Emilie, 19, and son Arthur, 2.",
+   "side": "N",
+   "story": "box-next-door-tippah-1880"
+  },
+  {
+   "y": "1898",
+   "t": "Sarah E. Box dies on 2 July, aged 63 according to a Benton County cemetery list, and is buried at Pine Grove Baptist.",
+   "side": "N",
+   "story": "pine-grove-baptist-box-burials"
+  },
+  {
+   "y": "1910",
+   "t": "On 18 April the Brazoria County census taker lists Jay T. McCormick’s fruit-farm household with the note “Near Algoa Road,” among neighbors who are fruit farmers.",
+   "side": "N",
+   "story": "mccormick-near-algoa-road-1910"
+  },
+  {
+   "y": "1912",
+   "t": "T. M. Box dies on 8 November at the age of 82 and is buried at Pine Grove Baptist, Benton County, Mississippi, according to the county cemetery list.",
+   "side": "N",
+   "story": "pine-grove-baptist-box-burials"
   }
  ],
  "fixes": [
@@ -36929,6 +37183,27 @@
    "story": "elizabeth-holt-archer-cotton-1812",
    "side": "N",
    "source": "https://archive.org/details/historyofearlyse00powe/page/n95/mode/1up"
+  },
+  {
+   "s": "img/rec/census-1880-tippah-box-ed190-sheet5.jpg",
+   "cap": "1880 U.S. census, Tippah County, Mississippi, ED 190, page 5: the T M Box household and, in the next dwelling, A F Box with Emilie and Arthur.",
+   "story": "box-next-door-tippah-1880",
+   "side": "N",
+   "source": "https://archive.org/details/10thcensus0665unit/page/n801/"
+  },
+  {
+   "s": "img/rec/census-1860-tippah-pine-grove-p196-tyre-box.jpg",
+   "cap": "1860 U.S. census, Tippah County, Mississippi, Pine Grove post office, page 196: Tyre Box, 30, born in Alabama, and Sarah E., at the foot of the page.",
+   "story": "tyre-box-pine-grove-1860-1870",
+   "side": "N",
+   "source": "https://archive.org/details/populationschedu592unit/page/n402/"
+  },
+  {
+   "s": "img/rec/census-1860-tippah-pine-grove-p197-alonzo-box.jpg",
+   "cap": "1860 U.S. census, Tippah County, Mississippi, Pine Grove post office, page 197: Alonzo F., 7, born in Tennessee, and Emer C., 4, born in Arkansas, in the Tyre Box household.",
+   "story": "tyre-box-pine-grove-1860-1870",
+   "side": "N",
+   "source": "https://archive.org/details/populationschedu592unit/page/n403/"
   }
  ],
  "photoSources": {
@@ -38393,6 +38668,21 @@
    "url": "https://archive.org/details/marylandcalendar06cott",
    "credit": "Jane Baldwin Cotton, The Maryland Calendar of Wills, vol. 6, Wills from 1726 to 1732 (Baltimore: Kohn & Pollock), p. 163 (the abstract begins on p. 162); Internet Archive scan of the Allen County Public Library copy (leaf n334)",
    "rights": "Published before 1929 and in the public domain in the United States. Original bytes from the Internet Archive scan, unaltered (not downscaled)."
+  },
+  "img/rec/census-1880-tippah-box-ed190-sheet5.jpg": {
+   "url": "https://archive.org/details/10thcensus0665unit/page/n801/",
+   "credit": "1880 U.S. census population schedule, Mississippi, Tippah County, enumeration district 190, page 5; NARA microfilm, Allen County Public Library Genealogy Center copy, Internet Archive item 10thcensus0665unit, image n801",
+   "rights": "U.S. federal government record, public domain. Downscaled only (to 2200 px on the long edge)."
+  },
+  "img/rec/census-1860-tippah-pine-grove-p196-tyre-box.jpg": {
+   "url": "https://archive.org/details/populationschedu592unit/page/n402/",
+   "credit": "1860 U.S. census population schedule, Mississippi, Tippah County, Southern Subdivision, Pine Grove post office, page 196; NARA microfilm, Allen County Public Library Genealogy Center copy, Internet Archive item populationschedu592unit, image n402",
+   "rights": "U.S. federal government record, public domain. Downscaled only (to 2200 px on the long edge)."
+  },
+  "img/rec/census-1860-tippah-pine-grove-p197-alonzo-box.jpg": {
+   "url": "https://archive.org/details/populationschedu592unit/page/n403/",
+   "credit": "1860 U.S. census population schedule, Mississippi, Tippah County, Southern Subdivision, Pine Grove post office, page 197; NARA microfilm, Allen County Public Library Genealogy Center copy, Internet Archive item populationschedu592unit, image n403",
+   "rights": "U.S. federal government record, public domain. Downscaled only (to 2200 px on the long edge)."
   }
  }
 }
