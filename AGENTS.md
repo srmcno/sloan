@@ -12,7 +12,7 @@ This repository publishes a buildless family archive on GitHub Pages. Keep chang
 
 ## One shared codebase (all three family sites)
 
-`index.html`, `app.js`, `adapter.js`, the `archive-*`, `tree-view`, `timeline`, `explore`, `gallery` and `relationships` modules, and every CSS file are identical in srmcno/family, srmcno/sloan and srmcno/rachel. Change them in one repo and copy the same files to the other two.
+`index.html`, `app.js`, `adapter.js`, the `archive-*`, `tree-view`, `timeline`, `explore`, `gallery`, `relationships`, `refine` and `extras` modules, and every CSS file are identical in srmcno/family, srmcno/sloan and srmcno/rachel. Change them in one repo and copy the same files to the other two.
 - Site differences live only in `site.js` (title, wording, colors via `data-site`, topics, places, featured stories, hero photos) and in the data files.
 - Rachel and Sloan read `content.json` + `tree.json`. Family reads `data.json` + `tree.json` through `adapter.js`, read-only.
 - Color schemes: navy (`data-site=family`), slate gray (`data-site=sloan`) and forest green (`data-site=rachel`), defined at the top of `archive.css`.

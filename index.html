@@ -280,6 +280,7 @@ footer{padding:24px 0 40px;color:var(--muted);font-family:var(--sans);font-size:
 <link rel="stylesheet" href="archive.css?v=20261102d">
 <link rel="stylesheet" href="polish.css?v=20261102b">
 <link rel="stylesheet" href="refine.css?v=20261104a">
+<link rel="stylesheet" href="extras.css?v=20261106a">
 <script src="archive-ui.js?v=20261101g"></script>
 <script src="timeline.js?v=20261101g"></script>
 <script src="tree-view.js?v=20261104a"></script>
@@ -314,6 +315,7 @@ footer{padding:24px 0 40px;color:var(--muted);font-family:var(--sans);font-size:
     </div>
     <div class="home-paths"><a href="#/families"><strong>Follow a family name</strong><span>Explore the people and stories along each branch.</span></a><a href="#/places"><strong>Explore their places</strong><span data-text="placesPath"></span></a><a href="#/photos"><strong>Open the photo collection</strong><span>Family photographs and restored editions.</span></a></div>
     <div id="onThisDay" hidden></div>
+    <div id="storyOfDay" hidden></div>
     <div class="home-section-head"><h2 class="sec">A place to begin</h2><a href="#/people">All people</a></div><p class="section-intro" data-text="gpIntro"></p>
     <div class="gp" id="gp"></div>
     <div class="home-section-head"><h2 class="sec">Lives behind the names</h2><a href="#/stories">All stories</a></div>
@@ -403,7 +405,8 @@ footer{padding:24px 0 40px;color:var(--muted);font-family:var(--sans);font-size:
 <aside class="panel" id="panel" role="dialog" aria-label="Person" aria-modal="true" aria-hidden="true" inert><div class="pin" id="pin"></div></aside>
 <div class="lightbox" id="lb" role="dialog" aria-modal="true" aria-label="Family photograph"><button class="x" id="lbx" aria-label="Close photograph">✕</button><div class="photo-tools"><button id="restoredPhoto" aria-pressed="true" hidden>Restored</button><button id="colorizedPhoto" aria-pressed="false" hidden>Colorized</button><button id="originalPhoto" aria-pressed="false" hidden>Original</button><button id="comparePhoto" aria-pressed="false" hidden>Compare</button><button id="retryPhoto" hidden>Try image again</button><button id="zoomPhoto" aria-pressed="false">Zoom in</button><a id="openPhoto" target="_blank" rel="noopener noreferrer">Open full-size</a></div><div class="photo-frame" id="photoFrame"><img id="lbimg" alt=""><div class="photo-compare" id="photoCompare" hidden><img id="compareOriginal" alt="Original photograph"><img id="compareEdited" class="over" alt="Edited photograph"><span class="compare-line" aria-hidden="true"></span><span class="compare-handle" aria-hidden="true">↔</span><span class="compare-tag original">Original</span><span class="compare-tag edited" id="compareLabel">Edited</span><input id="compareRange" type="range" min="0" max="100" value="50" aria-label="Compare original and edited photograph"></div></div><p class="photo-note" id="photoNote" role="status"></p><p id="lbcap"></p></div>
 
-<script type="module" src="app.js?v=20261104d"></script>
+<script type="module" src="app.js?v=20261106a"></script>
 <script src="refine.js?v=20261104a" defer></script>
+<script src="extras.js?v=20261106a" defer></script>
 </body>
 </html>
