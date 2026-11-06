@@ -31502,6 +31502,425 @@
     }
    ],
    "note": "Proven for the card itself: name (signature Carl Cherry Phillips), birth date and a Houston home that matches the later record. The birthplace is “Jackson, Mississippi,” with no more detail, and it conflicts with the “perhaps Jacksonville” guess in the earlier story, which was given without a source line. The name block reads Cheny in the handwriting; the signature reads Cherry. M. E. Crawford is unidentified. No parents are named on the card."
+  },
+  {
+   "id": "tims-frances-timms-1811",
+   "side": "J",
+   "gen": 10,
+   "ev": "probable",
+   "title": "Frances Timms, who lived to ninety-three",
+   "hook": "A Charleston newspaper printed a tribute in March 1811 to a Chester District grandmother who raised ten children and left seven score descendants, and it matches the Tims Bible almost point for point.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "Amos and Frances Tims",
+    "rel": "Paternal family history",
+    "years": "c.1718–1811"
+   },
+   "body": [
+    "The Tims family Bible, copied in 1954 from a photostat and printed in Mississippi, puts the death of Frances, wife of Amos Tims, in February 1811 and her birth on 30 August 1718. It lists her husband Amos as born in Virginia on 16 November 1725 and dead on 5 July 1811. Everything known about this couple had rested on that one copy, in which several digits are lost. A second record now stands beside it. The Carolina Gazette, the weekly edition of Charleston's City Gazette, printed a notice on Friday, 1 March 1811, which the South Carolina Historical and Genealogical Magazine reprinted in October 1935: \"Mrs. Francis Timms, consort of Mr. Amos Timms, sen. of South-Carolina, Chester district, aged 93 years, departed this life, 5th February, 1811.\"",
+    "The notice agrees with the Bible wherever the two can be compared. It supplies the day the Bible copy lost, the fifth. It says she left \"her companion in his 86th year of age,\" and a man born on 16 November 1725 was eighty-five, in his eighty-sixth year, on 5 February 1811. It says they had been together sixty-nine years, which points to a marriage about 1742, and the Bible's Joseph, son of Amos and Frances, was born on 2 December of a year in the 1740s or 1750s whose last digit is lost. The notice gives her age as ninety-three, where the Bible's date would make her ninety-two until the end of August. Taken literally, the figures also put Amos at about sixteen and Frances at about twenty-three on their wedding day, so one or both numbers may be rounded.",
+    "The notice also says what the Bible does not. She was \"a skillful doctress,\" it says, and \"raised ten children to the years of maturity\" and lived to see \"seven score descendants,\" a hundred and forty. Her husband, the writer adds, said that in sixty-nine years she never appeared angry with him. The magazine prints the memorial verses only as a bracketed note, and the writer's own judgment is short: \"Her life deserves a place in the historian's page.\" Nothing else about her, not even her maiden name, has turned up.",
+    "What the notice proves is the couple: their names, their age, their district and the date. It does not name Joseph or any other child, so the link between Frances and the Joseph Tims who married Mary Glover and died in 1801 still rests on the Bible. Other Chester records fit without settling it. A Chester County deed abstract of about 1789 records land \"granted to AMOS TIMMS and transferred from AMOS TIMMS to JAMES ALLISON,\" and carries the signature of Amos Timms with Joseph Timms, John Timms and James Gilchrist as witnesses; the top of the abstract is cut off in the scan, so its date, acreage and creek are lost. The first federal census, in 1790, prints three Timms households in Chester County, those of James and Hollice on page 14 and Joseph on page 16, and none headed by an Amos. He and Frances, then in their sixties and seventies, may have been counted with one of their children; the census does not say.",
+    "Two loose ends remain. The 1786 state census of Granville County, North Carolina, lists an Amos Tims in the Nap of Reeds District, and a Hollis Tims appears on the same list, just as a Hollice Timms turns up in Chester four years later. Whether that Amos is a kinsman, the same man or a stranger is not known. And the Bible puts the husband's death on 5 July 1811, five months after his wife's; no newspaper notice of it has been found."
+   ],
+   "quotes": [
+    {
+     "t": "Mrs. Francis Timms, consort of Mr. Amos Timms, sen. of South-Carolina, Chester district, aged 93 years, departed this life, 5th February, 1811.",
+     "c": "Carolina Gazette, 1 March 1811, as printed in the South Carolina Historical and Genealogical Magazine, October 1935, p. 134"
+    },
+    {
+     "t": "Her life deserves a place in the historian's page.",
+     "c": "Carolina Gazette, 1 March 1811, as printed in the South Carolina Historical and Genealogical Magazine, October 1935, p. 134"
+    }
+   ],
+   "src": [
+    "Mississippi Genealogical Society, Cemetery and Bible Records, vol. 5 (Jackson, 1954), pp. 103-104 (Tims Bible), https://archive.org/details/cemeterybiblerec05miss",
+    "\"Marriage and Death Notices from the Carolina Gazette,\" contributed by Elizabeth H. Jervey, South Carolina Historical and Genealogical Magazine 36:4 (October 1935), p. 134 (notice of Mrs. Francis Timms, Carolina Gazette, Friday, 1 March 1811; indexed under Timms, Amos and Timms, Francis), full text read 6 Nov 2026: https://archive.org/details/sim_south-carolina-historical-magazine_1935-10_36_4",
+    "Mary R. M. Nunneley collection, Nunneley bk. 3, abstracts of Chester County, S.C., Deed Book B (deed signed by Amos Timms, witnesses Joseph Timms, John Timms and James Gilchrist; top of abstract cut off), https://archive.org/details/nunneleycoll24",
+    "Heads of Families at the First Census of the United States Taken in the Year 1790: South Carolina (Washington, 1908), Camden District, Chester County (Timms, James and Hollice, p. 14; Timms, Joseph, p. 16), name lists and index read 6 Nov 2026: https://archive.org/details/headsoffamiliesa12unit",
+    "State Census of North Carolina, 1784-1787, Granville County, \"A List of Souls, Nap of Reeds District, 1786\" (Amos Tims; Hollis Tims), https://archive.org/details/state-census-of-north-carolina-1784-1787"
+   ],
+   "imgs": [],
+   "tags": [
+    "colonial"
+   ],
+   "kv": [
+    [
+     "Notice",
+     "Carolina Gazette, Friday 1 March 1811; reprinted in the S.C. Historical and Genealogical Magazine 36 (Oct. 1935), p. 134"
+    ],
+    [
+     "Frances",
+     "Died 5 Feb 1811, Chester District, S.C., \"aged 93 years\" (Bible: born 30 Aug 1718)"
+    ],
+    [
+     "Amos",
+     "Living, \"in his 86th year\" (Bible: born 16 Nov 1725, died 5 Jul 1811)"
+    ],
+    [
+     "Together",
+     "\"Sixty-nine years,\" about 1742 to 1811; ten children raised; \"seven score descendants\""
+    ],
+    [
+     "Chester, 1790",
+     "Timms households of James and Hollice (p. 14) and Joseph (p. 16); none headed by an Amos"
+    ]
+   ],
+   "note": "PROBABLE. The Gazette notice and the Bible agree on the couple's names, on Chester District, on the month and year of her death, on her great age and on his age, and they are independent records of the same two old people. Neither names a child, so that this Amos and Frances were the parents of Joseph Tims (d. 1801) is still Bible-only. The notice reaches us through a 1935 magazine reprint of a Charleston weekly; the newspaper page itself has not been seen. The Bible gives the husband's death as 5 July 1811, with no second source. The 1786 Granville County listing and the Hollis/Hollice Tims name are not tied to this family. In the tree, Amos (xr9-003) and Frances (xr9-004) are still marked lead; this notice would support probable.",
+   "place": "",
+   "rank": 292
+  },
+  {
+   "id": "tims-amos-nottoway-lunenburg",
+   "side": "J",
+   "gen": 11,
+   "ev": "probable",
+   "title": "Amos Tims, who signed with a mark: the Nottoway and Lunenburg, 1717–1766",
+   "hook": "Virginia deeds, land indexes and court orders show an Amos Tims on the Nottoway River by 1717 and an Amos Tims, Senior and Junior, on the Lunenburg roads in 1760; the family Bible says the elder man was born in Northamptonshire.",
+   "profile": false,
+   "people": [
+    "xw8-001",
+    "xw8-002"
+   ],
+   "subject": {
+    "name": "Amos Tims the elder",
+    "rel": "Paternal family history",
+    "years": "c.1684–1766"
+   },
+   "body": [
+    "The Tims Bible begins with \"Amos Tims, Sen.,\" born in Northamptonshire, England, on 25 March 168 (the last digit is lost), and records his death on 3 August 1766. The story \"Before Doaksville\" carries the family back to him on the strength of that one copied page. Virginia's records now show a man of that name living on the Southside for more than forty years, which the Bible alone could not.",
+    "The earliest is a deed. On 18 February 1731, which by the calendar then in use was early in 1732 by modern reckoning, Amos Tims and his \"wife, Elizabeth Tims\" conveyed two tracts on the north side of the Nottoway River, in a deed recorded in Surry County, to a buyer whose name the scanned abstract reads as Nicholas B. One tract was of 300 acres; the other, of 100 acres, was bounded by Cabbin Branch and John Barker. The abstract notes that some of the land had been \"granted said Amos Tims on 22 Jan 1717.\" Adam Scott, Joseph Binn and William Harrison witnessed it. The abstract shows him signing with a mark, Amos (X) Tims, and ends with the recording date, 15 March 1731, beside Elizabeth's name.",
+    "A land index gives the next fix. In the index of Virginia land grants printed for Brunswick County in 1910, page 138 of the magazine, the entry for Book 13, page 177, lists Amos Tims in 1727 with 200 acres, between John Napper and John Simmons Jr. Volume 5 of Cavaliers and Pioneers, whose entries in the passages I saw date from the 1740s, lists an Amos Timms and an Amos Tims with 464 and 322 acres in Brunswick County, but I saw only search-result passages for those entries, not their dates. The Prince George County merchant Theophilus Feild mentions him once, in a will dated 13 September 1768: Feild kept back one acre near the Old Court House in the county he had just been naming, Brunswick, \"out of the Land by me sold Amos Timms,\" without giving the date of the sale.",
+    "Lunenburg County was cut from Brunswick in 1746, and Amos Timms turns up in its road orders. On 2 April 1751, old style, he was among the men assigned to keep up the road from Dockery's to Julius Nichols's ferry on the Staunton River, and on 5 July 1757 he was assigned to the new road from Fox's Landing on the Roanoke, with Joshua Mabry as surveyor, alongside William Bell and Thomas Bell. The orders do not say which Amos.",
+    "By 1760 there were two of them. \"Amos Tims, Senr.\" was one of three men who appraised a neighbor's estate under a court order of 25 July 1760, with Joshua Mabry and Hutchins Burton, and the return was made on 1 September. The same year \"Amos Timms, Junr.\" was one of the processioners who walked the neighbors' property lines with Mabry and Dennis Larke, and in another entry he joined Henry Delony and Larke in examining an estate account. These are the pair the Bible names: the old man called Senior, then in his seventies if the Bible's birth year is right, and his Virginia-born son Amos, then about thirty-five.",
+    "The younger Amos also appears in a record of a very different kind. On 13 October 1763 the Lunenburg court bound Isham Harris, the son of a free woman named Patty Steward or Stewart, to Amos Tims, Jr., according to Paul Heinegg's study of free families of color, which cites the Lunenburg Orders for 1763-64, page 257. Heinegg puts the boy's birth about 1756 in one entry and about 1760 in another. The record shows how the younger Amos stood in his neighborhood and what part of his household's labor was; the length of Isham's term is not in the passages I could read.",
+    "What the records do not show is where Amos was born. None of them gives a birthplace, so Northamptonshire is still the Bible's claim, and no baptism or arrival record has been found. The Surry deed names a wife Elizabeth, while the Bible gives the younger Amos a wife Frances, born in 1718; whether Elizabeth was the younger Amos's mother or a later wife is unknown, and she is not tied to him here. The death date of 3 August 1766 is the Bible's alone, and no Lunenburg will or inventory for him was found."
+   ],
+   "quotes": [
+    {
+     "t": "granted said Amos Tims on 22 Jan 1717",
+     "c": "Abstract of Surry County Deeds, Wills, Etc. No. 8, 1730-1738, p. 173 (deed of 18 Feb 1731, old style)"
+    }
+   ],
+   "src": [
+    "Underwood family research notebook, box 1, book 3, abstract of Surry County Deeds, Wills, Etc. No. 8, 1730-1738, p. 173 (deed of 18 Feb 1731 from Amos Tims and wife Elizabeth Tims; recorded 15 Mar 1731; the buyer's name and one boundary are garbled in the scan), full text read 6 Nov 2026: https://archive.org/details/underwooddames0103",
+    "\"Index to Land Grants, Brunswick County,\" Virginia County Records, vol. VII, no. 5 (September 1910), Book No. 13, p. 177 (Amos Tims, 1727, 200 acres; printed p. 138), page image read: https://archive.org/details/virginiacountyr00crozgoog",
+    "Cavaliers and Pioneers: Abstracts of Virginia Land Patents and Grants, vol. 5 (1994), entries for Amos Timms (464 acres) and Amos Tims (322 acres), Brunswick Co., search-result passages only, dates not seen: https://archive.org/details/cavalierspioneer0005unse",
+    "Will of Theophilus Feild, Prince George County, 13 Sept 1768, printed in Southside Virginian (1987), p. 65: https://archive.org/details/southsidevirgini51987",
+    "Nathaniel Mason Pawlett and Tyler Jefferson Boyd, Lunenburg County Road Orders 1746-1764 (Virginia Transportation Research Council, 1993, rev. 2004), orders of 2 Apr 1751 O.S. (p. 377) and 5 July 1757 (p. 309), index entry for Amos Timms, full text read 6 Nov 2026: https://archive.org/details/dot_19425_DS1",
+    "Early Wills, 1746-1765: Lunenburg County, Virginia (1983), index entries Tims, Amos, Sr. and Amos, Jr., search-result passages only: https://archive.org/details/earlywills1746170000elli",
+    "Cumberland Parish, Lunenburg County, Virginia, 1746-1816 (1930), processioners' returns of 1760 (Amos Timms, Junr.), search-result passages only: https://archive.org/details/cumberlandparish0000unse_t1d9",
+    "Paul Heinegg, Free African Americans of North Carolina, Virginia, and South Carolina (Stewart/Steward family entry, Isham Harris, citing Lunenburg Orders 1763-64, p. 257), search-result passages only: https://archive.org/details/freeafricanameri0002hein",
+    "Tims Bible, Cemetery and Bible Records, vol. 5 (1954), pp. 103-104: https://archive.org/details/cemeterybiblerec05miss"
+   ],
+   "imgs": [
+    {
+     "s": "img/books/virginia-county-records-1910-p138-amos-tims-1727.jpg",
+     "cap": "Virginia County Records, vol. VII (1910), p. 138, the index of land grants in Brunswick County: Book 13, page 177, \"Amos Tims ... 1727 ... 200\" acres, between John Napper and John Simmons Jr.",
+     "kind": "record"
+    }
+   ],
+   "tags": [
+    "colonial"
+   ],
+   "kv": [
+    [
+     "Bible",
+     "Amos Tims, Sen., born Northamptonshire, England, 25 March 168(?); died 3 Aug 1766 (copied Bible)"
+    ],
+    [
+     "Surry deed",
+     "18 Feb 1731 (old style): Amos (X) Tims and wife Elizabeth convey two tracts on the north side of the Nottoway; land granted him 22 Jan 1717"
+    ],
+    [
+     "Brunswick, 1727",
+     "Land-grant index, Book 13, p. 177 (printed p. 138): Amos Tims, 200 acres"
+    ],
+    [
+     "Lunenburg roads",
+     "Amos Timms on road crews, 2 Apr 1751 and 5 Jul 1757"
+    ],
+    [
+     "Lunenburg, 1760",
+     "\"Amos Tims, Senr.\" appraises an estate (return 1 Sep); \"Amos Timms, Junr.\" processions land with Mabry and Larke"
+    ],
+    [
+     "13 Oct 1763",
+     "Isham Harris, son of a free woman, bound to Amos Tims, Jr. by the Lunenburg court (per Heinegg)"
+    ]
+   ],
+   "note": "PROBABLE that the Bible's Amos Tims, Sen. is the Amos Tims of the Surry, Brunswick and Lunenburg records: the name, the span of years, the Senior and Junior pair in Lunenburg in 1760 and the Bible's own Lunenburg appraisal clue all agree. Not proven: no record gives his birthplace or death, and the Bible's 1766 death is unconfirmed. Elizabeth, named in the 1731/2 deed, is not linked as the younger Amos's mother. The Cavaliers and Pioneers entries, the Lunenburg wills, the Cumberland Parish returns and Heinegg were seen only as search-result passages. LEAD (not opened): a FamilySearch catalog description, seen only as a web-search snippet, speaks of an Amos Thames, born 1684 in Northamptonshire and dead in 1766 in Surry County, whose family bought land there in 1717; Thames may be a variant of Tims and is worth trying in Surry and Brunswick records.",
+   "place": "Surry, Brunswick and Lunenburg counties, Virginia",
+   "rank": 293
+  },
+  {
+   "id": "brown-duncan-margaret-smith-bethany",
+   "side": "J",
+   "gen": 7,
+   "ev": "probable",
+   "title": "Duncan Brown and Margaret Smith: two Robeson County Scots in the Bethany neighborhood",
+   "hook": "The parents of two Tennessee governors, and probably of James Calvin Stevenson's wife, came from Robeson County, North Carolina, in 1809 and farmed about fifteen miles southeast of Pulaski.",
+   "profile": false,
+   "people": [
+    "xw8-003",
+    "xw8-004",
+    "xw8-005",
+    "xw8-006",
+    "xw8-007"
+   ],
+   "subject": {
+    "name": "Duncan and Margaret (Smith) Brown",
+    "rel": "Paternal family history",
+    "years": "1780–1848"
+   },
+   "body": [
+    "The story of James Calvin Stevenson says that his wife, Margaret Caroline Brown, born 8 December 1816, was a sister of two governors of Tennessee, on the word of a neighbor in 1884, an Alabama editor in 1899 and a Nashville kinsman in 1946. This story steps back one generation, to her parents, Duncan Brown and Margaret Smith. The printed accounts of them agree closely on where they lived and when they came.",
+    "Col. Louis Farrell's McCallums (1946) gives Duncan Brown as born on 21 October 1780 and dead in 1848, and says he married his boyhood friend Margaret Smith on 16 January 1805. She was born on 20 January 1782 and was a sister of Sarah Smith, who married Daniel McCallum. Farrell says that Duncan Brown and Daniel McCallum, with their families, settled in Giles County, Tennessee, in 1809.",
+    "A history of Tennessee printed in 1923 tells the same story from the Tennessee end. Gov. John C. Brown, it says, was born on 6 January 1827 \"at the home of his father, Duncan Brown, about fifteen miles southeast of Pulaski, Tenn.\" The farm lay \"on the old state road in the Bethany neighborhood.\" His brother Neill S. Brown was born on 18 April 1810 \"in a house about one-half mile nearer Pulaski,\" and \"Duncan Brown, father of both these governors, emigrated from North Carolina in 1809.\" The Stevensons were close by: the Rev. Elam Stevenson, Margaret Caroline's father-in-law, died in 1875 at W. M. Stevenson's home near Bethany, as the story of Elam Stevenson tells it.",
+    "Farrell's list of the children runs Mary (9 October 1805), George (1808, who died young), Neill Smith (18 April 1810), Mary Ann (1812), Catherine (18 May 1814), Margaret C. (8 December 1816, the date on her stone at Bee Spring), Anna Jane (4 July 1819) and John Calvin, with one more child about whom he had no data. A separate list of early Giles County marriages, compiled for the Tennessee Genealogical Society's journal, gives one more check: James H. Bradshaw married Anna J. Brown on 13 May 1840, and Farrell's Anna Jane married a James Bradshaw. Farrell's date for John Calvin, 9 January 1829, is two years later than the 1923 history's, and his dates are not all sound.",
+    "Farrell gives both families a Scottish root, with warnings. Duncan Brown's father, he says, was Angus Brown, born about 1745, probably in Scotland, a member of Ashpole congregation in Robeson County (an 1818 list of its communicants names him as an elder), who died on 10 September 1820. His will, written in 1820 and not proved until 1831, leaves a son Duncan twice as much as the other heirs; but Farrell notes that an earlier writer had confused two Duncan Browns, and a man who had left for Tennessee in 1809 is an odd candidate for a double share, so Angus is carried here as a lead and not linked. Margaret Smith's father, in the same book, was Neill Smith, born in Scotland in 1756 and dead in Robeson County in February 1822, whose Revolutionary voucher is dated 27 August 1783; her mother was Mary Little, born 1758, who died in Giles County on 18 April 1832, so a Smith parent followed the Browns to Tennessee. Farrell says the Little family's details come from two old family charts of about 1850 and are \"not otherwise substantiated.\"",
+    "Weighed together, Duncan and Margaret (Smith) Brown are probable parents of Margaret Caroline. The 1923 history, the 1946 genealogy and the biographical dictionaries that name the governors' parents as Duncan Brown and Margaret Smith agree, and a 1933 lineage compendium appears to list a Margaret C. (1816–86), \"m James,\" among the children (I saw only search-result passages). None of this is a will, deed or family Bible. Two other Duncan Browns should not be confused with him: one died in Robeson County about January 1859, in the 68th year of his age, according to a Fayetteville Observer notice of 31 January 1859, and a Presbyterian minister, Dr. Duncan Brown, was born in Robeson County in 1771."
+   ],
+   "quotes": [
+    {
+     "t": "The Duncan Brown farm was located on the old state road in the Bethany neighborhood.",
+     "c": "John Trotwood Moore and Austin P. Foster, Tennessee, the Volunteer State, 1769-1923, vol. 1 (1923), pp. 749-750"
+    },
+    {
+     "t": "Duncan Brown, father of both these governors, emigrated from North Carolina in 1809.",
+     "c": "Moore and Foster, Tennessee, the Volunteer State, vol. 1, p. 750"
+    }
+   ],
+   "src": [
+    "Louis Farrell, comp., McCallums: Daniel McCallum, Isabel Sellars, Their Antecedents, Descendants and Collateral Relatives (Dallas, 1946), Brown, Little and Smith sections (Duncan Brown and Margaret Smith; Angus Brown; Neill Smith and Mary Little; Ashpole communicants of 16 March 1818), full text read 6 Nov 2026: https://archive.org/details/mccallumsdanielm00farr",
+    "John Trotwood Moore and Austin P. Foster, Tennessee, the Volunteer State, 1769-1923, vol. 1 (Chicago, 1923), \"Birthplace of Governors John C. Brown, Neill S. Brown,\" pp. 749-750, full text read 6 Nov 2026: https://archive.org/details/tennesseevolunte01moor",
+    "Wikipedia, \"Neill S. Brown\" (born in Giles County, the son of Duncan and Margaret Smith Brown; no citation given), read 6 Nov 2026: https://en.wikipedia.org/wiki/Neill_S._Brown",
+    "\"Pre-1865 Giles County Marriage Records,\" Giles County TNGenWeb (compiled for Ansearchin' News; Bradshaw, James H. and Brown, Anna J., 13 May 1840), read 6 Nov 2026: https://tngenweb.org/giles/pre-1865-giles-county-marriage-records/",
+    "Frederick A. Virkus, ed., The Compendium of American Genealogy, vol. 5 (1933), Brown and Smith lineage, search-result passages only: https://archive.org/details/compendiumofamer0005fred",
+    "Fayetteville Observer, 31 January 1859 (death of Duncan Brown of Robeson County), search-result passage only: https://archive.org/details/per_fayetteville-observer_fayetteville-observer_1859-01-31_42_2174",
+    "Ezra Hall Gillett, History of the Presbyterian Church in the United States of America (1864), vol. 2 (Dr. Duncan Brown, born in Robeson County, 1771), search-result passage only: https://archive.org/details/historyofpresbyt02gilliala"
+   ],
+   "imgs": [
+    {
+     "s": "img/books/moore-1923-pp749-750-duncan-brown.jpg",
+     "cap": "Moore and Foster, Tennessee, the Volunteer State (1923), pp. 749-750: John C. Brown born at his father Duncan Brown's home, \"in the Bethany neighborhood,\" and \"Duncan Brown, father of both these governors, emigrated from North Carolina in 1809.\" Two crops of consecutive pages, stacked; nothing else changed.",
+     "kind": "record"
+    }
+   ],
+   "tags": [
+    "notable"
+   ],
+   "kv": [
+    [
+     "Duncan Brown",
+     "Born 21 Oct 1780; died 1848; came from North Carolina to Giles Co., Tenn., in 1809"
+    ],
+    [
+     "Margaret Smith",
+     "Born 20 Jan 1782; married Duncan Brown 16 Jan 1805 (Farrell, 1946)"
+    ],
+    [
+     "Farm",
+     "\"In the Bethany neighborhood,\" about fifteen miles southeast of Pulaski (Moore and Foster, 1923)"
+    ],
+    [
+     "Children",
+     "Mary 1805, George 1808, Neill Smith 1810, Mary Ann 1812, Catherine 1814, Margaret C. 1816, Anna Jane 1819, John Calvin 1827"
+    ],
+    [
+     "Leads, not linked",
+     "Angus Brown (c.1745–1820); Neill Smith (1756–1822) and Mary Little (1758–1832), all of Robeson County"
+    ]
+   ],
+   "note": "PROBABLE for Duncan Brown and Margaret Smith as parents of Margaret Caroline Brown; the kinship of Margaret Caroline herself is probable on the three witnesses in her own story. LEAD for Angus Brown, Neill Smith and Mary Little, who rest on one 1946 compilation, and for the link between Duncan and Angus, which Farrell's own will summary leaves open. Farrell's cited state records (North Carolina Revolutionary Army Accounts, vol. VI, p. 24, folio 3, for Angus Brown; Treasurer's Office Papers, vouchers, box S, no. 4305, for Neill Smith) were not opened. John Calvin Brown's birth is 6 Jan 1827 in the 1923 history and 9 Jan 1829 in Farrell. Margaret Smith's death date is not given anywhere seen. The 1933 compendium and the Gillett and Fayetteville Observer passages were seen only as search results.",
+   "place": "Robeson County, North Carolina, and the Bethany neighborhood, Giles County, Tennessee",
+   "rank": 294
+  },
+  {
+   "id": "andrews-parents-limestone-giles",
+   "side": "J",
+   "gen": 6,
+   "ev": "proven",
+   "title": "David Andrews and Eliza Ann Brown: the parents a preacher named in 1912",
+   "hook": "The opening lines of Rev. W. T. Andrews's 1912 autobiography name his father and his mother, and say why a widow took her large family from Alabama to Giles County.",
+   "profile": false,
+   "people": [
+    "xw8-008",
+    "xw8-009"
+   ],
+   "subject": {
+    "name": "David Andrews and Eliza Ann (Brown) Andrews",
+    "rel": "Paternal family history",
+    "years": "before 1856"
+   },
+   "body": [
+    "Rev. William Thomas Andrews, a North Alabama Conference Methodist preacher whose son James David Andrews was the father of Gen. Frank M. Andrews, wrote a short autobiography in 1912 for a volume of memorial sketches. The story about him used its lines on his marriage. Its first sentences are about his parents: \"I was born in Limestone County, Ala., near old Cambridge Camp Ground, six miles east of Athens, Ala. My father was David Andrews, and the maiden name of my mother was Eliza Ann Brown.\"",
+    "He goes on that his father died, \"as I am told, when I was about two years old,\" and that his mother, \"being left with a large family,\" moved to Giles County, Tennessee, \"where most of her relatives lived and where she owned a good farm.\" There he spent his childhood and part of his young manhood. He gives no date for either parent, no names for his brothers and sisters, and no neighborhood for his mother's relatives.",
+    "The rest fits the household that the Stevenson story already knew. He was licensed to preach at Elkton, Tennessee, in 1856 by the presiding elder William Burr, with W. G. Hensley as preacher in charge, and on 30 November of that year he married Eliza Catherine Stevenson, daughter of the Rev. James C. and Margaret C. Stevenson. He lists their children as five sons and one daughter: James David Andrews of Nashville, John Beverly, Charles Fletcher, William Brown, Milton, and Mrs. H. M. Little of Birmingham. The fourth son's middle name may carry his grandmother's maiden name; the book does not say so.",
+    "Two Browns meet in this family and should not be confused. Andrews's mother was Eliza Ann Brown, whose relatives lived in Giles County. His wife's mother was Margaret Caroline Brown, whose father Duncan Brown farmed in the Bethany neighborhood. Nothing in the autobiography or in any record seen ties the two families together, and Brown is a common name in the county.",
+    "His own birth year is not given. The next things to find are a David Andrews in the Limestone County, Alabama, censuses of 1830 and 1840, and Eliza Ann as a widow with a farm in the Giles County census of 1850; either would put dates on this household."
+   ],
+   "quotes": [
+    {
+     "t": "My father was David Andrews, and the maiden name of my mother was Eliza Ann Brown.",
+     "c": "Rev. W. T. Andrews, autobiography, Memorial Sketches of the Lives and Labors of the Deceased Ministers of the North Alabama Conference (1912), p. 340"
+    },
+    {
+     "t": "where most of her relatives lived and where she owned a good farm",
+     "c": "Rev. W. T. Andrews, autobiography, 1912, p. 340"
+    }
+   ],
+   "src": [
+    "Rev. W. T. Andrews, \"Autobiography of Rev. W. T. Andrews,\" in Memorial Sketches of the Lives and Labors of the Deceased Ministers of the North Alabama Conference (1912), pp. 340-341, full text read 6 Nov 2026: https://archive.org/details/memorialsketches00andr"
+   ],
+   "imgs": [],
+   "tags": [],
+   "kv": [
+    [
+     "Born",
+     "Limestone County, Alabama, near old Cambridge Camp Ground, six miles east of Athens (his own account, 1912)"
+    ],
+    [
+     "Father",
+     "David Andrews; died when his son was \"about two years old\""
+    ],
+    [
+     "Mother",
+     "Eliza Ann Brown; left \"with a large family,\" she moved to Giles County, Tenn., where she owned a farm"
+    ],
+    [
+     "Licensed",
+     "1856, at Elkton, Tenn."
+    ]
+   ],
+   "note": "The parents are named by the son himself in a printed autobiography, so the relationship is proven as his own statement; his father's death is \"as I am told.\" No census, marriage or land record for David Andrews or Eliza Ann Brown has been seen, and no connection to Duncan Brown's family of Giles County is claimed.",
+   "place": "Limestone County, Alabama, and Giles County, Tennessee",
+   "rank": 295
+  },
+  {
+   "id": "nordyke-micajah-charity-ellis",
+   "side": "J",
+   "gen": 9,
+   "ev": "probable",
+   "title": "Micajah Nordyke, born the year the family left New Jersey",
+   "hook": "Aden's younger brother married Charity Ellis at Lost Creek Meeting in 1798 and took her to Ohio with their children; where he was born is a small puzzle between a family genealogy and the Quaker certificates.",
+   "profile": false,
+   "people": [
+    "xw8-010",
+    "xw8-011",
+    "xw8-012",
+    "xw8-013"
+   ],
+   "subject": {
+    "name": "Micajah and Charity (Ellis) Nordyke",
+    "rel": "Paternal family history",
+    "years": "1771–1857 · c.1779–1854"
+   },
+   "body": [
+    "Micajah Nordyke was born on 26 March 1771, a son of Abraham and Mary (Rogers) Nordyke and a brother of Aden. Where he was born is a small puzzle. The 1960 Terrell-Nordyke genealogy says Stafford County, Virginia, and the site's timeline has followed it. Robert Adam Boyd's 2009 register, which sets each Nordyke's Quaker meeting record in order, says probably Burlington County, New Jersey, \"but perhaps in Virginia,\" and records that Burlington Monthly Meeting granted Abraham's family a certificate to Hopewell Monthly Meeting in Frederick County, Virginia, on 3 August 1772. If that date is right, a boy born in March 1771 was born before the move, in New Jersey. The meeting records give no place of birth, so the question stays open.",
+    "His early life follows his father's through the meetings. Boyd has the family received at Wrightsborough Monthly Meeting in Columbia County, Georgia, on 2 September 1775, then at Deep River Monthly Meeting in Guilford County, North Carolina, in the fall of 1783, at Westfield Monthly Meeting in Surry County in 1790, and at Lost Creek Monthly Meeting in Jefferson County, Tennessee, in the winter of 1797–98. Terrell preserves a family memory from the Georgia years: at four, with an Indian attack feared, Micajah lay hidden in a dense wood through a whole night.",
+    "At Lost Creek, on 4 April 1798, he married Charity Ellis, born about 1779 in Virginia. Boyd, drawing on the Quaker abstracts, makes her the daughter of Nehemiah Ellis and Sarah Thornbrough, and Terrell agrees. Nehemiah had moved his family from Exeter Monthly Meeting in Berks County, Pennsylvania, to Hopewell in 1773, settled in Berkeley County, Virginia, and married Sarah Thornbrough on 10 August 1774 at Middle Creek. He was a charter member of Lost Creek on 17 June 1797 and its assistant clerk in 1801, so the bride's father and the groom's family had come to the new meeting within months of each other. Terrell traces Nehemiah to a Mordecai Ellis born in Wales; I have not used that.",
+    "In 1805 or 1806 the young family went north. Terrell says the move to Ohio was in 1805, with four of their eventual twelve children already born, and Boyd has them transferred to Miami Monthly Meeting in Warren County in 1806, then attending Clear Creek Monthly Meeting in Clinton County. Terrell's family account has Micajah buying 300 acres at $2.50 an acre in the forest beside an old Indian village, and winter in a shelter open to the south. His children, as Terrell lists them, all lived to marry: Phebe (1798), Sarah (1800), Isaac (1802), Mary (1804), Ellis (1807), Henry (1809), Samuel (1811), Jesse (1813), David (1815), Asa (1817), Lewis (1820) and Hannah (1823).",
+    "Charity died on 5 June 1854 and Micajah on 6 July 1857, both probably in Green Township, Clinton County, and they lie at East Fork Quaker Cemetery near Abraham and Mary. Their stones, as Boyd transcribes them, are partly worn: his gives his age as 86 years, and hers has lost its years. Terrell, who descends from their son Henry, says Micajah lived to see 81 descendants."
+   ],
+   "quotes": [],
+   "src": [
+    "Robert Adam Boyd, Boyd Family Ancestry (Covina, Calif., 2009), entries 200 (Micajah Nordyke), 201 (Charity Ellis), 400 (Abraham Nordyke), 402-403 (Nehemiah Ellis, Sarah Thornbrough), citing Hinshaw's Encyclopedia of American Quaker Genealogy and cemetery transcriptions, full text read 6 Nov 2026: https://archive.org/details/boyd-family-ancestry",
+    "C. Clayton Terrell, Terrell-Nordyke Genealogy (1960), pp. 13-15, full text read 6 Nov 2026: https://archive.org/details/terrellnordykege00terr"
+   ],
+   "imgs": [],
+   "tags": [
+    "quaker"
+   ],
+   "kv": [
+    [
+     "Born",
+     "26 Mar 1771; New Jersey by Boyd (probably), Stafford County, Va., by Terrell"
+    ],
+    [
+     "Meetings",
+     "Wrightsborough (Ga.) 1775; Deep River 1783; Westfield 1790; Lost Creek (Tenn.) 1797–98; Miami (Ohio) 1806"
+    ],
+    [
+     "Married",
+     "4 Apr 1798, Lost Creek Monthly Meeting, to Charity Ellis"
+    ],
+    [
+     "Children",
+     "Twelve, from Phebe (1798) to Hannah (1823); Henry (1809) is Terrell's ancestor"
+    ],
+    [
+     "Died",
+     "Charity 5 Jun 1854; Micajah 6 Jul 1857, Green Township, Clinton Co., Ohio"
+    ]
+   ],
+   "note": "PROBABLE. Micajah's parentage rests on the Quaker family certificates as abstracted by Hinshaw and printed by Boyd, plus Terrell; the originals were not seen. His birthplace conflicts between Terrell (Stafford County, Virginia) and Boyd (probably Burlington County, New Jersey): the 1772 certificate favors New Jersey, and the timeline entry that has him born in Stafford County follows Terrell. The year of the Ohio move is 1805 in Terrell and 1806 in Boyd. Charity's parentage is Boyd plus Terrell. The family cabin, the hidden night and the wolf stories are Terrell's family tradition. Terrell's Mordecai Ellis of Wales is a lead and is not entered.",
+   "place": "Burlington County, New Jersey; Georgia; North Carolina; Tennessee; Clinton County, Ohio",
+   "rank": 296
+  },
+  {
+   "id": "elmore-ellyson-black-creek-1729",
+   "side": "J",
+   "gen": 11,
+   "ev": "probable",
+   "title": "The Quaker parents of Cisley Elmore: Thomas Elmore and Cecilia Ellyson",
+   "hook": "Friends' records and the genealogies built on them place Cisley Johnson's mother in a New Kent Quaker family, the Ellysons, and say nothing of the Cherokee ancestry that member trees attach to her.",
+   "profile": false,
+   "people": [
+    "xw8-014"
+   ],
+   "subject": {
+    "name": "Thomas Elmore and Cecilia (Ellyson) Elmore",
+    "rel": "Paternal family history",
+    "years": "m. 1729 · Cecilia 1704–1772"
+   },
+   "body": [
+    "The Cedar Creek marriage of 1758 gives Robert Johnson's bride as \"Cisley ELMORE, dt Thomas, Amelia Co.\" It names her father and not her mother. The family tree names the mother as Cecilia, and two printed family books and a genealogist's web page agree: Cecilia Ellyson, born about 1704 and dead in 1772, married Thomas Elmore at New Kent County, Virginia, in 1729, and they later lived in Amelia County. One of them, a 1985 Davis family book, prints the marriage date as 5-9-1729; in Friends' dating that would be the ninth day of the fifth month, July 1729, but I have not seen the minute. The 1963 Branch, Harris, Jarvis and Chinn Book, in the passages I could read, says she married Thomas Elmore Jr. at Black Creek Meeting House in New Kent and had a daughter Cisely of Amelia County.",
+    "The Ellysons were New Kent and Henrico Friends. A genealogist's transcription from the Henrico Monthly Meeting book of 1699–1756 prints the marriage certificate of John Johnson and Elizabeth Ellyson, \"daughter of Gered Robt Ellyson of Newkent County,\" made at the meeting house in New Kent on the sixth day of the eighth month 1725, with Thomas Elmore, John Elmore, Mary Elmore and Robert, Judith and Agnes Ellyson among the witnesses. The same writer lists the children of Gerrard Robert Ellyson II, a Quaker born about 1672 who died on 16 December 1749 and whose wife Sarah witnessed a marriage with him by February 1700: Robert, Agatha, William, Hannah, Elizabeth, Cecilia, Judith and Ursula. The 1963 book, as far as the search passages show, also calls Cecilia a daughter of Garrett Robert and Sarah.",
+    "This is where the records touch the family tree. In the tree, Cecilia carries a long name that calls her a \"Full-Blood Cherokee Indian,\" with a mother named \"Ann (Quatsy 'Woman of the Wolf Clan' Moytoy of Tellico) Myhill (Ellyson),\" born in 1647. The tree's own note says that the Cherokee label and that parent link come from member trees and that no record supports them. The Quaker papers above present her instead as a Friend of English-speaking New Kent, a daughter of Gerrard Robert Ellyson and, in the sources that name her, his wife Sarah, and nothing in the passages I read mentions Cherokee ancestry. The dates alone show a problem with the tree's link: a woman born in 1647 would have been fifty-seven when Cecilia was born in 1704.",
+    "The sources do not agree on the mother. The blog page that names Anne Myhill as a wife of a Gerard Robert Ellyson also calls the Gerrard of Cecilia's generation \"II,\" which suggests, though it does not say, that Anne belonged to the generation before; the Henrico witness record and the 1963 book name Sarah. Anne Myhill may therefore be a real woman, perhaps a grandmother, and nothing seen ties her to the Cherokee. The Moytoy story stays an unverified legend.",
+    "Still needed are the Henrico Monthly Meeting entry for the 1729 marriage itself, a record naming Cecilia's mother, and Thomas Elmore's own parents. Colonial Wills of Henrico County has the will of a Rebeckah Elmore naming a son Thomas and a tract of 275 acres, which I did not tie to this family."
+   ],
+   "quotes": [
+    {
+     "t": "Cisley ELMORE, dt Thomas, Amelia Co.",
+     "c": "Cedar Creek Monthly Meeting marriage entry, 19 Nov 1758, as transcribed on the Johnson DNA project page"
+    }
+   ],
+   "src": [
+    "Cedar Creek Monthly Meeting marriage entry of 19 Nov 1758 (Robert Johnson and Cisley Elmore), as transcribed at https://sites.google.com/view/jeffbockman/johnson-dna-project/olive-group/1-john-johnson-elizabeth-massie",
+    "\"Elizabeth Ellyson (1701/6-?) New Kent, Hanover Counties, VA,\" Vikings and Virginians, 18 May 2019 (children of Gerrard Robert Ellyson II; Cecilia Ellyson, 1704-1772, m. Thomas Elmore III 1729), read 6 Nov 2026: https://vikingsandvirginians.com/?p=1011",
+    "\"Notes on Selected Quaker Families of Hanover County, Virginia,\" Vikings and Virginians, 28 May 2012 (marriage certificate of John Johnson and Elizabeth Ellyson, 6th day of 8th month 1725, from the Henrico Monthly Meeting records, 1699-1756), read 6 Nov 2026: https://vikingsandvirginians.com/?p=989",
+    "Davis: A Quaker Family (1985), Thomas Elmore and Cecilia Ellyson, search-result passage only: https://archive.org/details/davisquakerfamil00davi",
+    "The Branch, Harris, Jarvis, and Chinn Book (1963), Cecilia Ellyson and Thomas Elmore Jr. of Black Creek Meeting House, search-result passages only: https://archive.org/details/branchharrisjarv00bran",
+    "Colonial Wills of Henrico County, Virginia, Part Two, 1737-1781 (1977), will of Rebeckah Elmore, search-result passage only: https://archive.org/details/colonialwillsofh0000benj"
+   ],
+   "imgs": [],
+   "tags": [
+    "quaker"
+   ],
+   "kv": [
+    [
+     "Cecilia Ellyson",
+     "Born about 1704, New Kent County, Va.; died 1772; daughter of Gerrard Robert Ellyson and (per two sources) Sarah"
+    ],
+    [
+     "Marriage",
+     "Thomas Elmore and Cecilia Ellyson, New Kent County, 1729; later of Amelia County"
+    ],
+    [
+     "Daughter",
+     "Cisley (Cecilia) Elmore, married Robert Johnson at Cedar Creek, 19 Nov 1758"
+    ],
+    [
+     "Tree problem",
+     "The tree gives Cecilia's mother as Ann Myhill, born 1647, fifty-seven years before Cecilia's birth"
+    ]
+   ],
+   "note": "PROBABLE that Cisley Elmore's parents were Thomas Elmore and Cecilia Ellyson: the 1758 Cedar Creek entry names her father and county, and two printed genealogies and a family blogger's list give the 1729 marriage. LEAD for Cecilia's parentage (Gerrard Robert Ellyson II and Sarah): it rests on a blogger's transcription of Henrico Monthly Meeting records and on a 1963 family book seen only as search passages; blogs and compiled trees are leads, not proof. The Davis 1985 and 1963 Branch passages were not read in full. The tree's Cecilia (I352788853444) still points to Ann Myhill as her mother although the tree's note says that link was removed; the Cherokee/Moytoy label has no record behind it.",
+   "place": "New Kent, Henrico and Amelia counties, Virginia",
+   "rank": 297
   }
  ],
  "storyAliases": {
@@ -36537,6 +36956,60 @@
    "t": "The census taker in Tulsa counts Wesley Alford, 56, divorced, as father-in-law in a household headed by a Pennsylvania-born man.",
    "side": "N",
    "story": "wesley-earl-alford-tulsa-1942-1950"
+  },
+  {
+   "y": "1811",
+   "t": "Frances Timms, wife of Amos Timms senior of Chester District, dies on 5 February at about ninety-three; the Carolina Gazette of 1 March says she raised ten children and left \"seven score descendants.\"",
+   "side": "J",
+   "story": "tims-frances-timms-1811"
+  },
+  {
+   "y": "1717",
+   "t": "Amos Tims is granted land on the north side of the Nottoway River in Virginia on 22 January; he later sells part of it, signing with his mark.",
+   "side": "J",
+   "story": "tims-amos-nottoway-lunenburg"
+  },
+  {
+   "y": "1731",
+   "t": "Amos Tims and his wife Elizabeth convey two tracts on the Nottoway in Surry County on 18 February (old style); the deed is recorded on 15 March.",
+   "side": "J",
+   "story": "tims-amos-nottoway-lunenburg"
+  },
+  {
+   "y": "1760",
+   "t": "Amos Tims, Senior, helps appraise a Lunenburg County estate, and Amos Timms, Junior, walks the neighbors' lines as a processioner.",
+   "side": "J",
+   "story": "tims-amos-nottoway-lunenburg"
+  },
+  {
+   "y": "1805",
+   "t": "Duncan Brown and Margaret Smith, boyhood friends in Robeson County, North Carolina, marry on 16 January, according to a 1946 McCallum genealogy.",
+   "side": "J",
+   "story": "brown-duncan-margaret-smith-bethany"
+  },
+  {
+   "y": "1809",
+   "t": "Duncan Brown and Daniel McCallum bring their families from North Carolina to Giles County, Tennessee; Brown's farm in the Bethany neighborhood is where two governors are born.",
+   "side": "J",
+   "story": "brown-duncan-margaret-smith-bethany"
+  },
+  {
+   "y": "1912",
+   "t": "In his autobiography in Memorial Sketches, Rev. W. T. Andrews names his parents as David Andrews and Eliza Ann Brown of Limestone County, Alabama, and says his widowed mother took the family to Giles County, Tennessee.",
+   "side": "J",
+   "story": "andrews-parents-limestone-giles"
+  },
+  {
+   "y": "1798",
+   "t": "Micajah Nordyke, Aden's brother, marries Charity Ellis on 4 April at Lost Creek Meeting, Tennessee.",
+   "side": "J",
+   "story": "nordyke-micajah-charity-ellis"
+  },
+  {
+   "y": "1729",
+   "t": "Thomas Elmore and Cecilia Ellyson, a daughter of New Kent County Friends, marry; their daughter Cisley later marries Robert Johnson at Cedar Creek.",
+   "side": "J",
+   "story": "elmore-ellyson-black-creek-1729"
   }
  ],
  "fixes": [
@@ -39340,6 +39813,12 @@
    "url": "https://catalog.archives.gov/id/323573946",
    "credit": "Selective Service System, Fourth Registration Draft Cards (Texas), Record Group 147, National Archives at St. Louis; National Archives Catalog file unit 323573946, image 004147501_02415",
    "rights": "U.S. federal government record, public domain; National Archives catalog access and use “Unrestricted.” Converted from TIFF to JPEG only."
+  },
+  "img/books/virginia-county-records-1910-p138-amos-tims-1727.jpg": {
+   "url": "https://archive.org/details/virginiacountyr00crozgoog"
+  },
+  "img/books/moore-1923-pp749-750-duncan-brown.jpg": {
+   "url": "https://archive.org/details/tennesseevolunte01moor"
   }
  }
 }
