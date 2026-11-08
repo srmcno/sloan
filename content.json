@@ -3679,9 +3679,20 @@
     "Hugo Daily News, 11 May 1937",
     "Find a Grave (Speer and Long Creek cemeteries)",
     "Allotment file for Roll 4467",
-    "Choctaw County Clerk records (1979-091763, 1982-115102)."
+    "Choctaw County Clerk records (1979-091763, 1982-115102).",
+    "Photograph of Robert Pisachubbe, collection of Todd McCombs, contributed by jmmk2 to FamilySearch Memories (https://www.familysearch.org/en/tree/person/memories/GS3Q-6JV)"
    ],
    "imgs": [
+    {
+     "s": "img/p/robert_pisachubbe_orig.jpg",
+     "cap": "Robert Pisachubbe, Frances Thompson's father, standing outdoors in a suit coat. The McCombs family kept the photograph; Ernest McCombs danced with Robert's grandson Leonard Thompson. Photo: contributed by jmmk2, FamilySearch Memories.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/robert_pisachubbe_back.jpg",
+     "cap": "The back of the photograph, inscribed in pencil \"Robert Pissing Chuby,\" a phonetic spelling of Pisachubbe. Photo: contributed by jmmk2, FamilySearch Memories.",
+     "kind": "record"
+    },
     {
      "s": "img/draft_robertp_1917.jpg",
      "cap": "Robert's WWI draft card, Speer, 5 June 1917"
@@ -39843,6 +39854,13 @@
   "img/stones/oscar_hulsey_marker_wheelock.jpg": {
    "url": "https://www.findagrave.com/memorial/180238729/oscar-franklin-hulsey/photo",
    "credit": "Photo: Brandon O'Rear, Find a Grave"
+  },
+  "img/p/robert_pisachubbe_orig.jpg": {
+   "url": "Photograph from the collection of Todd McCombs, by way of Jack Badley, contributed by jmmk2 to FamilySearch Memories on the profile of Robert's grandson Leonard Lavern Thompson (GS3Q-6JV)."
+  },
+  "img/p/robert_pisachubbe_back.jpg": {
+   "url": "https://www.familysearch.org/en/tree/person/memories/GS3Q-6JV",
+   "credit": "Photo: contributed by jmmk2, FamilySearch Memories (collection of Todd McCombs)"
   }
  }
 }
