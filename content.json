@@ -3977,9 +3977,26 @@
     "1920 U.S. census, Sulphur Twp., McCurtain Co., Okla.",
     "1950 U.S. census",
     "U.S., Social Security Death Index.",
-    "McCurtain Gazette, 12 Jan 1946, p. 1 (divorce list)"
+    "McCurtain Gazette, 12 Jan 1946, p. 1 (divorce list)",
+    "Find a Grave memorial 180238729, grave-marker photograph by Brandon O'Rear, 10 Jun 2017 (https://www.findagrave.com/memorial/180238729/oscar-franklin-hulsey/photo)",
+    "FamilySearch Memories for Oscar Franklin Hulsey (9F3F-JXM), January 1940 family photograph contributed by LarryHulsey1 (https://www.familysearch.org/en/tree/person/memories/9F3F-JXM)"
    ],
    "imgs": [
+    {
+     "s": "img/p/oscar_hulsey_1940_orig.jpg",
+     "cap": "Oscar Hulsey, 29, in January 1940, cropped from the family photograph below. Photo: contributed by LarryHulsey1, FamilySearch Memories.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/p/hulsey_family_january_1940.jpg",
+     "cap": "Oscar and Katie Hulsey with their children, January 1940, about the time the census found them at South Fork, Arkansas. Oscar stands at the left. Photo: contributed by LarryHulsey1, FamilySearch Memories.",
+     "kind": "photo"
+    },
+    {
+     "s": "img/stones/oscar_hulsey_marker_wheelock.jpg",
+     "cap": "Oscar's grave marker at Wheelock Cemetery, Millerton: \"OSCAR F HULSEY 1910 1982.\" Photo: Brandon O'Rear, Find a Grave, 10 June 2017.",
+     "kind": "photo"
+    },
     {
      "s": "img/places/wheelock_academy_1932.jpg",
      "cap": "A page from the 1932–33 Wheelock Academy report about field work and a child health clinic (National Archives). Wikimedia Commons, Public domain. Source: https://commons.wikimedia.org/wiki/File:Wheelock_Academy,_1932-1933_-_NARA_-_268446.jpg",
@@ -4031,7 +4048,7 @@
     ],
     [
      "Burial",
-     "Wheelock Cemetery, Millerton; funeral at 2 p.m. on the Sunday, Rev. Bob Lewis officiating (McCurtain Gazette, 20 Jun 1982); no published transcription of Wheelock was found, so the stone is not independently confirmed"
+     "Wheelock Cemetery, Millerton; funeral at 2 p.m. on the Sunday, Rev. Bob Lewis officiating (McCurtain Gazette, 20 Jun 1982); a funeral-home marker reading \"Oscar F Hulsey 1910 1982\" was photographed there in 2017 (Find a Grave 180238729)"
     ],
     [
      "Holly Creek",
@@ -39819,6 +39836,13 @@
   },
   "img/books/moore-1923-pp749-750-duncan-brown.jpg": {
    "url": "https://archive.org/details/tennesseevolunte01moor"
+  },
+  "img/p/oscar_hulsey_1940_orig.jpg": {
+   "url": "Cropped from the January 1940 Hulsey family photograph contributed by LarryHulsey1 to FamilySearch Memories (Oscar Franklin Hulsey, 9F3F-JXM)."
+  },
+  "img/stones/oscar_hulsey_marker_wheelock.jpg": {
+   "url": "https://www.findagrave.com/memorial/180238729/oscar-franklin-hulsey/photo",
+   "credit": "Photo: Brandon O'Rear, Find a Grave"
   }
  }
 }
