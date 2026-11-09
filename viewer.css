@@ -41,3 +41,18 @@
   .lightbox.on .archive-photo-details { flex-shrink: 0; max-height: 26dvh; width: 100%; margin: 0; }
   .lightbox.on .archive-photo-details:not([open]) { overflow: hidden; }
 }
+
+/* Phones: readable card labels and finger-sized targets. Desktop is unchanged. */
+@media (max-width: 700px) {
+  .gallery-collection .gallery-badges span { font-size: 11px; padding: 3px 7px; }
+  .gallery-collection .gallery-source a { padding: 12px 0; }
+  .footer-inner nav a { display: inline-flex; align-items: center; min-height: 44px; }
+  .footer-inner nav { gap: 0; }
+  /* iPhone Safari ignores height on natively styled dropdowns; give them the site's own styling */
+  select:not([multiple]) {
+    -webkit-appearance: none !important; appearance: none !important;
+    min-height: 44px; padding-right: 34px !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%238a94a3' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") !important;
+    background-repeat: no-repeat !important; background-position: right 12px center !important; background-size: 12px 8px !important;
+  }
+}

@@ -233,7 +233,7 @@ $('#fixes').innerHTML=(C.fixes||[]).map(f=>`<div><b>${esc(f.who)}</b>${esc(f.fix
 /* ---------- search ---------- */
 document.addEventListener('keydown',e=>{if(e.key!=='Escape')return;if($('#lb').classList.contains('on'))closeLB();else closePanel()});
 
-const [{initExplore},{initGallery}]=await Promise.all([import('./explore.js?v=20261102b'),import('./gallery.js?v=20261102c')]);
+const [{initExplore},{initGallery}]=await Promise.all([import('./explore.js?v=20261102b'),import('./gallery.js?v=20261108t')]);
 const explore=initExplore({P:Object.fromEntries(Object.entries(P).filter(([,p])=>!p.virtual).map(([id,p])=>[id,{...p,side:photoSide(id)}])),STORIES:LIST,C,esc,photo,restored,years,relName,storyCard,SITE});
 const {renderPhotos,renderRecords,items:galleryItems}=initGallery({photos,C,esc,restored,lightbox});
 const registry=galleryItems.map(p=>{const r=edition(p.s),archive=(C.archivePhotos||[]).find(a=>a.s===p.s);return{src:p.s,caption:p.caption||p.c,kind:p.kind==='records'?'record':'photo',source:p.source||r?.source||archive?.source||'',date:archive?.date||'',place:archive?.place||'',notes:[r?.method,r?.note,r?.colorized?(r.edit_note||'AI-colorized interpretation; original colors are not documented.'):''].filter(Boolean).join(' '),versions:{original:p.s,restored:r?.s,colorized:r?.colorized},story:p.story};});

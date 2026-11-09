@@ -18,3 +18,7 @@ This repository publishes a buildless family archive on GitHub Pages. Keep chang
 - Color schemes: navy (`data-site=family`), slate gray (`data-site=sloan`) and forest green (`data-site=rachel`), defined at the top of `archive.css`.
 - Family and Sloan link to each other through `text.otherArchive` in `site.js` (shown in the footer). Rachel is standalone and has no cross-link.
 - Sloan also has its own `ancestry.html` page (Ancestry & DNA map) linked through `text.ancestryLink`; the other sites leave that text empty.
+
+## Gallery previews
+
+Photo and record cards load small previews from `img/thumbs/` (same path as the image, `.jpg`). After adding or replacing images, run `python3 make_thumbs.py` (needs Pillow) and commit `img/thumbs/`. A missing preview falls back to the full image, so pages never break.

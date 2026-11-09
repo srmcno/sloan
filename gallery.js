@@ -1,4 +1,6 @@
 /* Photographs and documents have separate collections and independent filters. */
+// Gallery cards load small previews from img/thumbs/ (made by make_thumbs.py); a missing preview falls back to the full image.
+const thumbOf = p => /^img\/(?!thumbs\/)/.test(p || '') ? 'img/thumbs/' + p.slice(4).replace(/\.(jpe?g|png|webp|gif)$/i, '') + '.jpg' : p;
 export function initGallery({ photos, C, esc, restored, lightbox }) {
   const photoSection = document.querySelector('#v-photos');
   if (!photoSection) throw new Error('The photograph collection is missing.');
@@ -97,8 +99,9 @@ export function initGallery({ photos, C, esc, restored, lightbox }) {
         const url = safeSource(x.source);
         const kind = x.kind === 'places' ? 'Historic place' : x.kind === 'records' ? 'Record' : 'Photograph';
         const badges = [kind, ...(x.restoration ? ['AI-restored', ...(x.restoration.colorized ? [x.restoration.labels?.c || 'Color version'] : [])] : [])];
-        const src = x.restoration ? restored(x.s) : x.t || x.s;
-        return `<article class="gallery-card"><button type="button" class="gallery-open" data-gallery-index="${x.index}" aria-label="${esc('Open ' + x.caption)}"><div class="gallery-image"><img src="${esc(src)}" alt="${esc(x.caption)}" loading="lazy" decoding="async"><span class="gallery-fallback" hidden>Preview unavailable<br>Open the original image</span></div><div class="gallery-card-copy"><div class="gallery-badges">${badges.map(b => `<span>${esc(b)}</span>`).join('')}</div><h2>${esc(x.caption)}</h2>${x.side === 'N' || x.side === 'J' ? `<p class="gallery-side">${x.side === 'N' ? "Mom's side" : "Dad's side"}</p>` : ''}</div></button>${x.source ? `<div class="gallery-source">${url ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">View source<span class="gallery-sr-only"> for ${esc(x.caption)} (opens in a new tab)</span> ↗</a>` : `<span>${esc(x.source)}</span>`}</div>` : ''}</article>`;
+        const full = x.restoration ? restored(x.s) : x.t || x.s;
+        const src = thumbOf(full);
+        return `<article class="gallery-card"><button type="button" class="gallery-open" data-gallery-index="${x.index}" aria-label="${esc('Open ' + x.caption)}"><div class="gallery-image"><img src="${esc(src)}" data-full="${esc(full)}" alt="${esc(x.caption)}" loading="lazy" decoding="async"><span class="gallery-fallback" hidden>Preview unavailable<br>Open the original image</span></div><div class="gallery-card-copy"><div class="gallery-badges">${badges.map(b => `<span>${esc(b)}</span>`).join('')}</div><h2>${esc(x.caption)}</h2>${x.side === 'N' || x.side === 'J' ? `<p class="gallery-side">${x.side === 'N' ? "Mom's side" : "Dad's side"}</p>` : ''}</div></button>${x.source ? `<div class="gallery-source">${url ? `<a href="${esc(url)}" target="_blank" rel="noopener noreferrer">View source<span class="gallery-sr-only"> for ${esc(x.caption)} (opens in a new tab)</span> ↗</a>` : `<span>${esc(x.source)}</span>`}</div>` : ''}</article>`;
       }).join('') : `<div class="gallery-empty"><h2>No ${records ? 'records' : 'photographs'} match these filters</h2><p>Try another name or caption, choose a different type, or view this whole collection.</p><button type="button" class="btn" data-gallery-reset>Clear filters</button></div>`;
       sync();
     }
@@ -127,6 +130,7 @@ export function initGallery({ photos, C, esc, restored, lightbox }) {
       if (img.tagName !== 'IMG') return;
       const button = img.closest('[data-gallery-index]');
       const photo = items[Number(button?.dataset.galleryIndex)];
+      if (img.dataset.full && img.getAttribute('src') !== img.dataset.full) { img.src = img.dataset.full; return; }
       if (photo && !img.dataset.fallbackAttempted && img.getAttribute('src') !== photo.s) {
         img.dataset.fallbackAttempted = 'true'; img.src = photo.s; return;
       }
