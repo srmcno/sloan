@@ -17549,7 +17549,10 @@
    "hook": "She died in 1929 with both parents named, but her birth date and recorded age disagree.",
    "profile": false,
    "people": [
-    "I352820878275"
+    "I352820878275",
+    "cl8-greenberry",
+    "cl8-williamfj",
+    "cl8-marydennis"
    ],
    "subject": {
     "name": "Melvina (Clark) Johnson",
@@ -17561,7 +17564,8 @@
     "The certificate’s birth date is read and indexed as 10 November 1851, although the final year digits are not perfectly clear. It also records an age of 78 years, 2 months, 6 days. That age is inconsistent with the written birth and death dates. Both fields are preserved here without choosing a corrected birth year.",
     "In 1850 Newton Clark’s Butler County household held Newton, 32; Polly, 32; Martha, 10; Granville, 9; Stanford, 8; Hester, 6; William, 5; a girl aged 3 indexed as Vina; and Mary, 11 months. The handwriting of the age-three girl’s name does not unambiguously identify her as Melvina. The former claim that this census establishes Melvina’s birth about 1847 is therefore withdrawn. The census has no relationship column, and the identification of Vina with Melvina remains open.",
     "Newton Clark and Polly D. Elms were married in Butler County: license issued 20 January 1839, ceremony 24 January, return signed 25 January. Melvina’s death certificate instead gives her mother’s name as Mary Dunn. Nothing reconciles Dunn and Elms or proves that the same woman bore both names. The identification of the mother named in 1929 with Polly in Newton’s 1850 household and with the 1839 bride remains probable. Some family trees link Newton to William and Lavina (Willis) Clark; that parental link is a separate question.",
-    "Her married name was Johnson; her husband's first name is not recorded on the memorials. Samantha D. was born on 28 March 1872 and Charlie in 1885. Samantha married John C. Satterfield in 1892, moved with him to Hagansport, Texas, about 1907, and crossed the Red River to Choctaw County, Oklahoma, after marrying Bird Alexander Stephens in 1917. She died on 1 October 1928 and is buried at Soper Cemetery.",
+    "Her husband was Green Berry Johnson, a Butler County farmer's son a year or so younger than she. Samantha D. was born on 28 March 1872 and Charlie in 1885. Samantha married John C. Satterfield in 1892, moved with him to Hagansport, Texas, about 1907, and crossed the Red River to Choctaw County, Oklahoma, after marrying Bird Alexander Stephens in 1917. She died on 1 October 1928 and is buried at Soper Cemetery.",
+    "\"Green B. Johnson\" and \"Vina Clark\" were married in Butler County on 2 June 1869. Green had grown up there, the son of William F. Johnson and Mary C. Dennis, who farmed in the county with a houseful of children: Green was one year old in 1850 and nine in 1860. The young couple were counted in Precinct 4 in 1870, Green twenty-one and Melvina twenty-two, and in June 1880 at Woodbury, a Green River lock town, with four children: Amantha D., eight, who was Samantha; Paradine, six; William V., four; and Martha J., two. Green Berry Johnson died in Butler County in 1912, and his death certificate names his parents as William Johnson and Mary Dennis. That Melvina was married as \"Vina\" also makes it more likely that she is the three-year-old Vina in Newton Clark's household in 1850.",
     "She was buried at Mount Pleasant, the cemetery at Big Reedy, on 18 January 1929. Samantha had died on 1 October 1928; nothing shows that Melvina attended her Oklahoma burial. Charlie remained in Butler County and died in 1959."
    ],
    "quotes": [],
@@ -17572,7 +17576,13 @@
     "NARA M432 roll 194, Ancestry collection 8054, image 4193960-00096: https://www.ancestry.com/imageviewer/collections/8054/images/4193960-00096?pId=16938681",
     "Find a Grave memorials 269080605, 82285257 and 87367153 (compiled family links)",
     "Butler County, Kentucky, Newton Clark and Polly D. Elms marriage papers, license 20 January 1839 and minister’s return recording ceremony 24 January, signed 25 January 1839 by William Anderson",
-    "FHL film 982456, DGS 007728005, images 902–903; originals examined: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-W71Y ; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-WW3Y"
+    "FHL film 982456, DGS 007728005, images 902–903; originals examined: https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-W71Y ; https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9BG-WW3Y",
+    "Kentucky County Marriages, Butler Co., Green B. Johnson and Vina Clark, 2 Jun 1869 (FamilySearch https://www.familysearch.org/ark:/61903/1:1:Q28L-LNRK)",
+    "1850 U.S. census, Butler Co., Ky., dwelling 617, William Johnson household (https://www.familysearch.org/ark:/61903/1:1:M65Y-1BG)",
+    "1860 U.S. census, Butler Co., Ky., p. 69, Wm F Johnson household (https://www.familysearch.org/ark:/61903/1:1:MZ1S-NL2)",
+    "1870 U.S. census, Precinct 4, Butler Co., Ky., p. 29, household 203 (https://www.familysearch.org/ark:/61903/1:1:MX7L-2Q4)",
+    "1880 U.S. census, Woodbury, Butler Co., Ky., ED 110, p. 400D, dwelling 238, Greenbury Johnson household (Ancestry 6742, record 17228548)",
+    "Kentucky death certificate 21668 (1912), Green Berry Johnson, Butler Co., parents William Johnson and Mary Dennis (https://www.familysearch.org/ark:/61903/1:1:NSSS-PF8)"
    ],
    "imgs": [
     {
@@ -17603,6 +17613,14 @@
     [
      "Parents recorded",
      "Newton Clark and Mary Dunn; identification with Polly Elms unresolved"
+    ],
+    [
+     "Married",
+     "Green B. Johnson, 2 Jun 1869, Butler Co., Ky. (as Vina Clark)"
+    ],
+    [
+     "Husband's parents",
+     "William F. Johnson and Mary C. Dennis of Butler Co."
     ]
    ],
    "note": "The original death certificate records a birth date read and indexed as 10 November 1851 and an age of 78 years, 2 months, 6 days; these do not agree. Its informant was Polly Nash. The mother is recorded as Mary Dunn; identification with the Polly Clark of 1850 or the Polly Elms of compiled profiles remains unresolved. The age-three girl in Newton’s 1850 household is indexed as Vina, not explicitly named Melvina.",
@@ -31949,6 +31967,47 @@
    "note": "PROBABLE that Cisley Elmore's parents were Thomas Elmore and Cecilia Ellyson: the 1758 Cedar Creek entry names her father and county, and two printed genealogies and a family blogger's list give the 1729 marriage. LEAD for Cecilia's parentage (Gerrard Robert Ellyson II and Sarah): it rests on a blogger's transcription of Henrico Monthly Meeting records and on a 1963 family book seen only as search passages; blogs and compiled trees are leads, not proof. The Davis 1985 and 1963 Branch passages were not read in full. The tree's Cecilia (I352788853444) still points to Ann Myhill as her mother although the tree's note says that link was removed; the Cherokee/Moytoy label has no record behind it.",
    "place": "New Kent, Henrico and Amelia counties, Virginia",
    "rank": 297
+  },
+  {
+   "id": "elizabeth-west-newton-old-harmony",
+   "side": "J",
+   "gen": 7,
+   "ev": "probable",
+   "title": "Seven months a widow: Elizabeth Newton at Old Harmony",
+   "hook": "Married in Pendleton District in 1831, she raised a family that crossed into the Alabama hills and outlived her husband by only seven months.",
+   "profile": false,
+   "people": [],
+   "subject": {
+    "name": "Elizabeth (West) Newton",
+    "rel": "Paternal family history",
+    "years": "1814–1890"
+   },
+   "body": [
+    "Elizabeth West was born on 29 November 1814 in South Carolina, in the hill country that was still Pendleton District. On a Wednesday evening in November 1831, a few days before she turned seventeen, the Rev. David Derrick married her to Hezekiah Newton, 'all of this district,' as the Pendleton Messenger put it.",
+    "Her first son, Balus, came in October 1835 at Double Branch, in the part of the old district that had become Pickens. By 1840 there were three little ones under five in the house. Sometime in the next decade the family loaded up and crossed into Alabama, settling in the hills of Benton County, the county later renamed Calhoun.",
+    "In 1860, at Peeks Hill, she was forty-six with seven children still at home, from Amanda at twenty down to Georgia at five. War took Balus to Florida and then into an Alabama regiment. Afterward the Newtons settled near Gadsden, Hezekiah and Elizabeth in one township and Balus and his wife Mary in the next.",
+    "Hezekiah died on 29 August 1889. Elizabeth followed him on 7 April 1890, and she lies near him in the churchyard of Old Harmony Baptist Church, near today's Rainbow City, under a plain round-shouldered stone now so weathered that only her name and the month of her birth can be read without effort."
+   ],
+   "quotes": [
+    {
+     "t": "Elizebth was the wife of Hezekah Newton and the mother of Balous and James w. Newton.",
+     "c": "Find a Grave memorial 6287458 (contributor biography)"
+    }
+   ],
+   "src": [
+    "Find a Grave memorial 6287458, Elizabeth Newton (29 Nov 1814–7 Apr 1890), Old Harmony Baptist Church Cemetery, Rainbow City, Etowah Co., Ala., grave photos by NGL (2013): https://www.findagrave.com/memorial/6287458/elizabeth-newton",
+    "Find a Grave memorial 6287446, Hezekiah Newton (1805–1889): https://www.findagrave.com/memorial/6287446/hezekiah-newton",
+    "Pendleton (S.C.) Messenger, 30 Nov 1831 (marriage notice, as already cited on Balas Newton's story)",
+    "1840 census Pickens Dist., S.C., p. 380",
+    "1860 census Calhoun Co., Ala., P.O. Peeks Hill, dwelling 196",
+    "1870 census T12 R6, Etowah Co., Ala. (all as cited on the site's Balas Newton story)."
+   ],
+   "imgs": [],
+   "tags": [],
+   "kv": [],
+   "note": "Her birth year on the stone is weathered and taken from the memorial transcription, which agrees with her census ages. The memorial's birthplace 'Alabama' conflicts with the censuses (South Carolina). That the woman of the 1860–1890 records is the 1831 bride is probable, not proven.",
+   "place": "",
+   "rank": 9999
   }
  ],
  "storyAliases": {
